@@ -1,0 +1,2159 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Accra
+  dates:
+  - '2026-03-27'
+  gender: male
+  match_type: T20
+  match_type_number: 3789
+  outcome:
+    winner: Tanzania
+    by:
+      runs: 153
+  overs: 20
+  player_of_match:
+  - II Selemani
+  players:
+    Tanzania:
+    - DA Mehta
+    - II Selemani
+    - A Augastin
+    - Arun Yadav
+    - MS Maker
+    - K Nassoro
+    - K Juma
+    - LS Barkania
+    - AM Kimote
+    - MO Kitunda
+    - YM Nkanya
+    Seychelles:
+    - STRA de Silva
+    - TKP Rajapaksha
+    - Mazharul Islam
+    - M Mariyappan
+    - SR Mohan
+    - M Viswanathan
+    - D Kalvin
+    - Jobayer Hossen
+    - Thilina Silva
+    - N Gnanapragasam
+    - S Rukmal
+  registry:
+    people:
+      A Augastin: 056e3558
+      A Jacobs: 70d117de
+      AM Kimote: 34e36b65
+      Ally Hafidh: b36d9ced
+      Arun Yadav: 53ace082
+      D Kalvin: 895ae8b6
+      D Odhiambo: '45994517'
+      DA Mehta: 61a7d6e9
+      II Selemani: b2dadc51
+      Jobayer Hossen: 656fc15b
+      K Juma: '089ebf89'
+      K Nassoro: 29ee9bf9
+      LS Barkania: 073126d6
+      M Mariyappan: 69cbd850
+      M Viswanathan: dd9ab45d
+      MO Kitunda: badef0dc
+      MS Maker: 14318ae4
+      Mazharul Islam: 30564b3e
+      N Gnanapragasam: 4f6d5f87
+      O Chirombe: 6345307f
+      P Sizara: 5d45bb7f
+      S Rukmal: f5be7b08
+      SR Mohan: '58533699'
+      STRA de Silva: 21fe743b
+      TKP Rajapaksha: b5dcec37
+      Thilina Silva: f0ad7a75
+      YM Nkanya: 9238dd92
+  teams:
+  - Tanzania
+  - Seychelles
+  toss:
+    winner: Tanzania
+    decision: bat
+  umpires:
+  - A Jacobs
+  - P Sizara
+  venue: Achimota Senior Secondary School B Field, Accra
+innings:
+- 1st innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: II Selemani
+        batsman: DA Mehta
+    - 0.2:
+        bowler: S Rukmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: II Selemani
+        batsman: DA Mehta
+    - 0.3:
+        bowler: S Rukmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: II Selemani
+        batsman: DA Mehta
+    - 0.4:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: II Selemani
+        batsman: DA Mehta
+    - 0.5:
+        non_striker: DA Mehta
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 0.6:
+        non_striker: DA Mehta
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 0.7:
+        non_striker: II Selemani
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 0.8:
+        non_striker: II Selemani
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 1.1:
+        non_striker: DA Mehta
+        bowler: Jobayer Hossen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: II Selemani
+    - 1.2:
+        non_striker: DA Mehta
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 1.3:
+        non_striker: DA Mehta
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 1.4:
+        non_striker: DA Mehta
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 1.5:
+        non_striker: DA Mehta
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 1.6:
+        non_striker: II Selemani
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 1.7:
+        non_striker: DA Mehta
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 2.1:
+        non_striker: DA Mehta
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 2.2:
+        non_striker: DA Mehta
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 2.3:
+        non_striker: II Selemani
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 2.4:
+        non_striker: II Selemani
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Mehta
+    - 2.5:
+        non_striker: II Selemani
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 2.6:
+        non_striker: II Selemani
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 3.1:
+        non_striker: II Selemani
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 3.2:
+        non_striker: II Selemani
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Mehta
+    - 3.3:
+        non_striker: II Selemani
+        bowler: N Gnanapragasam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Mehta
+    - 3.4:
+        non_striker: DA Mehta
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 3.5:
+        non_striker: DA Mehta
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 3.6:
+        non_striker: II Selemani
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 4.1:
+        non_striker: II Selemani
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Mehta
+    - 4.2:
+        non_striker: II Selemani
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 4.3:
+        non_striker: II Selemani
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 4.4:
+        non_striker: DA Mehta
+        bowler: Jobayer Hossen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: II Selemani
+    - 4.5:
+        non_striker: DA Mehta
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 4.6:
+        non_striker: II Selemani
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 4.7:
+        non_striker: DA Mehta
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 5.1:
+        non_striker: DA Mehta
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 5.2:
+        non_striker: DA Mehta
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 5.3:
+        non_striker: DA Mehta
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 5.4:
+        non_striker: II Selemani
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Mehta
+    - 5.5:
+        non_striker: II Selemani
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DA Mehta
+    - 5.6:
+        non_striker: DA Mehta
+        bowler: N Gnanapragasam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 6.1:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 6.2:
+        non_striker: DA Mehta
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 6.3:
+        non_striker: DA Mehta
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 6.4:
+        non_striker: DA Mehta
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 6.5:
+        non_striker: DA Mehta
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: II Selemani
+    - 6.6:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 7.1:
+        non_striker: DA Mehta
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 7.2:
+        non_striker: II Selemani
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 7.3:
+        non_striker: DA Mehta
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 7.4:
+        non_striker: DA Mehta
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 7.5:
+        non_striker: DA Mehta
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 7.6:
+        non_striker: DA Mehta
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 8.1:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 8.2:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 8.3:
+        non_striker: DA Mehta
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 8.4:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Mehta
+    - 8.5:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 8.6:
+        non_striker: DA Mehta
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 9.1:
+        non_striker: DA Mehta
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 9.2:
+        non_striker: DA Mehta
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 9.3:
+        non_striker: II Selemani
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Mehta
+    - 9.4:
+        non_striker: II Selemani
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 9.5:
+        non_striker: DA Mehta
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 9.6:
+        non_striker: DA Mehta
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 9.7:
+        non_striker: DA Mehta
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: II Selemani
+    - 9.8:
+        non_striker: DA Mehta
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 10.1:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 10.2:
+        non_striker: DA Mehta
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 10.3:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 10.4:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 10.5:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 10.6:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Mehta
+    - 11.1:
+        non_striker: DA Mehta
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 11.2:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 11.3:
+        non_striker: DA Mehta
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 11.4:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Mehta
+    - 11.5:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 11.6:
+        non_striker: DA Mehta
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 12.1:
+        non_striker: DA Mehta
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 12.2:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 12.3:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 12.4:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Mehta
+    - 12.5:
+        non_striker: II Selemani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 12.6:
+        non_striker: DA Mehta
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 13.1:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 13.2:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 13.3:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 13.4:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 13.5:
+        non_striker: DA Mehta
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 13.6:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 14.1:
+        non_striker: II Selemani
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 14.2:
+        non_striker: DA Mehta
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 14.3:
+        non_striker: DA Mehta
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 14.4:
+        non_striker: DA Mehta
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 14.5:
+        non_striker: II Selemani
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 14.6:
+        non_striker: DA Mehta
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 15.1:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 15.2:
+        non_striker: DA Mehta
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 15.3:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+        wicket:
+          player_out: DA Mehta
+          fielders:
+          - M Mariyappan
+          kind: caught
+    - 15.4:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 15.5:
+        non_striker: A Augastin
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 15.6:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Augastin
+    - 16.1:
+        non_striker: A Augastin
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 16.2:
+        non_striker: A Augastin
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 16.3:
+        non_striker: A Augastin
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 16.4:
+        non_striker: II Selemani
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 16.5:
+        non_striker: II Selemani
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 16.6:
+        non_striker: II Selemani
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 17.1:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Augastin
+    - 17.2:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Augastin
+    - 17.3:
+        non_striker: A Augastin
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 17.4:
+        non_striker: II Selemani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 17.5:
+        non_striker: A Augastin
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 17.6:
+        non_striker: A Augastin
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+        wicket:
+          player_out: II Selemani
+          fielders:
+          - N Gnanapragasam
+          kind: caught
+    - 18.1:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Arun Yadav
+        batsman: A Augastin
+    - 18.2:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Arun Yadav
+        batsman: A Augastin
+    - 18.3:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Arun Yadav
+        batsman: A Augastin
+    - 18.4:
+        non_striker: A Augastin
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Arun Yadav
+    - 18.5:
+        non_striker: A Augastin
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arun Yadav
+    - 18.6:
+        non_striker: A Augastin
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 19.1:
+        non_striker: A Augastin
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 19.2:
+        non_striker: Arun Yadav
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Augastin
+    - 19.3:
+        non_striker: Arun Yadav
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 19.4:
+        non_striker: Arun Yadav
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 19.5:
+        non_striker: A Augastin
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+        wicket:
+          player_out: Arun Yadav
+          fielders:
+          - M Mariyappan
+          kind: caught
+    - 19.6:
+        non_striker: A Augastin
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+- 2nd innings:
+    team: Seychelles
+    deliveries:
+    - 0.1:
+        non_striker: TKP Rajapaksha
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+        wicket:
+          player_out: STRA de Silva
+          kind: lbw
+    - 0.2:
+        non_striker: TKP Rajapaksha
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 0.3:
+        non_striker: TKP Rajapaksha
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 0.4:
+        non_striker: TKP Rajapaksha
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 0.5:
+        non_striker: TKP Rajapaksha
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 0.6:
+        non_striker: TKP Rajapaksha
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 1.1:
+        non_striker: TKP Rajapaksha
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 1.2:
+        non_striker: TKP Rajapaksha
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 1.3:
+        non_striker: TKP Rajapaksha
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mazharul Islam
+    - 1.4:
+        non_striker: TKP Rajapaksha
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 1.5:
+        non_striker: TKP Rajapaksha
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 1.6:
+        non_striker: TKP Rajapaksha
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 2.1:
+        non_striker: Mazharul Islam
+        bowler: K Juma
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: TKP Rajapaksha
+    - 2.2:
+        non_striker: Mazharul Islam
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.3:
+        non_striker: Mazharul Islam
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.4:
+        non_striker: Mazharul Islam
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.5:
+        non_striker: Mazharul Islam
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 2.6:
+        non_striker: TKP Rajapaksha
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 2.7:
+        non_striker: TKP Rajapaksha
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 3.1:
+        non_striker: Mazharul Islam
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 3.2:
+        non_striker: Mazharul Islam
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 3.3:
+        non_striker: TKP Rajapaksha
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.4:
+        non_striker: TKP Rajapaksha
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 3.5:
+        non_striker: Mazharul Islam
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 3.6:
+        non_striker: TKP Rajapaksha
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 4.1:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 4.2:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 4.3:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 4.4:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+        wicket:
+          player_out: TKP Rajapaksha
+          fielders:
+          - A Augastin
+          kind: caught
+    - 4.5:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 4.6:
+        non_striker: M Mariyappan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 5.1:
+        non_striker: Mazharul Islam
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 5.2:
+        non_striker: Mazharul Islam
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 5.3:
+        non_striker: Mazharul Islam
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 5.4:
+        non_striker: Mazharul Islam
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+        wicket:
+          player_out: M Mariyappan
+          kind: lbw
+    - 5.5:
+        non_striker: Mazharul Islam
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 5.6:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 6.1:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 6.2:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 6.3:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 6.4:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 6.5:
+        non_striker: Mazharul Islam
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 6.6:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 7.1:
+        non_striker: Mazharul Islam
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 7.2:
+        non_striker: Mazharul Islam
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 7.3:
+        non_striker: Mazharul Islam
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 7.4:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 7.5:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 7.6:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 8.1:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 8.2:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 8.3:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 8.4:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 8.5:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 8.6:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+        wicket:
+          player_out: Mazharul Islam
+          fielders:
+          - MO Kitunda
+          kind: stumped
+    - 9.1:
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Viswanathan
+        batsman: SR Mohan
+    - 9.2:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Viswanathan
+    - 9.3:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Viswanathan
+    - 9.4:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Viswanathan
+        wicket:
+          player_out: M Viswanathan
+          kind: bowled
+    - 9.5:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 9.6:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 10.1:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kalvin
+    - 10.2:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 10.3:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 10.4:
+        non_striker: D Kalvin
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 10.5:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 10.6:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 10.7:
+        non_striker: SR Mohan
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 11.1:
+        non_striker: D Kalvin
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 11.2:
+        non_striker: D Kalvin
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 11.3:
+        non_striker: D Kalvin
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 11.4:
+        non_striker: D Kalvin
+        bowler: YM Nkanya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Mohan
+    - 11.5:
+        non_striker: D Kalvin
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 11.6:
+        non_striker: SR Mohan
+        bowler: YM Nkanya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Kalvin
+    - 11.7:
+        non_striker: D Kalvin
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 12.1:
+        non_striker: SR Mohan
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 12.2:
+        non_striker: SR Mohan
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kalvin
+    - 12.3:
+        non_striker: D Kalvin
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 12.4:
+        non_striker: D Kalvin
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 12.5:
+        non_striker: D Kalvin
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 12.6:
+        non_striker: D Kalvin
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 13.1:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+        wicket:
+          player_out: D Kalvin
+          fielders:
+          - MS Maker
+          kind: caught
+    - 13.2:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 13.3:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 13.4:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 13.5:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 13.6:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 14.1:
+        non_striker: Jobayer Hossen
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mohan
+    - 14.2:
+        non_striker: Jobayer Hossen
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 14.3:
+        non_striker: SR Mohan
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 14.4:
+        non_striker: SR Mohan
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 14.5:
+        non_striker: SR Mohan
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 14.6:
+        non_striker: Jobayer Hossen
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 15.1:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.2:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.3:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.4:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.5:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.6:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+        wicket:
+          player_out: Jobayer Hossen
+          fielders:
+          - Ally Hafidh (sub)
+          kind: caught
+    - 16.1:
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Thilina Silva
+        batsman: SR Mohan
+    - 16.2:
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Thilina Silva
+        batsman: SR Mohan
+    - 16.3:
+        non_striker: SR Mohan
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 16.4:
+        non_striker: SR Mohan
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 16.5:
+        non_striker: SR Mohan
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 16.6:
+        non_striker: SR Mohan
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thilina Silva
+    - 17.1:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 17.2:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 17.3:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 17.4:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 17.5:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 17.6:
+        non_striker: SR Mohan
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 18.1:
+        non_striker: Thilina Silva
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+        wicket:
+          player_out: SR Mohan
+          fielders:
+          - Ally Hafidh (sub)
+          kind: caught
+    - 18.2:
+        non_striker: Thilina Silva
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Gnanapragasam
+    - 18.3:
+        non_striker: N Gnanapragasam
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 18.4:
+        non_striker: N Gnanapragasam
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 18.5:
+        non_striker: N Gnanapragasam
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thilina Silva
+    - 18.6:
+        non_striker: Thilina Silva
+        bowler: K Nassoro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Gnanapragasam
+        wicket:
+          player_out: N Gnanapragasam
+          kind: bowled
+    - 19.1:
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Rukmal
+        batsman: Thilina Silva
+    - 19.2:
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Rukmal
+        batsman: Thilina Silva
+    - 19.3:
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Rukmal
+        batsman: Thilina Silva
+    - 19.4:
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Rukmal
+        batsman: Thilina Silva
+    - 19.5:
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Rukmal
+        batsman: Thilina Silva
+    - 19.6:
+        non_striker: S Rukmal
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva

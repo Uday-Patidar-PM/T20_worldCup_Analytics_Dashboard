@@ -1,0 +1,2128 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  dates:
+  - '2026-02-13'
+  gender: male
+  match_type: T20
+  match_type_number: 3704
+  outcome:
+    winner: Zimbabwe
+    by:
+      runs: 23
+  overs: 20
+  player_of_match:
+  - B Muzarabani
+  players:
+    Zimbabwe:
+    - BJ Bennett
+    - T Marumani
+    - RP Burl
+    - Sikandar Raza
+    - D Myers
+    - T Munyonga
+    - T Musekiwa
+    - B Evans
+    - WP Masakadza
+    - AG Cremer
+    - B Muzarabani
+    Australia:
+    - JP Inglis
+    - TM Head
+    - C Green
+    - TH David
+    - GJ Maxwell
+    - MT Renshaw
+    - MP Stoinis
+    - BJ Dwarshuis
+    - NT Ellis
+    - A Zampa
+    - MP Kuhnemann
+  registry:
+    people:
+      A Zampa: 14f96089
+      AG Cremer: 9f0270e0
+      B Evans: e7e86505
+      B Muzarabani: 449f4e3c
+      BJ Bennett: eaa36b2a
+      BJ Dwarshuis: e1b9f3a9
+      C Green: eaa76d3c
+      CB Gaffaney: d5ac41d8
+      D Myers: d96165b5
+      GJ Maxwell: b681e71e
+      HDPK Dharmasena: 323e4c16
+      JP Inglis: 989889ff
+      MP Kuhnemann: 7b953689
+      MP Stoinis: d9273ee7
+      MT Renshaw: 218d4d78
+      NT Ellis: 9eb1455b
+      RB Richardson: 410e2f12
+      RK Illingworth: '20672246'
+      RP Burl: b08252b8
+      RR Wimalasiri: 4950c8db
+      Sikandar Raza: 26d041c4
+      T Marumani: 3d5d51a5
+      T Munyonga: fbcfa528
+      T Musekiwa: 06fc82b8
+      TH David: f1f99156
+      TM Head: 12b610c2
+      WP Masakadza: 4bc0a378
+      XC Bartlett: 3b53243a
+  teams:
+  - Zimbabwe
+  - Australia
+  toss:
+    winner: Australia
+    decision: field
+  umpires:
+  - CB Gaffaney
+  - RR Wimalasiri
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: T Marumani
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 0.2:
+        non_striker: T Marumani
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 0.3:
+        non_striker: T Marumani
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 0.4:
+        non_striker: T Marumani
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 0.5:
+        non_striker: T Marumani
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 0.6:
+        non_striker: T Marumani
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 1.1:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Marumani
+    - 1.2:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 1.3:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 1.4:
+        non_striker: T Marumani
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Bennett
+    - 1.5:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 1.6:
+        non_striker: T Marumani
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 1.7:
+        non_striker: T Marumani
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 2.1:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 2.2:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 2.3:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 2.4:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 2.5:
+        non_striker: T Marumani
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 2.6:
+        non_striker: T Marumani
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 3.1:
+        non_striker: BJ Bennett
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 3.2:
+        non_striker: BJ Bennett
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 3.3:
+        non_striker: T Marumani
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 3.4:
+        non_striker: BJ Bennett
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 3.5:
+        non_striker: BJ Bennett
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 3.6:
+        non_striker: BJ Bennett
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 4.1:
+        non_striker: T Marumani
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 4.2:
+        non_striker: T Marumani
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 4.3:
+        non_striker: T Marumani
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 4.4:
+        non_striker: T Marumani
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 4.5:
+        non_striker: T Marumani
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 4.6:
+        non_striker: T Marumani
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 5.1:
+        non_striker: T Marumani
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 5.2:
+        non_striker: T Marumani
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 5.3:
+        non_striker: T Marumani
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 5.4:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 5.5:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Marumani
+    - 5.6:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 6.1:
+        non_striker: T Marumani
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 6.2:
+        non_striker: T Marumani
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 6.3:
+        non_striker: T Marumani
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 6.4:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 6.5:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 6.6:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 7.1:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 7.2:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 7.3:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+        wicket:
+          player_out: T Marumani
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 7.4:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 7.5:
+        non_striker: RP Burl
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 7.6:
+        non_striker: RP Burl
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Bennett
+    - 7.7:
+        non_striker: RP Burl
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Bennett
+    - 8.1:
+        non_striker: RP Burl
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 8.2:
+        non_striker: RP Burl
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 8.3:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 8.4:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 8.5:
+        non_striker: RP Burl
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 8.6:
+        non_striker: RP Burl
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 9.1:
+        non_striker: BJ Bennett
+        bowler: C Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RP Burl
+    - 9.2:
+        non_striker: RP Burl
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 9.3:
+        non_striker: RP Burl
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 9.4:
+        non_striker: BJ Bennett
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 9.5:
+        non_striker: RP Burl
+        bowler: C Green
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: BJ Bennett
+    - 9.6:
+        non_striker: RP Burl
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 9.7:
+        non_striker: BJ Bennett
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 10.1:
+        non_striker: RP Burl
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 10.2:
+        non_striker: BJ Bennett
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 10.3:
+        non_striker: BJ Bennett
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 10.4:
+        non_striker: BJ Bennett
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 10.5:
+        non_striker: RP Burl
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 10.6:
+        non_striker: BJ Bennett
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 11.1:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 11.2:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 11.3:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 11.4:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 11.5:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 11.6:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 11.7:
+        non_striker: RP Burl
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 12.1:
+        non_striker: BJ Bennett
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 12.2:
+        non_striker: BJ Bennett
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 12.3:
+        non_striker: RP Burl
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 12.4:
+        non_striker: BJ Bennett
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 12.5:
+        non_striker: BJ Bennett
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 12.6:
+        non_striker: BJ Bennett
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 13.1:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 13.2:
+        non_striker: RP Burl
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 13.3:
+        non_striker: RP Burl
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 13.4:
+        non_striker: RP Burl
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 13.5:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 13.6:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 13.7:
+        non_striker: RP Burl
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 14.1:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 14.2:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 14.3:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 14.4:
+        non_striker: RP Burl
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 14.5:
+        non_striker: RP Burl
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 14.6:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.1:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 15.2:
+        non_striker: RP Burl
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 15.3:
+        non_striker: RP Burl
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 15.4:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 15.5:
+        non_striker: BJ Bennett
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 15.6:
+        non_striker: BJ Bennett
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: C Green
+            out: MP Stoinis
+            reason: injury
+            role: bowler
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          fielders:
+          - XC Bartlett (sub)
+          kind: caught
+    - 16.1:
+        non_striker: Sikandar Raza
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 16.2:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.3:
+        non_striker: Sikandar Raza
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 16.4:
+        non_striker: Sikandar Raza
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 16.5:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 16.6:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 17.1:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 17.2:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 17.3:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 17.4:
+        non_striker: BJ Bennett
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 17.5:
+        non_striker: Sikandar Raza
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 17.6:
+        non_striker: Sikandar Raza
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 18.1:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 18.2:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 18.3:
+        non_striker: Sikandar Raza
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 18.4:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 18.5:
+        non_striker: Sikandar Raza
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 18.6:
+        non_striker: BJ Bennett
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 19.1:
+        non_striker: Sikandar Raza
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 19.2:
+        non_striker: Sikandar Raza
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 19.3:
+        non_striker: Sikandar Raza
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 19.4:
+        non_striker: Sikandar Raza
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 19.5:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 19.6:
+        non_striker: BJ Bennett
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: TM Head
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 0.2:
+        non_striker: JP Inglis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 0.3:
+        non_striker: JP Inglis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 0.4:
+        non_striker: TM Head
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 0.5:
+        non_striker: TM Head
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 0.6:
+        non_striker: JP Inglis
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.1:
+        non_striker: TM Head
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - T Musekiwa
+          kind: caught
+    - 1.2:
+        non_striker: TM Head
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Green
+    - 1.3:
+        non_striker: C Green
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.4:
+        non_striker: C Green
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 1.5:
+        non_striker: C Green
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 1.6:
+        non_striker: C Green
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 2.1:
+        non_striker: C Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.2:
+        non_striker: C Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 2.3:
+        non_striker: C Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.4:
+        non_striker: C Green
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 2.5:
+        non_striker: TM Head
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+        wicket:
+          player_out: C Green
+          fielders:
+          - T Marumani
+          kind: caught
+    - 2.6:
+        non_striker: TM Head
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 3.1:
+        non_striker: TH David
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 3.2:
+        non_striker: TM Head
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - AG Cremer
+          kind: caught
+    - 3.3:
+        non_striker: TM Head
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GJ Maxwell
+    - 3.4:
+        non_striker: GJ Maxwell
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 3.5:
+        non_striker: GJ Maxwell
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Head
+    - 3.6:
+        non_striker: TM Head
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 4.1:
+        non_striker: TM Head
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 4.2:
+        non_striker: TM Head
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 4.3:
+        non_striker: GJ Maxwell
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          kind: bowled
+    - 4.4:
+        non_striker: GJ Maxwell
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 4.5:
+        non_striker: GJ Maxwell
+        bowler: B Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Renshaw
+    - 4.6:
+        non_striker: GJ Maxwell
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 4.7:
+        non_striker: MT Renshaw
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 5.1:
+        non_striker: MT Renshaw
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 5.2:
+        non_striker: MT Renshaw
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 5.3:
+        non_striker: MT Renshaw
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 5.4:
+        non_striker: GJ Maxwell
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 5.5:
+        non_striker: GJ Maxwell
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 5.6:
+        non_striker: GJ Maxwell
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 6.1:
+        non_striker: GJ Maxwell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 6.2:
+        non_striker: MT Renshaw
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 6.3:
+        non_striker: GJ Maxwell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 6.4:
+        non_striker: GJ Maxwell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 6.5:
+        non_striker: MT Renshaw
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 6.6:
+        non_striker: MT Renshaw
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 7.1:
+        non_striker: MT Renshaw
+        bowler: D Myers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 7.2:
+        non_striker: GJ Maxwell
+        bowler: D Myers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 7.3:
+        non_striker: GJ Maxwell
+        bowler: D Myers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 7.4:
+        non_striker: GJ Maxwell
+        bowler: D Myers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Renshaw
+    - 7.5:
+        non_striker: GJ Maxwell
+        bowler: D Myers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 7.6:
+        non_striker: MT Renshaw
+        bowler: D Myers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.7:
+        non_striker: MT Renshaw
+        bowler: D Myers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 8.1:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 8.2:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.3:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 8.4:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 8.5:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.6:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 9.1:
+        non_striker: GJ Maxwell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.2:
+        non_striker: GJ Maxwell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 9.3:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.4:
+        non_striker: GJ Maxwell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 9.5:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 9.6:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 10.1:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 10.2:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 10.3:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.4:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 10.5:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.6:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.1:
+        non_striker: GJ Maxwell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.2:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 11.3:
+        non_striker: GJ Maxwell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.4:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 11.5:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 11.6:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 12.1:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 12.2:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 12.3:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 12.4:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 12.5:
+        non_striker: GJ Maxwell
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 12.6:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 13.1:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 13.2:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 13.3:
+        non_striker: GJ Maxwell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MT Renshaw
+    - 13.4:
+        non_striker: GJ Maxwell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 13.5:
+        non_striker: GJ Maxwell
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 13.6:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 14.1:
+        non_striker: GJ Maxwell
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 14.2:
+        non_striker: MT Renshaw
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          kind: bowled
+    - 14.3:
+        non_striker: MT Renshaw
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 14.4:
+        non_striker: MT Renshaw
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 14.5:
+        non_striker: MP Stoinis
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 14.6:
+        non_striker: MP Stoinis
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 15.1:
+        non_striker: MP Stoinis
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 15.2:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 15.3:
+        non_striker: MP Stoinis
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 15.4:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - T Musekiwa
+          kind: caught
+    - 15.5:
+        non_striker: MT Renshaw
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 15.6:
+        non_striker: BJ Dwarshuis
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 16.1:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 16.2:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 16.3:
+        non_striker: BJ Dwarshuis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 16.4:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Dwarshuis
+    - 16.5:
+        non_striker: MT Renshaw
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 16.6:
+        non_striker: BJ Dwarshuis
+        bowler: AG Cremer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 17.1:
+        non_striker: MT Renshaw
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 17.2:
+        non_striker: BJ Dwarshuis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 17.3:
+        non_striker: BJ Dwarshuis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 17.4:
+        non_striker: MT Renshaw
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+        wicket:
+          player_out: BJ Dwarshuis
+          fielders:
+          - T Munyonga
+          kind: caught
+    - 17.5:
+        non_striker: MT Renshaw
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 17.6:
+        non_striker: NT Ellis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 18.1:
+        non_striker: MT Renshaw
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 18.2:
+        non_striker: NT Ellis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 18.3:
+        non_striker: NT Ellis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 18.4:
+        non_striker: NT Ellis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          fielders:
+          - RP Burl
+          kind: caught
+    - 18.5:
+        non_striker: NT Ellis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Zampa
+    - 18.6:
+        non_striker: NT Ellis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zampa
+        wicket:
+          player_out: A Zampa
+          kind: bowled
+    - 19.1:
+        non_striker: MP Kuhnemann
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Ellis
+    - 19.2:
+        non_striker: MP Kuhnemann
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Ellis
+    - 19.3:
+        non_striker: NT Ellis
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+        wicket:
+          player_out: MP Kuhnemann
+          fielders:
+          - B Evans
+          kind: run out

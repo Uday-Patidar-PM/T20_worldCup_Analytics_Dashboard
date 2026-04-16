@@ -1,0 +1,2075 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-19'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  dates:
+  - '2026-02-19'
+  gender: male
+  match_type: T20
+  match_type_number: 3724
+  outcome:
+    winner: West Indies
+    by:
+      runs: 42
+  overs: 20
+  player_of_match:
+  - SD Hope
+  players:
+    West Indies:
+    - BA King
+    - SD Hope
+    - SO Hetmyer
+    - RL Chase
+    - R Powell
+    - SE Rutherford
+    - JO Holder
+    - MW Forde
+    - G Motie
+    - AJ Hosein
+    - S Joseph
+    Italy:
+    - J Mosca
+    - AJ Mosca
+    - Syed Naqvi
+    - JT Smuts
+    - HJ Manenti
+    - BAD Manenti
+    - G Stewart
+    - GP Meade
+    - CJPF Kalugamage
+    - TJ Draca
+    - Ali Hasan
+  registry:
+    people:
+      AG Wharf: 2e0fcc58
+      AJ Hosein: 4d7f517e
+      AJ Mosca: 19c56e6e
+      AT Holdstock: 6fa3258c
+      Ali Hasan: cae17490
+      BA King: 7fca84b7
+      BAD Manenti: ab21795b
+      CJPF Kalugamage: 31c04b7b
+      Dave Gilbert: aa782370
+      G Motie: 97bdec3d
+      G Stewart: a77472dc
+      GP Meade: 3957a70a
+      HJ Manenti: 0e56c514
+      J Mosca: 8f02f6a8
+      JO Holder: 0f721006
+      JT Smuts: 42172c3c
+      KN Ananthapadmanabhan: 3144063a
+      L Rusere: 6a4734ae
+      MW Forde: 83d17bbc
+      R Powell: 650d5e49
+      RL Chase: 3feda4fa
+      S Joseph: 97290faf
+      SD Hope: 1fc6ef83
+      SE Rutherford: d014d5ac
+      SO Hetmyer: 48a1d7b7
+      Syed Naqvi: c520c3b9
+      TJ Draca: 88fac705
+  teams:
+  - West Indies
+  - Italy
+  toss:
+    winner: Italy
+    decision: field
+  umpires:
+  - AT Holdstock
+  - L Rusere
+  venue: Eden Gardens, Kolkata
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.2:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 0.3:
+        non_striker: BA King
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 0.4:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA King
+    - 0.5:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.6:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 1.1:
+        non_striker: SD Hope
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          fielders:
+          - GP Meade
+          kind: caught
+    - 1.2:
+        non_striker: SD Hope
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 1.3:
+        non_striker: SD Hope
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 1.4:
+        non_striker: SO Hetmyer
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.5:
+        non_striker: SO Hetmyer
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.6:
+        non_striker: SO Hetmyer
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.1:
+        non_striker: SO Hetmyer
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 2.2:
+        non_striker: SO Hetmyer
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 2.3:
+        non_striker: SO Hetmyer
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 2.4:
+        non_striker: SO Hetmyer
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 2.5:
+        non_striker: SO Hetmyer
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.6:
+        non_striker: SD Hope
+        bowler: TJ Draca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 2.7:
+        non_striker: SD Hope
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 3.1:
+        non_striker: SO Hetmyer
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 3.2:
+        non_striker: SO Hetmyer
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 3.3:
+        non_striker: SO Hetmyer
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 3.4:
+        non_striker: SO Hetmyer
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 3.5:
+        non_striker: SO Hetmyer
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 3.6:
+        non_striker: SO Hetmyer
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 4.1:
+        non_striker: SD Hope
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - JT Smuts
+          kind: caught
+    - 4.2:
+        non_striker: SD Hope
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 4.3:
+        non_striker: RL Chase
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 4.4:
+        non_striker: RL Chase
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 4.5:
+        non_striker: RL Chase
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 4.6:
+        non_striker: RL Chase
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SD Hope
+    - 5.1:
+        non_striker: RL Chase
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 5.2:
+        non_striker: SD Hope
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 5.3:
+        non_striker: RL Chase
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 5.4:
+        non_striker: SD Hope
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 5.5:
+        non_striker: SD Hope
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 5.6:
+        non_striker: RL Chase
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.1:
+        non_striker: RL Chase
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 6.2:
+        non_striker: RL Chase
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 6.3:
+        non_striker: RL Chase
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.4:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 6.5:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.6:
+        non_striker: RL Chase
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 7.1:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 7.2:
+        non_striker: RL Chase
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 7.3:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.4:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 7.5:
+        non_striker: RL Chase
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 7.6:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.1:
+        non_striker: SD Hope
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.2:
+        non_striker: RL Chase
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 8.3:
+        non_striker: SD Hope
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.4:
+        non_striker: RL Chase
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 8.5:
+        non_striker: SD Hope
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.6:
+        non_striker: RL Chase
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 9.1:
+        non_striker: RL Chase
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 9.2:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 9.3:
+        non_striker: RL Chase
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 9.4:
+        non_striker: RL Chase
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 9.5:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.6:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 10.1:
+        non_striker: RL Chase
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 10.2:
+        non_striker: SD Hope
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 10.3:
+        non_striker: SD Hope
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 10.4:
+        non_striker: SD Hope
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 10.5:
+        non_striker: RL Chase
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 10.6:
+        non_striker: RL Chase
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 11.1:
+        non_striker: SD Hope
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 11.2:
+        non_striker: SD Hope
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 11.3:
+        non_striker: RL Chase
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 11.4:
+        non_striker: SD Hope
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 11.5:
+        non_striker: SD Hope
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 11.6:
+        non_striker: RL Chase
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 12.1:
+        non_striker: RL Chase
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 12.2:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 12.3:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+        wicket:
+          player_out: RL Chase
+          fielders:
+          - AJ Mosca
+          kind: caught
+    - 12.4:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.5:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.6:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.1:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 13.2:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.3:
+        non_striker: R Powell
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 13.4:
+        non_striker: SD Hope
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.5:
+        non_striker: R Powell
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 13.6:
+        non_striker: R Powell
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 14.1:
+        non_striker: R Powell
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 14.2:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 14.3:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 14.4:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - CJPF Kalugamage
+          kind: caught
+    - 14.5:
+        non_striker: SD Hope
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.6:
+        non_striker: SE Rutherford
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 15.1:
+        non_striker: SE Rutherford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          kind: bowled
+    - 15.2:
+        non_striker: SE Rutherford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 15.3:
+        non_striker: SE Rutherford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 15.4:
+        non_striker: JO Holder
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.5:
+        non_striker: JO Holder
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.6:
+        non_striker: SE Rutherford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 16.1:
+        non_striker: JO Holder
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.2:
+        non_striker: JO Holder
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 16.3:
+        non_striker: SE Rutherford
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 16.4:
+        non_striker: JO Holder
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.5:
+        non_striker: JO Holder
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 16.6:
+        non_striker: JO Holder
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 17.1:
+        non_striker: SE Rutherford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 17.2:
+        non_striker: JO Holder
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 17.3:
+        non_striker: SE Rutherford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 17.4:
+        non_striker: SE Rutherford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+        wicket:
+          player_out: JO Holder
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 17.5:
+        non_striker: SE Rutherford
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Forde
+    - 17.6:
+        non_striker: MW Forde
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 18.1:
+        non_striker: SE Rutherford
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Forde
+    - 18.2:
+        non_striker: SE Rutherford
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Forde
+    - 18.3:
+        non_striker: MW Forde
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 18.4:
+        non_striker: MW Forde
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 18.5:
+        non_striker: MW Forde
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 18.6:
+        non_striker: SE Rutherford
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Forde
+    - 18.7:
+        non_striker: SE Rutherford
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Forde
+    - 19.1:
+        non_striker: MW Forde
+        bowler: Ali Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 19.2:
+        non_striker: MW Forde
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 19.3:
+        non_striker: MW Forde
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 19.4:
+        non_striker: MW Forde
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 19.5:
+        non_striker: SE Rutherford
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+    - 19.6:
+        non_striker: SE Rutherford
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+    - 19.7:
+        non_striker: SE Rutherford
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Forde
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        non_striker: AJ Mosca
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 0.2:
+        non_striker: AJ Mosca
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 0.3:
+        non_striker: J Mosca
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 0.4:
+        non_striker: J Mosca
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 0.5:
+        non_striker: J Mosca
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 0.6:
+        non_striker: J Mosca
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 1.1:
+        non_striker: AJ Mosca
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 1.2:
+        non_striker: AJ Mosca
+        bowler: MW Forde
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: J Mosca
+    - 1.3:
+        non_striker: AJ Mosca
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 1.4:
+        non_striker: J Mosca
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.5:
+        non_striker: J Mosca
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 1.6:
+        non_striker: AJ Mosca
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+        wicket:
+          player_out: J Mosca
+          kind: bowled
+    - 1.7:
+        non_striker: AJ Mosca
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Naqvi
+    - 2.1:
+        non_striker: Syed Naqvi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 2.2:
+        non_striker: Syed Naqvi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 2.3:
+        non_striker: Syed Naqvi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 2.4:
+        non_striker: Syed Naqvi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 2.5:
+        non_striker: Syed Naqvi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 2.6:
+        non_striker: Syed Naqvi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+        wicket:
+          player_out: AJ Mosca
+          fielders:
+          - S Joseph
+          kind: caught
+    - 3.1:
+        non_striker: JT Smuts
+        bowler: MW Forde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Naqvi
+    - 3.2:
+        non_striker: JT Smuts
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Naqvi
+    - 3.3:
+        non_striker: Syed Naqvi
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 3.4:
+        non_striker: Syed Naqvi
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 3.5:
+        non_striker: Syed Naqvi
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 3.6:
+        non_striker: Syed Naqvi
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 3.7:
+        non_striker: Syed Naqvi
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 4.1:
+        non_striker: JT Smuts
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Naqvi
+    - 4.2:
+        non_striker: JT Smuts
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Naqvi
+    - 4.3:
+        non_striker: JT Smuts
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Naqvi
+    - 4.4:
+        non_striker: Syed Naqvi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 4.5:
+        non_striker: Syed Naqvi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 4.6:
+        non_striker: Syed Naqvi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 5.1:
+        non_striker: JT Smuts
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Naqvi
+    - 5.2:
+        non_striker: JT Smuts
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Naqvi
+    - 5.3:
+        non_striker: JT Smuts
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Naqvi
+    - 5.4:
+        non_striker: JT Smuts
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Naqvi
+    - 5.5:
+        non_striker: JT Smuts
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Naqvi
+        wicket:
+          player_out: Syed Naqvi
+          fielders:
+          - S Joseph
+          kind: caught
+    - 5.6:
+        non_striker: JT Smuts
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 6.1:
+        non_striker: HJ Manenti
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 6.2:
+        non_striker: JT Smuts
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 6.3:
+        non_striker: JT Smuts
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Manenti
+    - 6.4:
+        non_striker: JT Smuts
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 6.5:
+        non_striker: JT Smuts
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Manenti
+    - 6.6:
+        non_striker: JT Smuts
+        bowler: JO Holder
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: HJ Manenti
+    - 6.7:
+        non_striker: JT Smuts
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 7.1:
+        non_striker: HJ Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 7.2:
+        non_striker: JT Smuts
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.3:
+        non_striker: HJ Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 7.4:
+        non_striker: JT Smuts
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 7.5:
+        non_striker: JT Smuts
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.6:
+        non_striker: HJ Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 8.1:
+        non_striker: HJ Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT Smuts
+    - 8.2:
+        non_striker: HJ Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 8.3:
+        non_striker: HJ Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 8.4:
+        non_striker: HJ Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 8.5:
+        non_striker: JT Smuts
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          fielders:
+          - SD Hope
+          kind: caught
+    - 8.6:
+        non_striker: JT Smuts
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 9.1:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT Smuts
+    - 9.2:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 9.3:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JT Smuts
+    - 9.4:
+        non_striker: JT Smuts
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 9.5:
+        non_striker: JT Smuts
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 9.6:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 10.1:
+        non_striker: JT Smuts
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 10.2:
+        non_striker: BAD Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 10.3:
+        non_striker: BAD Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 10.4:
+        non_striker: BAD Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 10.5:
+        non_striker: BAD Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 10.6:
+        non_striker: JT Smuts
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 11.1:
+        non_striker: JT Smuts
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 11.2:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 11.3:
+        non_striker: JT Smuts
+        bowler: G Motie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BAD Manenti
+    - 11.4:
+        non_striker: JT Smuts
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 11.5:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 11.6:
+        non_striker: JT Smuts
+        bowler: G Motie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BAD Manenti
+    - 11.7:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - S Joseph
+          kind: caught
+    - 12.1:
+        non_striker: G Stewart
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 12.2:
+        non_striker: G Stewart
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 12.3:
+        non_striker: G Stewart
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 12.4:
+        non_striker: BAD Manenti
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Stewart
+    - 12.5:
+        non_striker: BAD Manenti
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Stewart
+    - 12.6:
+        non_striker: BAD Manenti
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 13.1:
+        non_striker: BAD Manenti
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 13.2:
+        non_striker: G Stewart
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 13.3:
+        non_striker: BAD Manenti
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 13.4:
+        non_striker: G Stewart
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 13.5:
+        non_striker: BAD Manenti
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 13.6:
+        non_striker: G Stewart
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 14.1:
+        non_striker: G Stewart
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 14.2:
+        non_striker: G Stewart
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 14.3:
+        non_striker: G Stewart
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 14.4:
+        non_striker: G Stewart
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 14.5:
+        non_striker: BAD Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+        wicket:
+          player_out: G Stewart
+          fielders:
+          - JO Holder
+          kind: caught
+    - 14.6:
+        non_striker: BAD Manenti
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 15.1:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Meade
+    - 15.2:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 15.3:
+        non_striker: BAD Manenti
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 15.4:
+        non_striker: GP Meade
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAD Manenti
+    - 15.5:
+        non_striker: GP Meade
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 15.6:
+        non_striker: GP Meade
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+        wicket:
+          player_out: BAD Manenti
+          kind: bowled
+    - 16.1:
+        non_striker: CJPF Kalugamage
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 16.2:
+        non_striker: CJPF Kalugamage
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 16.3:
+        non_striker: CJPF Kalugamage
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 16.4:
+        non_striker: CJPF Kalugamage
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+        wicket:
+          player_out: GP Meade
+          fielders:
+          - S Joseph
+          kind: caught
+    - 16.5:
+        non_striker: CJPF Kalugamage
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Draca
+    - 16.6:
+        non_striker: TJ Draca
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 17.1:
+        non_striker: TJ Draca
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJPF Kalugamage
+    - 17.2:
+        non_striker: TJ Draca
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJPF Kalugamage
+    - 17.3:
+        non_striker: TJ Draca
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 17.4:
+        non_striker: CJPF Kalugamage
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Draca
+    - 17.5:
+        non_striker: CJPF Kalugamage
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Draca
+        wicket:
+          player_out: TJ Draca
+          fielders:
+          - RL Chase
+          kind: caught
+    - 17.6:
+        non_striker: CJPF Kalugamage
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Hasan
+    - 17.7:
+        non_striker: CJPF Kalugamage
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Hasan
+        wicket:
+          player_out: Ali Hasan
+          fielders:
+          - SD Hope
+          kind: caught

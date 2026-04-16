@@ -1,0 +1,2200 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  dates:
+  - '2026-02-16'
+  gender: male
+  match_type: T20
+  match_type_number: 3717
+  outcome:
+    winner: England
+    by:
+      runs: 24
+  overs: 20
+  player_of_match:
+  - WG Jacks
+  players:
+    England:
+    - PD Salt
+    - JC Buttler
+    - JG Bethell
+    - T Banton
+    - HC Brook
+    - SM Curran
+    - WG Jacks
+    - J Overton
+    - JC Archer
+    - LA Dawson
+    - AU Rashid
+    Italy:
+    - J Mosca
+    - AJ Mosca
+    - JT Smuts
+    - HJ Manenti
+    - BAD Manenti
+    - G Stewart
+    - M Campopiano
+    - GP Meade
+    - Jaspreet Singh
+    - CJPF Kalugamage
+    - Ali Hasan
+  registry:
+    people:
+      A Paleker: 634b11ac
+      AJ Mosca: 19c56e6e
+      AU Rashid: 249d60c9
+      Ali Hasan: cae17490
+      BAD Manenti: ab21795b
+      CJPF Kalugamage: 31c04b7b
+      CM Brown: 448f4f1c
+      DM Koch: 6d10c034
+      G Stewart: a77472dc
+      GP Meade: 3957a70a
+      HC Brook: 4ae1755b
+      HJ Manenti: 0e56c514
+      J Mosca: 8f02f6a8
+      J Overton: 59559bc2
+      JC Archer: 5574750c
+      JC Buttler: 99b75528
+      JG Bethell: 3c55c703
+      JT Smuts: 42172c3c
+      Jaspreet Singh: d76ab352
+      LA Dawson: 4a461c24
+      M Campopiano: 26d80a9d
+      PD Salt: 3d284ca3
+      RS Madugalle: 766b5798
+      SJ Nogajski: 9b3f9323
+      SM Curran: e94915e6
+      T Banton: 25f7b7d6
+      WG Jacks: 9caf69a1
+  teams:
+  - England
+  - Italy
+  toss:
+    winner: England
+    decision: bat
+  umpires:
+  - CM Brown
+  - DM Koch
+  venue: Eden Gardens, Kolkata
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.3:
+        non_striker: PD Salt
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.4:
+        non_striker: JC Buttler
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.5:
+        non_striker: PD Salt
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.6:
+        non_striker: JC Buttler
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.1:
+        non_striker: JC Buttler
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 1.2:
+        non_striker: JC Buttler
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 1.3:
+        non_striker: JC Buttler
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.6:
+        non_striker: PD Salt
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.1:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 2.2:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.3:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 2.4:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.5:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.6:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.1:
+        non_striker: PD Salt
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 3.2:
+        non_striker: PD Salt
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 3.3:
+        non_striker: PD Salt
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JG Bethell
+    - 3.4:
+        non_striker: PD Salt
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 3.5:
+        non_striker: PD Salt
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.6:
+        non_striker: JG Bethell
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 4.1:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 4.2:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 4.3:
+        non_striker: JG Bethell
+        bowler: G Stewart
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: PD Salt
+    - 4.4:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 4.5:
+        non_striker: JG Bethell
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 4.6:
+        non_striker: JG Bethell
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 4.7:
+        non_striker: PD Salt
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 5.1:
+        non_striker: JG Bethell
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 5.2:
+        non_striker: JG Bethell
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 5.3:
+        non_striker: PD Salt
+        bowler: Ali Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JG Bethell
+    - 5.4:
+        non_striker: JG Bethell
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - AJ Mosca
+          kind: caught
+    - 5.5:
+        non_striker: JG Bethell
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.6:
+        non_striker: T Banton
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 6.1:
+        non_striker: T Banton
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 6.2:
+        non_striker: JG Bethell
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.3:
+        non_striker: T Banton
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 6.4:
+        non_striker: JG Bethell
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 6.5:
+        non_striker: JG Bethell
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 6.6:
+        non_striker: JG Bethell
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.1:
+        non_striker: JG Bethell
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.2:
+        non_striker: T Banton
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 7.3:
+        non_striker: T Banton
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          fielders:
+          - Jaspreet Singh
+          kind: caught
+    - 7.4:
+        non_striker: T Banton
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 7.5:
+        non_striker: HC Brook
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 7.6:
+        non_striker: HC Brook
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 8.1:
+        non_striker: T Banton
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.2:
+        non_striker: HC Brook
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 8.3:
+        non_striker: T Banton
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.4:
+        non_striker: T Banton
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.5:
+        non_striker: HC Brook
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 8.6:
+        non_striker: HC Brook
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.1:
+        non_striker: HC Brook
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 9.2:
+        non_striker: T Banton
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 9.3:
+        non_striker: T Banton
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 9.4:
+        non_striker: HC Brook
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 9.5:
+        non_striker: HC Brook
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 9.6:
+        non_striker: HC Brook
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 10.1:
+        non_striker: T Banton
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 10.2:
+        non_striker: T Banton
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 10.3:
+        non_striker: T Banton
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          fielders:
+          - GP Meade
+          kind: caught
+    - 10.4:
+        non_striker: T Banton
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 10.5:
+        non_striker: T Banton
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.6:
+        non_striker: SM Curran
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 11.1:
+        non_striker: T Banton
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 11.2:
+        non_striker: T Banton
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 11.3:
+        non_striker: SM Curran
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 11.4:
+        non_striker: T Banton
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 11.5:
+        non_striker: T Banton
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 11.6:
+        non_striker: SM Curran
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 12.1:
+        non_striker: SM Curran
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Banton
+    - 12.2:
+        non_striker: SM Curran
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 12.3:
+        non_striker: T Banton
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SM Curran
+    - 12.4:
+        non_striker: SM Curran
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          fielders:
+          - BAD Manenti
+          kind: caught
+    - 12.5:
+        non_striker: SM Curran
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 12.6:
+        non_striker: SM Curran
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 13.1:
+        non_striker: WG Jacks
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 13.2:
+        non_striker: WG Jacks
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 13.3:
+        non_striker: WG Jacks
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 13.4:
+        non_striker: SM Curran
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 13.5:
+        non_striker: SM Curran
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 13.6:
+        non_striker: WG Jacks
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 14.1:
+        non_striker: WG Jacks
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 14.2:
+        non_striker: SM Curran
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 14.3:
+        non_striker: SM Curran
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 14.4:
+        non_striker: SM Curran
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 14.5:
+        non_striker: WG Jacks
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 14.6:
+        non_striker: SM Curran
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 15.1:
+        non_striker: SM Curran
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 15.2:
+        non_striker: WG Jacks
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 15.3:
+        non_striker: WG Jacks
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.4:
+        non_striker: SM Curran
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 15.5:
+        non_striker: SM Curran
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 15.6:
+        non_striker: SM Curran
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 16.1:
+        non_striker: WG Jacks
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 16.2:
+        non_striker: WG Jacks
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 16.3:
+        non_striker: SM Curran
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WG Jacks
+    - 16.4:
+        non_striker: SM Curran
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 16.5:
+        non_striker: WG Jacks
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 16.6:
+        non_striker: WG Jacks
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          fielders:
+          - JT Smuts
+          kind: caught
+    - 16.7:
+        non_striker: WG Jacks
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 17.1:
+        non_striker: WG Jacks
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 17.2:
+        non_striker: J Overton
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 17.3:
+        non_striker: WG Jacks
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Overton
+    - 17.4:
+        non_striker: WG Jacks
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Overton
+    - 17.5:
+        non_striker: WG Jacks
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 17.6:
+        non_striker: J Overton
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 17.7:
+        non_striker: J Overton
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 18.1:
+        non_striker: WG Jacks
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 18.2:
+        non_striker: WG Jacks
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Overton
+    - 18.3:
+        non_striker: WG Jacks
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 18.4:
+        non_striker: J Overton
+        bowler: Ali Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WG Jacks
+    - 18.5:
+        non_striker: J Overton
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 18.6:
+        non_striker: WG Jacks
+        bowler: Ali Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Overton
+    - 18.7:
+        non_striker: WG Jacks
+        bowler: Ali Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Overton
+    - 18.8:
+        non_striker: WG Jacks
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 18.9:
+        non_striker: J Overton
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 19.1:
+        non_striker: J Overton
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 19.2:
+        non_striker: J Overton
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 19.3:
+        non_striker: WG Jacks
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+        wicket:
+          player_out: J Overton
+          fielders:
+          - CJPF Kalugamage
+          kind: caught
+    - 19.4:
+        non_striker: WG Jacks
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Archer
+    - 19.5:
+        non_striker: WG Jacks
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 19.6:
+        non_striker: JC Archer
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 19.7:
+        non_striker: JC Archer
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        non_striker: AJ Mosca
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 0.2:
+        non_striker: J Mosca
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+        wicket:
+          player_out: AJ Mosca
+          fielders:
+          - HC Brook
+          kind: caught
+    - 0.3:
+        non_striker: J Mosca
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.4:
+        non_striker: J Mosca
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.5:
+        non_striker: J Mosca
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.6:
+        non_striker: J Mosca
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - J Overton
+          kind: caught
+    - 1.1:
+        non_striker: HJ Manenti
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 1.2:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 1.3:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Manenti
+    - 1.4:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 1.5:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 1.6:
+        non_striker: HJ Manenti
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.1:
+        non_striker: J Mosca
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 2.2:
+        non_striker: HJ Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.3:
+        non_striker: HJ Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.4:
+        non_striker: HJ Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.5:
+        non_striker: HJ Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 2.6:
+        non_striker: HJ Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 3.1:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Manenti
+    - 3.2:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 3.3:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 3.4:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 3.5:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 3.6:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 4.1:
+        non_striker: BAD Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 4.2:
+        non_striker: BAD Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 4.3:
+        non_striker: BAD Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 4.4:
+        non_striker: BAD Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 4.5:
+        non_striker: BAD Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 4.6:
+        non_striker: BAD Manenti
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 5.1:
+        non_striker: J Mosca
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 5.2:
+        non_striker: J Mosca
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 5.3:
+        non_striker: J Mosca
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 5.4:
+        non_striker: J Mosca
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 5.5:
+        non_striker: BAD Manenti
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 5.6:
+        non_striker: BAD Manenti
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 6.1:
+        non_striker: J Mosca
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 6.2:
+        non_striker: J Mosca
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 6.3:
+        non_striker: BAD Manenti
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 6.4:
+        non_striker: J Mosca
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 6.5:
+        non_striker: J Mosca
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 6.6:
+        non_striker: BAD Manenti
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 7.1:
+        non_striker: J Mosca
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 7.2:
+        non_striker: J Mosca
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 7.3:
+        non_striker: BAD Manenti
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 7.4:
+        non_striker: J Mosca
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 7.5:
+        non_striker: BAD Manenti
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 7.6:
+        non_striker: BAD Manenti
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 8.1:
+        non_striker: J Mosca
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 8.2:
+        non_striker: BAD Manenti
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 8.3:
+        non_striker: J Mosca
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 8.4:
+        non_striker: J Mosca
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 8.5:
+        non_striker: J Mosca
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 8.6:
+        non_striker: J Mosca
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 9.1:
+        non_striker: BAD Manenti
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 9.2:
+        non_striker: BAD Manenti
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 9.3:
+        non_striker: J Mosca
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 9.4:
+        non_striker: J Mosca
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 9.5:
+        non_striker: BAD Manenti
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 9.6:
+        non_striker: BAD Manenti
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 10.1:
+        non_striker: BAD Manenti
+        bowler: LA Dawson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Mosca
+    - 10.2:
+        non_striker: J Mosca
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 10.3:
+        non_striker: BAD Manenti
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 10.4:
+        non_striker: BAD Manenti
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 10.5:
+        non_striker: BAD Manenti
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 10.6:
+        non_striker: J Mosca
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 11.1:
+        non_striker: BAD Manenti
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 11.2:
+        non_striker: J Mosca
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 11.3:
+        non_striker: J Mosca
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 11.4:
+        non_striker: J Mosca
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 11.5:
+        non_striker: J Mosca
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 11.6:
+        non_striker: J Mosca
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+        wicket:
+          player_out: BAD Manenti
+          fielders:
+          - T Banton
+          kind: caught
+    - 12.1:
+        non_striker: G Stewart
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 12.2:
+        non_striker: J Mosca
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 12.3:
+        non_striker: G Stewart
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 12.4:
+        non_striker: J Mosca
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Stewart
+    - 12.5:
+        non_striker: J Mosca
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 12.6:
+        non_striker: J Mosca
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 13.1:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 13.2:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Stewart
+    - 13.3:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 13.4:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 13.5:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Stewart
+    - 13.6:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 13.7:
+        non_striker: J Mosca
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 14.1:
+        non_striker: J Mosca
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Stewart
+    - 14.2:
+        non_striker: J Mosca
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 14.3:
+        non_striker: G Stewart
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+        wicket:
+          player_out: J Mosca
+          fielders:
+          - T Banton
+          kind: caught
+    - 14.4:
+        non_striker: G Stewart
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 14.5:
+        non_striker: G Stewart
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 14.6:
+        non_striker: G Stewart
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 15.1:
+        non_striker: G Stewart
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 15.2:
+        non_striker: M Campopiano
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 15.3:
+        non_striker: G Stewart
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 15.4:
+        non_striker: G Stewart
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+        wicket:
+          player_out: M Campopiano
+          fielders:
+          - T Banton
+          kind: caught
+    - 15.5:
+        non_striker: G Stewart
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+        wicket:
+          player_out: GP Meade
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 15.6:
+        non_striker: G Stewart
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 16.1:
+        non_striker: G Stewart
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+    - 16.2:
+        non_striker: G Stewart
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 16.3:
+        non_striker: Jaspreet Singh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Stewart
+    - 16.4:
+        non_striker: Jaspreet Singh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 16.5:
+        non_striker: Jaspreet Singh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 16.6:
+        non_striker: Jaspreet Singh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Stewart
+    - 17.1:
+        non_striker: G Stewart
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 17.2:
+        non_striker: Jaspreet Singh
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 17.3:
+        non_striker: G Stewart
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jaspreet Singh
+    - 17.4:
+        non_striker: G Stewart
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 17.5:
+        non_striker: Jaspreet Singh
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Stewart
+    - 17.6:
+        non_striker: Jaspreet Singh
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Stewart
+    - 18.1:
+        non_striker: G Stewart
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jaspreet Singh
+    - 18.2:
+        non_striker: G Stewart
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 18.3:
+        non_striker: Jaspreet Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 18.4:
+        non_striker: Jaspreet Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 18.5:
+        non_striker: G Stewart
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jaspreet Singh
+    - 18.6:
+        non_striker: G Stewart
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaspreet Singh
+    - 18.7:
+        non_striker: Jaspreet Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+        wicket:
+          player_out: G Stewart
+          fielders:
+          - LA Dawson
+          kind: caught
+    - 18.8:
+        non_striker: Jaspreet Singh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJPF Kalugamage
+    - 19.1:
+        non_striker: CJPF Kalugamage
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+    - 19.2:
+        non_striker: CJPF Kalugamage
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+        wicket:
+          player_out: Jaspreet Singh
+          fielders:
+          - WG Jacks
+          kind: caught
+    - 19.3:
+        non_striker: CJPF Kalugamage
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Hasan
+    - 19.4:
+        non_striker: CJPF Kalugamage
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Hasan
+    - 19.5:
+        non_striker: CJPF Kalugamage
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Hasan
+    - 19.6:
+        non_striker: CJPF Kalugamage
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Hasan
+        wicket:
+          player_out: Ali Hasan
+          kind: bowled

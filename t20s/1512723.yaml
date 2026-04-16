@@ -1,0 +1,2201 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  dates:
+  - '2026-02-08'
+  gender: male
+  match_type: T20
+  match_type_number: 3688
+  outcome:
+    winner: England
+    by:
+      runs: 4
+  overs: 20
+  player_of_match:
+  - WG Jacks
+  players:
+    England:
+    - PD Salt
+    - JC Buttler
+    - JG Bethell
+    - T Banton
+    - HC Brook
+    - SM Curran
+    - WG Jacks
+    - JC Archer
+    - LA Dawson
+    - AU Rashid
+    - L Wood
+    Nepal:
+    - K Bhurtel
+    - Aasif Sheikh
+    - RK Paudel
+    - DS Airee
+    - Aarif Sheikh
+    - Lokesh Bam
+    - Gulsan Jha
+    - Karan KC
+    - S Malla
+    - NK Yadav
+    - S Lamichhane
+  registry:
+    people:
+      AJ Pycroft: 685d3f80
+      AU Rashid: 249d60c9
+      Aarif Sheikh: cd4d7695
+      Aasif Sheikh: dcbea954
+      DS Airee: 1747ea18
+      Gulsan Jha: 9811e35e
+      HC Brook: 4ae1755b
+      JC Archer: 5574750c
+      JC Buttler: 99b75528
+      JG Bethell: 3c55c703
+      K Bhurtel: e3386c8a
+      Karan KC: f53b3e1d
+      L Wood: 65b6943c
+      LA Dawson: 4a461c24
+      LS Reifer: 5dee559a
+      Lokesh Bam: 75c8a26b
+      NK Yadav: 737e595d
+      PD Salt: 3d284ca3
+      PR Reiffel: c9354f29
+      R Black: 156c8fb1
+      RJ Tucker: 38810cfc
+      RK Paudel: 1a3cc554
+      S Lamichhane: b410bd3d
+      S Malla: 1daa8927
+      SM Curran: e94915e6
+      T Banton: 25f7b7d6
+      WG Jacks: 9caf69a1
+  teams:
+  - England
+  - Nepal
+  toss:
+    winner: England
+    decision: bat
+  umpires:
+  - LS Reifer
+  - RJ Tucker
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.2:
+        non_striker: PD Salt
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.3:
+        non_striker: PD Salt
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 0.4:
+        non_striker: PD Salt
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.5:
+        non_striker: PD Salt
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.6:
+        non_striker: PD Salt
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.1:
+        non_striker: JC Buttler
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - S Lamichhane
+          kind: caught
+    - 1.2:
+        non_striker: JC Buttler
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 1.3:
+        non_striker: JC Buttler
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.1:
+        non_striker: JG Bethell
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: JC Buttler
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 2.3:
+        non_striker: JG Bethell
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.4:
+        non_striker: JG Bethell
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 2.5:
+        non_striker: JG Bethell
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 2.6:
+        non_striker: JG Bethell
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.1:
+        non_striker: JG Bethell
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.2:
+        non_striker: JC Buttler
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.3:
+        non_striker: JG Bethell
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 3.4:
+        non_striker: JG Bethell
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 3.5:
+        non_striker: JG Bethell
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.6:
+        non_striker: JC Buttler
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 4.1:
+        non_striker: JG Bethell
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.2:
+        non_striker: JG Bethell
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 4.3:
+        non_striker: JG Bethell
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - Aasif Sheikh
+          kind: caught
+    - 4.4:
+        non_striker: JG Bethell
+        bowler: NK Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Banton
+    - 4.5:
+        non_striker: T Banton
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 4.6:
+        non_striker: T Banton
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 5.1:
+        non_striker: JG Bethell
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 5.2:
+        non_striker: JG Bethell
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.3:
+        non_striker: T Banton
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 5.4:
+        non_striker: T Banton
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 5.5:
+        non_striker: T Banton
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 5.6:
+        non_striker: JG Bethell
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.1:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          kind: lbw
+    - 6.2:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 6.3:
+        non_striker: HC Brook
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 6.4:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 6.5:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 6.6:
+        non_striker: HC Brook
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 7.1:
+        non_striker: JG Bethell
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 7.2:
+        non_striker: HC Brook
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 7.3:
+        non_striker: JG Bethell
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 7.4:
+        non_striker: HC Brook
+        bowler: NK Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JG Bethell
+    - 7.5:
+        non_striker: HC Brook
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JG Bethell
+    - 7.6:
+        non_striker: HC Brook
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JG Bethell
+    - 7.7:
+        non_striker: HC Brook
+        bowler: NK Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JG Bethell
+    - 7.8:
+        non_striker: HC Brook
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 8.1:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.2:
+        non_striker: HC Brook
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 8.3:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.4:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.5:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.6:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 9.1:
+        non_striker: JG Bethell
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 9.2:
+        non_striker: JG Bethell
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 9.3:
+        non_striker: JG Bethell
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 9.4:
+        non_striker: JG Bethell
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 9.5:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 9.6:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 10.1:
+        non_striker: HC Brook
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 10.2:
+        non_striker: HC Brook
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 10.3:
+        non_striker: JG Bethell
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 10.4:
+        non_striker: HC Brook
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 10.5:
+        non_striker: JG Bethell
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 10.6:
+        non_striker: HC Brook
+        bowler: S Malla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 11.1:
+        non_striker: JG Bethell
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 11.2:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JG Bethell
+    - 11.3:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 11.4:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 11.5:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 11.6:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 11.7:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 12.1:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 12.2:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 12.3:
+        non_striker: HC Brook
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 12.4:
+        non_striker: HC Brook
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 12.5:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 12.6:
+        non_striker: JG Bethell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 13.1:
+        non_striker: HC Brook
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 13.2:
+        non_striker: JG Bethell
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 13.3:
+        non_striker: JG Bethell
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 13.4:
+        non_striker: HC Brook
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          fielders:
+          - Lokesh Bam
+          kind: caught
+    - 13.5:
+        non_striker: HC Brook
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 13.6:
+        non_striker: HC Brook
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 14.1:
+        non_striker: SM Curran
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 14.2:
+        non_striker: SM Curran
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 14.3:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 14.4:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 14.5:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 14.6:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.1:
+        non_striker: HC Brook
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.2:
+        non_striker: SM Curran
+        bowler: DS Airee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Brook
+    - 15.3:
+        non_striker: SM Curran
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 15.4:
+        non_striker: HC Brook
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          kind: bowled
+    - 15.5:
+        non_striker: HC Brook
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 15.6:
+        non_striker: HC Brook
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 15.7:
+        non_striker: WG Jacks
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 16.1:
+        non_striker: HC Brook
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 16.2:
+        non_striker: HC Brook
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 16.3:
+        non_striker: HC Brook
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 16.4:
+        non_striker: HC Brook
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 16.5:
+        non_striker: WG Jacks
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 16.6:
+        non_striker: WG Jacks
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 17.1:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 17.2:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 17.3:
+        non_striker: WG Jacks
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 17.4:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 17.5:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 17.6:
+        non_striker: HC Brook
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 18.1:
+        non_striker: WG Jacks
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 18.2:
+        non_striker: WG Jacks
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          fielders:
+          - S Malla
+          kind: caught
+    - 18.3:
+        non_striker: WG Jacks
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 18.4:
+        non_striker: WG Jacks
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 18.5:
+        non_striker: JC Archer
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 18.6:
+        non_striker: JC Archer
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 19.1:
+        non_striker: JC Archer
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 19.2:
+        non_striker: JC Archer
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 19.3:
+        non_striker: JC Archer
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 19.4:
+        non_striker: JC Archer
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 19.5:
+        non_striker: WG Jacks
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - Aasif Sheikh
+          - Karan KC
+          kind: run out
+    - 19.6:
+        non_striker: LA Dawson
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+- 2nd innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        non_striker: Aasif Sheikh
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.2:
+        non_striker: Aasif Sheikh
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.3:
+        non_striker: Aasif Sheikh
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 0.4:
+        non_striker: K Bhurtel
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 0.5:
+        non_striker: K Bhurtel
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 0.6:
+        non_striker: K Bhurtel
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 1.1:
+        non_striker: K Bhurtel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 1.2:
+        non_striker: Aasif Sheikh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 1.3:
+        non_striker: Aasif Sheikh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 1.4:
+        non_striker: Aasif Sheikh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.5:
+        non_striker: Aasif Sheikh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 1.6:
+        non_striker: Aasif Sheikh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 2.1:
+        non_striker: Aasif Sheikh
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 2.2:
+        non_striker: Aasif Sheikh
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 2.3:
+        non_striker: Aasif Sheikh
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Bhurtel
+    - 2.4:
+        non_striker: Aasif Sheikh
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 2.5:
+        non_striker: K Bhurtel
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aasif Sheikh
+    - 2.6:
+        non_striker: K Bhurtel
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.1:
+        non_striker: Aasif Sheikh
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Bhurtel
+    - 3.2:
+        non_striker: Aasif Sheikh
+        bowler: LA Dawson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Bhurtel
+    - 3.3:
+        non_striker: K Bhurtel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 3.4:
+        non_striker: Aasif Sheikh
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 3.5:
+        non_striker: K Bhurtel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.6:
+        non_striker: K Bhurtel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+        wicket:
+          player_out: Aasif Sheikh
+          fielders:
+          - L Wood
+          kind: caught
+    - 3.7:
+        non_striker: K Bhurtel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 4.1:
+        non_striker: RK Paudel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 4.2:
+        non_striker: RK Paudel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 4.3:
+        non_striker: K Bhurtel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 4.4:
+        non_striker: K Bhurtel
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Paudel
+    - 4.5:
+        non_striker: K Bhurtel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 4.6:
+        non_striker: K Bhurtel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 4.7:
+        non_striker: K Bhurtel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 5.1:
+        non_striker: K Bhurtel
+        bowler: WG Jacks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Paudel
+    - 5.2:
+        non_striker: K Bhurtel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 5.3:
+        non_striker: RK Paudel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+        wicket:
+          player_out: K Bhurtel
+          kind: caught and bowled
+    - 5.4:
+        non_striker: RK Paudel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 5.5:
+        non_striker: RK Paudel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 5.6:
+        non_striker: DS Airee
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 5.7:
+        non_striker: RK Paudel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 6.1:
+        non_striker: RK Paudel
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 6.2:
+        non_striker: RK Paudel
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 6.3:
+        non_striker: DS Airee
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 6.4:
+        non_striker: DS Airee
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 6.5:
+        non_striker: RK Paudel
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 6.6:
+        non_striker: DS Airee
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 7.1:
+        non_striker: RK Paudel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 7.2:
+        non_striker: RK Paudel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 7.3:
+        non_striker: RK Paudel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 7.4:
+        non_striker: DS Airee
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 7.5:
+        non_striker: RK Paudel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 7.6:
+        non_striker: RK Paudel
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 8.1:
+        non_striker: DS Airee
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 8.2:
+        non_striker: DS Airee
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 8.3:
+        non_striker: RK Paudel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 8.4:
+        non_striker: DS Airee
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 8.5:
+        non_striker: RK Paudel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 8.6:
+        non_striker: RK Paudel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 9.1:
+        non_striker: DS Airee
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 9.2:
+        non_striker: DS Airee
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 9.3:
+        non_striker: RK Paudel
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 9.4:
+        non_striker: RK Paudel
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 9.5:
+        non_striker: RK Paudel
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 9.6:
+        non_striker: DS Airee
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Paudel
+    - 10.1:
+        non_striker: RK Paudel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 10.2:
+        non_striker: RK Paudel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 10.3:
+        non_striker: RK Paudel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 10.4:
+        non_striker: DS Airee
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 10.5:
+        non_striker: DS Airee
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 10.6:
+        non_striker: RK Paudel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 11.1:
+        non_striker: DS Airee
+        bowler: SM Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Paudel
+    - 11.2:
+        non_striker: DS Airee
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Paudel
+    - 11.3:
+        non_striker: DS Airee
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 11.4:
+        non_striker: RK Paudel
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 11.5:
+        non_striker: DS Airee
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 11.6:
+        non_striker: RK Paudel
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 11.7:
+        non_striker: DS Airee
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 12.1:
+        non_striker: DS Airee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 12.2:
+        non_striker: DS Airee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 12.3:
+        non_striker: DS Airee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 12.4:
+        non_striker: RK Paudel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 12.5:
+        non_striker: RK Paudel
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 12.6:
+        non_striker: DS Airee
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 13.1:
+        non_striker: DS Airee
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 13.2:
+        non_striker: RK Paudel
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 13.3:
+        non_striker: DS Airee
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 13.4:
+        non_striker: DS Airee
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 13.5:
+        non_striker: RK Paudel
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Airee
+    - 13.6:
+        non_striker: RK Paudel
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Airee
+    - 14.1:
+        non_striker: DS Airee
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 14.2:
+        non_striker: RK Paudel
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+        wicket:
+          player_out: DS Airee
+          fielders:
+          - T Banton
+          kind: caught
+    - 14.3:
+        non_striker: RK Paudel
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 14.4:
+        non_striker: RK Paudel
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 14.5:
+        non_striker: Aarif Sheikh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 14.6:
+        non_striker: Aarif Sheikh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 15.1:
+        non_striker: RK Paudel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 15.2:
+        non_striker: RK Paudel
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 15.3:
+        non_striker: Aarif Sheikh
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+        wicket:
+          player_out: RK Paudel
+          fielders:
+          - PD Salt
+          kind: caught
+    - 15.4:
+        non_striker: Aarif Sheikh
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lokesh Bam
+    - 15.5:
+        non_striker: Lokesh Bam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 15.6:
+        non_striker: Aarif Sheikh
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lokesh Bam
+    - 16.1:
+        non_striker: Aarif Sheikh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lokesh Bam
+    - 16.2:
+        non_striker: Lokesh Bam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 16.3:
+        non_striker: Aarif Sheikh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lokesh Bam
+    - 16.4:
+        non_striker: Aarif Sheikh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lokesh Bam
+    - 16.5:
+        non_striker: Aarif Sheikh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lokesh Bam
+    - 16.6:
+        non_striker: Aarif Sheikh
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lokesh Bam
+    - 17.1:
+        non_striker: Lokesh Bam
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aarif Sheikh
+    - 17.2:
+        non_striker: Lokesh Bam
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aarif Sheikh
+    - 17.3:
+        non_striker: Lokesh Bam
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+        wicket:
+          player_out: Aarif Sheikh
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 17.4:
+        non_striker: Lokesh Bam
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 17.5:
+        non_striker: Gulsan Jha
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lokesh Bam
+    - 17.6:
+        non_striker: Gulsan Jha
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Lokesh Bam
+    - 17.7:
+        non_striker: Gulsan Jha
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Lokesh Bam
+    - 17.8:
+        non_striker: Gulsan Jha
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lokesh Bam
+    - 18.1:
+        non_striker: Gulsan Jha
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lokesh Bam
+    - 18.2:
+        non_striker: Gulsan Jha
+        bowler: L Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lokesh Bam
+    - 18.3:
+        non_striker: Gulsan Jha
+        bowler: L Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lokesh Bam
+    - 18.4:
+        non_striker: Gulsan Jha
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lokesh Bam
+    - 18.5:
+        non_striker: Gulsan Jha
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lokesh Bam
+    - 18.6:
+        non_striker: Gulsan Jha
+        bowler: L Wood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lokesh Bam
+    - 18.7:
+        non_striker: Gulsan Jha
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Lokesh Bam
+    - 18.8:
+        non_striker: Gulsan Jha
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lokesh Bam
+    - 18.9:
+        non_striker: Lokesh Bam
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+        wicket:
+          player_out: Gulsan Jha
+          kind: bowled
+    - 19.1:
+        non_striker: Karan KC
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lokesh Bam
+    - 19.2:
+        non_striker: Karan KC
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lokesh Bam
+    - 19.3:
+        non_striker: Lokesh Bam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 19.4:
+        non_striker: Karan KC
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Lokesh Bam
+    - 19.5:
+        non_striker: Karan KC
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lokesh Bam
+    - 19.6:
+        non_striker: Karan KC
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lokesh Bam

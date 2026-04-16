@@ -1,0 +1,1843 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Accra
+  dates:
+  - '2026-03-24'
+  gender: male
+  match_type: T20
+  match_type_number: 3780
+  outcome:
+    winner: Tanzania
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Arun Yadav
+  players:
+    Malawi:
+    - A Limdawala
+    - G Kansonkho
+    - Sami Sohail
+    - D Kansonkho
+    - M Choamba
+    - Kazim Somani
+    - SZ Vayani
+    - D Jakiel
+    - B Pondani
+    - K Thuchila
+    - C Chete
+    Tanzania:
+    - DA Mehta
+    - II Selemani
+    - A Augastin
+    - Arun Yadav
+    - AM Kimote
+    - K Nassoro
+    - K Juma
+    - LS Barkania
+    - MS Kibwana
+    - MO Kitunda
+    - YM Nkanya
+  registry:
+    people:
+      A Augastin: 056e3558
+      A Kassam: 7d13b388
+      A Limdawala: 2bcbcac3
+      AM Kimote: 34e36b65
+      Arun Yadav: 53ace082
+      B Pondani: e5117568
+      C Chete: ef4f539a
+      D Jakiel: 8b7ce771
+      D Kansonkho: 45ca12a7
+      D Odhiambo: '45994517'
+      DA Mehta: 61a7d6e9
+      G Kansonkho: f3ca5af8
+      Habib Enesi: fb35ab1f
+      II Selemani: b2dadc51
+      K Juma: '089ebf89'
+      K Nassoro: 29ee9bf9
+      K Thuchila: af42d9f2
+      Kazim Somani: d2ebebbe
+      LS Barkania: 073126d6
+      M Choamba: 5570c4c1
+      MO Kitunda: badef0dc
+      MS Kibwana: 1eae8683
+      O Chirombe: 6345307f
+      SZ Vayani: a4afc486
+      Sami Sohail: 602ebd4c
+      YM Nkanya: 9238dd92
+  teams:
+  - Malawi
+  - Tanzania
+  toss:
+    winner: Tanzania
+    decision: field
+  umpires:
+  - D Odhiambo
+  - Habib Enesi
+  venue: Achimota Senior Secondary School A Field, Accra
+innings:
+- 1st innings:
+    team: Malawi
+    absent_hurt:
+    - C Chete
+    deliveries:
+    - 0.1:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Kansonkho
+        batsman: A Limdawala
+    - 0.2:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Kansonkho
+        batsman: A Limdawala
+    - 0.3:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Kansonkho
+        batsman: A Limdawala
+    - 0.4:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Kansonkho
+        batsman: A Limdawala
+    - 0.5:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Kansonkho
+        batsman: A Limdawala
+    - 0.6:
+        non_striker: A Limdawala
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 1.1:
+        non_striker: G Kansonkho
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 1.2:
+        non_striker: A Limdawala
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+        wicket:
+          player_out: G Kansonkho
+          kind: bowled
+    - 1.3:
+        non_striker: A Limdawala
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 1.4:
+        non_striker: Sami Sohail
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 1.5:
+        non_striker: Sami Sohail
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 1.6:
+        non_striker: A Limdawala
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 2.1:
+        non_striker: Sami Sohail
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 2.2:
+        non_striker: Sami Sohail
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 2.3:
+        non_striker: Sami Sohail
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 2.4:
+        non_striker: Sami Sohail
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 2.5:
+        non_striker: Sami Sohail
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 2.6:
+        non_striker: Sami Sohail
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 3.1:
+        non_striker: A Limdawala
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 3.2:
+        non_striker: Sami Sohail
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 3.3:
+        non_striker: Sami Sohail
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 3.4:
+        non_striker: A Limdawala
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 3.5:
+        non_striker: A Limdawala
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 3.6:
+        non_striker: Sami Sohail
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 4.1:
+        non_striker: A Limdawala
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 4.2:
+        non_striker: A Limdawala
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 4.3:
+        non_striker: A Limdawala
+        bowler: Arun Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sami Sohail
+    - 4.4:
+        non_striker: Sami Sohail
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 4.5:
+        non_striker: A Limdawala
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 4.6:
+        non_striker: A Limdawala
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 5.1:
+        non_striker: Sami Sohail
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 5.2:
+        non_striker: Sami Sohail
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Limdawala
+    - 5.3:
+        non_striker: Sami Sohail
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 5.4:
+        non_striker: Sami Sohail
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 5.5:
+        non_striker: A Limdawala
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sami Sohail
+    - 5.6:
+        non_striker: A Limdawala
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 6.1:
+        non_striker: A Limdawala
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+        wicket:
+          player_out: Sami Sohail
+          kind: bowled
+    - 6.2:
+        non_striker: A Limdawala
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 6.3:
+        non_striker: A Limdawala
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 6.4:
+        non_striker: A Limdawala
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 6.5:
+        non_striker: D Kansonkho
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 6.6:
+        non_striker: D Kansonkho
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 7.1:
+        non_striker: D Kansonkho
+        bowler: A Augastin
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: A Limdawala
+    - 7.2:
+        non_striker: D Kansonkho
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 7.3:
+        non_striker: D Kansonkho
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 7.4:
+        non_striker: A Limdawala
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 7.5:
+        non_striker: A Limdawala
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 7.6:
+        non_striker: D Kansonkho
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+        wicket:
+          player_out: A Limdawala
+          fielders:
+          - MS Kibwana
+          kind: caught
+    - 7.7:
+        non_striker: D Kansonkho
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 8.1:
+        non_striker: M Choamba
+        bowler: Arun Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kansonkho
+    - 8.2:
+        non_striker: M Choamba
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+        wicket:
+          player_out: D Kansonkho
+          kind: bowled
+    - 8.3:
+        non_striker: M Choamba
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 8.4:
+        non_striker: M Choamba
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 8.5:
+        non_striker: M Choamba
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 8.6:
+        non_striker: M Choamba
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 8.7:
+        non_striker: Kazim Somani
+        bowler: Arun Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Choamba
+    - 9.1:
+        non_striker: M Choamba
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 9.2:
+        non_striker: M Choamba
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 9.3:
+        non_striker: Kazim Somani
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Choamba
+    - 9.4:
+        non_striker: Kazim Somani
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 9.5:
+        non_striker: Kazim Somani
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 9.6:
+        non_striker: Kazim Somani
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 10.1:
+        non_striker: M Choamba
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kazim Somani
+    - 10.2:
+        non_striker: M Choamba
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 10.3:
+        non_striker: M Choamba
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 10.4:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 10.5:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 10.6:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 11.1:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+        wicket:
+          player_out: M Choamba
+          kind: bowled
+    - 11.2:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 11.3:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 11.4:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 11.5:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 11.6:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 12.1:
+        non_striker: SZ Vayani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 12.2:
+        non_striker: SZ Vayani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 12.3:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+        wicket:
+          player_out: SZ Vayani
+          kind: bowled
+    - 12.4:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 12.5:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 12.6:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 13.1:
+        non_striker: D Jakiel
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 13.2:
+        non_striker: D Jakiel
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 13.3:
+        non_striker: D Jakiel
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kazim Somani
+    - 13.4:
+        non_striker: D Jakiel
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 13.5:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 13.6:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 14.1:
+        non_striker: D Jakiel
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 14.2:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 14.3:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Jakiel
+    - 14.4:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 14.5:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 14.6:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 14.7:
+        non_striker: Kazim Somani
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Jakiel
+    - 15.1:
+        non_striker: D Jakiel
+        bowler: YM Nkanya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kazim Somani
+    - 15.2:
+        non_striker: D Jakiel
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 15.3:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 15.4:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 15.5:
+        non_striker: D Jakiel
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 15.6:
+        non_striker: D Jakiel
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 15.7:
+        non_striker: Kazim Somani
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 16.1:
+        non_striker: Kazim Somani
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 16.2:
+        non_striker: D Jakiel
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 16.3:
+        non_striker: Kazim Somani
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 16.4:
+        non_striker: Kazim Somani
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 16.5:
+        non_striker: D Jakiel
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 16.6:
+        non_striker: D Jakiel
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+        wicket:
+          player_out: Kazim Somani
+          kind: bowled
+    - 17.1:
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Pondani
+        batsman: D Jakiel
+    - 17.2:
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: B Pondani
+        batsman: D Jakiel
+    - 17.3:
+        non_striker: D Jakiel
+        bowler: AM Kimote
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: B Pondani
+    - 17.4:
+        non_striker: D Jakiel
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Pondani
+    - 17.5:
+        non_striker: D Jakiel
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Pondani
+    - 17.6:
+        non_striker: B Pondani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 17.7:
+        non_striker: B Pondani
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 18.1:
+        non_striker: D Jakiel
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Pondani
+    - 18.2:
+        non_striker: B Pondani
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+        wicket:
+          player_out: D Jakiel
+          kind: bowled
+    - 18.3:
+        non_striker: B Pondani
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Thuchila
+    - 18.4:
+        non_striker: K Thuchila
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Pondani
+    - 18.5:
+        non_striker: B Pondani
+        bowler: K Juma
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: K Thuchila
+    - 18.6:
+        non_striker: K Thuchila
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Pondani
+    - 18.7:
+        non_striker: K Thuchila
+        bowler: K Juma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Pondani
+    - 18.8:
+        non_striker: K Thuchila
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Pondani
+    - 19.1:
+        non_striker: K Thuchila
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Pondani
+        wicket:
+          player_out: B Pondani
+          kind: bowled
+- 2nd innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: II Selemani
+        batsman: DA Mehta
+    - 0.2:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: II Selemani
+        batsman: DA Mehta
+    - 0.3:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 0.4:
+        non_striker: II Selemani
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 0.5:
+        non_striker: II Selemani
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Mehta
+    - 0.6:
+        non_striker: II Selemani
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 0.7:
+        non_striker: II Selemani
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 1.1:
+        non_striker: II Selemani
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 1.2:
+        non_striker: II Selemani
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 1.3:
+        non_striker: DA Mehta
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 1.4:
+        non_striker: II Selemani
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Mehta
+    - 1.5:
+        non_striker: II Selemani
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 1.6:
+        non_striker: II Selemani
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 2.1:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 2.2:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 2.3:
+        non_striker: II Selemani
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 2.4:
+        non_striker: II Selemani
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 2.5:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: II Selemani
+    - 2.6:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+        wicket:
+          player_out: II Selemani
+          kind: bowled
+    - 2.7:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 3.1:
+        non_striker: A Augastin
+        bowler: B Pondani
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: DA Mehta
+    - 3.2:
+        non_striker: A Augastin
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 3.3:
+        non_striker: A Augastin
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Mehta
+    - 3.4:
+        non_striker: A Augastin
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 3.5:
+        non_striker: A Augastin
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 3.6:
+        non_striker: A Augastin
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 3.7:
+        non_striker: DA Mehta
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 4.1:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Augastin
+    - 4.2:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 4.3:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 4.4:
+        non_striker: A Augastin
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 4.5:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 4.6:
+        non_striker: DA Mehta
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 5.1:
+        non_striker: A Augastin
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 5.2:
+        non_striker: A Augastin
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Mehta
+    - 5.3:
+        non_striker: A Augastin
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 5.4:
+        non_striker: A Augastin
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 5.5:
+        non_striker: DA Mehta
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 5.6:
+        non_striker: A Augastin
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 6.1:
+        non_striker: DA Mehta
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 6.2:
+        non_striker: A Augastin
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Mehta
+    - 6.3:
+        non_striker: DA Mehta
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 6.4:
+        non_striker: A Augastin
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 6.5:
+        non_striker: A Augastin
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 6.6:
+        non_striker: A Augastin
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 7.1:
+        non_striker: DA Mehta
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 7.2:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+        wicket:
+          player_out: DA Mehta
+          fielders:
+          - G Kansonkho
+          kind: caught
+    - 7.3:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 7.4:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 7.5:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 7.6:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 8.1:
+        non_striker: A Augastin
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 8.2:
+        non_striker: Arun Yadav
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Augastin
+    - 8.3:
+        non_striker: Arun Yadav
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 8.4:
+        non_striker: A Augastin
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 8.5:
+        non_striker: Arun Yadav
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 8.6:
+        non_striker: A Augastin
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 8.7:
+        non_striker: Arun Yadav
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Augastin
+    - 8.8:
+        non_striker: Arun Yadav
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 9.1:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 9.2:
+        non_striker: Arun Yadav
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 9.3:
+        non_striker: Arun Yadav
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Augastin
+    - 9.4:
+        non_striker: Arun Yadav
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 9.5:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arun Yadav
+    - 9.6:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 9.7:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 10.1:
+        non_striker: A Augastin
+        bowler: SZ Vayani
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Arun Yadav
+    - 10.2:
+        non_striker: A Augastin
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 10.3:
+        non_striker: Arun Yadav
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 10.4:
+        non_striker: Arun Yadav
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 10.5:
+        non_striker: A Augastin
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 10.6:
+        non_striker: Arun Yadav
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Augastin
+    - 10.7:
+        non_striker: Arun Yadav
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 11.1:
+        non_striker: A Augastin
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 11.2:
+        non_striker: A Augastin
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 11.3:
+        non_striker: Arun Yadav
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 11.4:
+        non_striker: Arun Yadav
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 11.5:
+        non_striker: Arun Yadav
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 11.6:
+        non_striker: A Augastin
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 12.1:
+        non_striker: Arun Yadav
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 12.2:
+        non_striker: Arun Yadav
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 12.3:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arun Yadav
+    - 12.4:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 12.5:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arun Yadav
+    - 12.6:
+        non_striker: A Augastin
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 12.7:
+        non_striker: Arun Yadav
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 13.1:
+        non_striker: A Augastin
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 13.2:
+        non_striker: Arun Yadav
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Augastin

@@ -1,0 +1,1776 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: George Town
+  dates:
+  - '2026-03-11'
+  gender: male
+  match_type: T20
+  match_type_number: 3763
+  outcome:
+    winner: Cayman Islands
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - YSD Seneveratne
+  players:
+    Suriname:
+    - S Bharratt
+    - V Hirlal
+    - V Shaw
+    - K Jaikaran
+    - G Singh
+    - J Perry
+    - XSD Smith
+    - TA Dudnath
+    - YP Dayal
+    - AK Gokoel
+    - KN Singh
+    Cayman Islands:
+    - J Baker
+    - YSD Seneveratne
+    - AR Naidoo
+    - RA Sealy
+    - S Foster
+    - ROC Dunka
+    - A Wright
+    - C Wright
+    - AF Ifill
+    - R Edwards
+    - V Dhaniram
+  registry:
+    people:
+      A Wright: 4bb7f51e
+      AF Ifill: 0e6c2f00
+      AK Gokoel: 2fff8b43
+      AR Maddela: 5c861579
+      AR Naidoo: 68886c16
+      C Wright: d465c6d7
+      Denavon Hayles: 5cbeeb02
+      G Singh: e93b6c95
+      J Baker: a12672e0
+      J Perry: f5c73a14
+      Jermaine Lindo: 1154bf4f
+      K Jaikaran: 420431c9
+      KN Singh: 74bff7ca
+      R Edwards: 4c5a72e2
+      R Shah: 3424e050
+      RA Sealy: 1e98804a
+      ROC Dunka: 762f43b7
+      S Bharratt: 1335107b
+      S Foster: 3595ad3b
+      TA Dudnath: 15322a7b
+      V Dhaniram: '10885753'
+      V Hirlal: 3eb2a27b
+      V Shaw: e05dd44b
+      XSD Smith: f4f892a3
+      YP Dayal: 990f1424
+      YSD Seneveratne: 0f71478c
+  teams:
+  - Suriname
+  - Cayman Islands
+  toss:
+    winner: Cayman Islands
+    decision: field
+  umpires:
+  - AR Maddela
+  - Jermaine Lindo
+  venue: Jimmy Powell Oval, Cayman Islands
+innings:
+- 1st innings:
+    team: Suriname
+    deliveries:
+    - 0.1:
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Hirlal
+        batsman: S Bharratt
+    - 0.2:
+        non_striker: S Bharratt
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.3:
+        non_striker: S Bharratt
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.4:
+        non_striker: S Bharratt
+        bowler: ROC Dunka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Hirlal
+    - 0.5:
+        non_striker: S Bharratt
+        bowler: ROC Dunka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Hirlal
+    - 0.6:
+        non_striker: S Bharratt
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.7:
+        non_striker: S Bharratt
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.8:
+        non_striker: S Bharratt
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Hirlal
+    - 1.1:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 1.2:
+        non_striker: S Bharratt
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+        wicket:
+          player_out: V Hirlal
+          fielders:
+          - S Foster
+          kind: caught
+    - 1.3:
+        non_striker: S Bharratt
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 1.4:
+        non_striker: S Bharratt
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 1.5:
+        non_striker: S Bharratt
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 1.6:
+        non_striker: S Bharratt
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+        wicket:
+          player_out: V Shaw
+          fielders:
+          - RA Sealy
+          kind: caught
+    - 2.1:
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Jaikaran
+        batsman: S Bharratt
+    - 2.2:
+        non_striker: S Bharratt
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 2.3:
+        non_striker: S Bharratt
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 2.4:
+        non_striker: S Bharratt
+        bowler: V Dhaniram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Jaikaran
+    - 2.5:
+        non_striker: S Bharratt
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 2.6:
+        non_striker: K Jaikaran
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+        wicket:
+          player_out: S Bharratt
+          kind: lbw
+    - 2.7:
+        non_striker: K Jaikaran
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 3.1:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 3.2:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 3.3:
+        non_striker: K Jaikaran
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 3.4:
+        non_striker: K Jaikaran
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 3.5:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 3.6:
+        non_striker: K Jaikaran
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 4.1:
+        non_striker: G Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 4.2:
+        non_striker: G Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 4.3:
+        non_striker: G Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 4.4:
+        non_striker: G Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+        wicket:
+          player_out: K Jaikaran
+          fielders:
+          - J Baker
+          kind: stumped
+    - 4.5:
+        non_striker: G Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 4.6:
+        non_striker: J Perry
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 5.1:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Perry
+    - 5.2:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Perry
+    - 5.3:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 5.4:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 5.5:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 5.6:
+        non_striker: J Perry
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Singh
+    - 6.1:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 6.2:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 6.3:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: J Perry
+    - 6.4:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 6.5:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 6.6:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 7.1:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 7.2:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 7.3:
+        non_striker: G Singh
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 7.4:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 7.5:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 7.6:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 8.1:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 8.2:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Singh
+    - 8.3:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 8.4:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 8.5:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 8.6:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 9.1:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 9.2:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Singh
+    - 9.3:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 9.4:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 9.5:
+        non_striker: G Singh
+        bowler: R Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Perry
+    - 9.6:
+        non_striker: G Singh
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 9.7:
+        non_striker: G Singh
+        bowler: R Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Perry
+    - 9.8:
+        non_striker: G Singh
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 9.9:
+        non_striker: J Perry
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 10.1:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 10.2:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 10.3:
+        non_striker: G Singh
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 10.4:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 10.5:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+        wicket:
+          player_out: G Singh
+          kind: lbw
+    - 10.6:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 11.1:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 11.2:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 11.3:
+        non_striker: XSD Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 11.4:
+        non_striker: XSD Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 11.5:
+        non_striker: XSD Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 11.6:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 12.1:
+        non_striker: XSD Smith
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 12.2:
+        non_striker: XSD Smith
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 12.3:
+        non_striker: J Perry
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 12.4:
+        non_striker: XSD Smith
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 12.5:
+        non_striker: XSD Smith
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 12.6:
+        non_striker: XSD Smith
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 13.1:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 13.2:
+        non_striker: XSD Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 13.3:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 13.4:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 13.5:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 13.6:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 14.1:
+        non_striker: J Perry
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 14.2:
+        non_striker: XSD Smith
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 14.3:
+        non_striker: XSD Smith
+        bowler: V Dhaniram
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: J Perry
+    - 14.4:
+        non_striker: XSD Smith
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 14.5:
+        non_striker: XSD Smith
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 14.6:
+        non_striker: J Perry
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 15.1:
+        non_striker: XSD Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Perry
+    - 15.2:
+        non_striker: XSD Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 15.3:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 15.4:
+        non_striker: XSD Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 15.5:
+        non_striker: XSD Smith
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 15.6:
+        non_striker: J Perry
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 16.1:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 16.2:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 16.3:
+        non_striker: J Perry
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 16.4:
+        non_striker: XSD Smith
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+        wicket:
+          player_out: J Perry
+          fielders:
+          - J Baker
+          kind: stumped
+    - 16.5:
+        non_striker: XSD Smith
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Dudnath
+    - 16.6:
+        non_striker: XSD Smith
+        bowler: AF Ifill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 17.1:
+        non_striker: XSD Smith
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 17.2:
+        non_striker: XSD Smith
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 17.3:
+        non_striker: TA Dudnath
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 17.4:
+        non_striker: XSD Smith
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 17.5:
+        non_striker: TA Dudnath
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 17.6:
+        non_striker: XSD Smith
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 18.1:
+        non_striker: XSD Smith
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 18.2:
+        non_striker: TA Dudnath
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: XSD Smith
+    - 18.3:
+        non_striker: TA Dudnath
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 18.4:
+        non_striker: XSD Smith
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 18.5:
+        non_striker: XSD Smith
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+        wicket:
+          player_out: TA Dudnath
+          fielders:
+          - S Foster
+          kind: caught
+    - 18.6:
+        non_striker: XSD Smith
+        bowler: ROC Dunka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 19.1:
+        non_striker: XSD Smith
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 19.2:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 19.3:
+        non_striker: XSD Smith
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 19.4:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+    - 19.5:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: XSD Smith
+    - 19.6:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+    - 19.7:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+- 2nd innings:
+    team: Cayman Islands
+    deliveries:
+    - 0.1:
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.2:
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.3:
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.4:
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.5:
+        non_striker: J Baker
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 0.6:
+        non_striker: J Baker
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 1.1:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 1.2:
+        non_striker: J Baker
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 1.3:
+        non_striker: J Baker
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 1.4:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 1.5:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 1.6:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 2.1:
+        non_striker: J Baker
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 2.2:
+        non_striker: J Baker
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 2.3:
+        non_striker: YSD Seneveratne
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 2.4:
+        non_striker: YSD Seneveratne
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 2.5:
+        non_striker: YSD Seneveratne
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 2.6:
+        non_striker: J Baker
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 3.1:
+        non_striker: J Baker
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 3.2:
+        non_striker: J Baker
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 3.3:
+        non_striker: J Baker
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YSD Seneveratne
+    - 3.4:
+        non_striker: J Baker
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YSD Seneveratne
+    - 3.5:
+        non_striker: J Baker
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 3.6:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 4.1:
+        non_striker: J Baker
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 4.2:
+        non_striker: J Baker
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YSD Seneveratne
+    - 4.3:
+        non_striker: J Baker
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 4.4:
+        non_striker: J Baker
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 4.5:
+        non_striker: J Baker
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 4.6:
+        non_striker: J Baker
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YSD Seneveratne
+    - 5.1:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 5.2:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 5.3:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 5.4:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 5.5:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 5.6:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 6.1:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 6.2:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 6.3:
+        non_striker: J Baker
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 6.4:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 6.5:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 6.6:
+        non_striker: J Baker
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 7.1:
+        non_striker: J Baker
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 7.2:
+        non_striker: J Baker
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 7.3:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 7.4:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 7.5:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 7.6:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 8.1:
+        non_striker: J Baker
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 8.2:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 8.3:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 8.4:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+        wicket:
+          player_out: J Baker
+          fielders:
+          - V Hirlal
+          kind: caught
+    - 8.5:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 8.6:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 9.1:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 9.2:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 9.3:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 9.4:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 9.5:
+        non_striker: AR Naidoo
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 9.6:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 10.1:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 10.2:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 10.3:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 10.4:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 10.5:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 10.6:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 11.1:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 11.2:
+        non_striker: AR Naidoo
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 11.3:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 11.4:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 11.5:
+        non_striker: AR Naidoo
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 11.6:
+        non_striker: AR Naidoo
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 12.1:
+        non_striker: AR Naidoo
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 12.2:
+        non_striker: AR Naidoo
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 12.3:
+        non_striker: AR Naidoo
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 12.4:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 12.5:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Naidoo

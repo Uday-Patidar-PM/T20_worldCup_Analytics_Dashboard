@@ -1,0 +1,2172 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-12-10'
+  gender: male
+  match_type: T20
+  match_type_number: 3625
+  outcome:
+    winner: Philippines
+    by:
+      runs: 14
+  overs: 20
+  players:
+    Philippines:
+    - ASF Sirah
+    - DC Smith
+    - M Podosky
+    - A Donovan
+    - N Tanner
+    - J Tuffin
+    - HER Tyler
+    - KDA Lukies
+    - Rhys Burinaga
+    - GR Russ
+    - JEA Doctora
+    Singapore:
+    - Aslan Jafri
+    - K Sathish
+    - G Gune
+    - IP Swaney
+    - SH Venugopal
+    - R Gaznavi
+    - R Sharma
+    - DPS Tyagi
+    - NA Karnik
+    - V Nagpaul
+    - PSRK Sudarshan
+  registry:
+    people:
+      A Donovan: '02888f23'
+      A Natarajan: a2b73ae0
+      AK Rana: 562d74d0
+      ASF Sirah: 06bcade5
+      Aslan Jafri: a14b5f3c
+      DC Smith: a968d39b
+      DPS Tyagi: d5f96736
+      G Gune: 5491a9ff
+      GR Russ: 1f28fdfd
+      HER Tyler: 0ba9de33
+      IP Swaney: 430b7399
+      J Tuffin: 8069f81f
+      JEA Doctora: 43449b1e
+      K Sathish: 1cad1601
+      KDA Lukies: 14af45c4
+      M Podosky: c46999c7
+      N Tanner: 5f5efae1
+      NA Karnik: 835a58da
+      PSRK Sudarshan: 3a44a4e4
+      R Gaznavi: '0079f139'
+      R Sharma: 2278c4ca
+      Rhys Burinaga: a6cbe67b
+      SH Venugopal: 9f542219
+      Samad Akbar: f05bd21b
+      Sarika Prasad: 8ff397fa
+      V Kalidas: 42d76418
+      V Nagpaul: 6d1db278
+  teams:
+  - Philippines
+  - Singapore
+  toss:
+    winner: Philippines
+    decision: bat
+  umpires:
+  - Samad Akbar
+  - V Kalidas
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Philippines
+    deliveries:
+    - 0.1:
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.2:
+        non_striker: ASF Sirah
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 0.3:
+        non_striker: ASF Sirah
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+        wicket:
+          player_out: DC Smith
+          fielders:
+          - IP Swaney
+          kind: caught
+    - 0.4:
+        non_striker: ASF Sirah
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 0.5:
+        non_striker: ASF Sirah
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 0.6:
+        non_striker: ASF Sirah
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 1.1:
+        non_striker: M Podosky
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASF Sirah
+    - 1.2:
+        non_striker: ASF Sirah
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Podosky
+    - 1.3:
+        non_striker: ASF Sirah
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 1.4:
+        non_striker: ASF Sirah
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 1.5:
+        non_striker: ASF Sirah
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Podosky
+    - 1.6:
+        non_striker: ASF Sirah
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 1.7:
+        non_striker: ASF Sirah
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 2.1:
+        non_striker: M Podosky
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 2.2:
+        non_striker: M Podosky
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASF Sirah
+    - 2.3:
+        non_striker: ASF Sirah
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Podosky
+    - 2.4:
+        non_striker: M Podosky
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ASF Sirah
+    - 2.5:
+        non_striker: ASF Sirah
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+        wicket:
+          player_out: M Podosky
+          kind: bowled
+    - 2.6:
+        non_striker: ASF Sirah
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 3.1:
+        non_striker: A Donovan
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASF Sirah
+    - 3.2:
+        non_striker: ASF Sirah
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 3.3:
+        non_striker: ASF Sirah
+        bowler: NA Karnik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Donovan
+    - 3.4:
+        non_striker: ASF Sirah
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 3.5:
+        non_striker: ASF Sirah
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 3.6:
+        non_striker: A Donovan
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+        wicket:
+          player_out: ASF Sirah
+          kind: bowled
+    - 3.7:
+        non_striker: A Donovan
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 4.1:
+        non_striker: N Tanner
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 4.2:
+        non_striker: A Donovan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 4.3:
+        non_striker: A Donovan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 4.4:
+        non_striker: A Donovan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 4.5:
+        non_striker: A Donovan
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 4.6:
+        non_striker: N Tanner
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 5.1:
+        non_striker: A Donovan
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 5.2:
+        non_striker: A Donovan
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 5.3:
+        non_striker: N Tanner
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Donovan
+    - 5.4:
+        non_striker: N Tanner
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 5.5:
+        non_striker: N Tanner
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 5.6:
+        non_striker: N Tanner
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 6.1:
+        non_striker: N Tanner
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 6.2:
+        non_striker: A Donovan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 6.3:
+        non_striker: A Donovan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+        wicket:
+          player_out: N Tanner
+          kind: lbw
+    - 6.4:
+        non_striker: A Donovan
+        bowler: V Nagpaul
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: J Tuffin
+    - 6.5:
+        non_striker: A Donovan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 6.6:
+        non_striker: J Tuffin
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 7.1:
+        non_striker: J Tuffin
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Donovan
+    - 7.2:
+        non_striker: J Tuffin
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 7.3:
+        non_striker: A Donovan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 7.4:
+        non_striker: J Tuffin
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Donovan
+    - 7.5:
+        non_striker: J Tuffin
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 7.6:
+        non_striker: A Donovan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 8.1:
+        non_striker: J Tuffin
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 8.2:
+        non_striker: J Tuffin
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Donovan
+    - 8.3:
+        non_striker: J Tuffin
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 8.4:
+        non_striker: A Donovan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tuffin
+    - 8.5:
+        non_striker: A Donovan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 8.6:
+        non_striker: A Donovan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 9.1:
+        non_striker: J Tuffin
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 9.2:
+        non_striker: J Tuffin
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 9.3:
+        non_striker: A Donovan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+        wicket:
+          player_out: J Tuffin
+          fielders:
+          - " (sub)"
+          kind: caught
+    - 9.4:
+        non_striker: A Donovan
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 9.5:
+        non_striker: HER Tyler
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 9.6:
+        non_striker: HER Tyler
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 10.1:
+        non_striker: HER Tyler
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 10.2:
+        non_striker: HER Tyler
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 10.3:
+        non_striker: A Donovan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 10.4:
+        non_striker: HER Tyler
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 10.5:
+        non_striker: HER Tyler
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 10.6:
+        non_striker: A Donovan
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 11.1:
+        non_striker: HER Tyler
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 11.2:
+        non_striker: A Donovan
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HER Tyler
+    - 11.3:
+        non_striker: A Donovan
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HER Tyler
+    - 11.4:
+        non_striker: A Donovan
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 11.5:
+        non_striker: A Donovan
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 11.6:
+        non_striker: HER Tyler
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+        wicket:
+          player_out: A Donovan
+          fielders:
+          - PSRK Sudarshan
+          kind: caught
+    - 12.1:
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KDA Lukies
+        batsman: HER Tyler
+    - 12.2:
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KDA Lukies
+        batsman: HER Tyler
+    - 12.3:
+        non_striker: HER Tyler
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDA Lukies
+    - 12.4:
+        non_striker: HER Tyler
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 12.5:
+        non_striker: KDA Lukies
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HER Tyler
+    - 12.6:
+        non_striker: KDA Lukies
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 13.1:
+        non_striker: KDA Lukies
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 13.2:
+        non_striker: HER Tyler
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 13.3:
+        non_striker: KDA Lukies
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 13.4:
+        non_striker: HER Tyler
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDA Lukies
+    - 13.5:
+        non_striker: HER Tyler
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 13.6:
+        non_striker: KDA Lukies
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 14.1:
+        non_striker: HER Tyler
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDA Lukies
+    - 14.2:
+        non_striker: HER Tyler
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KDA Lukies
+    - 14.3:
+        non_striker: HER Tyler
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KDA Lukies
+    - 14.4:
+        non_striker: HER Tyler
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 14.5:
+        non_striker: KDA Lukies
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HER Tyler
+    - 14.6:
+        non_striker: HER Tyler
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KDA Lukies
+    - 14.7:
+        non_striker: HER Tyler
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KDA Lukies
+    - 14.8:
+        non_striker: HER Tyler
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 15.1:
+        non_striker: HER Tyler
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 15.2:
+        non_striker: KDA Lukies
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HER Tyler
+    - 15.3:
+        non_striker: KDA Lukies
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 15.4:
+        non_striker: HER Tyler
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 15.5:
+        non_striker: KDA Lukies
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HER Tyler
+    - 15.6:
+        non_striker: KDA Lukies
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 16.1:
+        non_striker: KDA Lukies
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HER Tyler
+    - 16.2:
+        non_striker: KDA Lukies
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HER Tyler
+    - 16.3:
+        non_striker: KDA Lukies
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+        wicket:
+          player_out: HER Tyler
+          kind: lbw
+    - 16.4:
+        non_striker: KDA Lukies
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rhys Burinaga
+    - 16.5:
+        non_striker: Rhys Burinaga
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 16.6:
+        non_striker: KDA Lukies
+        bowler: Aslan Jafri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+        wicket:
+          player_out: Rhys Burinaga
+          kind: bowled
+    - 17.1:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GR Russ
+        batsman: KDA Lukies
+    - 17.2:
+        non_striker: KDA Lukies
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 17.3:
+        non_striker: GR Russ
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KDA Lukies
+    - 17.4:
+        non_striker: GR Russ
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KDA Lukies
+    - 17.5:
+        non_striker: GR Russ
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 17.6:
+        non_striker: KDA Lukies
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Russ
+    - 18.1:
+        non_striker: GR Russ
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 18.2:
+        non_striker: KDA Lukies
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Russ
+    - 18.3:
+        non_striker: KDA Lukies
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 18.4:
+        non_striker: GR Russ
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KDA Lukies
+    - 18.5:
+        non_striker: GR Russ
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KDA Lukies
+    - 18.6:
+        non_striker: GR Russ
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 19.1:
+        non_striker: GR Russ
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KDA Lukies
+    - 19.2:
+        non_striker: GR Russ
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KDA Lukies
+    - 19.3:
+        non_striker: GR Russ
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 19.4:
+        non_striker: KDA Lukies
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 19.5:
+        non_striker: GR Russ
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDA Lukies
+        wicket:
+          player_out: KDA Lukies
+          fielders:
+          - IP Swaney
+          kind: caught
+    - 19.6:
+        non_striker: GR Russ
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEA Doctora
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Sathish
+        batsman: Aslan Jafri
+    - 0.2:
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Sathish
+        batsman: Aslan Jafri
+    - 0.3:
+        non_striker: Aslan Jafri
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 0.4:
+        non_striker: Aslan Jafri
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Sathish
+    - 0.5:
+        non_striker: Aslan Jafri
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 0.6:
+        non_striker: K Sathish
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+        wicket:
+          player_out: Aslan Jafri
+          fielders:
+          - DC Smith
+          kind: caught
+    - 1.1:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Gune
+        batsman: K Sathish
+    - 1.2:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: G Gune
+        batsman: K Sathish
+    - 1.3:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Gune
+        batsman: K Sathish
+    - 1.4:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Gune
+        batsman: K Sathish
+    - 1.5:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Gune
+        batsman: K Sathish
+    - 1.6:
+        non_striker: G Gune
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 2.1:
+        non_striker: K Sathish
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 2.2:
+        non_striker: K Sathish
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 2.3:
+        non_striker: K Sathish
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 2.4:
+        non_striker: G Gune
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 2.5:
+        non_striker: K Sathish
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 2.6:
+        non_striker: K Sathish
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 3.1:
+        non_striker: G Gune
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 3.2:
+        non_striker: K Sathish
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 3.3:
+        non_striker: G Gune
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+        wicket:
+          player_out: K Sathish
+          fielders:
+          - HER Tyler
+          kind: caught
+    - 3.4:
+        non_striker: G Gune
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 3.5:
+        non_striker: G Gune
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 3.6:
+        non_striker: IP Swaney
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 4.1:
+        non_striker: G Gune
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 4.2:
+        non_striker: G Gune
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 4.3:
+        non_striker: G Gune
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IP Swaney
+    - 4.4:
+        non_striker: IP Swaney
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Gune
+    - 4.5:
+        non_striker: IP Swaney
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 4.6:
+        non_striker: G Gune
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+        wicket:
+          player_out: IP Swaney
+          kind: lbw
+    - 5.1:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Venugopal
+        batsman: G Gune
+    - 5.2:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Venugopal
+        batsman: G Gune
+    - 5.3:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Venugopal
+        batsman: G Gune
+    - 5.4:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SH Venugopal
+        batsman: G Gune
+    - 5.5:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SH Venugopal
+        batsman: G Gune
+    - 5.6:
+        non_striker: SH Venugopal
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Gune
+    - 6.1:
+        non_striker: G Gune
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 6.2:
+        non_striker: SH Venugopal
+        bowler: DC Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gune
+    - 6.3:
+        non_striker: SH Venugopal
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 6.4:
+        non_striker: G Gune
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 6.5:
+        non_striker: SH Venugopal
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 6.6:
+        non_striker: SH Venugopal
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 6.7:
+        non_striker: SH Venugopal
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 7.1:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 7.2:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 7.3:
+        non_striker: G Gune
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 7.4:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 7.5:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 7.6:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+        wicket:
+          player_out: G Gune
+          fielders:
+          - HER Tyler
+          kind: caught
+    - 8.1:
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Gaznavi
+        batsman: SH Venugopal
+    - 8.2:
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Gaznavi
+        batsman: SH Venugopal
+    - 8.3:
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Gaznavi
+        batsman: SH Venugopal
+    - 8.4:
+        non_striker: SH Venugopal
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 8.5:
+        non_striker: SH Venugopal
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 8.6:
+        non_striker: R Gaznavi
+        bowler: JEA Doctora
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SH Venugopal
+    - 8.7:
+        non_striker: SH Venugopal
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 9.1:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Gaznavi
+    - 9.2:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 9.3:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 9.4:
+        non_striker: R Gaznavi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 9.5:
+        non_striker: R Gaznavi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Venugopal
+    - 9.6:
+        non_striker: R Gaznavi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 9.7:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 10.1:
+        non_striker: R Gaznavi
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 10.2:
+        non_striker: SH Venugopal
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 10.3:
+        non_striker: SH Venugopal
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 10.4:
+        non_striker: SH Venugopal
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 10.5:
+        non_striker: R Gaznavi
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 10.6:
+        non_striker: SH Venugopal
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 11.1:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 11.2:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 11.3:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 11.4:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Gaznavi
+    - 11.5:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 11.6:
+        non_striker: R Gaznavi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 11.7:
+        non_striker: R Gaznavi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 12.1:
+        non_striker: R Gaznavi
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 12.2:
+        non_striker: R Gaznavi
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 12.3:
+        non_striker: SH Venugopal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 12.4:
+        non_striker: SH Venugopal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 12.5:
+        non_striker: SH Venugopal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Gaznavi
+    - 12.6:
+        non_striker: SH Venugopal
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 13.1:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Gaznavi
+    - 13.2:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 13.3:
+        non_striker: R Gaznavi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SH Venugopal
+    - 13.4:
+        non_striker: R Gaznavi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 13.5:
+        non_striker: SH Venugopal
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 13.6:
+        non_striker: R Gaznavi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 14.1:
+        non_striker: SH Venugopal
+        bowler: KDA Lukies
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: R Gaznavi
+    - 14.2:
+        non_striker: SH Venugopal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Gaznavi
+    - 14.3:
+        non_striker: SH Venugopal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 14.4:
+        non_striker: SH Venugopal
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 14.5:
+        non_striker: R Gaznavi
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Venugopal
+    - 14.6:
+        non_striker: R Gaznavi
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+        wicket:
+          player_out: SH Venugopal
+          kind: caught and bowled
+    - 15.1:
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Sharma
+        batsman: R Gaznavi
+    - 15.2:
+        non_striker: R Gaznavi
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 15.3:
+        non_striker: R Sharma
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Gaznavi
+    - 15.4:
+        non_striker: R Sharma
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 15.5:
+        non_striker: R Gaznavi
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 15.6:
+        non_striker: R Sharma
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 16.1:
+        non_striker: R Sharma
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Gaznavi
+    - 16.2:
+        non_striker: R Sharma
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 16.3:
+        non_striker: R Gaznavi
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 16.4:
+        non_striker: R Sharma
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 16.5:
+        non_striker: R Gaznavi
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 16.6:
+        non_striker: R Sharma
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 17.1:
+        non_striker: R Sharma
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 17.2:
+        non_striker: R Sharma
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Gaznavi
+    - 17.3:
+        non_striker: R Sharma
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 17.4:
+        non_striker: R Gaznavi
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 17.5:
+        non_striker: R Gaznavi
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 17.6:
+        non_striker: R Sharma
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 18.1:
+        non_striker: R Sharma
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 18.2:
+        non_striker: R Gaznavi
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sharma
+    - 18.3:
+        non_striker: R Gaznavi
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 18.4:
+        non_striker: R Sharma
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Gaznavi
+    - 18.5:
+        non_striker: R Gaznavi
+        bowler: N Tanner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Sharma
+    - 18.6:
+        non_striker: R Gaznavi
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 18.7:
+        non_striker: R Gaznavi
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sharma
+    - 19.1:
+        non_striker: R Sharma
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Gaznavi
+    - 19.2:
+        non_striker: R Sharma
+        bowler: DC Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Gaznavi
+    - 19.3:
+        non_striker: R Gaznavi
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+        wicket:
+          player_out: R Sharma
+          fielders:
+          - J Tuffin
+          kind: caught
+    - 19.4:
+        non_striker: R Gaznavi
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 19.5:
+        non_striker: R Gaznavi
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 19.6:
+        non_striker: R Gaznavi
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi

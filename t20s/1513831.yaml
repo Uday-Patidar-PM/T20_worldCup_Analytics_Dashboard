@@ -1,0 +1,1103 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-12-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3634
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Thailand:
+    - C Chatphaisan
+    - S Desungnoen
+    - P Suanchuai
+    - K Suttisan
+    - Y Saranonnakkun
+    - C Pengkumta
+    - N Senamontree
+    - P Thongsa
+    - K Senamontree
+    - W Ngowhuad
+    - Sarawut Maliwan
+    Malaysia:
+    - Muhammad Haziq Aiman
+    - Zubaidi Zulkifle
+    - Muhammad Amir
+    - S Muniandy
+    - Ahmed Faiz
+    - M Syahadat Ramli
+    - Amir Khan
+    - Syed Aziz
+    - Virandeep Singh
+    - Pavandeep Singh
+    - S Vijay Unni
+  registry:
+    people:
+      AK Rana: 562d74d0
+      Ahmed Faiz: f6b4f746
+      Amir Khan: a7bc0f3d
+      C Chatphaisan: 85c56be8
+      C Pengkumta: b3540b2a
+      Hardeep Jadeja: 552cf5a2
+      Hitesh Sharma: 2085a934
+      K Senamontree: e553e27f
+      K Suttisan: 00757ae7
+      M Syahadat Ramli: 5efa8af3
+      Muhammad Amir: 60bec5c3
+      Muhammad Haziq Aiman: 1f13eba1
+      N Senamontree: 44e00a4c
+      P Suanchuai: e6948355
+      P Thongsa: '62318525'
+      Pavandeep Singh: 78fcc740
+      S Desungnoen: 3eb26dc4
+      S Muniandy: 57fcfd3b
+      S Vijay Unni: f737ab44
+      Sarawut Maliwan: 36a0a88c
+      Suresh Singh: 073de6f9
+      Syed Aziz: 6667067e
+      T Senthil Kumar: 961ddfac
+      Virandeep Singh: 415d30b6
+      W Ngowhuad: b8cd9955
+      Y Saranonnakkun: 9c93c0a3
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Thailand
+  - Malaysia
+  toss:
+    winner: Malaysia
+    decision: field
+  umpires:
+  - Hardeep Jadeja
+  - T Senthil Kumar
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.2:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.3:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.4:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.5:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.6:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 1.1:
+        non_striker: C Chatphaisan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.2:
+        non_striker: C Chatphaisan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 1.3:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 1.4:
+        non_striker: C Chatphaisan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 1.5:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 1.6:
+        non_striker: C Chatphaisan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 2.1:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 2.2:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 2.3:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 2.4:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 2.5:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 2.6:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Suanchuai
+    - 2.7:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 3.1:
+        non_striker: P Suanchuai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.2:
+        non_striker: P Suanchuai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.3:
+        non_striker: P Suanchuai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.4:
+        non_striker: P Suanchuai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.5:
+        non_striker: P Suanchuai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.6:
+        non_striker: P Suanchuai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 4.1:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+        wicket:
+          player_out: P Suanchuai
+          kind: bowled
+    - 4.2:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 4.3:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Suttisan
+    - 4.4:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 4.5:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Suttisan
+    - 4.6:
+        non_striker: K Suttisan
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 5.1:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 5.2:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 5.3:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+        wicket:
+          player_out: K Suttisan
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 5.4:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 5.5:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 5.6:
+        non_striker: S Desungnoen
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 6.1:
+        non_striker: Y Saranonnakkun
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 6.2:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 6.3:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 6.4:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 6.5:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Y Saranonnakkun
+    - 6.6:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 6.7:
+        non_striker: S Desungnoen
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          fielders:
+          - Amir Khan
+          kind: caught
+    - 7.1:
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Pengkumta
+        batsman: S Desungnoen
+    - 7.2:
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Pengkumta
+        batsman: S Desungnoen
+    - 7.3:
+        non_striker: S Desungnoen
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 7.4:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 7.5:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 7.6:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 8.1:
+        non_striker: C Pengkumta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 8.2:
+        non_striker: C Pengkumta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Desungnoen
+    - 8.3:
+        non_striker: C Pengkumta
+        bowler: Muhammad Amir
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Desungnoen
+    - 8.4:
+        non_striker: C Pengkumta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          fielders:
+          - Amir Khan
+          kind: caught
+    - 8.5:
+        non_striker: C Pengkumta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 8.6:
+        non_striker: C Pengkumta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 9.1:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+        wicket:
+          player_out: N Senamontree
+          fielders:
+          - Ahmed Faiz
+          kind: caught
+    - 9.2:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 9.3:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+        wicket:
+          player_out: P Thongsa
+          fielders:
+          - Pavandeep Singh
+          kind: caught
+    - 9.4:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 9.5:
+        non_striker: K Senamontree
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 9.6:
+        non_striker: K Senamontree
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 10.1:
+        non_striker: K Senamontree
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 10.2:
+        non_striker: C Pengkumta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 10.3:
+        non_striker: K Senamontree
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 10.4:
+        non_striker: K Senamontree
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 10.5:
+        non_striker: C Pengkumta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 10.6:
+        non_striker: K Senamontree
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 11.1:
+        non_striker: K Senamontree
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 11.2:
+        non_striker: K Senamontree
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pengkumta
+    - 11.3:
+        non_striker: K Senamontree
+        bowler: Virandeep Singh
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: C Pengkumta
+    - 11.4:
+        non_striker: K Senamontree
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 11.5:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 11.6:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 11.7:
+        non_striker: C Pengkumta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 12.1:
+        non_striker: K Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+        wicket:
+          player_out: C Pengkumta
+          kind: lbw
+    - 12.2:
+        non_striker: K Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ngowhuad
+    - 12.3:
+        non_striker: K Senamontree
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Ngowhuad
+    - 12.4:
+        non_striker: W Ngowhuad
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 12.5:
+        non_striker: W Ngowhuad
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Senamontree
+    - 12.6:
+        non_striker: W Ngowhuad
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Senamontree
+    - 13.1:
+        non_striker: K Senamontree
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Ngowhuad
+    - 13.2:
+        non_striker: K Senamontree
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ngowhuad
+        wicket:
+          player_out: W Ngowhuad
+          kind: bowled
+    - 13.3:
+        non_striker: K Senamontree
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+        wicket:
+          player_out: Sarawut Maliwan
+          kind: bowled
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zubaidi Zulkifle
+        batsman: Muhammad Haziq Aiman
+    - 0.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: W Ngowhuad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zubaidi Zulkifle
+    - 0.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 0.4:
+        non_striker: Muhammad Haziq Aiman
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 0.5:
+        non_striker: Muhammad Haziq Aiman
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 0.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 0.7:
+        non_striker: Muhammad Haziq Aiman
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 1.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 1.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 1.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 1.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 1.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 1.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          kind: bowled
+    - 2.1:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Amir
+        batsman: Muhammad Haziq Aiman
+    - 2.2:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Muhammad Amir
+        batsman: Muhammad Haziq Aiman
+    - 2.3:
+        bowler: W Ngowhuad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Muhammad Amir
+        batsman: Muhammad Haziq Aiman
+    - 2.4:
+        non_striker: Muhammad Haziq Aiman
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 2.5:
+        non_striker: Muhammad Amir
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+        wicket:
+          player_out: Muhammad Haziq Aiman
+          fielders:
+          - Sarawut Maliwan
+          kind: caught
+    - 2.6:
+        non_striker: Muhammad Amir
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 3.1:
+        non_striker: S Muniandy
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 3.2:
+        non_striker: Muhammad Amir
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 3.3:
+        non_striker: Muhammad Amir
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 3.4:
+        non_striker: Muhammad Amir
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Muniandy
+    - 3.5:
+        non_striker: S Muniandy
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 3.6:
+        non_striker: S Muniandy
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 4.1:
+        non_striker: Muhammad Amir
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 4.2:
+        non_striker: S Muniandy
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 4.3:
+        non_striker: S Muniandy
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 4.4:
+        non_striker: Muhammad Amir
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Muniandy
+    - 4.5:
+        non_striker: Muhammad Amir
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 4.6:
+        non_striker: S Muniandy
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 5.1:
+        non_striker: Muhammad Amir
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Muniandy
+    - 5.2:
+        non_striker: Muhammad Amir
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 5.3:
+        non_striker: S Muniandy
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 5.4:
+        non_striker: S Muniandy
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Amir

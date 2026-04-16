@@ -1,0 +1,1892 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Lahore
+  dates:
+  - '2026-01-31'
+  gender: male
+  match_type: T20
+  match_type_number: 3678
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 90
+  overs: 20
+  player_of_match:
+  - Agha Salman
+  players:
+    Pakistan:
+    - Sahibzada Farhan
+    - Saim Ayub
+    - Agha Salman
+    - Babar Azam
+    - Usman Khan
+    - Shadab Khan
+    - Mohammad Nawaz
+    - Faheem Ashraf
+    - Naseem Shah
+    - Usman Tariq
+    - Abrar Ahmed
+    Australia:
+    - MR Marsh
+    - TM Head
+    - C Green
+    - JP Inglis
+    - MT Renshaw
+    - C Connolly
+    - MW Short
+    - XC Bartlett
+    - SA Abbott
+    - MP Kuhnemann
+    - A Zampa
+  registry:
+    people:
+      A Zampa: 14f96089
+      Abrar Ahmed: abb7c76c
+      Agha Salman: 89c16049
+      Ahsan Raza: e0e5b209
+      Ali Naqvi: 3c89fc88
+      Asif Yaqoob: 6b35790c
+      Babar Azam: 8a75e999
+      C Connolly: fe366f34
+      C Green: eaa76d3c
+      Faheem Ashraf: bd4ea627
+      JP Inglis: 989889ff
+      MP Kuhnemann: 7b953689
+      MR Marsh: 3d8feaf8
+      MT Renshaw: 218d4d78
+      MW Short: a90e53ec
+      Mohammad Nawaz: 3086f7a4
+      Naseem Shah: 9c9af282
+      Nasir Hussain: 5b2fe85b
+      Rashid Riaz: fb82725e
+      SA Abbott: 1a2676c5
+      Sahibzada Farhan: 1aba45cd
+      Saim Ayub: 33609a8c
+      Shadab Khan: 9de62878
+      TM Head: 12b610c2
+      Usman Khan: bafb9238
+      Usman Tariq: e94d1dcd
+      XC Bartlett: 3b53243a
+  teams:
+  - Pakistan
+  - Australia
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - Ahsan Raza
+  - Rashid Riaz
+  venue: Gaddafi Stadium, Lahore
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Saim Ayub
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 0.2:
+        non_striker: Sahibzada Farhan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 0.3:
+        non_striker: Sahibzada Farhan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 0.4:
+        non_striker: Sahibzada Farhan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.5:
+        non_striker: Sahibzada Farhan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 0.6:
+        non_striker: Sahibzada Farhan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 1.1:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.2:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.3:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 1.4:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+        wicket:
+          player_out: Sahibzada Farhan
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 1.5:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 1.6:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 2.1:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 2.2:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 2.3:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 2.4:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 2.5:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 2.6:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 3.1:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Agha Salman
+    - 3.2:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 3.3:
+        non_striker: Agha Salman
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 3.4:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Agha Salman
+    - 3.5:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 3.6:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 4.1:
+        non_striker: Agha Salman
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 4.2:
+        non_striker: Agha Salman
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 4.3:
+        non_striker: Saim Ayub
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 4.4:
+        non_striker: Saim Ayub
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 4.5:
+        non_striker: Saim Ayub
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Agha Salman
+    - 4.6:
+        non_striker: Saim Ayub
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 5.1:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Agha Salman
+    - 5.2:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 5.3:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 5.4:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 5.5:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          kind: lbw
+    - 5.6:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.1:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 6.2:
+        non_striker: Agha Salman
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.3:
+        non_striker: Agha Salman
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.4:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 6.5:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 6.6:
+        non_striker: Agha Salman
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.1:
+        non_striker: Agha Salman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          kind: lbw
+    - 7.2:
+        non_striker: Agha Salman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 7.3:
+        non_striker: Agha Salman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 7.4:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Agha Salman
+    - 7.5:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 7.6:
+        non_striker: Agha Salman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 8.1:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 8.2:
+        non_striker: Usman Khan
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 8.3:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 8.4:
+        non_striker: Usman Khan
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 8.5:
+        non_striker: Usman Khan
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 8.6:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 9.1:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Agha Salman
+    - 9.2:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 9.3:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 9.4:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 9.5:
+        non_striker: Agha Salman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 9.6:
+        non_striker: Agha Salman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 10.1:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 10.2:
+        non_striker: Agha Salman
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 10.3:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 10.4:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 10.5:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Agha Salman
+    - 10.6:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 11.1:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 11.2:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 11.3:
+        non_striker: Usman Khan
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 11.4:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 11.5:
+        non_striker: Usman Khan
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Agha Salman
+    - 11.6:
+        non_striker: Usman Khan
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 12.1:
+        non_striker: Agha Salman
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 12.2:
+        non_striker: Agha Salman
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 12.3:
+        non_striker: Agha Salman
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 12.4:
+        non_striker: Agha Salman
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 12.5:
+        non_striker: Usman Khan
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Agha Salman
+    - 12.6:
+        non_striker: Usman Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 12.7:
+        non_striker: Usman Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 13.1:
+        non_striker: Shadab Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 13.2:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 13.3:
+        non_striker: Shadab Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 13.4:
+        non_striker: Shadab Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 13.5:
+        non_striker: Shadab Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 13.6:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 14.1:
+        non_striker: Usman Khan
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 14.2:
+        non_striker: Usman Khan
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 14.3:
+        non_striker: Shadab Khan
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khan
+    - 14.4:
+        non_striker: Shadab Khan
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 14.5:
+        non_striker: Usman Khan
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 14.6:
+        non_striker: Shadab Khan
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 15.1:
+        non_striker: Shadab Khan
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 15.2:
+        non_striker: Shadab Khan
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khan
+    - 15.3:
+        non_striker: Shadab Khan
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 15.4:
+        non_striker: Usman Khan
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 15.5:
+        non_striker: Usman Khan
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 15.6:
+        non_striker: Shadab Khan
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 16.1:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shadab Khan
+    - 16.2:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 16.3:
+        non_striker: Shadab Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 16.4:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 16.5:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 16.6:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 16.7:
+        non_striker: Usman Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 17.1:
+        non_striker: Shadab Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 17.2:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 17.3:
+        non_striker: Shadab Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Usman Khan
+    - 17.4:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 17.5:
+        non_striker: Shadab Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 17.6:
+        non_striker: Usman Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 18.1:
+        non_striker: Shadab Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 18.2:
+        non_striker: Shadab Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 18.3:
+        non_striker: Usman Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 18.4:
+        non_striker: Shadab Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 18.5:
+        non_striker: Usman Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 18.6:
+        non_striker: Usman Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 19.1:
+        non_striker: Shadab Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 19.2:
+        non_striker: Shadab Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          fielders:
+          - MW Short
+          kind: caught
+    - 19.3:
+        non_striker: Shadab Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nawaz
+    - 19.4:
+        non_striker: Shadab Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nawaz
+    - 19.5:
+        non_striker: Shadab Khan
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 19.6:
+        non_striker: Mohammad Nawaz
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: TM Head
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Marsh
+    - 0.2:
+        non_striker: TM Head
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.3:
+        non_striker: TM Head
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 0.4:
+        non_striker: MR Marsh
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.5:
+        non_striker: MR Marsh
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.6:
+        non_striker: MR Marsh
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Head
+    - 1.1:
+        non_striker: TM Head
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 1.2:
+        non_striker: TM Head
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.3:
+        non_striker: TM Head
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.4:
+        non_striker: TM Head
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.5:
+        non_striker: TM Head
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 1.6:
+        non_striker: MR Marsh
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 2.1:
+        non_striker: TM Head
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.2:
+        non_striker: TM Head
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.3:
+        non_striker: TM Head
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.4:
+        non_striker: TM Head
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 2.5:
+        non_striker: TM Head
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 2.6:
+        non_striker: TM Head
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          kind: lbw
+    - 3.1:
+        non_striker: C Green
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          kind: bowled
+    - 3.2:
+        non_striker: C Green
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.3:
+        non_striker: C Green
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 3.4:
+        non_striker: JP Inglis
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 3.5:
+        non_striker: C Green
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 3.6:
+        non_striker: C Green
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 4.1:
+        non_striker: JP Inglis
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 4.2:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 4.3:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          kind: lbw
+    - 4.4:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.5:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.6:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 5.1:
+        non_striker: MT Renshaw
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 5.2:
+        non_striker: MT Renshaw
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Green
+    - 5.3:
+        non_striker: MT Renshaw
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 5.4:
+        non_striker: MT Renshaw
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Green
+    - 5.5:
+        non_striker: MT Renshaw
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 5.6:
+        non_striker: C Green
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 6.1:
+        non_striker: MT Renshaw
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 6.2:
+        non_striker: MT Renshaw
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 6.3:
+        non_striker: MT Renshaw
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 6.4:
+        non_striker: MT Renshaw
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 6.5:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          kind: lbw
+    - 6.6:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 7.1:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 7.2:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 7.3:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          kind: bowled
+    - 7.4:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 7.5:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 7.6:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 8.1:
+        non_striker: MW Short
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 8.2:
+        non_striker: MW Short
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 8.3:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 8.4:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 8.5:
+        non_striker: MW Short
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 8.6:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 9.1:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 9.2:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 9.3:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 9.4:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 9.5:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 9.6:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 10.1:
+        non_striker: C Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 10.2:
+        non_striker: MW Short
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Green
+    - 10.3:
+        non_striker: C Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 10.4:
+        non_striker: MW Short
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 10.5:
+        non_striker: MW Short
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+        wicket:
+          player_out: C Green
+          fielders:
+          - Shadab Khan
+          kind: caught
+    - 10.6:
+        non_striker: MW Short
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 11.1:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 11.2:
+        non_striker: XC Bartlett
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 11.3:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 11.4:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 11.5:
+        non_striker: XC Bartlett
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 11.6:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 12.1:
+        non_striker: XC Bartlett
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 12.2:
+        non_striker: XC Bartlett
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 12.3:
+        non_striker: XC Bartlett
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 12.4:
+        non_striker: XC Bartlett
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 12.5:
+        non_striker: XC Bartlett
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 12.6:
+        non_striker: MW Short
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 13.1:
+        non_striker: XC Bartlett
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Short
+    - 13.2:
+        non_striker: XC Bartlett
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 13.3:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: XC Bartlett
+    - 13.4:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 13.5:
+        non_striker: XC Bartlett
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 13.6:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+        wicket:
+          player_out: XC Bartlett
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 13.7:
+        non_striker: MW Short
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Abbott
+        wicket:
+          player_out: SA Abbott
+          kind: bowled
+    - 14.1:
+        non_striker: MP Kuhnemann
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 14.2:
+        non_striker: MW Short
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 14.3:
+        non_striker: MW Short
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 14.4:
+        non_striker: MP Kuhnemann
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 14.5:
+        non_striker: MP Kuhnemann
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 14.6:
+        non_striker: MP Kuhnemann
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 15.1:
+        non_striker: MP Kuhnemann
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 15.2:
+        non_striker: A Zampa
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 15.3:
+        non_striker: MP Kuhnemann
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 15.4:
+        non_striker: A Zampa
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+        wicket:
+          player_out: MP Kuhnemann
+          fielders:
+          - Agha Salman
+          kind: caught

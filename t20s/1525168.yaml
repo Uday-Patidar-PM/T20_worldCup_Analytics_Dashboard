@@ -1,0 +1,2163 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: George Town
+  dates:
+  - '2026-03-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3759
+  outcome:
+    winner: Argentina
+    by:
+      runs: 15
+  overs: 20
+  player_of_match:
+  - P Baron
+  players:
+    Argentina:
+    - P Baron
+    - A Ferguson
+    - A Kirschbaum
+    - T Rossi
+    - AAP Rivero
+    - Manuel Iturbe
+    - Lucas Rossi
+    - R Escobar
+    - H Fennell
+    - A Husain
+    - JP Cabrera
+    Suriname:
+    - S Bharratt
+    - V Hirlal
+    - V Shaw
+    - G Singh
+    - XSD Smith
+    - TA Dudnath
+    - K Jaikaran
+    - AK Gokoel
+    - YP Dayal
+    - J Perry
+    - KN Singh
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Gajjar: 37db06ef
+      A Husain: 034d3c52
+      A Kirschbaum: d953bf92
+      AAP Rivero: 1911dcbc
+      AK Gokoel: 2fff8b43
+      AR Maddela: 5c861579
+      Denavon Hayles: 5cbeeb02
+      G Singh: e93b6c95
+      H Fennell: 0d38ab25
+      Ian Roberts: 9f236a73
+      J Perry: f5c73a14
+      JP Cabrera: b30bfd44
+      Jermaine Lindo: 1154bf4f
+      K Jaikaran: 420431c9
+      KN Singh: 74bff7ca
+      Lucas Rossi: 2064e555
+      Manuel Iturbe: bddbf5ec
+      P Baron: c6d1b1e4
+      R Escobar: 9fa5496f
+      S Bharratt: 1335107b
+      SA Amirullah: 2e78ffac
+      T Rossi: 5470418a
+      TA Dudnath: 15322a7b
+      V Hirlal: 3eb2a27b
+      V Shaw: e05dd44b
+      XSD Smith: f4f892a3
+      YP Dayal: 990f1424
+  teams:
+  - Argentina
+  - Suriname
+  toss:
+    winner: Argentina
+    decision: bat
+  umpires:
+  - A Gajjar
+  - AR Maddela
+  venue: Jimmy Powell Oval, Cayman Islands
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Ferguson
+        batsman: P Baron
+    - 0.2:
+        non_striker: P Baron
+        bowler: TA Dudnath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ferguson
+    - 0.3:
+        non_striker: P Baron
+        bowler: TA Dudnath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ferguson
+    - 0.4:
+        non_striker: P Baron
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 0.5:
+        non_striker: P Baron
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 0.6:
+        non_striker: P Baron
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 0.7:
+        non_striker: A Ferguson
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 0.8:
+        non_striker: P Baron
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 1.1:
+        non_striker: A Ferguson
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.2:
+        non_striker: A Ferguson
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 1.3:
+        non_striker: A Ferguson
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.4:
+        non_striker: A Ferguson
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 1.5:
+        non_striker: A Ferguson
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.6:
+        non_striker: A Ferguson
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 2.1:
+        non_striker: A Ferguson
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 2.2:
+        non_striker: A Ferguson
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 2.3:
+        non_striker: A Ferguson
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 2.4:
+        non_striker: A Ferguson
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 2.5:
+        non_striker: A Ferguson
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 2.6:
+        non_striker: P Baron
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 3.1:
+        non_striker: A Ferguson
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 3.2:
+        non_striker: P Baron
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 3.3:
+        non_striker: P Baron
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 3.4:
+        non_striker: A Ferguson
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 3.5:
+        non_striker: A Ferguson
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: A Ferguson
+          fielders:
+          - SA Amirullah (sub)
+          - J Perry
+          kind: run out
+    - 3.6:
+        non_striker: P Baron
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 4.1:
+        non_striker: A Kirschbaum
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 4.2:
+        non_striker: A Kirschbaum
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 4.3:
+        non_striker: A Kirschbaum
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 4.4:
+        non_striker: A Kirschbaum
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 4.5:
+        non_striker: A Kirschbaum
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 4.6:
+        non_striker: P Baron
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 5.1:
+        non_striker: A Kirschbaum
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Baron
+    - 5.2:
+        non_striker: A Kirschbaum
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 5.3:
+        non_striker: A Kirschbaum
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 5.4:
+        non_striker: A Kirschbaum
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 5.5:
+        non_striker: A Kirschbaum
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 5.6:
+        non_striker: A Kirschbaum
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 6.1:
+        non_striker: P Baron
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.2:
+        non_striker: A Kirschbaum
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 6.3:
+        non_striker: P Baron
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.4:
+        non_striker: A Kirschbaum
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 6.5:
+        non_striker: A Kirschbaum
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 6.6:
+        non_striker: P Baron
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 7.1:
+        non_striker: A Kirschbaum
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Baron
+    - 7.2:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 7.3:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 7.4:
+        non_striker: A Kirschbaum
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 7.5:
+        non_striker: A Kirschbaum
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 7.6:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 8.1:
+        non_striker: P Baron
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 8.2:
+        non_striker: P Baron
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 8.3:
+        non_striker: P Baron
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 8.4:
+        non_striker: P Baron
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 8.5:
+        non_striker: A Kirschbaum
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 8.6:
+        non_striker: A Kirschbaum
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 9.1:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          fielders:
+          - V Hirlal
+          kind: caught
+    - 9.2:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 9.3:
+        non_striker: T Rossi
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 9.4:
+        non_striker: T Rossi
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 9.5:
+        non_striker: T Rossi
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 9.6:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 10.1:
+        non_striker: T Rossi
+        bowler: AK Gokoel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Baron
+    - 10.2:
+        non_striker: T Rossi
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 10.3:
+        non_striker: T Rossi
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+        wicket:
+          player_out: T Rossi
+          fielders:
+          - SA Amirullah (sub)
+          kind: run out
+    - 10.4:
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AAP Rivero
+        batsman: P Baron
+    - 10.5:
+        non_striker: P Baron
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 10.6:
+        non_striker: AAP Rivero
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 10.7:
+        non_striker: P Baron
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 11.1:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 11.2:
+        non_striker: AAP Rivero
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 11.3:
+        non_striker: AAP Rivero
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 11.4:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 11.5:
+        non_striker: AAP Rivero
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 11.6:
+        non_striker: AAP Rivero
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 12.1:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 12.2:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 12.3:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 12.4:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 12.5:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 12.6:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 13.1:
+        non_striker: AAP Rivero
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 13.2:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 13.3:
+        non_striker: AAP Rivero
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 13.4:
+        non_striker: AAP Rivero
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 13.5:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 13.6:
+        non_striker: P Baron
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 14.1:
+        non_striker: AAP Rivero
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 14.2:
+        non_striker: P Baron
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 14.3:
+        non_striker: P Baron
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 14.4:
+        non_striker: P Baron
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 14.5:
+        non_striker: P Baron
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 14.6:
+        non_striker: AAP Rivero
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 15.1:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 15.2:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+        wicket:
+          player_out: AAP Rivero
+          fielders:
+          - J Perry
+          kind: caught
+    - 15.3:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 15.4:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 15.5:
+        non_striker: P Baron
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 15.6:
+        non_striker: Manuel Iturbe
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          kind: bowled
+    - 16.1:
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Lucas Rossi
+        batsman: Manuel Iturbe
+    - 16.2:
+        non_striker: Lucas Rossi
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+        wicket:
+          player_out: Manuel Iturbe
+          kind: bowled
+    - 16.3:
+        non_striker: Lucas Rossi
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 16.4:
+        non_striker: R Escobar
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lucas Rossi
+    - 16.5:
+        non_striker: R Escobar
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 16.6:
+        non_striker: R Escobar
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 17.1:
+        non_striker: R Escobar
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Lucas Rossi
+    - 17.2:
+        non_striker: R Escobar
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 17.3:
+        non_striker: R Escobar
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+        wicket:
+          player_out: Lucas Rossi
+          fielders:
+          - J Perry
+          kind: caught
+    - 17.4:
+        non_striker: R Escobar
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Fennell
+        wicket:
+          player_out: H Fennell
+          kind: bowled
+    - 17.5:
+        non_striker: R Escobar
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Husain
+    - 17.6:
+        non_striker: R Escobar
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Husain
+    - 18.1:
+        non_striker: A Husain
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 18.2:
+        non_striker: R Escobar
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Husain
+    - 18.3:
+        non_striker: R Escobar
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Husain
+    - 18.4:
+        non_striker: R Escobar
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Husain
+    - 18.5:
+        non_striker: R Escobar
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Husain
+    - 18.6:
+        non_striker: A Husain
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 19.1:
+        non_striker: R Escobar
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Husain
+    - 19.2:
+        non_striker: A Husain
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 19.3:
+        non_striker: A Husain
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 19.4:
+        non_striker: A Husain
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 19.5:
+        non_striker: A Husain
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 19.6:
+        non_striker: A Husain
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+        wicket:
+          player_out: R Escobar
+          fielders:
+          - XSD Smith
+          - J Perry
+          kind: run out
+- 2nd innings:
+    team: Suriname
+    deliveries:
+    - 0.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Hirlal
+        batsman: S Bharratt
+    - 0.2:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Hirlal
+        batsman: S Bharratt
+    - 0.3:
+        non_striker: S Bharratt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.4:
+        non_striker: S Bharratt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+        wicket:
+          player_out: V Hirlal
+          fielders:
+          - Manuel Iturbe
+          kind: caught
+    - 0.5:
+        non_striker: S Bharratt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 0.6:
+        non_striker: S Bharratt
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Shaw
+    - 0.7:
+        non_striker: S Bharratt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 1.1:
+        non_striker: V Shaw
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 1.2:
+        non_striker: V Shaw
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bharratt
+    - 1.3:
+        non_striker: V Shaw
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bharratt
+    - 1.4:
+        non_striker: V Shaw
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 1.5:
+        non_striker: S Bharratt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shaw
+    - 1.6:
+        non_striker: S Bharratt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shaw
+    - 1.7:
+        non_striker: S Bharratt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 2.1:
+        non_striker: V Shaw
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 2.2:
+        non_striker: S Bharratt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shaw
+    - 2.3:
+        non_striker: S Bharratt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 2.4:
+        non_striker: S Bharratt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shaw
+    - 2.5:
+        non_striker: V Shaw
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bharratt
+    - 2.6:
+        non_striker: V Shaw
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Bharratt
+    - 2.7:
+        non_striker: V Shaw
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bharratt
+    - 3.1:
+        non_striker: S Bharratt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shaw
+    - 3.2:
+        non_striker: V Shaw
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 3.3:
+        non_striker: V Shaw
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 3.4:
+        non_striker: V Shaw
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 3.5:
+        non_striker: V Shaw
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bharratt
+    - 3.6:
+        non_striker: V Shaw
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 4.1:
+        non_striker: S Bharratt
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Shaw
+    - 4.2:
+        non_striker: S Bharratt
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shaw
+    - 4.3:
+        non_striker: V Shaw
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 4.4:
+        non_striker: S Bharratt
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 4.5:
+        non_striker: S Bharratt
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Shaw
+    - 4.6:
+        non_striker: V Shaw
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 5.1:
+        non_striker: S Bharratt
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shaw
+    - 5.2:
+        non_striker: S Bharratt
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shaw
+    - 5.3:
+        non_striker: S Bharratt
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shaw
+    - 5.4:
+        non_striker: V Shaw
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 5.5:
+        non_striker: V Shaw
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+        wicket:
+          player_out: S Bharratt
+          kind: bowled
+    - 5.6:
+        non_striker: V Shaw
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 6.1:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 6.2:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 6.3:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shaw
+    - 6.4:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 6.5:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+        wicket:
+          player_out: V Shaw
+          fielders:
+          - P Baron
+          kind: caught
+    - 6.6:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 7.1:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 7.2:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 7.3:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 7.4:
+        non_striker: G Singh
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 7.5:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 7.6:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 8.1:
+        non_striker: XSD Smith
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 8.2:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 8.3:
+        non_striker: XSD Smith
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 8.4:
+        non_striker: XSD Smith
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 8.5:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 8.6:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 9.1:
+        non_striker: G Singh
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 9.2:
+        non_striker: G Singh
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 9.3:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 9.4:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 9.5:
+        non_striker: G Singh
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 9.6:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 10.1:
+        non_striker: XSD Smith
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 10.2:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: XSD Smith
+    - 10.3:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 10.4:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 10.5:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 10.6:
+        non_striker: G Singh
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 11.1:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 11.2:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 11.3:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 11.4:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 11.5:
+        non_striker: G Singh
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 11.6:
+        non_striker: XSD Smith
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 12.1:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 12.2:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+        wicket:
+          player_out: G Singh
+          fielders:
+          - Lucas Rossi
+          kind: caught
+    - 12.3:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 12.4:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 12.5:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 12.6:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 13.1:
+        non_striker: XSD Smith
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 13.2:
+        non_striker: TA Dudnath
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+    - 13.3:
+        non_striker: TA Dudnath
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 13.4:
+        non_striker: XSD Smith
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 13.5:
+        non_striker: XSD Smith
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 13.6:
+        non_striker: TA Dudnath
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 14.1:
+        non_striker: TA Dudnath
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 14.2:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 14.3:
+        non_striker: TA Dudnath
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 14.4:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 14.5:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 14.6:
+        non_striker: XSD Smith
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 15.1:
+        non_striker: XSD Smith
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 15.2:
+        non_striker: TA Dudnath
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 15.3:
+        non_striker: XSD Smith
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 15.4:
+        non_striker: TA Dudnath
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 15.5:
+        non_striker: XSD Smith
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+        wicket:
+          player_out: TA Dudnath
+          fielders:
+          - AAP Rivero
+          kind: run out
+    - 15.6:
+        non_striker: XSD Smith
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 16.1:
+        non_striker: XSD Smith
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 16.2:
+        non_striker: K Jaikaran
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 16.3:
+        non_striker: K Jaikaran
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: XSD Smith
+    - 16.4:
+        non_striker: K Jaikaran
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+        wicket:
+          player_out: XSD Smith
+          fielders:
+          - P Baron
+          kind: caught
+    - 16.5:
+        non_striker: K Jaikaran
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Gokoel
+    - 16.6:
+        non_striker: K Jaikaran
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gokoel
+    - 16.7:
+        non_striker: K Jaikaran
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gokoel
+    - 17.1:
+        non_striker: K Jaikaran
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gokoel
+    - 17.2:
+        non_striker: AK Gokoel
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 17.3:
+        non_striker: K Jaikaran
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gokoel
+    - 17.4:
+        non_striker: AK Gokoel
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 17.5:
+        non_striker: K Jaikaran
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gokoel
+    - 17.6:
+        non_striker: K Jaikaran
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gokoel
+    - 18.1:
+        non_striker: K Jaikaran
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gokoel
+    - 18.2:
+        non_striker: K Jaikaran
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gokoel
+    - 18.3:
+        non_striker: K Jaikaran
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gokoel
+    - 18.4:
+        non_striker: AK Gokoel
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+        wicket:
+          player_out: K Jaikaran
+          fielders:
+          - Ian Roberts (sub)
+          kind: caught
+    - 18.5:
+        non_striker: AK Gokoel
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 18.6:
+        non_striker: YP Dayal
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gokoel
+        wicket:
+          player_out: AK Gokoel
+          kind: bowled
+    - 19.1:
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Perry
+        batsman: YP Dayal
+    - 19.2:
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Perry
+        batsman: YP Dayal
+    - 19.3:
+        non_striker: YP Dayal
+        bowler: AAP Rivero
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Perry
+    - 19.4:
+        non_striker: J Perry
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YP Dayal
+    - 19.5:
+        non_striker: J Perry
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 19.6:
+        non_striker: J Perry
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal

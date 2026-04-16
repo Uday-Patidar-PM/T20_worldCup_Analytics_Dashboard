@@ -1,0 +1,2127 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abuja
+  dates:
+  - '2025-12-14'
+  gender: male
+  match_type: T20
+  match_type_number: 3642
+  outcome:
+    winner: Zambia
+    by:
+      runs: 20
+  overs: 20
+  player_of_match:
+  - Soyeb Pendi
+  players:
+    Zambia:
+    - Muhammad Asim
+    - Jakir Patel
+    - JV Chand
+    - Ayaz Dadabhai
+    - Salman Patel
+    - Javid Patel
+    - Shahnawaz Patel
+    - Soyeb Pendi
+    - Aslam Bera
+    - Mohmedazim Abbasbhai
+    - M Yambayamba
+    Sierra Leone:
+    - Y Jalloh
+    - J Bangura
+    - L Lamin
+    - R Coker
+    - AB Kamara
+    - A Gbla
+    - Ibrahim Kpaka
+    - C Bah
+    - Mohamed Turay
+    - Brima Ansumana
+    - J Lassayo
+  registry:
+    people:
+      A Gbla: 34ab1e6e
+      A Modupe: c2e27b71
+      AB Kamara: 3951be49
+      Aslam Bera: bf50e8de
+      Ayaz Dadabhai: 5c658441
+      Brima Ansumana: cd3d4e8c
+      C Bah: 7213d757
+      Ibrahim Kpaka: 41d333e3
+      J Bangura: d7acab5d
+      J Lassayo: dee70255
+      JV Chand: 59bff8c7
+      Jakir Patel: 82b1e99f
+      Javid Patel: '06989091'
+      L Lamin: 5a970aab
+      M Yambayamba: 40f1590c
+      Mohamed Turay: '019d7ef5'
+      Mohmedazim Abbasbhai: 175d3d9f
+      Muhammad Asim: 8ba04532
+      O Adekoya: 0c8bce52
+      R Coker: 3239c8a9
+      Salman Patel: 4909a5f6
+      Shahnawaz Patel: aa86d9d4
+      Soyeb Pendi: 8d646b49
+      TJ Onikoyi: b68d9bc6
+      Tonye Timinadi: 5cc0fccb
+      Y Jalloh: 7fe9a7e6
+  teams:
+  - Zambia
+  - Sierra Leone
+  toss:
+    winner: Sierra Leone
+    decision: field
+  umpires:
+  - O Adekoya
+  - TJ Onikoyi
+  venue: Nigeria Cricket Federation Oval 1, Abuja
+innings:
+- 1st innings:
+    team: Zambia
+    deliveries:
+    - 0.1:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jakir Patel
+        batsman: Muhammad Asim
+    - 0.2:
+        bowler: C Bah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Jakir Patel
+        batsman: Muhammad Asim
+    - 0.3:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jakir Patel
+        batsman: Muhammad Asim
+    - 0.4:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Jakir Patel
+        batsman: Muhammad Asim
+    - 0.5:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jakir Patel
+        batsman: Muhammad Asim
+    - 0.6:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jakir Patel
+        batsman: Muhammad Asim
+    - 0.7:
+        non_striker: Jakir Patel
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 1.1:
+        non_striker: Jakir Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 1.2:
+        non_striker: Jakir Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Asim
+    - 1.3:
+        non_striker: Jakir Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Asim
+    - 1.4:
+        non_striker: Jakir Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 1.5:
+        non_striker: Jakir Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 1.6:
+        non_striker: Muhammad Asim
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 2.1:
+        non_striker: Muhammad Asim
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 2.2:
+        non_striker: Muhammad Asim
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 2.3:
+        non_striker: Jakir Patel
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 2.4:
+        non_striker: Jakir Patel
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 2.5:
+        non_striker: Jakir Patel
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 2.6:
+        non_striker: Jakir Patel
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Asim
+    - 3.1:
+        non_striker: Muhammad Asim
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 3.2:
+        non_striker: Muhammad Asim
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 3.3:
+        non_striker: Muhammad Asim
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 3.4:
+        non_striker: Muhammad Asim
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 3.5:
+        non_striker: Jakir Patel
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+        wicket:
+          player_out: Muhammad Asim
+          fielders:
+          - L Lamin
+          kind: caught
+    - 3.6:
+        non_striker: Jakir Patel
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 4.1:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jakir Patel
+    - 4.2:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 4.3:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 4.4:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 4.5:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jakir Patel
+    - 4.6:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 5.1:
+        non_striker: JV Chand
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 5.2:
+        non_striker: Jakir Patel
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 5.3:
+        non_striker: Jakir Patel
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JV Chand
+    - 5.4:
+        non_striker: Jakir Patel
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 5.5:
+        non_striker: Jakir Patel
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 5.6:
+        non_striker: JV Chand
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 6.1:
+        non_striker: Jakir Patel
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JV Chand
+    - 6.2:
+        non_striker: Jakir Patel
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 6.3:
+        non_striker: Jakir Patel
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 6.4:
+        non_striker: Jakir Patel
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 6.5:
+        non_striker: Jakir Patel
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 6.6:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 7.1:
+        non_striker: JV Chand
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 7.2:
+        non_striker: Jakir Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 7.3:
+        non_striker: JV Chand
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 7.4:
+        non_striker: JV Chand
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 7.5:
+        non_striker: Jakir Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 7.6:
+        non_striker: Jakir Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 8.1:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 8.2:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jakir Patel
+    - 8.3:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 8.4:
+        non_striker: Jakir Patel
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 8.5:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 8.6:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 9.1:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jakir Patel
+    - 9.2:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jakir Patel
+    - 9.3:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 9.4:
+        non_striker: Jakir Patel
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 9.5:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jakir Patel
+    - 9.6:
+        non_striker: JV Chand
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 9.7:
+        non_striker: Jakir Patel
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+        wicket:
+          player_out: Jakir Patel
+          fielders:
+          - A Gbla
+          - Brima Ansumana
+          kind: run out
+    - 10.1:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ayaz Dadabhai
+        batsman: JV Chand
+    - 10.2:
+        non_striker: JV Chand
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 10.3:
+        non_striker: Ayaz Dadabhai
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JV Chand
+    - 10.4:
+        non_striker: Ayaz Dadabhai
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 10.5:
+        non_striker: JV Chand
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 10.6:
+        non_striker: JV Chand
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 11.1:
+        non_striker: JV Chand
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 11.2:
+        non_striker: JV Chand
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 11.3:
+        non_striker: Ayaz Dadabhai
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 11.4:
+        non_striker: Ayaz Dadabhai
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 11.5:
+        non_striker: Ayaz Dadabhai
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JV Chand
+    - 11.6:
+        non_striker: Ayaz Dadabhai
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 12.1:
+        non_striker: Ayaz Dadabhai
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 12.2:
+        non_striker: Ayaz Dadabhai
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 12.3:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 12.4:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+        wicket:
+          player_out: Ayaz Dadabhai
+          kind: bowled
+    - 12.5:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salman Patel
+    - 12.6:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salman Patel
+    - 13.1:
+        non_striker: Salman Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 13.2:
+        non_striker: Salman Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 13.3:
+        non_striker: Salman Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 13.4:
+        non_striker: JV Chand
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salman Patel
+    - 13.5:
+        non_striker: JV Chand
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salman Patel
+        wicket:
+          player_out: Salman Patel
+          kind: bowled
+    - 13.6:
+        non_striker: JV Chand
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 14.1:
+        non_striker: Javid Patel
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 14.2:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+        wicket:
+          player_out: Javid Patel
+          fielders:
+          - Ibrahim Kpaka
+          kind: caught
+    - 14.3:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahnawaz Patel
+    - 14.4:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 14.5:
+        non_striker: Shahnawaz Patel
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 14.6:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 15.1:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 15.2:
+        non_striker: Shahnawaz Patel
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 15.3:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahnawaz Patel
+    - 15.4:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahnawaz Patel
+    - 15.5:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahnawaz Patel
+    - 15.6:
+        non_striker: JV Chand
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 16.1:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 16.2:
+        non_striker: Shahnawaz Patel
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 16.3:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 16.4:
+        non_striker: Shahnawaz Patel
+        bowler: J Lassayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JV Chand
+    - 16.5:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahnawaz Patel
+    - 16.6:
+        non_striker: JV Chand
+        bowler: J Lassayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 17.1:
+        non_striker: JV Chand
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahnawaz Patel
+    - 17.2:
+        non_striker: JV Chand
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 17.3:
+        non_striker: Shahnawaz Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 17.4:
+        non_striker: Shahnawaz Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 17.5:
+        non_striker: JV Chand
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 17.6:
+        non_striker: Shahnawaz Patel
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 18.1:
+        non_striker: Shahnawaz Patel
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 18.2:
+        non_striker: JV Chand
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahnawaz Patel
+    - 18.3:
+        non_striker: JV Chand
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahnawaz Patel
+    - 18.4:
+        non_striker: JV Chand
+        bowler: A Gbla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Shahnawaz Patel
+    - 18.5:
+        non_striker: Shahnawaz Patel
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JV Chand
+    - 18.6:
+        non_striker: Shahnawaz Patel
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+        wicket:
+          player_out: JV Chand
+          kind: lbw
+    - 19.1:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Soyeb Pendi
+        batsman: Shahnawaz Patel
+    - 19.2:
+        non_striker: Shahnawaz Patel
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Soyeb Pendi
+    - 19.3:
+        non_striker: Shahnawaz Patel
+        bowler: C Bah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Soyeb Pendi
+    - 19.4:
+        non_striker: Soyeb Pendi
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahnawaz Patel
+    - 19.5:
+        non_striker: Soyeb Pendi
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahnawaz Patel
+    - 19.6:
+        non_striker: Soyeb Pendi
+        bowler: C Bah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shahnawaz Patel
+- 2nd innings:
+    team: Sierra Leone
+    deliveries:
+    - 0.1:
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Bangura
+        batsman: Y Jalloh
+    - 0.2:
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Bangura
+        batsman: Y Jalloh
+    - 0.3:
+        non_striker: Y Jalloh
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 0.4:
+        non_striker: Y Jalloh
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bangura
+    - 0.5:
+        non_striker: Y Jalloh
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 0.6:
+        non_striker: J Bangura
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 1.1:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Bangura
+    - 1.2:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 1.3:
+        non_striker: J Bangura
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 1.4:
+        non_striker: J Bangura
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 1.5:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bangura
+    - 1.6:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 2.1:
+        non_striker: Y Jalloh
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 2.2:
+        non_striker: J Bangura
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 2.3:
+        non_striker: Y Jalloh
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 2.4:
+        non_striker: Y Jalloh
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 2.5:
+        non_striker: J Bangura
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 2.6:
+        non_striker: J Bangura
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 3.1:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+        wicket:
+          player_out: J Bangura
+          fielders:
+          - Salman Patel
+          kind: caught
+    - 3.2:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lamin
+    - 3.3:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 3.4:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 3.5:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Lamin
+    - 3.6:
+        non_striker: L Lamin
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 4.1:
+        non_striker: Y Jalloh
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 4.2:
+        non_striker: L Lamin
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 4.3:
+        non_striker: L Lamin
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 4.4:
+        non_striker: L Lamin
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 4.5:
+        non_striker: Y Jalloh
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Lamin
+    - 4.6:
+        non_striker: Y Jalloh
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 5.1:
+        non_striker: Y Jalloh
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 5.2:
+        non_striker: L Lamin
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Jalloh
+    - 5.3:
+        non_striker: L Lamin
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Jalloh
+    - 5.4:
+        non_striker: L Lamin
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 5.5:
+        non_striker: L Lamin
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Jalloh
+    - 5.6:
+        non_striker: L Lamin
+        bowler: Aslam Bera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Y Jalloh
+    - 5.7:
+        non_striker: L Lamin
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 6.1:
+        non_striker: L Lamin
+        bowler: JV Chand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Y Jalloh
+    - 6.2:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lamin
+    - 6.3:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 6.4:
+        non_striker: L Lamin
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 6.5:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 6.6:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lamin
+    - 7.1:
+        non_striker: L Lamin
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 7.2:
+        non_striker: Y Jalloh
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 7.3:
+        non_striker: L Lamin
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 7.4:
+        non_striker: L Lamin
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 7.5:
+        non_striker: Y Jalloh
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 7.6:
+        non_striker: Y Jalloh
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Lamin
+    - 8.1:
+        non_striker: L Lamin
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 8.2:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 8.3:
+        non_striker: L Lamin
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 8.4:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 8.5:
+        non_striker: L Lamin
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 8.6:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 9.1:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lamin
+    - 9.2:
+        non_striker: L Lamin
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 9.3:
+        non_striker: L Lamin
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 9.4:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 9.5:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 9.6:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lamin
+    - 10.1:
+        non_striker: L Lamin
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 10.2:
+        non_striker: L Lamin
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 10.3:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+        wicket:
+          player_out: L Lamin
+          fielders:
+          - Shahnawaz Patel
+          kind: caught
+    - 10.4:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 10.5:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 10.6:
+        non_striker: R Coker
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 11.1:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 11.2:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 11.3:
+        non_striker: R Coker
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 11.4:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 11.5:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 11.6:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Coker
+    - 12.1:
+        non_striker: R Coker
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Jalloh
+    - 12.2:
+        non_striker: R Coker
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Jalloh
+    - 12.3:
+        non_striker: R Coker
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Jalloh
+    - 12.4:
+        non_striker: R Coker
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 12.5:
+        non_striker: Y Jalloh
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 12.6:
+        non_striker: R Coker
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 13.1:
+        non_striker: R Coker
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 13.2:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 13.3:
+        non_striker: Y Jalloh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 13.4:
+        non_striker: R Coker
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Jalloh
+    - 13.5:
+        non_striker: R Coker
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Jalloh
+    - 13.6:
+        non_striker: R Coker
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Y Jalloh
+    - 14.1:
+        non_striker: R Coker
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+        wicket:
+          player_out: R Coker
+          fielders:
+          - Ayaz Dadabhai
+          - Soyeb Pendi
+          kind: run out
+    - 14.2:
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AB Kamara
+        batsman: Y Jalloh
+    - 14.3:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kamara
+        wicket:
+          player_out: AB Kamara
+          fielders:
+          - Shahnawaz Patel
+          kind: caught
+    - 14.4:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gbla
+    - 14.5:
+        non_striker: A Gbla
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 14.6:
+        non_striker: Y Jalloh
+        bowler: Soyeb Pendi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Gbla
+    - 15.1:
+        non_striker: Y Jalloh
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gbla
+    - 15.2:
+        non_striker: A Gbla
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+        wicket:
+          player_out: Y Jalloh
+          kind: bowled
+    - 15.3:
+        non_striker: A Gbla
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Kpaka
+    - 15.4:
+        non_striker: Ibrahim Kpaka
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gbla
+    - 15.5:
+        non_striker: A Gbla
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Kpaka
+    - 15.6:
+        non_striker: A Gbla
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ibrahim Kpaka
+        wicket:
+          player_out: Ibrahim Kpaka
+          fielders:
+          - Soyeb Pendi
+          - M Yambayamba
+          kind: run out
+    - 16.1:
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Bah
+        batsman: A Gbla
+    - 16.2:
+        non_striker: C Bah
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gbla
+        wicket:
+          player_out: A Gbla
+          kind: bowled
+    - 16.3:
+        non_striker: C Bah
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Turay
+    - 16.4:
+        non_striker: C Bah
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Turay
+    - 16.5:
+        non_striker: C Bah
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Turay
+    - 16.6:
+        non_striker: C Bah
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Turay
+    - 17.1:
+        non_striker: Mohamed Turay
+        bowler: Aslam Bera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Bah
+    - 17.2:
+        non_striker: C Bah
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Turay
+    - 17.3:
+        non_striker: C Bah
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohamed Turay
+        wicket:
+          player_out: Mohamed Turay
+          kind: bowled
+    - 17.4:
+        non_striker: C Bah
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Brima Ansumana
+    - 17.5:
+        non_striker: C Bah
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brima Ansumana
+    - 17.6:
+        non_striker: Brima Ansumana
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bah
+    - 18.1:
+        non_striker: Brima Ansumana
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bah
+        wicket:
+          player_out: C Bah
+          fielders:
+          - Aslam Bera
+          kind: caught
+    - 18.2:
+        non_striker: Brima Ansumana
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Lassayo
+    - 18.3:
+        non_striker: J Lassayo
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brima Ansumana
+    - 18.4:
+        non_striker: Brima Ansumana
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Lassayo
+    - 18.5:
+        non_striker: J Lassayo
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 18.6:
+        non_striker: J Lassayo
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brima Ansumana
+    - 19.1:
+        non_striker: J Lassayo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brima Ansumana
+    - 19.2:
+        non_striker: Brima Ansumana
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Lassayo
+    - 19.3:
+        non_striker: J Lassayo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Brima Ansumana
+    - 19.4:
+        non_striker: J Lassayo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Brima Ansumana
+    - 19.5:
+        non_striker: J Lassayo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Brima Ansumana
+    - 19.6:
+        non_striker: J Lassayo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+        wicket:
+          player_out: Brima Ansumana
+          kind: bowled

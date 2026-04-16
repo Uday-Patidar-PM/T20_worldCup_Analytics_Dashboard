@@ -1,0 +1,2259 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Episkopi
+  dates:
+  - '2026-03-14'
+  gender: male
+  match_type: T20
+  match_type_number: 3769
+  outcome:
+    winner: Cyprus
+    by:
+      runs: 47
+  overs: 20
+  player_of_match:
+  - A Shahi
+  players:
+    Cyprus:
+    - R Mazumder
+    - AUKDS Kalugala
+    - AA Senn
+    - MPGT Ketiyage
+    - Adam Senn
+    - Taranjit Singh
+    - Karan Singh
+    - A Shahi
+    - S Tharanga
+    - R Siriwardena
+    - Lovedeep Singh
+    Austria:
+    - Karanbir Singh
+    - Bilal Zalmai
+    - Amar Naeem
+    - A Randhawa
+    - Aqib Iqbal
+    - I Asif
+    - Zeshan Arif
+    - Irfan Safi
+    - Waqar Zalmai
+    - KR Jha
+    - Umair Tariq
+  registry:
+    people:
+      A Randhawa: 1798078c
+      A Shahi: 2011735e
+      AA Senn: 719ac15b
+      AUKDS Kalugala: e2d1822f
+      Abdul Rahman: 11e45bf5
+      Adam Senn: 34c3f7b9
+      Amar Naeem: f9dc404a
+      Aqib Iqbal: 14157abf
+      Bilal Zalmai: 33b67317
+      I Asif: 663ad386
+      Irfan Safi: 6c53ffb2
+      KR Jha: 9bdb9aa9
+      Karan Singh: 56a94565
+      Karanbir Singh: 6a97c7a4
+      Lovedeep Singh: a6e5e144
+      MPGT Ketiyage: 2d45d7d2
+      Mark Duffy: 8a947037
+      R Mazumder: b23d3ec5
+      R Siriwardena: c3ba4942
+      S Tharanga: 32332eea
+      Taranjit Singh: 985b649e
+      Umair Tariq: 67ec2b09
+      Waqar Zalmai: 74571ec4
+      Zeshan Arif: 6829b373
+  teams:
+  - Cyprus
+  - Austria
+  toss:
+    winner: Austria
+    decision: field
+  umpires:
+  - Abdul Rahman
+  - Mark Duffy
+  venue: Happy Valley Ground 2
+innings:
+- 1st innings:
+    team: Cyprus
+    deliveries:
+    - 0.1:
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AUKDS Kalugala
+        batsman: R Mazumder
+    - 0.2:
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AUKDS Kalugala
+        batsman: R Mazumder
+    - 0.3:
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AUKDS Kalugala
+        batsman: R Mazumder
+    - 0.4:
+        bowler: Waqar Zalmai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AUKDS Kalugala
+        batsman: R Mazumder
+    - 0.5:
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AUKDS Kalugala
+        batsman: R Mazumder
+    - 0.6:
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AUKDS Kalugala
+        batsman: R Mazumder
+    - 0.7:
+        non_striker: AUKDS Kalugala
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mazumder
+    - 1.1:
+        non_striker: R Mazumder
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AUKDS Kalugala
+    - 1.2:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Mazumder
+    - 1.3:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mazumder
+    - 1.4:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Mazumder
+    - 1.5:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mazumder
+    - 1.6:
+        non_striker: R Mazumder
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 1.7:
+        non_striker: R Mazumder
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 2.1:
+        non_striker: AUKDS Kalugala
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mazumder
+    - 2.2:
+        non_striker: R Mazumder
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 2.3:
+        non_striker: R Mazumder
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AUKDS Kalugala
+    - 2.4:
+        non_striker: AUKDS Kalugala
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mazumder
+    - 2.5:
+        non_striker: R Mazumder
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 2.6:
+        non_striker: R Mazumder
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AUKDS Kalugala
+    - 3.1:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Mazumder
+    - 3.2:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mazumder
+        wicket:
+          player_out: R Mazumder
+          fielders:
+          - Karanbir Singh
+          kind: caught
+    - 3.3:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Senn
+    - 3.4:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Senn
+    - 3.5:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Senn
+    - 3.6:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Senn
+    - 3.7:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Senn
+    - 3.8:
+        non_striker: AA Senn
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AUKDS Kalugala
+    - 3.9:
+        non_striker: AUKDS Kalugala
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Senn
+    - 4.1:
+        non_striker: AUKDS Kalugala
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Senn
+    - 4.2:
+        non_striker: AA Senn
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AUKDS Kalugala
+    - 4.3:
+        non_striker: AUKDS Kalugala
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Senn
+    - 4.4:
+        non_striker: AUKDS Kalugala
+        bowler: Waqar Zalmai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Senn
+    - 4.5:
+        non_striker: AUKDS Kalugala
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Senn
+    - 4.6:
+        non_striker: AUKDS Kalugala
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AA Senn
+    - 4.7:
+        non_striker: AUKDS Kalugala
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Senn
+    - 5.1:
+        non_striker: AUKDS Kalugala
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Senn
+    - 5.2:
+        non_striker: AUKDS Kalugala
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Senn
+    - 5.3:
+        non_striker: AUKDS Kalugala
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Senn
+    - 5.4:
+        non_striker: AUKDS Kalugala
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AA Senn
+    - 5.5:
+        non_striker: AUKDS Kalugala
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AA Senn
+    - 5.6:
+        non_striker: AA Senn
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 5.7:
+        non_striker: AA Senn
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 6.1:
+        non_striker: AUKDS Kalugala
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Senn
+        wicket:
+          player_out: AA Senn
+          kind: bowled
+    - 6.2:
+        non_striker: AUKDS Kalugala
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 6.3:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 6.4:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AUKDS Kalugala
+    - 6.5:
+        non_striker: AUKDS Kalugala
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 6.6:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 7.1:
+        non_striker: AUKDS Kalugala
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 7.2:
+        non_striker: MPGT Ketiyage
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AUKDS Kalugala
+    - 7.3:
+        non_striker: MPGT Ketiyage
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 7.4:
+        non_striker: MPGT Ketiyage
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AUKDS Kalugala
+    - 7.5:
+        non_striker: MPGT Ketiyage
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 7.6:
+        non_striker: MPGT Ketiyage
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AUKDS Kalugala
+    - 8.1:
+        non_striker: AUKDS Kalugala
+        bowler: Bilal Zalmai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPGT Ketiyage
+    - 8.2:
+        non_striker: AUKDS Kalugala
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 8.3:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AUKDS Kalugala
+    - 8.4:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AUKDS Kalugala
+    - 8.5:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 8.6:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 8.7:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AUKDS Kalugala
+    - 9.1:
+        non_striker: MPGT Ketiyage
+        bowler: Karanbir Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AUKDS Kalugala
+    - 9.2:
+        non_striker: MPGT Ketiyage
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AUKDS Kalugala
+    - 9.3:
+        non_striker: MPGT Ketiyage
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 9.4:
+        non_striker: MPGT Ketiyage
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AUKDS Kalugala
+    - 9.5:
+        non_striker: MPGT Ketiyage
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AUKDS Kalugala
+    - 9.6:
+        non_striker: AUKDS Kalugala
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 9.7:
+        non_striker: AUKDS Kalugala
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 10.1:
+        non_striker: AUKDS Kalugala
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 10.2:
+        non_striker: AUKDS Kalugala
+        bowler: Irfan Safi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPGT Ketiyage
+    - 10.3:
+        non_striker: AUKDS Kalugala
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 10.4:
+        non_striker: MPGT Ketiyage
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AUKDS Kalugala
+    - 10.5:
+        non_striker: MPGT Ketiyage
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+    - 10.6:
+        non_striker: MPGT Ketiyage
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AUKDS Kalugala
+        wicket:
+          player_out: AUKDS Kalugala
+          fielders:
+          - KR Jha
+          kind: caught
+    - 10.7:
+        non_striker: MPGT Ketiyage
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adam Senn
+    - 11.1:
+        non_striker: Adam Senn
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 11.2:
+        non_striker: Adam Senn
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 11.3:
+        non_striker: Adam Senn
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+    - 11.4:
+        non_striker: Adam Senn
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MPGT Ketiyage
+    - 11.5:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Adam Senn
+    - 11.6:
+        non_striker: MPGT Ketiyage
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adam Senn
+    - 12.1:
+        non_striker: MPGT Ketiyage
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adam Senn
+    - 12.2:
+        non_striker: Adam Senn
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MPGT Ketiyage
+    - 12.3:
+        non_striker: Adam Senn
+        bowler: Karanbir Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MPGT Ketiyage
+    - 12.4:
+        non_striker: Adam Senn
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MPGT Ketiyage
+        wicket:
+          player_out: MPGT Ketiyage
+          fielders:
+          - I Asif
+          kind: caught
+    - 12.5:
+        non_striker: Adam Senn
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taranjit Singh
+    - 12.6:
+        non_striker: Taranjit Singh
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adam Senn
+    - 12.7:
+        non_striker: Taranjit Singh
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Adam Senn
+    - 13.1:
+        non_striker: Adam Senn
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjit Singh
+    - 13.2:
+        non_striker: Adam Senn
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjit Singh
+    - 13.3:
+        non_striker: Adam Senn
+        bowler: Irfan Safi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taranjit Singh
+    - 13.4:
+        non_striker: Adam Senn
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjit Singh
+        wicket:
+          player_out: Taranjit Singh
+          kind: bowled
+    - 13.5:
+        non_striker: Adam Senn
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karan Singh
+    - 13.6:
+        non_striker: Adam Senn
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan Singh
+    - 13.7:
+        non_striker: Adam Senn
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan Singh
+        wicket:
+          player_out: Karan Singh
+          kind: bowled
+    - 14.1:
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Shahi
+        batsman: Adam Senn
+    - 14.2:
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Shahi
+        batsman: Adam Senn
+    - 14.3:
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Shahi
+        batsman: Adam Senn
+    - 14.4:
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Shahi
+        batsman: Adam Senn
+    - 14.5:
+        non_striker: Adam Senn
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Shahi
+    - 14.6:
+        non_striker: A Shahi
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adam Senn
+    - 15.1:
+        non_striker: A Shahi
+        bowler: Irfan Safi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Adam Senn
+    - 15.2:
+        non_striker: A Shahi
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adam Senn
+        wicket:
+          player_out: Adam Senn
+          kind: bowled
+    - 15.3:
+        non_striker: A Shahi
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tharanga
+    - 15.4:
+        non_striker: A Shahi
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tharanga
+    - 15.5:
+        non_striker: S Tharanga
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Shahi
+    - 15.6:
+        non_striker: A Shahi
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tharanga
+    - 15.7:
+        non_striker: A Shahi
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tharanga
+    - 16.1:
+        non_striker: S Tharanga
+        bowler: KR Jha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Shahi
+    - 16.2:
+        non_striker: S Tharanga
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Shahi
+    - 16.3:
+        non_striker: S Tharanga
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Shahi
+    - 16.4:
+        non_striker: S Tharanga
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shahi
+    - 16.5:
+        non_striker: S Tharanga
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Shahi
+    - 16.6:
+        non_striker: S Tharanga
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Shahi
+    - 16.7:
+        non_striker: S Tharanga
+        bowler: KR Jha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Shahi
+    - 17.1:
+        non_striker: A Shahi
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tharanga
+    - 17.2:
+        non_striker: A Shahi
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Tharanga
+    - 17.3:
+        non_striker: S Tharanga
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Shahi
+    - 17.4:
+        non_striker: S Tharanga
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Shahi
+    - 17.5:
+        non_striker: S Tharanga
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Shahi
+        wicket:
+          player_out: A Shahi
+          kind: bowled
+    - 17.6:
+        non_striker: S Tharanga
+        bowler: Irfan Safi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Siriwardena
+    - 18.1:
+        non_striker: S Tharanga
+        bowler: Waqar Zalmai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Siriwardena
+    - 18.2:
+        non_striker: S Tharanga
+        bowler: Waqar Zalmai
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Siriwardena
+    - 18.3:
+        non_striker: R Siriwardena
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Tharanga
+    - 18.4:
+        non_striker: R Siriwardena
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tharanga
+    - 18.5:
+        non_striker: R Siriwardena
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Tharanga
+    - 18.6:
+        non_striker: R Siriwardena
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tharanga
+    - 18.7:
+        non_striker: R Siriwardena
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Tharanga
+    - 18.8:
+        non_striker: R Siriwardena
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Tharanga
+    - 19.1:
+        non_striker: S Tharanga
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Siriwardena
+    - 19.2:
+        non_striker: S Tharanga
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Siriwardena
+    - 19.3:
+        non_striker: R Siriwardena
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Tharanga
+        wicket:
+          player_out: S Tharanga
+          fielders:
+          - Amar Naeem
+          kind: caught
+    - 19.4:
+        non_striker: R Siriwardena
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lovedeep Singh
+    - 19.5:
+        non_striker: Lovedeep Singh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 4
+          batsman: 3
+        extras:
+          noballs: 1
+        batsman: R Siriwardena
+    - 19.6:
+        non_striker: R Siriwardena
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lovedeep Singh
+    - 19.7:
+        non_striker: Lovedeep Singh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Siriwardena
+- 2nd innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.2:
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.3:
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.4:
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.5:
+        non_striker: Karanbir Singh
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 0.6:
+        non_striker: Karanbir Singh
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 1.1:
+        non_striker: Bilal Zalmai
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karanbir Singh
+    - 1.2:
+        non_striker: Bilal Zalmai
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karanbir Singh
+        wicket:
+          player_out: Karanbir Singh
+          fielders:
+          - A Shahi
+          kind: caught
+    - 1.3:
+        non_striker: Bilal Zalmai
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Naeem
+    - 1.4:
+        non_striker: Bilal Zalmai
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Naeem
+    - 1.5:
+        non_striker: Bilal Zalmai
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Naeem
+    - 1.6:
+        non_striker: Amar Naeem
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 2.1:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 2.2:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 2.3:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 2.4:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+        wicket:
+          player_out: Bilal Zalmai
+          kind: hit wicket
+    - 2.5:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 2.6:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 3.1:
+        non_striker: A Randhawa
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amar Naeem
+    - 3.2:
+        non_striker: A Randhawa
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amar Naeem
+    - 3.3:
+        non_striker: Amar Naeem
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 3.4:
+        non_striker: Amar Naeem
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Randhawa
+    - 3.5:
+        non_striker: Amar Naeem
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Randhawa
+    - 3.6:
+        non_striker: Amar Naeem
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Randhawa
+    - 4.1:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+    - 4.2:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Randhawa
+        wicket:
+          player_out: A Randhawa
+          kind: bowled
+    - 4.3:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 4.4:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 4.5:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 4.6:
+        non_striker: Amar Naeem
+        bowler: Lovedeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 5.1:
+        non_striker: Aqib Iqbal
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amar Naeem
+    - 5.2:
+        non_striker: Aqib Iqbal
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amar Naeem
+        wicket:
+          player_out: Amar Naeem
+          fielders:
+          - AUKDS Kalugala
+          kind: caught
+    - 5.3:
+        non_striker: Aqib Iqbal
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 5.4:
+        non_striker: I Asif
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 5.5:
+        non_striker: I Asif
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 5.6:
+        non_striker: I Asif
+        bowler: MPGT Ketiyage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Iqbal
+    - 6.1:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Asif
+    - 6.2:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 6.3:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 6.4:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 6.5:
+        non_striker: I Asif
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 6.6:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 7.1:
+        non_striker: I Asif
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 7.2:
+        non_striker: I Asif
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Iqbal
+    - 7.3:
+        non_striker: I Asif
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 7.4:
+        non_striker: Aqib Iqbal
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Asif
+    - 7.5:
+        non_striker: Aqib Iqbal
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 7.6:
+        non_striker: Aqib Iqbal
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Asif
+    - 8.1:
+        non_striker: I Asif
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 8.2:
+        non_striker: I Asif
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 8.3:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Asif
+    - 8.4:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 8.5:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 8.6:
+        non_striker: I Asif
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 9.1:
+        non_striker: Aqib Iqbal
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 9.2:
+        non_striker: I Asif
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 9.3:
+        non_striker: Aqib Iqbal
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 9.4:
+        non_striker: Aqib Iqbal
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 9.5:
+        non_striker: Aqib Iqbal
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Asif
+    - 9.6:
+        non_striker: Aqib Iqbal
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 10.1:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 10.2:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 10.3:
+        non_striker: I Asif
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 10.4:
+        non_striker: I Asif
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 10.5:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 10.6:
+        non_striker: Aqib Iqbal
+        bowler: Adam Senn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 11.1:
+        non_striker: Aqib Iqbal
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 11.2:
+        non_striker: I Asif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 11.3:
+        non_striker: I Asif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Iqbal
+    - 11.4:
+        non_striker: I Asif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+        wicket:
+          player_out: Aqib Iqbal
+          fielders:
+          - AA Senn
+          kind: caught
+    - 11.5:
+        non_striker: I Asif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 11.6:
+        non_striker: Zeshan Arif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 12.1:
+        non_striker: Zeshan Arif
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 12.2:
+        non_striker: I Asif
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeshan Arif
+    - 12.3:
+        non_striker: I Asif
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeshan Arif
+    - 12.4:
+        non_striker: I Asif
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 12.5:
+        non_striker: Zeshan Arif
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Asif
+    - 12.6:
+        non_striker: Zeshan Arif
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 13.1:
+        non_striker: I Asif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 13.2:
+        non_striker: Zeshan Arif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Asif
+    - 13.3:
+        non_striker: Zeshan Arif
+        bowler: R Siriwardena
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Asif
+    - 13.4:
+        non_striker: Zeshan Arif
+        bowler: R Siriwardena
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Asif
+    - 13.5:
+        non_striker: I Asif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeshan Arif
+        wicket:
+          player_out: Zeshan Arif
+          fielders:
+          - AA Senn
+          kind: caught
+    - 13.6:
+        non_striker: I Asif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Safi
+    - 13.7:
+        non_striker: I Asif
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Irfan Safi
+    - 14.1:
+        non_striker: Irfan Safi
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Asif
+    - 14.2:
+        non_striker: I Asif
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Safi
+    - 14.3:
+        non_striker: Irfan Safi
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+    - 14.4:
+        non_striker: Irfan Safi
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Asif
+    - 14.5:
+        non_striker: Irfan Safi
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Asif
+        wicket:
+          player_out: I Asif
+          kind: bowled
+    - 14.6:
+        non_striker: Irfan Safi
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 15.1:
+        non_striker: Irfan Safi
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waqar Zalmai
+    - 15.2:
+        non_striker: Irfan Safi
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 15.3:
+        non_striker: Waqar Zalmai
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Safi
+    - 15.4:
+        non_striker: Waqar Zalmai
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Safi
+    - 15.5:
+        non_striker: Irfan Safi
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Zalmai
+    - 15.6:
+        non_striker: Irfan Safi
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Zalmai
+    - 16.1:
+        non_striker: Waqar Zalmai
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Safi
+    - 16.2:
+        non_striker: Waqar Zalmai
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Irfan Safi
+    - 16.3:
+        non_striker: Waqar Zalmai
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Irfan Safi
+    - 16.4:
+        non_striker: Waqar Zalmai
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Safi
+    - 16.5:
+        non_striker: Waqar Zalmai
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Safi
+    - 16.6:
+        non_striker: Waqar Zalmai
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Irfan Safi
+    - 17.1:
+        non_striker: Waqar Zalmai
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Irfan Safi
+        wicket:
+          player_out: Irfan Safi
+          fielders:
+          - AUKDS Kalugala
+          kind: caught
+    - 17.2:
+        non_striker: Waqar Zalmai
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Jha
+    - 17.3:
+        non_striker: Waqar Zalmai
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Jha
+        wicket:
+          player_out: KR Jha
+          fielders:
+          - AUKDS Kalugala
+          kind: caught
+    - 17.4:
+        non_striker: Waqar Zalmai
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Tariq
+    - 17.5:
+        non_striker: Umair Tariq
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Zalmai
+    - 17.6:
+        non_striker: Umair Tariq
+        bowler: A Shahi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 18.1:
+        non_striker: Umair Tariq
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Zalmai
+    - 18.2:
+        non_striker: Umair Tariq
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 18.3:
+        non_striker: Waqar Zalmai
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Tariq
+    - 18.4:
+        non_striker: Umair Tariq
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 18.5:
+        non_striker: Waqar Zalmai
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Tariq
+    - 18.6:
+        non_striker: Umair Tariq
+        bowler: Karan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 19.1:
+        non_striker: Umair Tariq
+        bowler: R Siriwardena
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waqar Zalmai
+    - 19.2:
+        non_striker: Umair Tariq
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Zalmai
+    - 19.3:
+        non_striker: Waqar Zalmai
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Tariq
+    - 19.4:
+        non_striker: Umair Tariq
+        bowler: R Siriwardena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Zalmai
+        wicket:
+          player_out: Waqar Zalmai
+          fielders:
+          - AA Senn
+          kind: caught

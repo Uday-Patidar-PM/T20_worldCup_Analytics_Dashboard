@@ -1,0 +1,2088 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Visakhapatnam
+  dates:
+  - '2026-01-28'
+  gender: male
+  match_type: T20
+  match_type_number: 3672
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 50
+  overs: 20
+  player_of_match:
+  - TL Seifert
+  players:
+    New Zealand:
+    - DP Conway
+    - TL Seifert
+    - R Ravindra
+    - GD Phillips
+    - MS Chapman
+    - DJ Mitchell
+    - MJ Santner
+    - ZGF Foulkes
+    - MJ Henry
+    - IS Sodhi
+    - JA Duffy
+    India:
+    - Abhishek Sharma
+    - SV Samson
+    - SA Yadav
+    - RK Singh
+    - HH Pandya
+    - S Dube
+    - Harshit Rana
+    - Ravi Bishnoi
+    - Arshdeep Singh
+    - JJ Bumrah
+    - Kuldeep Yadav
+  registry:
+    people:
+      Abhishek Sharma: f29185a1
+      Arshdeep Singh: 244048f6
+      DJ Mitchell: eade4650
+      DP Conway: df5a6881
+      GD Phillips: 9a46c4e5
+      HH Pandya: dbe50b21
+      Harshit Rana: 77b1aa15
+      IS Sodhi: 641ac5ff
+      J Madanagopal: 8275b04a
+      J Srinath: bad31fac
+      JA Duffy: dadbdb68
+      JJ Bumrah: 462411b3
+      KN Ananthapadmanabhan: 3144063a
+      Kuldeep Yadav: 8d2c70ad
+      MJ Henry: e84ac20c
+      MJ Santner: e4a0deae
+      MS Chapman: 7fa12533
+      Nitin Menon: e1d41d9e
+      R Pandit: 8a604384
+      R Ravindra: ba5e1069
+      RK Singh: 0a509d6b
+      Ravi Bishnoi: df064e1a
+      S Dube: a4e37e47
+      SA Yadav: 271f83cd
+      SV Samson: a4cc73aa
+      TL Seifert: 4663bd23
+      ZGF Foulkes: 30f92334
+  teams:
+  - New Zealand
+  - India
+  toss:
+    winner: India
+    decision: field
+  umpires:
+  - KN Ananthapadmanabhan
+  - R Pandit
+  venue: Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: TL Seifert
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.2:
+        non_striker: DP Conway
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 0.3:
+        non_striker: DP Conway
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 0.4:
+        non_striker: DP Conway
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 0.5:
+        non_striker: DP Conway
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 0.6:
+        non_striker: DP Conway
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.1:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.4:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.5:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: TL Seifert
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Conway
+    - 2.2:
+        non_striker: DP Conway
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.3:
+        non_striker: TL Seifert
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.4:
+        non_striker: TL Seifert
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.5:
+        non_striker: TL Seifert
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.6:
+        non_striker: DP Conway
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 3.1:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 3.2:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 3.3:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.4:
+        non_striker: DP Conway
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 3.5:
+        non_striker: TL Seifert
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 3.6:
+        non_striker: TL Seifert
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.1:
+        non_striker: DP Conway
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.2:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.3:
+        non_striker: DP Conway
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 4.4:
+        non_striker: DP Conway
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.5:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.6:
+        non_striker: DP Conway
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.1:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.2:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.3:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.4:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 5.5:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.6:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 6.1:
+        non_striker: DP Conway
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.2:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.3:
+        non_striker: DP Conway
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.4:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.5:
+        non_striker: DP Conway
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.6:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 7.1:
+        non_striker: DP Conway
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.2:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.3:
+        non_striker: DP Conway
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 7.4:
+        non_striker: DP Conway
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.5:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 7.6:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.1:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 8.2:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          fielders:
+          - RK Singh
+          kind: caught
+    - 8.3:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 8.4:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 8.5:
+        non_striker: R Ravindra
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.6:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 9.1:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          kind: caught and bowled
+    - 9.2:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 9.3:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.4:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.5:
+        non_striker: GD Phillips
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 9.6:
+        non_striker: GD Phillips
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 10.1:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.2:
+        non_striker: GD Phillips
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 10.3:
+        non_striker: GD Phillips
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 10.4:
+        non_striker: GD Phillips
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 10.5:
+        non_striker: GD Phillips
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.6:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 10.7:
+        non_striker: TL Seifert
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.1:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.2:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 11.3:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.4:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 11.5:
+        non_striker: TL Seifert
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.6:
+        non_striker: GD Phillips
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 12.1:
+        non_striker: GD Phillips
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 12.2:
+        non_striker: GD Phillips
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - RK Singh
+          kind: caught
+    - 12.3:
+        non_striker: GD Phillips
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 12.4:
+        non_striker: MS Chapman
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 12.5:
+        non_striker: MS Chapman
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.6:
+        non_striker: GD Phillips
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 13.1:
+        non_striker: MS Chapman
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 13.2:
+        non_striker: MS Chapman
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 13.3:
+        non_striker: GD Phillips
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 13.4:
+        non_striker: GD Phillips
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 13.5:
+        non_striker: MS Chapman
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - RK Singh
+          kind: caught
+    - 13.6:
+        non_striker: MS Chapman
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.7:
+        non_striker: DJ Mitchell
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 14.1:
+        non_striker: DJ Mitchell
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 14.2:
+        non_striker: MS Chapman
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.3:
+        non_striker: DJ Mitchell
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 14.4:
+        non_striker: DJ Mitchell
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 14.5:
+        non_striker: MS Chapman
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 14.6:
+        non_striker: MS Chapman
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 15.1:
+        non_striker: DJ Mitchell
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - Harshit Rana
+          kind: caught
+    - 15.2:
+        non_striker: DJ Mitchell
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 15.3:
+        non_striker: DJ Mitchell
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 15.4:
+        non_striker: DJ Mitchell
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 15.5:
+        non_striker: DJ Mitchell
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 15.6:
+        non_striker: DJ Mitchell
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 16.1:
+        non_striker: DJ Mitchell
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          fielders:
+          - HH Pandya
+          kind: run out
+    - 16.2:
+        non_striker: ZGF Foulkes
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 16.3:
+        non_striker: ZGF Foulkes
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 16.4:
+        non_striker: ZGF Foulkes
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 16.5:
+        non_striker: DJ Mitchell
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZGF Foulkes
+    - 16.6:
+        non_striker: ZGF Foulkes
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DJ Mitchell
+    - 17.1:
+        non_striker: ZGF Foulkes
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 17.2:
+        non_striker: DJ Mitchell
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZGF Foulkes
+    - 17.3:
+        non_striker: DJ Mitchell
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZGF Foulkes
+    - 17.4:
+        non_striker: DJ Mitchell
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZGF Foulkes
+    - 17.5:
+        non_striker: DJ Mitchell
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ZGF Foulkes
+    - 17.6:
+        non_striker: DJ Mitchell
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZGF Foulkes
+    - 17.7:
+        non_striker: DJ Mitchell
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZGF Foulkes
+        wicket:
+          player_out: ZGF Foulkes
+          fielders:
+          - RK Singh
+          kind: caught
+    - 18.1:
+        non_striker: MJ Henry
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 18.2:
+        non_striker: MJ Henry
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 18.3:
+        non_striker: MJ Henry
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 18.4:
+        non_striker: MJ Henry
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 18.5:
+        non_striker: MJ Henry
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 18.6:
+        non_striker: DJ Mitchell
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Henry
+    - 19.1:
+        non_striker: MJ Henry
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 19.2:
+        non_striker: DJ Mitchell
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 19.3:
+        non_striker: MJ Henry
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 19.4:
+        non_striker: MJ Henry
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 19.5:
+        non_striker: DJ Mitchell
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 19.6:
+        non_striker: MJ Henry
+        bowler: Harshit Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - DP Conway
+          kind: caught
+    - 0.2:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 0.3:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 0.4:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 0.5:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 0.6:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 1.1:
+        non_striker: SA Yadav
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.2:
+        non_striker: SA Yadav
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.3:
+        non_striker: SA Yadav
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 1.4:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 1.5:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 1.6:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          kind: caught and bowled
+    - 2.1:
+        non_striker: RK Singh
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 2.2:
+        non_striker: RK Singh
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 2.3:
+        non_striker: RK Singh
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 2.4:
+        non_striker: RK Singh
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 2.5:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 2.6:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 3.1:
+        non_striker: RK Singh
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 3.2:
+        non_striker: SV Samson
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 3.3:
+        non_striker: SV Samson
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 3.4:
+        non_striker: SV Samson
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 3.5:
+        non_striker: SV Samson
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 3.6:
+        non_striker: SV Samson
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 4.1:
+        non_striker: SV Samson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 4.2:
+        non_striker: RK Singh
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 4.3:
+        non_striker: SV Samson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 4.4:
+        non_striker: SV Samson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 4.5:
+        non_striker: SV Samson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 4.6:
+        non_striker: RK Singh
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 5.1:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 5.2:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 5.3:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 5.4:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 5.5:
+        non_striker: RK Singh
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 5.6:
+        non_striker: RK Singh
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 6.1:
+        non_striker: RK Singh
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 6.2:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 6.3:
+        non_striker: RK Singh
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 6.4:
+        non_striker: RK Singh
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          kind: bowled
+    - 6.5:
+        non_striker: RK Singh
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 6.6:
+        non_striker: HH Pandya
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 7.1:
+        non_striker: HH Pandya
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 7.2:
+        non_striker: HH Pandya
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 7.3:
+        non_striker: RK Singh
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 7.4:
+        non_striker: RK Singh
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 7.5:
+        non_striker: RK Singh
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 7.6:
+        non_striker: HH Pandya
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 8.1:
+        non_striker: HH Pandya
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 8.2:
+        non_striker: HH Pandya
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 8.3:
+        non_striker: HH Pandya
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 8.4:
+        non_striker: RK Singh
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - ZGF Foulkes
+          kind: caught
+    - 8.5:
+        non_striker: RK Singh
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 8.6:
+        non_striker: RK Singh
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 9.1:
+        non_striker: RK Singh
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 9.2:
+        non_striker: S Dube
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 9.3:
+        non_striker: S Dube
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 9.4:
+        non_striker: S Dube
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 9.5:
+        non_striker: S Dube
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 9.6:
+        non_striker: S Dube
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 10.1:
+        non_striker: RK Singh
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 10.2:
+        non_striker: S Dube
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 10.3:
+        non_striker: S Dube
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+        wicket:
+          player_out: RK Singh
+          kind: lbw
+    - 10.4:
+        non_striker: S Dube
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harshit Rana
+    - 10.5:
+        non_striker: Harshit Rana
+        bowler: ZGF Foulkes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+    - 10.6:
+        non_striker: Harshit Rana
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dube
+    - 10.7:
+        non_striker: Harshit Rana
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 11.1:
+        non_striker: Harshit Rana
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dube
+    - 11.2:
+        non_striker: Harshit Rana
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 11.3:
+        non_striker: Harshit Rana
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+    - 11.4:
+        non_striker: Harshit Rana
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 11.5:
+        non_striker: Harshit Rana
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 11.6:
+        non_striker: Harshit Rana
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 11.7:
+        non_striker: Harshit Rana
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 12.1:
+        non_striker: S Dube
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 12.2:
+        non_striker: S Dube
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harshit Rana
+    - 12.3:
+        non_striker: Harshit Rana
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 12.4:
+        non_striker: Harshit Rana
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 12.5:
+        non_striker: Harshit Rana
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 12.6:
+        non_striker: Harshit Rana
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 13.1:
+        non_striker: S Dube
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harshit Rana
+    - 13.2:
+        non_striker: Harshit Rana
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 13.3:
+        non_striker: Harshit Rana
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 13.4:
+        non_striker: S Dube
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harshit Rana
+    - 13.5:
+        non_striker: Harshit Rana
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 13.6:
+        non_striker: S Dube
+        bowler: ZGF Foulkes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Harshit Rana
+    - 13.7:
+        non_striker: S Dube
+        bowler: ZGF Foulkes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 14.1:
+        non_striker: Harshit Rana
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 14.2:
+        non_striker: Harshit Rana
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 14.3:
+        non_striker: Harshit Rana
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 14.4:
+        non_striker: Harshit Rana
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 14.5:
+        non_striker: S Dube
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 14.6:
+        non_striker: S Dube
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+        wicket:
+          player_out: S Dube
+          fielders:
+          - MJ Henry
+          kind: run out
+    - 15.1:
+        non_striker: Harshit Rana
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravi Bishnoi
+    - 15.2:
+        non_striker: Ravi Bishnoi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harshit Rana
+    - 15.3:
+        non_striker: Harshit Rana
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ravi Bishnoi
+    - 15.4:
+        non_striker: Harshit Rana
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravi Bishnoi
+    - 15.5:
+        non_striker: Ravi Bishnoi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 15.6:
+        non_striker: Ravi Bishnoi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harshit Rana
+    - 16.1:
+        non_striker: Harshit Rana
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravi Bishnoi
+    - 16.2:
+        non_striker: Ravi Bishnoi
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+    - 16.3:
+        non_striker: Ravi Bishnoi
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harshit Rana
+        wicket:
+          player_out: Harshit Rana
+          fielders:
+          - R Ravindra
+          kind: caught
+    - 16.4:
+        non_striker: Ravi Bishnoi
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arshdeep Singh
+    - 16.5:
+        non_striker: Ravi Bishnoi
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arshdeep Singh
+        wicket:
+          player_out: Arshdeep Singh
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 16.6:
+        non_striker: Ravi Bishnoi
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Bumrah
+    - 17.1:
+        non_striker: JJ Bumrah
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 17.2:
+        non_striker: JJ Bumrah
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 17.3:
+        non_striker: JJ Bumrah
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ravi Bishnoi
+    - 17.4:
+        non_striker: JJ Bumrah
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravi Bishnoi
+    - 17.5:
+        non_striker: Ravi Bishnoi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bumrah
+        wicket:
+          player_out: JJ Bumrah
+          fielders:
+          - IS Sodhi
+          kind: caught
+    - 17.6:
+        non_striker: Ravi Bishnoi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 18.1:
+        non_striker: Kuldeep Yadav
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravi Bishnoi
+    - 18.2:
+        non_striker: Ravi Bishnoi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 18.3:
+        non_striker: Kuldeep Yadav
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ravi Bishnoi
+    - 18.4:
+        non_striker: Ravi Bishnoi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+        wicket:
+          player_out: Kuldeep Yadav
+          fielders:
+          - TL Seifert
+          kind: caught

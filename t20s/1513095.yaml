@@ -1,0 +1,2212 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abuja
+  dates:
+  - '2025-12-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3621
+  outcome:
+    winner: Rwanda
+    by:
+      runs: 23
+  overs: 20
+  player_of_match:
+  - D Ndikubwimana
+  players:
+    Rwanda:
+    - Hamza Khan
+    - D Ndikubwimana
+    - E Rukiriza
+    - I Niyomugabo
+    - D Gumyusenge
+    - O Tuyisenge
+    - O Manishimwe
+    - JM Iradukunda
+    - Muhammad Nadir
+    - Z Bimenyimana
+    - I Ntirenganya
+    Nigeria:
+    - Selim Salau
+    - Ali Rahmon
+    - Sulaimon Runsewe
+    - I Danladi
+    - SA Okpe
+    - P Useni
+    - VD Adewoye
+    - K Boniface
+    - IO Okpe
+    - E Ndubudem
+    - O Isiyaku
+  registry:
+    people:
+      Ali Rahmon: c9c19700
+      D Gumyusenge: eeb78e0a
+      D Ndikubwimana: 3cbedf51
+      E Ndubudem: f3e65a4b
+      E Rukiriza: 3ac13a94
+      Habib Enesi: fb35ab1f
+      Hamza Khan: 44a5f2b2
+      I Danladi: c156cc1f
+      I Niyomugabo: 72bf5103
+      I Ntirenganya: e73f6c4b
+      IO Okpe: 1c5c3dce
+      JM Iradukunda: f58295c2
+      K Boniface: a89433c5
+      Kehinde Olanbiwonnu: e7e9f2cd
+      Muhammad Nadir: '090f96e4'
+      O Isiyaku: 4a0a532f
+      O Manishimwe: fb31ca49
+      O Tuyisenge: e6a6888f
+      P Useni: 71fa64d6
+      Ramon Adelakun: 2cf9e146
+      SA Okpe: 681f522f
+      Selim Salau: d18d3a0f
+      Sulaimon Runsewe: c25d26dc
+      Tonye Timinadi: 5cc0fccb
+      VD Adewoye: 45a34a2d
+      Z Bimenyimana: ba57fb08
+  teams:
+  - Rwanda
+  - Nigeria
+  toss:
+    winner: Nigeria
+    decision: field
+  umpires:
+  - Habib Enesi
+  - Kehinde Olanbiwonnu
+  venue: Nigeria Cricket Federation Oval 1, Abuja
+innings:
+- 1st innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Ndikubwimana
+        batsman: Hamza Khan
+    - 0.2:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Ndikubwimana
+        batsman: Hamza Khan
+    - 0.3:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Ndikubwimana
+        batsman: Hamza Khan
+    - 0.4:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Ndikubwimana
+        batsman: Hamza Khan
+    - 0.5:
+        non_striker: Hamza Khan
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ndikubwimana
+    - 0.6:
+        non_striker: Hamza Khan
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 1.1:
+        non_striker: D Ndikubwimana
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 1.2:
+        non_striker: D Ndikubwimana
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 1.3:
+        non_striker: Hamza Khan
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 1.4:
+        non_striker: D Ndikubwimana
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 1.5:
+        non_striker: D Ndikubwimana
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 1.6:
+        non_striker: D Ndikubwimana
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 2.1:
+        non_striker: Hamza Khan
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 2.2:
+        non_striker: Hamza Khan
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 2.3:
+        non_striker: Hamza Khan
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 2.4:
+        non_striker: Hamza Khan
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 2.5:
+        non_striker: Hamza Khan
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 2.6:
+        non_striker: Hamza Khan
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 3.1:
+        non_striker: D Ndikubwimana
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 3.2:
+        non_striker: Hamza Khan
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 3.3:
+        non_striker: D Ndikubwimana
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 3.4:
+        non_striker: D Ndikubwimana
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 3.5:
+        non_striker: D Ndikubwimana
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 3.6:
+        non_striker: Hamza Khan
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 4.1:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 4.2:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 4.3:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 4.4:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 4.5:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 4.6:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 5.1:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 5.2:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 5.3:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 5.4:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 5.5:
+        non_striker: D Ndikubwimana
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 5.6:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 6.1:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 6.2:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 6.3:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 6.4:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 6.5:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 6.6:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.1:
+        non_striker: D Ndikubwimana
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 7.2:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.3:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.4:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.5:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 7.6:
+        non_striker: Hamza Khan
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 8.1:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 8.2:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 8.3:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 8.4:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 8.5:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 8.6:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 9.1:
+        non_striker: Hamza Khan
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 9.2:
+        non_striker: Hamza Khan
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 9.3:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 9.4:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 9.5:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 9.6:
+        non_striker: Hamza Khan
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 10.1:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 10.2:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 10.3:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 10.4:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ndikubwimana
+    - 10.5:
+        non_striker: Hamza Khan
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 10.6:
+        non_striker: D Ndikubwimana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 11.1:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 11.2:
+        non_striker: Hamza Khan
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 11.3:
+        non_striker: Hamza Khan
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 11.4:
+        non_striker: Hamza Khan
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 11.5:
+        non_striker: Hamza Khan
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 11.6:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hamza Khan
+    - 11.7:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 12.1:
+        non_striker: D Ndikubwimana
+        bowler: K Boniface
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Hamza Khan
+    - 12.2:
+        non_striker: Hamza Khan
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 12.3:
+        non_striker: Hamza Khan
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 12.4:
+        non_striker: D Ndikubwimana
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 12.5:
+        non_striker: Hamza Khan
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 12.6:
+        non_striker: D Ndikubwimana
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 13.1:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 13.2:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 13.3:
+        non_striker: Hamza Khan
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 13.4:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+        wicket:
+          player_out: Hamza Khan
+          fielders:
+          - O Isiyaku
+          kind: caught
+    - 13.5:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 13.6:
+        non_striker: E Rukiriza
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 14.1:
+        non_striker: D Ndikubwimana
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 14.2:
+        non_striker: E Rukiriza
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 14.3:
+        non_striker: E Rukiriza
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ndikubwimana
+    - 14.4:
+        non_striker: E Rukiriza
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 14.5:
+        non_striker: D Ndikubwimana
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Rukiriza
+    - 14.6:
+        non_striker: D Ndikubwimana
+        bowler: K Boniface
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 15.1:
+        non_striker: E Rukiriza
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 15.2:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 15.3:
+        non_striker: E Rukiriza
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ndikubwimana
+    - 15.4:
+        non_striker: D Ndikubwimana
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Rukiriza
+    - 15.5:
+        non_striker: E Rukiriza
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+        wicket:
+          player_out: D Ndikubwimana
+          kind: caught and bowled
+    - 15.6:
+        non_striker: E Rukiriza
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Niyomugabo
+    - 16.1:
+        non_striker: I Niyomugabo
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+    - 16.2:
+        non_striker: I Niyomugabo
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Rukiriza
+        wicket:
+          player_out: E Rukiriza
+          fielders:
+          - P Useni
+          kind: caught
+    - 16.3:
+        non_striker: I Niyomugabo
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 16.4:
+        non_striker: I Niyomugabo
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+        wicket:
+          player_out: D Gumyusenge
+          fielders:
+          - Sulaimon Runsewe
+          kind: caught
+    - 16.5:
+        non_striker: I Niyomugabo
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Tuyisenge
+    - 16.6:
+        non_striker: I Niyomugabo
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 17.1:
+        non_striker: I Niyomugabo
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 17.2:
+        non_striker: O Tuyisenge
+        bowler: IO Okpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Niyomugabo
+    - 17.3:
+        non_striker: I Niyomugabo
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 17.4:
+        non_striker: O Tuyisenge
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Niyomugabo
+    - 17.5:
+        non_striker: O Tuyisenge
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Niyomugabo
+    - 17.6:
+        non_striker: O Tuyisenge
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 18.1:
+        non_striker: O Tuyisenge
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Niyomugabo
+    - 18.2:
+        non_striker: O Tuyisenge
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Niyomugabo
+    - 18.3:
+        non_striker: O Tuyisenge
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 18.4:
+        non_striker: I Niyomugabo
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Tuyisenge
+        wicket:
+          player_out: O Tuyisenge
+          kind: lbw
+    - 18.5:
+        non_striker: I Niyomugabo
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Manishimwe
+    - 18.6:
+        non_striker: I Niyomugabo
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Manishimwe
+    - 19.1:
+        non_striker: I Niyomugabo
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Manishimwe
+        wicket:
+          player_out: O Manishimwe
+          kind: lbw
+    - 19.2:
+        non_striker: I Niyomugabo
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Iradukunda
+    - 19.3:
+        non_striker: I Niyomugabo
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Iradukunda
+    - 19.4:
+        non_striker: I Niyomugabo
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Iradukunda
+    - 19.5:
+        non_striker: I Niyomugabo
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Iradukunda
+        wicket:
+          player_out: JM Iradukunda
+          fielders:
+          - Sulaimon Runsewe
+          - IO Okpe
+          kind: run out
+    - 19.6:
+        non_striker: Muhammad Nadir
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+        wicket:
+          player_out: I Niyomugabo
+          fielders:
+          - Sulaimon Runsewe
+          kind: run out
+- 2nd innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ali Rahmon
+        batsman: Selim Salau
+    - 0.2:
+        non_striker: Selim Salau
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 0.3:
+        non_striker: Selim Salau
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Rahmon
+    - 0.4:
+        non_striker: Selim Salau
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 0.5:
+        non_striker: Selim Salau
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 0.6:
+        non_striker: Ali Rahmon
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+    - 1.1:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 1.2:
+        non_striker: Ali Rahmon
+        bowler: I Ntirenganya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Selim Salau
+    - 1.3:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 1.4:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 1.5:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Rahmon
+    - 1.6:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 1.7:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 1.8:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Rahmon
+    - 1.9:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 2.1:
+        non_striker: Ali Rahmon
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+    - 2.2:
+        non_striker: Ali Rahmon
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Selim Salau
+    - 2.3:
+        non_striker: Selim Salau
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 2.4:
+        non_striker: Selim Salau
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 2.5:
+        non_striker: Selim Salau
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 2.6:
+        non_striker: Selim Salau
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 3.1:
+        non_striker: Ali Rahmon
+        bowler: JM Iradukunda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Selim Salau
+    - 3.2:
+        non_striker: Ali Rahmon
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Selim Salau
+    - 3.3:
+        non_striker: Selim Salau
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 3.4:
+        non_striker: Ali Rahmon
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+    - 3.5:
+        non_striker: Ali Rahmon
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Selim Salau
+    - 3.6:
+        non_striker: Selim Salau
+        bowler: JM Iradukunda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Rahmon
+    - 3.7:
+        non_striker: Selim Salau
+        bowler: JM Iradukunda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Rahmon
+    - 3.8:
+        non_striker: Selim Salau
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 3.9:
+        non_striker: Selim Salau
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 4.1:
+        non_striker: Ali Rahmon
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Selim Salau
+    - 4.2:
+        non_striker: Selim Salau
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 4.3:
+        non_striker: Selim Salau
+        bowler: Muhammad Nadir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Rahmon
+    - 4.4:
+        non_striker: Selim Salau
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 4.5:
+        non_striker: Selim Salau
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 4.6:
+        non_striker: Selim Salau
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 4.7:
+        non_striker: Selim Salau
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 5.1:
+        non_striker: Ali Rahmon
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Selim Salau
+    - 5.2:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 5.3:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 5.4:
+        non_striker: Selim Salau
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+        wicket:
+          player_out: Selim Salau
+          fielders:
+          - JM Iradukunda
+          kind: run out
+    - 5.5:
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sulaimon Runsewe
+        batsman: Ali Rahmon
+    - 5.6:
+        non_striker: Ali Rahmon
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 6.1:
+        non_striker: Sulaimon Runsewe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 6.2:
+        non_striker: Sulaimon Runsewe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 6.3:
+        non_striker: Sulaimon Runsewe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 6.4:
+        non_striker: Sulaimon Runsewe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+        wicket:
+          player_out: Ali Rahmon
+          kind: bowled
+    - 6.5:
+        non_striker: Sulaimon Runsewe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 6.6:
+        non_striker: Sulaimon Runsewe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 7.1:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 7.2:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 7.3:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 7.4:
+        non_striker: Sulaimon Runsewe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 7.5:
+        non_striker: Sulaimon Runsewe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 7.6:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 8.1:
+        non_striker: Sulaimon Runsewe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 8.2:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 8.3:
+        non_striker: Sulaimon Runsewe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 8.4:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 8.5:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sulaimon Runsewe
+    - 8.6:
+        non_striker: Sulaimon Runsewe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 9.1:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sulaimon Runsewe
+    - 9.2:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 9.3:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+        wicket:
+          player_out: Sulaimon Runsewe
+          kind: lbw
+    - 9.4:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 9.5:
+        non_striker: SA Okpe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 9.6:
+        non_striker: SA Okpe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 10.1:
+        non_striker: SA Okpe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 10.2:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 10.3:
+        non_striker: SA Okpe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 10.4:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 10.5:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 10.6:
+        non_striker: SA Okpe
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 11.1:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 11.2:
+        non_striker: SA Okpe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 11.3:
+        non_striker: SA Okpe
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 11.4:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+        wicket:
+          player_out: SA Okpe
+          fielders:
+          - E Rukiriza
+          kind: caught
+    - 11.5:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Useni
+    - 11.6:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+    - 11.7:
+        non_striker: I Danladi
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 12.1:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Useni
+    - 12.2:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Useni
+    - 12.3:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 12.4:
+        non_striker: P Useni
+        bowler: E Rukiriza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Danladi
+    - 12.5:
+        non_striker: P Useni
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 12.6:
+        non_striker: I Danladi
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 12.7:
+        non_striker: P Useni
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 13.1:
+        non_striker: I Danladi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+        wicket:
+          player_out: P Useni
+          kind: bowled
+    - 13.2:
+        non_striker: I Danladi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 13.3:
+        non_striker: I Danladi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+        wicket:
+          player_out: VD Adewoye
+          fielders:
+          - O Manishimwe
+          kind: caught
+    - 13.4:
+        non_striker: I Danladi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Boniface
+    - 13.5:
+        non_striker: K Boniface
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 13.6:
+        non_striker: K Boniface
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 14.1:
+        non_striker: I Danladi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Boniface
+    - 14.2:
+        non_striker: I Danladi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Boniface
+    - 14.3:
+        non_striker: K Boniface
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Danladi
+    - 14.4:
+        non_striker: K Boniface
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 14.5:
+        non_striker: I Danladi
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Boniface
+    - 14.6:
+        non_striker: K Boniface
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 15.1:
+        non_striker: K Boniface
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 15.2:
+        non_striker: I Danladi
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Boniface
+    - 15.3:
+        non_striker: I Danladi
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Boniface
+    - 15.4:
+        non_striker: K Boniface
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 15.5:
+        non_striker: K Boniface
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+        wicket:
+          player_out: I Danladi
+          fielders:
+          - O Tuyisenge
+          kind: run out
+    - 15.6:
+        non_striker: IO Okpe
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Boniface
+    - 16.1:
+        non_striker: IO Okpe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Boniface
+        wicket:
+          player_out: K Boniface
+          fielders:
+          - D Ndikubwimana
+          kind: caught
+    - 16.2:
+        non_striker: IO Okpe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ndubudem
+        wicket:
+          player_out: E Ndubudem
+          kind: bowled
+    - 16.3:
+        non_striker: IO Okpe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 16.4:
+        non_striker: IO Okpe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 16.5:
+        non_striker: IO Okpe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 16.6:
+        non_striker: IO Okpe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Isiyaku
+    - 16.7:
+        non_striker: IO Okpe
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 17.1:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 17.2:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IO Okpe
+    - 17.3:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IO Okpe
+    - 17.4:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 17.5:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 17.6:
+        non_striker: IO Okpe
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 18.1:
+        non_striker: O Isiyaku
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 18.2:
+        non_striker: IO Okpe
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Isiyaku
+    - 18.3:
+        non_striker: O Isiyaku
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 18.4:
+        non_striker: O Isiyaku
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 18.5:
+        non_striker: O Isiyaku
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 18.6:
+        non_striker: IO Okpe
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 19.1:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 19.2:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 19.3:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IO Okpe
+    - 19.4:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IO Okpe
+    - 19.5:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 19.6:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IO Okpe
+    - 19.7:
+        non_striker: O Isiyaku
+        bowler: JM Iradukunda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe

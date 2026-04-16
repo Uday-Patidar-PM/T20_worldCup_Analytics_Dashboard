@@ -1,0 +1,2002 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Accra
+  dates:
+  - '2026-03-28'
+  gender: male
+  match_type: T20
+  match_type_number: 3791
+  outcome:
+    winner: Malawi
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Sami Sohail
+  players:
+    Seychelles:
+    - STRA de Silva
+    - TKP Rajapaksha
+    - Mohomed Saddam
+    - Mazharul Islam
+    - SR Mohan
+    - S Pillay
+    - D Kalvin
+    - Jobayer Hossen
+    - HL Harji
+    - Thilina Silva
+    - S Rukmal
+    Malawi:
+    - D Kansonkho
+    - Sami Sohail
+    - M Choamba
+    - A Limdawala
+    - G Kansonkho
+    - SZ Vayani
+    - B Balala
+    - D Jakiel
+    - K Thuchila
+    - T Makaya
+    - B Pondani
+  registry:
+    people:
+      A Limdawala: 2bcbcac3
+      B Balala: a2f8e873
+      B Pondani: e5117568
+      Claus Schumacher: 85645e62
+      D Jakiel: 8b7ce771
+      D Kalvin: 895ae8b6
+      D Kansonkho: 45ca12a7
+      G Kansonkho: f3ca5af8
+      HL Harji: 29663fda
+      Habib Enesi: fb35ab1f
+      Jobayer Hossen: 656fc15b
+      K Thuchila: af42d9f2
+      M Choamba: 5570c4c1
+      M Viswanathan: dd9ab45d
+      Mazharul Islam: 30564b3e
+      Mohomed Saddam: e1043e7b
+      O Chirombe: 6345307f
+      P Sizara: 5d45bb7f
+      S Pillay: 4086c5cb
+      S Rukmal: f5be7b08
+      SR Mohan: '58533699'
+      STRA de Silva: 21fe743b
+      SZ Vayani: a4afc486
+      Sami Sohail: 602ebd4c
+      T Makaya: e3f53051
+      TKP Rajapaksha: b5dcec37
+      Thilina Silva: f0ad7a75
+  teams:
+  - Seychelles
+  - Malawi
+  toss:
+    winner: Malawi
+    decision: field
+  umpires:
+  - Claus Schumacher
+  - Habib Enesi
+  venue: Achimota Senior Secondary School A Field, Accra
+innings:
+- 1st innings:
+    team: Seychelles
+    deliveries:
+    - 0.1:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TKP Rajapaksha
+        batsman: STRA de Silva
+    - 0.2:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TKP Rajapaksha
+        batsman: STRA de Silva
+    - 0.3:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TKP Rajapaksha
+        batsman: STRA de Silva
+    - 0.4:
+        non_striker: TKP Rajapaksha
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+        wicket:
+          player_out: STRA de Silva
+          fielders:
+          - B Balala
+          kind: caught
+    - 0.5:
+        non_striker: TKP Rajapaksha
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohomed Saddam
+        wicket:
+          player_out: Mohomed Saddam
+          kind: lbw
+    - 0.6:
+        non_striker: TKP Rajapaksha
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 1.1:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 1.2:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 1.3:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 1.4:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 1.5:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 1.6:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 2.1:
+        non_striker: TKP Rajapaksha
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 2.2:
+        non_striker: TKP Rajapaksha
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 2.3:
+        non_striker: Mazharul Islam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.4:
+        non_striker: Mazharul Islam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.5:
+        non_striker: Mazharul Islam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.6:
+        non_striker: Mazharul Islam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 3.1:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 3.2:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.3:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.4:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.5:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 3.6:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 4.1:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TKP Rajapaksha
+    - 4.2:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 4.3:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 4.4:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 4.5:
+        non_striker: TKP Rajapaksha
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 4.6:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 4.7:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 5.1:
+        non_striker: TKP Rajapaksha
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 5.2:
+        non_striker: TKP Rajapaksha
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 5.3:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 5.4:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 5.5:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 5.6:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TKP Rajapaksha
+    - 5.7:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 6.1:
+        non_striker: TKP Rajapaksha
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 6.2:
+        non_striker: TKP Rajapaksha
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 6.3:
+        non_striker: TKP Rajapaksha
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 6.4:
+        non_striker: TKP Rajapaksha
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 6.5:
+        non_striker: TKP Rajapaksha
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 6.6:
+        non_striker: TKP Rajapaksha
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 7.1:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 7.2:
+        non_striker: TKP Rajapaksha
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 7.3:
+        non_striker: TKP Rajapaksha
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 7.4:
+        non_striker: TKP Rajapaksha
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 7.5:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 7.6:
+        non_striker: TKP Rajapaksha
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 8.1:
+        non_striker: Mazharul Islam
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 8.2:
+        non_striker: TKP Rajapaksha
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 8.3:
+        non_striker: TKP Rajapaksha
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 8.4:
+        non_striker: TKP Rajapaksha
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 8.5:
+        non_striker: TKP Rajapaksha
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mazharul Islam
+    - 8.6:
+        non_striker: TKP Rajapaksha
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 9.1:
+        non_striker: TKP Rajapaksha
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 9.2:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 9.3:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 9.4:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 9.5:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 9.6:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 10.1:
+        non_striker: Mazharul Islam
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 10.2:
+        non_striker: Mazharul Islam
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 10.3:
+        non_striker: Mazharul Islam
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 10.4:
+        non_striker: Mazharul Islam
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 10.5:
+        non_striker: Mazharul Islam
+        bowler: SZ Vayani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TKP Rajapaksha
+    - 10.6:
+        non_striker: Mazharul Islam
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 10.7:
+        non_striker: TKP Rajapaksha
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 11.1:
+        non_striker: TKP Rajapaksha
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 11.2:
+        non_striker: TKP Rajapaksha
+        bowler: M Choamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mazharul Islam
+    - 11.3:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 11.4:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 11.5:
+        non_striker: TKP Rajapaksha
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 11.6:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 12.1:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 12.2:
+        non_striker: TKP Rajapaksha
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 12.3:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 12.4:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 12.5:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+        wicket:
+          player_out: TKP Rajapaksha
+          fielders:
+          - G Kansonkho
+          kind: caught
+    - 12.6:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 13.1:
+        non_striker: SR Mohan
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 13.2:
+        non_striker: SR Mohan
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 13.3:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 13.4:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 13.5:
+        non_striker: SR Mohan
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 13.6:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 14.1:
+        non_striker: SR Mohan
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 14.2:
+        non_striker: SR Mohan
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 14.3:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mohan
+    - 14.4:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mohan
+    - 14.5:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 14.6:
+        non_striker: Mazharul Islam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 15.1:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+        wicket:
+          player_out: SR Mohan
+          kind: lbw
+    - 15.2:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillay
+    - 15.3:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillay
+    - 15.4:
+        non_striker: S Pillay
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 15.5:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillay
+    - 15.6:
+        non_striker: Mazharul Islam
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillay
+    - 16.1:
+        non_striker: S Pillay
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 16.2:
+        non_striker: Mazharul Islam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillay
+    - 16.3:
+        non_striker: S Pillay
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 16.4:
+        non_striker: Mazharul Islam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pillay
+    - 16.5:
+        non_striker: Mazharul Islam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pillay
+    - 16.6:
+        non_striker: Mazharul Islam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillay
+    - 17.1:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillay
+    - 17.2:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillay
+        wicket:
+          player_out: S Pillay
+          kind: bowled
+    - 17.3:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+        wicket:
+          player_out: D Kalvin
+          kind: bowled
+    - 17.4:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 17.5:
+        non_striker: Jobayer Hossen
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 17.6:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 18.1:
+        non_striker: Jobayer Hossen
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 18.2:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 18.3:
+        non_striker: Jobayer Hossen
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 18.4:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jobayer Hossen
+    - 18.5:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jobayer Hossen
+    - 18.6:
+        non_striker: Mazharul Islam
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jobayer Hossen
+    - 19.1:
+        non_striker: Jobayer Hossen
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 19.2:
+        non_striker: Mazharul Islam
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 19.3:
+        non_striker: Jobayer Hossen
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mazharul Islam
+    - 19.4:
+        non_striker: Jobayer Hossen
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 19.5:
+        non_striker: Jobayer Hossen
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+        wicket:
+          player_out: Mazharul Islam
+          kind: bowled
+    - 19.6:
+        non_striker: Jobayer Hossen
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HL Harji
+- 2nd innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sami Sohail
+        batsman: D Kansonkho
+    - 0.2:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sami Sohail
+        batsman: D Kansonkho
+    - 0.3:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sami Sohail
+        batsman: D Kansonkho
+    - 0.4:
+        non_striker: D Kansonkho
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 0.5:
+        non_striker: D Kansonkho
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 0.6:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Kansonkho
+    - 1.1:
+        non_striker: D Kansonkho
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 1.2:
+        non_striker: D Kansonkho
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 1.3:
+        non_striker: D Kansonkho
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 1.4:
+        non_striker: D Kansonkho
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 1.5:
+        non_striker: D Kansonkho
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 1.6:
+        non_striker: D Kansonkho
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 2.1:
+        non_striker: Sami Sohail
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kansonkho
+    - 2.2:
+        non_striker: Sami Sohail
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 2.3:
+        non_striker: Sami Sohail
+        bowler: HL Harji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Kansonkho
+    - 2.4:
+        non_striker: Sami Sohail
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 2.5:
+        non_striker: D Kansonkho
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 2.6:
+        non_striker: Sami Sohail
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+        wicket:
+          player_out: D Kansonkho
+          kind: bowled
+    - 2.7:
+        non_striker: Sami Sohail
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 3.1:
+        non_striker: M Choamba
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 3.2:
+        non_striker: M Choamba
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 3.3:
+        non_striker: Sami Sohail
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 3.4:
+        non_striker: Sami Sohail
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 3.5:
+        non_striker: Sami Sohail
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 3.6:
+        non_striker: M Choamba
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 4.1:
+        non_striker: Sami Sohail
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 4.2:
+        non_striker: M Choamba
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 4.3:
+        non_striker: M Choamba
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 4.4:
+        non_striker: Sami Sohail
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Choamba
+    - 4.5:
+        non_striker: Sami Sohail
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 4.6:
+        non_striker: M Choamba
+        bowler: HL Harji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 5.1:
+        non_striker: M Choamba
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 5.2:
+        non_striker: M Choamba
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 5.3:
+        non_striker: M Choamba
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 5.4:
+        non_striker: Sami Sohail
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 5.5:
+        non_striker: M Choamba
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 5.6:
+        non_striker: Sami Sohail
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 6.1:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Choamba
+    - 6.2:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 6.3:
+        non_striker: M Choamba
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 6.4:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 6.5:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 6.6:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 7.1:
+        non_striker: Sami Sohail
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 7.2:
+        non_striker: Sami Sohail
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 7.3:
+        non_striker: M Choamba
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 7.4:
+        non_striker: Sami Sohail
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 7.5:
+        non_striker: Sami Sohail
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 7.6:
+        non_striker: Sami Sohail
+        bowler: STRA de Silva
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: M Choamba
+    - 7.7:
+        non_striker: M Choamba
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 8.1:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Choamba
+    - 8.2:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 8.3:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 8.4:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 8.5:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 8.6:
+        non_striker: Sami Sohail
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Choamba
+    - 9.1:
+        non_striker: M Choamba
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 9.2:
+        non_striker: M Choamba
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+        wicket:
+          player_out: Sami Sohail
+          fielders:
+          - M Viswanathan (sub)
+          kind: caught
+    - 9.3:
+        non_striker: M Choamba
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 9.4:
+        non_striker: A Limdawala
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Choamba
+    - 9.5:
+        non_striker: A Limdawala
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 9.6:
+        non_striker: A Limdawala
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 10.1:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Choamba
+    - 10.2:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Choamba
+    - 10.3:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 10.4:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Choamba
+    - 10.5:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 10.6:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+        wicket:
+          player_out: M Choamba
+          fielders:
+          - S Rukmal
+          kind: caught
+    - 10.7:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 11.1:
+        non_striker: G Kansonkho
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Limdawala
+    - 11.2:
+        non_striker: G Kansonkho
+        bowler: STRA de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Limdawala
+    - 11.3:
+        non_striker: G Kansonkho
+        bowler: STRA de Silva
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Limdawala
+    - 11.4:
+        non_striker: A Limdawala
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 11.5:
+        non_striker: G Kansonkho
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 11.6:
+        non_striker: A Limdawala
+        bowler: STRA de Silva
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: G Kansonkho
+    - 11.7:
+        non_striker: G Kansonkho
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 11.8:
+        non_striker: G Kansonkho
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 11.9:
+        non_striker: G Kansonkho
+        bowler: STRA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 12.1:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+    - 12.2:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Limdawala
+    - 12.3:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 12.4:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 12.5:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 12.6:
+        non_striker: A Limdawala
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 13.1:
+        non_striker: G Kansonkho
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Limdawala
+    - 13.2:
+        non_striker: G Kansonkho
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+        wicket:
+          player_out: A Limdawala
+          kind: lbw
+    - 13.3:
+        non_striker: G Kansonkho
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 13.4:
+        non_striker: G Kansonkho
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Vayani
+    - 13.5:
+        non_striker: SZ Vayani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 13.6:
+        non_striker: SZ Vayani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 14.1:
+        non_striker: SZ Vayani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 14.2:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 14.3:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 14.4:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Vayani
+    - 14.5:
+        non_striker: SZ Vayani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 14.6:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 15.1:
+        non_striker: SZ Vayani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 15.2:
+        non_striker: G Kansonkho
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Vayani
+    - 15.3:
+        non_striker: SZ Vayani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 15.4:
+        non_striker: G Kansonkho
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Vayani
+    - 15.5:
+        non_striker: SZ Vayani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 15.6:
+        non_striker: SZ Vayani
+        bowler: Mazharul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 16.1:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Vayani
+    - 16.2:
+        non_striker: SZ Vayani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 16.3:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SZ Vayani
+    - 16.4:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Vayani
+    - 16.5:
+        non_striker: SZ Vayani
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 16.6:
+        non_striker: G Kansonkho
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SZ Vayani

@@ -1,0 +1,2177 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kandy
+  dates:
+  - '2026-02-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3701
+  outcome:
+    winner: Sri Lanka
+    by:
+      runs: 105
+  overs: 20
+  player_of_match:
+  - P Rathnayake
+  players:
+    Sri Lanka:
+    - P Nissanka
+    - K Mishara
+    - BKG Mendis
+    - P Rathnayake
+    - MD Shanaka
+    - PHKD Mendis
+    - DN Wellalage
+    - MADI Hemantha
+    - PVD Chameera
+    - M Theekshana
+    - M Pathirana
+    Oman:
+    - Aamir Kaleem
+    - Jatinder Singh
+    - Hammad Mirza
+    - Mohammad Nadeem
+    - Wasim Ali
+    - V Shukla
+    - J Ramanandi
+    - Nadeem Khan
+    - Sufyan Mehmood
+    - Shah Faisal
+    - Jay Odedra
+  registry:
+    people:
+      Aamir Kaleem: 7ecb9a14
+      Ahsan Raza: e0e5b209
+      Asif Yaqoob: 6b35790c
+      BKG Mendis: 5d1e7582
+      DA Cosker: aac9f784
+      DN Wellalage: 736123bb
+      Hammad Mirza: 0b7b78c6
+      J Ramanandi: f7ce2ff9
+      Jatinder Singh: b80dd12c
+      Jay Odedra: 526e006d
+      K Mishara: 65cebd5d
+      M Pathirana: 64839cb3
+      M Theekshana: f24c6701
+      MADI Hemantha: 58431ca0
+      MD Shanaka: 3ff033bb
+      Mohammad Nadeem: c5d7b244
+      Nadeem Khan: 8a28c5d4
+      P Nissanka: 8ee36b18
+      P Rathnayake: c1fdfb46
+      PHKD Mendis: '08548b13'
+      PVD Chameera: 327b58d3
+      RA Kettleborough: 4017868f
+      Shah Faisal: 4fe6be0c
+      Sufyan Mehmood: bf172ae6
+      V Shukla: 101b1180
+      WR Knights: 63cbf8d8
+      Wasim Ali: ea59139a
+  teams:
+  - Sri Lanka
+  - Oman
+  toss:
+    winner: Oman
+    decision: field
+  umpires:
+  - RA Kettleborough
+  - WR Knights
+  venue: Pallekele International Cricket Stadium
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: K Mishara
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 0.3:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 0.4:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 0.5:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 0.6:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 1.1:
+        non_striker: K Mishara
+        bowler: Jay Odedra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 1.2:
+        non_striker: K Mishara
+        bowler: Jay Odedra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: Jay Odedra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mishara
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: Jay Odedra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 1.5:
+        non_striker: P Nissanka
+        bowler: Jay Odedra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+        wicket:
+          player_out: K Mishara
+          kind: bowled
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: Jay Odedra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 1.7:
+        non_striker: P Nissanka
+        bowler: Jay Odedra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 2.1:
+        non_striker: BKG Mendis
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.2:
+        non_striker: BKG Mendis
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 2.3:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.3:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.4:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 3.6:
+        non_striker: P Nissanka
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 4.1:
+        non_striker: BKG Mendis
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 4.2:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.3:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.4:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.5:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: BKG Mendis
+    - 4.6:
+        non_striker: P Nissanka
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.1:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          kind: lbw
+    - 5.2:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 5.3:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 5.4:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 5.5:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 5.6:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 6.1:
+        non_striker: P Rathnayake
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.2:
+        non_striker: P Rathnayake
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.3:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 6.4:
+        non_striker: P Rathnayake
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.5:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 6.6:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 7.1:
+        non_striker: P Rathnayake
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 7.2:
+        non_striker: P Rathnayake
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.3:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 7.4:
+        non_striker: P Rathnayake
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 7.5:
+        non_striker: P Rathnayake
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 7.6:
+        non_striker: P Rathnayake
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 8.1:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 8.2:
+        non_striker: P Rathnayake
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.3:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 8.4:
+        non_striker: P Rathnayake
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 8.5:
+        non_striker: P Rathnayake
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 8.6:
+        non_striker: P Rathnayake
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 9.1:
+        non_striker: P Rathnayake
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 9.2:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 9.3:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 9.4:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 9.5:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 9.6:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: P Rathnayake
+    - 9.7:
+        non_striker: P Rathnayake
+        bowler: Wasim Ali
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: BKG Mendis
+    - 9.8:
+        non_striker: BKG Mendis
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 10.1:
+        non_striker: P Rathnayake
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 10.2:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 10.3:
+        non_striker: P Rathnayake
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 10.4:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 10.5:
+        non_striker: P Rathnayake
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 10.6:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 11.1:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 11.2:
+        non_striker: P Rathnayake
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 11.3:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Rathnayake
+    - 11.4:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 11.5:
+        non_striker: P Rathnayake
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 11.6:
+        non_striker: P Rathnayake
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 12.1:
+        non_striker: P Rathnayake
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 12.2:
+        non_striker: P Rathnayake
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 12.3:
+        non_striker: P Rathnayake
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 12.4:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 12.5:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 12.6:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 13.1:
+        non_striker: P Rathnayake
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 13.2:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 13.3:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+        wicket:
+          player_out: P Rathnayake
+          kind: bowled
+    - 13.4:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.5:
+        non_striker: MD Shanaka
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 13.6:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.1:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 14.2:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.3:
+        non_striker: MD Shanaka
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 14.4:
+        non_striker: MD Shanaka
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 14.5:
+        non_striker: MD Shanaka
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 14.6:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.1:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 15.2:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 15.3:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 15.4:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 15.5:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.6:
+        non_striker: MD Shanaka
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 16.1:
+        non_striker: MD Shanaka
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 16.2:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 16.3:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 16.4:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 16.5:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 16.6:
+        non_striker: BKG Mendis
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.1:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 17.2:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 17.3:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.4:
+        non_striker: MD Shanaka
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 17.5:
+        non_striker: BKG Mendis
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.6:
+        non_striker: MD Shanaka
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 18.1:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - Nadeem Khan
+          kind: caught
+    - 18.2:
+        non_striker: BKG Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - V Shukla
+          - J Ramanandi
+          kind: run out
+    - 18.3:
+        non_striker: PHKD Mendis
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 18.4:
+        non_striker: DN Wellalage
+        bowler: J Ramanandi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 18.5:
+        non_striker: DN Wellalage
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 18.6:
+        non_striker: DN Wellalage
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 18.7:
+        non_striker: DN Wellalage
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 19.1:
+        non_striker: PHKD Mendis
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 19.2:
+        non_striker: PHKD Mendis
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 19.3:
+        non_striker: PHKD Mendis
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 19.4:
+        non_striker: DN Wellalage
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 19.5:
+        non_striker: DN Wellalage
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PHKD Mendis
+    - 19.6:
+        non_striker: DN Wellalage
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PHKD Mendis
+- 2nd innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        non_striker: Jatinder Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+    - 0.2:
+        non_striker: Jatinder Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aamir Kaleem
+    - 0.3:
+        non_striker: Jatinder Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Aamir Kaleem
+    - 0.4:
+        non_striker: Jatinder Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Kaleem
+    - 0.5:
+        non_striker: Aamir Kaleem
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 0.6:
+        non_striker: Jatinder Singh
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Kaleem
+    - 0.7:
+        non_striker: Aamir Kaleem
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+        wicket:
+          player_out: Jatinder Singh
+          kind: bowled
+    - 1.1:
+        non_striker: Hammad Mirza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+        wicket:
+          player_out: Aamir Kaleem
+          kind: lbw
+    - 1.2:
+        non_striker: Hammad Mirza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 1.3:
+        non_striker: Hammad Mirza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 1.4:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 1.5:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hammad Mirza
+    - 1.6:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 2.1:
+        non_striker: Hammad Mirza
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nadeem
+    - 2.2:
+        non_striker: Hammad Mirza
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 2.3:
+        non_striker: Hammad Mirza
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nadeem
+    - 2.4:
+        non_striker: Hammad Mirza
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 2.5:
+        non_striker: Mohammad Nadeem
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 2.6:
+        non_striker: Mohammad Nadeem
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 2.7:
+        non_striker: Mohammad Nadeem
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 3.1:
+        non_striker: Hammad Mirza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 3.2:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 3.3:
+        non_striker: Hammad Mirza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 3.4:
+        non_striker: Hammad Mirza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 3.5:
+        non_striker: Hammad Mirza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 3.6:
+        non_striker: Hammad Mirza
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 4.1:
+        non_striker: Hammad Mirza
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 4.2:
+        non_striker: Hammad Mirza
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 4.3:
+        non_striker: Hammad Mirza
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 4.4:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 4.5:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hammad Mirza
+    - 4.6:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hammad Mirza
+    - 5.1:
+        non_striker: Hammad Mirza
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 5.2:
+        non_striker: Hammad Mirza
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Nadeem
+    - 5.3:
+        non_striker: Hammad Mirza
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 5.4:
+        non_striker: Mohammad Nadeem
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 5.5:
+        non_striker: Mohammad Nadeem
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+        wicket:
+          player_out: Hammad Mirza
+          fielders:
+          - K Mishara
+          kind: caught
+    - 5.6:
+        non_striker: Mohammad Nadeem
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 6.1:
+        non_striker: Wasim Ali
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 6.2:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 6.3:
+        non_striker: Wasim Ali
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 6.4:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 6.5:
+        non_striker: Wasim Ali
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 6.6:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 7.1:
+        non_striker: Mohammad Nadeem
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 7.2:
+        non_striker: Mohammad Nadeem
+        bowler: MD Shanaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Wasim Ali
+    - 7.3:
+        non_striker: Wasim Ali
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nadeem
+    - 7.4:
+        non_striker: Wasim Ali
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 7.5:
+        non_striker: Mohammad Nadeem
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 7.6:
+        non_striker: Mohammad Nadeem
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 8.1:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Wasim Ali
+    - 8.2:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 8.3:
+        non_striker: Wasim Ali
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 8.4:
+        non_striker: Wasim Ali
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 8.5:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 8.6:
+        non_striker: Wasim Ali
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 9.1:
+        non_striker: Wasim Ali
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 9.2:
+        non_striker: Wasim Ali
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 9.3:
+        non_striker: Wasim Ali
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 9.4:
+        non_striker: Wasim Ali
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 9.5:
+        non_striker: Mohammad Nadeem
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 9.6:
+        non_striker: Wasim Ali
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 10.1:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 10.2:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Wasim Ali
+    - 10.3:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Wasim Ali
+    - 10.4:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 10.5:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 10.6:
+        non_striker: Wasim Ali
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 11.1:
+        non_striker: Wasim Ali
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 11.2:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 11.3:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 11.4:
+        non_striker: Wasim Ali
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 11.5:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+        wicket:
+          player_out: Wasim Ali
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 11.6:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+        wicket:
+          player_out: V Shukla
+          fielders:
+          - K Mishara
+          kind: run out
+    - 12.1:
+        non_striker: J Ramanandi
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nadeem
+    - 12.2:
+        non_striker: J Ramanandi
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nadeem
+    - 12.3:
+        non_striker: J Ramanandi
+        bowler: MADI Hemantha
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Mohammad Nadeem
+    - 12.4:
+        non_striker: J Ramanandi
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 12.5:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ramanandi
+        wicket:
+          player_out: J Ramanandi
+          fielders:
+          - BKG Mendis
+          kind: stumped
+    - 12.6:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nadeem Khan
+    - 12.7:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 13.1:
+        non_striker: Nadeem Khan
+        bowler: PHKD Mendis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mohammad Nadeem
+    - 13.2:
+        non_striker: Nadeem Khan
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 13.3:
+        non_striker: Mohammad Nadeem
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+        wicket:
+          player_out: Nadeem Khan
+          fielders:
+          - PVD Chameera
+          kind: caught
+    - 13.4:
+        non_striker: Mohammad Nadeem
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 13.5:
+        non_striker: Sufyan Mehmood
+        bowler: PHKD Mendis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nadeem
+    - 13.6:
+        non_striker: Sufyan Mehmood
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 13.7:
+        non_striker: Sufyan Mehmood
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nadeem
+    - 13.8:
+        non_striker: Sufyan Mehmood
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+        wicket:
+          player_out: Sufyan Mehmood
+          fielders:
+          - BKG Mendis
+          - PHKD Mendis
+          kind: run out
+    - 14.1:
+        non_striker: Shah Faisal
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 14.2:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Faisal
+    - 14.3:
+        non_striker: Shah Faisal
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nadeem
+    - 14.4:
+        non_striker: Shah Faisal
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 14.5:
+        non_striker: Shah Faisal
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 14.6:
+        non_striker: Mohammad Nadeem
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Faisal
+    - 15.1:
+        non_striker: Shah Faisal
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 15.2:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Faisal
+    - 15.3:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Faisal
+    - 15.4:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Faisal
+    - 15.5:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Faisal
+    - 15.6:
+        non_striker: Mohammad Nadeem
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Faisal
+    - 16.1:
+        non_striker: Shah Faisal
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 16.2:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Faisal
+        wicket:
+          player_out: Shah Faisal
+          fielders:
+          - P Nissanka
+          kind: caught
+    - 16.3:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jay Odedra
+    - 16.4:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jay Odedra
+    - 16.5:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jay Odedra
+    - 16.6:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jay Odedra
+    - 17.1:
+        non_striker: Jay Odedra
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 17.2:
+        non_striker: Mohammad Nadeem
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jay Odedra
+    - 17.3:
+        non_striker: Mohammad Nadeem
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jay Odedra
+    - 17.4:
+        non_striker: Jay Odedra
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 17.5:
+        non_striker: Jay Odedra
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 17.6:
+        non_striker: Mohammad Nadeem
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jay Odedra
+    - 18.1:
+        non_striker: Jay Odedra
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 18.2:
+        non_striker: Jay Odedra
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 18.3:
+        non_striker: Jay Odedra
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 18.4:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jay Odedra
+    - 18.5:
+        non_striker: Mohammad Nadeem
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jay Odedra
+    - 18.6:
+        non_striker: Jay Odedra
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 19.1:
+        non_striker: Jay Odedra
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 19.2:
+        non_striker: Mohammad Nadeem
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jay Odedra
+    - 19.3:
+        non_striker: Mohammad Nadeem
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jay Odedra
+    - 19.4:
+        non_striker: Jay Odedra
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nadeem
+    - 19.5:
+        non_striker: Jay Odedra
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 19.6:
+        non_striker: Mohammad Nadeem
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jay Odedra
+    - 19.7:
+        non_striker: Jay Odedra
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem

@@ -1,0 +1,2161 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  dates:
+  - '2026-02-07'
+  gender: male
+  match_type: T20
+  match_type_number: 3686
+  outcome:
+    winner: India
+    by:
+      runs: 29
+  overs: 20
+  player_of_match:
+  - SA Yadav
+  players:
+    India:
+    - Ishan Kishan
+    - Abhishek Sharma
+    - Tilak Varma
+    - SA Yadav
+    - S Dube
+    - RK Singh
+    - HH Pandya
+    - AR Patel
+    - Arshdeep Singh
+    - CV Varun
+    - Mohammed Siraj
+    United States of America:
+    - AGS Gous
+    - SR Mukkamalla
+    - MD Patel
+    - Milind Kumar
+    - SP Krishnamurthi
+    - Shubham Ranjane
+    - Harmeet Singh
+    - Mohammad Mohsin
+    - SC van Schalkwyk
+    - Ali Khan
+    - SN Netravalkar
+  registry:
+    people:
+      AGS Gous: d1305df0
+      AJ Pycroft: 685d3f80
+      AR Patel: 2e171977
+      Abhishek Sharma: f29185a1
+      Ali Khan: b0eaaac6
+      Arshdeep Singh: 244048f6
+      CV Varun: 5b7ab5a9
+      HH Pandya: dbe50b21
+      Harmeet Singh: 0bf15e52
+      Ishan Kishan: 752f7486
+      MD Patel: 25d7f1ac
+      Milind Kumar: b4296080
+      Mohammad Mohsin: 79f8472d
+      Mohammed Siraj: 2f49c897
+      PR Reiffel: c9354f29
+      R Black: 156c8fb1
+      RJ Tucker: 38810cfc
+      RK Singh: 0a509d6b
+      S Dube: a4e37e47
+      SA Yadav: 271f83cd
+      SC van Schalkwyk: 97b0e4ff
+      SN Netravalkar: c8a3f688
+      SP Krishnamurthi: 3b8e7647
+      SR Mukkamalla: 156d0ea2
+      Sharfuddoula: 63896abb
+      Shubham Ranjane: 6c7a68d0
+      Tilak Varma: b0482a1d
+  teams:
+  - India
+  - United States of America
+  toss:
+    winner: United States of America
+    decision: field
+  umpires:
+  - PR Reiffel
+  - RJ Tucker
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Abhishek Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.2:
+        non_striker: Abhishek Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.3:
+        non_striker: Abhishek Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.4:
+        non_striker: Abhishek Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.5:
+        non_striker: Abhishek Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 0.6:
+        non_striker: Abhishek Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 1.1:
+        non_striker: Abhishek Sharma
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 1.2:
+        non_striker: Ishan Kishan
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - SP Krishnamurthi
+          kind: caught
+    - 1.3:
+        non_striker: Ishan Kishan
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 1.4:
+        non_striker: Ishan Kishan
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 1.5:
+        non_striker: Ishan Kishan
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 1.6:
+        non_striker: Ishan Kishan
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 2.1:
+        non_striker: Ishan Kishan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tilak Varma
+    - 2.2:
+        non_striker: Ishan Kishan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 2.3:
+        non_striker: Ishan Kishan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 2.4:
+        non_striker: Tilak Varma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 2.5:
+        non_striker: Ishan Kishan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 2.6:
+        non_striker: Ishan Kishan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 3.1:
+        non_striker: Tilak Varma
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.2:
+        non_striker: Tilak Varma
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 3.3:
+        non_striker: Ishan Kishan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 3.4:
+        non_striker: Ishan Kishan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 3.5:
+        non_striker: Ishan Kishan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 3.6:
+        non_striker: Ishan Kishan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 4.1:
+        non_striker: Ishan Kishan
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 4.2:
+        non_striker: Tilak Varma
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.3:
+        non_striker: Tilak Varma
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.4:
+        non_striker: Tilak Varma
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.5:
+        non_striker: Tilak Varma
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 4.6:
+        non_striker: Tilak Varma
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 5.1:
+        non_striker: Ishan Kishan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 5.2:
+        non_striker: Tilak Varma
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - Milind Kumar
+          kind: caught
+    - 5.3:
+        non_striker: Tilak Varma
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 5.4:
+        non_striker: Tilak Varma
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 5.5:
+        non_striker: SA Yadav
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          fielders:
+          - MD Patel
+          kind: caught
+    - 5.6:
+        non_striker: SA Yadav
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          fielders:
+          - SN Netravalkar
+          kind: caught
+    - 6.1:
+        non_striker: RK Singh
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 6.2:
+        non_striker: RK Singh
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 6.3:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 6.4:
+        non_striker: RK Singh
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 6.5:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 6.6:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 7.1:
+        non_striker: RK Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.2:
+        non_striker: RK Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.3:
+        non_striker: RK Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.4:
+        non_striker: RK Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.5:
+        non_striker: SA Yadav
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 7.6:
+        non_striker: RK Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.1:
+        non_striker: RK Singh
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.2:
+        non_striker: RK Singh
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.3:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 8.4:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 8.5:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 8.6:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 9.1:
+        non_striker: RK Singh
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.2:
+        non_striker: SA Yadav
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 9.3:
+        non_striker: RK Singh
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 9.4:
+        non_striker: RK Singh
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.5:
+        non_striker: RK Singh
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: RK Singh
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.1:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 10.2:
+        non_striker: RK Singh
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.3:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 10.4:
+        non_striker: RK Singh
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 10.5:
+        non_striker: RK Singh
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.6:
+        non_striker: RK Singh
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 11.1:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 11.2:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 11.3:
+        non_striker: RK Singh
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.4:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+        wicket:
+          player_out: RK Singh
+          fielders:
+          - Milind Kumar
+          kind: caught
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 11.6:
+        non_striker: SA Yadav
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 12.1:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 12.2:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 12.3:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 12.4:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - SR Mukkamalla
+          kind: caught
+    - 12.5:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 12.6:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 13.1:
+        non_striker: AR Patel
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 13.2:
+        non_striker: AR Patel
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 13.3:
+        non_striker: AR Patel
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 13.4:
+        non_striker: AR Patel
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 13.5:
+        non_striker: AR Patel
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 13.6:
+        non_striker: AR Patel
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.1:
+        non_striker: AR Patel
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.2:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 14.3:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 14.4:
+        non_striker: AR Patel
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 14.5:
+        non_striker: AR Patel
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.6:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 15.1:
+        non_striker: SA Yadav
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 15.2:
+        non_striker: SA Yadav
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 15.3:
+        non_striker: SA Yadav
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Patel
+    - 15.4:
+        non_striker: SA Yadav
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 15.5:
+        non_striker: AR Patel
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 15.6:
+        non_striker: AR Patel
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 16.1:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 16.2:
+        non_striker: AR Patel
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 16.3:
+        non_striker: AR Patel
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 16.4:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Patel
+    - 16.5:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - Mohammad Mohsin
+          kind: caught
+    - 16.6:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arshdeep Singh
+    - 16.7:
+        non_striker: SA Yadav
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arshdeep Singh
+    - 17.1:
+        non_striker: Arshdeep Singh
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 17.2:
+        non_striker: Arshdeep Singh
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 17.3:
+        non_striker: Arshdeep Singh
+        bowler: Shubham Ranjane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 17.4:
+        non_striker: Arshdeep Singh
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 17.5:
+        non_striker: SA Yadav
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arshdeep Singh
+    - 17.6:
+        non_striker: SA Yadav
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arshdeep Singh
+    - 17.7:
+        non_striker: SA Yadav
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arshdeep Singh
+    - 18.1:
+        non_striker: Arshdeep Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 18.2:
+        non_striker: Arshdeep Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 18.3:
+        non_striker: Arshdeep Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 18.4:
+        non_striker: Arshdeep Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 18.5:
+        non_striker: Arshdeep Singh
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 18.6:
+        non_striker: SA Yadav
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arshdeep Singh
+    - 18.7:
+        non_striker: SA Yadav
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arshdeep Singh
+        wicket:
+          player_out: Arshdeep Singh
+          fielders:
+          - Milind Kumar
+          kind: caught
+    - 19.1:
+        non_striker: CV Varun
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 19.2:
+        non_striker: CV Varun
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 19.3:
+        non_striker: CV Varun
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 19.4:
+        non_striker: CV Varun
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 19.5:
+        non_striker: CV Varun
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 19.6:
+        non_striker: CV Varun
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+        wicket:
+          player_out: CV Varun
+          fielders:
+          - Mohammad Mohsin
+          - AGS Gous
+          kind: run out
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        non_striker: SR Mukkamalla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.2:
+        non_striker: SR Mukkamalla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.3:
+        non_striker: SR Mukkamalla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.4:
+        non_striker: SR Mukkamalla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.5:
+        non_striker: SR Mukkamalla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AGS Gous
+    - 0.6:
+        non_striker: SR Mukkamalla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AGS Gous
+    - 0.7:
+        non_striker: AGS Gous
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 1.1:
+        non_striker: SR Mukkamalla
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.2:
+        non_striker: SR Mukkamalla
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AGS Gous
+    - 1.3:
+        non_striker: SR Mukkamalla
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.4:
+        non_striker: SR Mukkamalla
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 1.5:
+        non_striker: SR Mukkamalla
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MD Patel
+    - 1.6:
+        non_striker: MD Patel
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 2.1:
+        non_striker: SR Mukkamalla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          fielders:
+          - S Dube
+          kind: caught
+    - 2.2:
+        non_striker: SR Mukkamalla
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 2.3:
+        non_striker: Milind Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 2.4:
+        non_striker: Milind Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 2.5:
+        non_striker: Milind Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 2.6:
+        non_striker: Milind Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 3.1:
+        non_striker: SR Mukkamalla
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 3.2:
+        non_striker: Milind Kumar
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+        wicket:
+          player_out: SR Mukkamalla
+          fielders:
+          - CV Varun
+          kind: caught
+    - 3.3:
+        non_striker: Milind Kumar
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 3.4:
+        non_striker: SP Krishnamurthi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 3.5:
+        non_striker: SP Krishnamurthi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 3.6:
+        non_striker: Milind Kumar
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 4.1:
+        non_striker: SP Krishnamurthi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 4.2:
+        non_striker: Milind Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 4.3:
+        non_striker: SP Krishnamurthi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 4.4:
+        non_striker: Milind Kumar
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 4.5:
+        non_striker: SP Krishnamurthi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 4.6:
+        non_striker: SP Krishnamurthi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 5.1:
+        non_striker: SP Krishnamurthi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 5.2:
+        non_striker: Milind Kumar
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 5.3:
+        non_striker: Milind Kumar
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 5.4:
+        non_striker: SP Krishnamurthi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 5.5:
+        non_striker: SP Krishnamurthi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 5.6:
+        non_striker: SP Krishnamurthi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 6.1:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 6.2:
+        non_striker: Milind Kumar
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 6.3:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 6.4:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 6.5:
+        non_striker: Milind Kumar
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 6.6:
+        non_striker: Milind Kumar
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SP Krishnamurthi
+    - 7.1:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 7.2:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 7.3:
+        non_striker: Milind Kumar
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 7.4:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 7.5:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 7.6:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 8.1:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 8.2:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 8.3:
+        non_striker: Milind Kumar
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 8.4:
+        non_striker: Milind Kumar
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 8.5:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 8.6:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 9.1:
+        non_striker: Milind Kumar
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 9.2:
+        non_striker: Milind Kumar
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 9.3:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 9.4:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Milind Kumar
+    - 9.5:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 9.6:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 10.1:
+        non_striker: SP Krishnamurthi
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 10.2:
+        non_striker: SP Krishnamurthi
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 10.3:
+        non_striker: SP Krishnamurthi
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Milind Kumar
+    - 10.4:
+        non_striker: Milind Kumar
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 10.5:
+        non_striker: SP Krishnamurthi
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 10.6:
+        non_striker: Milind Kumar
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SP Krishnamurthi
+    - 10.7:
+        non_striker: Milind Kumar
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Krishnamurthi
+    - 11.1:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 11.2:
+        non_striker: Milind Kumar
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Krishnamurthi
+    - 11.3:
+        non_striker: Milind Kumar
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SP Krishnamurthi
+    - 11.4:
+        non_striker: Milind Kumar
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 11.5:
+        non_striker: Milind Kumar
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 11.6:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+        wicket:
+          player_out: Milind Kumar
+          fielders:
+          - Ishan Kishan
+          kind: stumped
+    - 12.1:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 12.2:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 12.3:
+        non_striker: SP Krishnamurthi
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 12.4:
+        non_striker: SP Krishnamurthi
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 12.5:
+        non_striker: SP Krishnamurthi
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 12.6:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 13.1:
+        non_striker: Shubham Ranjane
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Krishnamurthi
+    - 13.2:
+        non_striker: Shubham Ranjane
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 13.3:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.4:
+        non_striker: Shubham Ranjane
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 13.5:
+        non_striker: SP Krishnamurthi
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.6:
+        non_striker: Shubham Ranjane
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 14.1:
+        non_striker: Shubham Ranjane
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 14.2:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 14.3:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.4:
+        non_striker: Shubham Ranjane
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 14.5:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 14.6:
+        non_striker: SP Krishnamurthi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 15.1:
+        non_striker: Shubham Ranjane
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 15.2:
+        non_striker: Shubham Ranjane
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+        wicket:
+          player_out: SP Krishnamurthi
+          fielders:
+          - RK Singh
+          kind: caught
+    - 15.3:
+        non_striker: Shubham Ranjane
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+        wicket:
+          player_out: Harmeet Singh
+          fielders:
+          - Mohammed Siraj
+          kind: caught
+    - 15.4:
+        non_striker: Shubham Ranjane
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 15.5:
+        non_striker: Mohammad Mohsin
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.6:
+        non_striker: Shubham Ranjane
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 16.1:
+        non_striker: Mohammad Mohsin
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 16.2:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 16.3:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 16.4:
+        non_striker: Mohammad Mohsin
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 16.5:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+    - 16.6:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 17.1:
+        non_striker: Shubham Ranjane
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 17.2:
+        non_striker: Mohammad Mohsin
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 17.3:
+        non_striker: Shubham Ranjane
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Mohsin
+    - 17.4:
+        non_striker: Shubham Ranjane
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+        wicket:
+          player_out: Mohammad Mohsin
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 17.5:
+        non_striker: Shubham Ranjane
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 17.6:
+        non_striker: Shubham Ranjane
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 18.1:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 18.2:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 18.3:
+        non_striker: SC van Schalkwyk
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 18.4:
+        non_striker: SC van Schalkwyk
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 18.5:
+        non_striker: SC van Schalkwyk
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.6:
+        non_striker: Shubham Ranjane
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 19.1:
+        non_striker: SC van Schalkwyk
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 19.2:
+        non_striker: SC van Schalkwyk
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 19.3:
+        non_striker: SC van Schalkwyk
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 19.4:
+        non_striker: SC van Schalkwyk
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 19.5:
+        non_striker: SC van Schalkwyk
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 19.6:
+        non_striker: SC van Schalkwyk
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 19.7:
+        non_striker: SC van Schalkwyk
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+        wicket:
+          player_out: Shubham Ranjane
+          kind: lbw

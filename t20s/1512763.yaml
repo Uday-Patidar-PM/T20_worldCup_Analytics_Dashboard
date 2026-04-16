@@ -1,0 +1,2119 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kandy
+  dates:
+  - '2026-02-24'
+  gender: male
+  match_type: T20
+  match_type_number: 3732
+  outcome:
+    winner: England
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - HC Brook
+  players:
+    Pakistan:
+    - Sahibzada Farhan
+    - Saim Ayub
+    - Agha Salman
+    - Babar Azam
+    - Fakhar Zaman
+    - Shadab Khan
+    - Usman Khan
+    - Mohammad Nawaz
+    - Shaheen Shah Afridi
+    - Salman Mirza
+    - Usman Tariq
+    England:
+    - PD Salt
+    - JC Buttler
+    - HC Brook
+    - JG Bethell
+    - T Banton
+    - SM Curran
+    - WG Jacks
+    - J Overton
+    - LA Dawson
+    - JC Archer
+    - AU Rashid
+  registry:
+    people:
+      AJ Pycroft: 685d3f80
+      AT Holdstock: 6fa3258c
+      AU Rashid: 249d60c9
+      Agha Salman: 89c16049
+      Babar Azam: 8a75e999
+      Fakhar Zaman: 1777c020
+      HC Brook: 4ae1755b
+      J Overton: 59559bc2
+      JC Archer: 5574750c
+      JC Buttler: 99b75528
+      JG Bethell: 3c55c703
+      LA Dawson: 4a461c24
+      Mohammad Nawaz: 3086f7a4
+      Nitin Menon: e1d41d9e
+      PD Salt: 3d284ca3
+      PR Reiffel: c9354f29
+      SJ Nogajski: 9b3f9323
+      SM Curran: e94915e6
+      Sahibzada Farhan: 1aba45cd
+      Saim Ayub: 33609a8c
+      Salman Mirza: 7ab1eab7
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      T Banton: 25f7b7d6
+      Usman Khan: bafb9238
+      Usman Tariq: e94d1dcd
+      WG Jacks: 9caf69a1
+  teams:
+  - Pakistan
+  - England
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - Nitin Menon
+  - SJ Nogajski
+  venue: Pallekele International Cricket Stadium
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Saim Ayub
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.2:
+        non_striker: Saim Ayub
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.3:
+        non_striker: Saim Ayub
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 0.4:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.5:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.6:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 1.1:
+        non_striker: Saim Ayub
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 1.2:
+        non_striker: Saim Ayub
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.3:
+        non_striker: Saim Ayub
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 1.4:
+        non_striker: Sahibzada Farhan
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 1.5:
+        non_striker: Sahibzada Farhan
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.6:
+        non_striker: Sahibzada Farhan
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saim Ayub
+    - 1.7:
+        non_striker: Sahibzada Farhan
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 2.1:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          fielders:
+          - JG Bethell
+          kind: caught
+    - 2.2:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 2.3:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 2.4:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 2.5:
+        non_striker: Agha Salman
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 2.6:
+        non_striker: Agha Salman
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 3.1:
+        non_striker: Sahibzada Farhan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 3.2:
+        non_striker: Sahibzada Farhan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 3.3:
+        non_striker: Sahibzada Farhan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - J Overton
+          kind: caught
+    - 3.4:
+        non_striker: Sahibzada Farhan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 3.5:
+        non_striker: Babar Azam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 3.6:
+        non_striker: Sahibzada Farhan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.1:
+        non_striker: Babar Azam
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 4.2:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.3:
+        non_striker: Babar Azam
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 4.4:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.5:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 4.6:
+        non_striker: Sahibzada Farhan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 5.1:
+        non_striker: Babar Azam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 5.2:
+        non_striker: Babar Azam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 5.3:
+        non_striker: Babar Azam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 5.4:
+        non_striker: Babar Azam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 5.5:
+        non_striker: Babar Azam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 5.6:
+        non_striker: Babar Azam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 6.1:
+        non_striker: Sahibzada Farhan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 6.2:
+        non_striker: Sahibzada Farhan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.3:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 6.4:
+        non_striker: Sahibzada Farhan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.5:
+        non_striker: Sahibzada Farhan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.6:
+        non_striker: Babar Azam
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 7.1:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 7.2:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 7.3:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.4:
+        non_striker: Babar Azam
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 7.5:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 7.6:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.7:
+        non_striker: Babar Azam
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 8.1:
+        non_striker: Sahibzada Farhan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.2:
+        non_striker: Babar Azam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 8.3:
+        non_striker: Sahibzada Farhan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 8.4:
+        non_striker: Sahibzada Farhan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 8.5:
+        non_striker: Sahibzada Farhan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.6:
+        non_striker: Babar Azam
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 9.1:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 9.2:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.3:
+        non_striker: Babar Azam
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 9.4:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 9.5:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.6:
+        non_striker: Babar Azam
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 10.1:
+        non_striker: Babar Azam
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 10.2:
+        non_striker: Babar Azam
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 10.3:
+        non_striker: Sahibzada Farhan
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.4:
+        non_striker: Babar Azam
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 10.5:
+        non_striker: Sahibzada Farhan
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          kind: bowled
+    - 10.6:
+        non_striker: Sahibzada Farhan
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 11.1:
+        non_striker: Fakhar Zaman
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 11.2:
+        non_striker: Sahibzada Farhan
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 11.3:
+        non_striker: Sahibzada Farhan
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 11.4:
+        non_striker: Sahibzada Farhan
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 11.5:
+        non_striker: Fakhar Zaman
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 11.6:
+        non_striker: Fakhar Zaman
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 12.1:
+        non_striker: Fakhar Zaman
+        bowler: AU Rashid
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Sahibzada Farhan
+    - 12.2:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 12.3:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 12.4:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 12.5:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 12.6:
+        non_striker: Sahibzada Farhan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 12.7:
+        non_striker: Fakhar Zaman
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 13.1:
+        non_striker: Sahibzada Farhan
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 13.2:
+        non_striker: Sahibzada Farhan
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 13.3:
+        non_striker: Fakhar Zaman
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 13.4:
+        non_striker: Fakhar Zaman
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 13.5:
+        non_striker: Fakhar Zaman
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 13.6:
+        non_striker: Fakhar Zaman
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 14.1:
+        non_striker: Fakhar Zaman
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 14.2:
+        non_striker: Sahibzada Farhan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 14.3:
+        non_striker: Fakhar Zaman
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 14.4:
+        non_striker: Sahibzada Farhan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 14.5:
+        non_striker: Fakhar Zaman
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 14.6:
+        non_striker: Fakhar Zaman
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 15.1:
+        non_striker: Fakhar Zaman
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 15.2:
+        non_striker: Fakhar Zaman
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 15.3:
+        non_striker: Fakhar Zaman
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 15.4:
+        non_striker: Fakhar Zaman
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+        wicket:
+          player_out: Sahibzada Farhan
+          kind: lbw
+    - 15.5:
+        non_striker: Fakhar Zaman
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 15.6:
+        non_striker: Fakhar Zaman
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 16.1:
+        non_striker: Shadab Khan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 16.2:
+        non_striker: Shadab Khan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 16.3:
+        non_striker: Shadab Khan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Fakhar Zaman
+          fielders:
+          - LA Dawson
+          kind: caught
+    - 16.4:
+        non_striker: Shadab Khan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 16.5:
+        non_striker: Shadab Khan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 16.6:
+        non_striker: Shadab Khan
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khan
+    - 17.1:
+        non_striker: Usman Khan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 17.2:
+        non_striker: Usman Khan
+        bowler: LA Dawson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shadab Khan
+    - 17.3:
+        non_striker: Usman Khan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 17.4:
+        non_striker: Shadab Khan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 17.5:
+        non_striker: Shadab Khan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          fielders:
+          - J Overton
+          kind: caught
+    - 17.6:
+        non_striker: Shadab Khan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+        wicket:
+          player_out: Mohammad Nawaz
+          kind: lbw
+    - 17.7:
+        non_striker: Shadab Khan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.1:
+        non_striker: Shadab Khan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 18.3:
+        non_striker: Shadab Khan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+        wicket:
+          player_out: Shaheen Shah Afridi
+          fielders:
+          - SM Curran
+          kind: caught
+    - 18.4:
+        non_striker: Shadab Khan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Salman Mirza
+    - 18.5:
+        non_striker: Shadab Khan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salman Mirza
+    - 18.6:
+        non_striker: Salman Mirza
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 19.1:
+        non_striker: Shadab Khan
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Salman Mirza
+    - 19.2:
+        non_striker: Salman Mirza
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 19.3:
+        non_striker: Salman Mirza
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 19.4:
+        non_striker: Salman Mirza
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 19.5:
+        non_striker: Salman Mirza
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 19.6:
+        non_striker: Salman Mirza
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - JC Buttler
+          - JG Bethell
+          kind: run out
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - Usman Khan
+          kind: caught
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 0.3:
+        non_striker: JC Buttler
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 0.4:
+        non_striker: JC Buttler
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 0.5:
+        non_striker: JC Buttler
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 0.6:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.1:
+        non_striker: JC Buttler
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 1.2:
+        non_striker: JC Buttler
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 1.3:
+        non_striker: JC Buttler
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 2.1:
+        non_striker: JC Buttler
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 2.2:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 2.3:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - Usman Khan
+          kind: caught
+    - 2.4:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.5:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.6:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.1:
+        non_striker: HC Brook
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.2:
+        non_striker: JG Bethell
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 3.3:
+        non_striker: HC Brook
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 3.4:
+        non_striker: HC Brook
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 3.5:
+        non_striker: HC Brook
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.6:
+        non_striker: JG Bethell
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 4.1:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 4.2:
+        non_striker: JG Bethell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 4.3:
+        non_striker: JG Bethell
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 4.4:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 4.5:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          fielders:
+          - Sahibzada Farhan
+          kind: caught
+    - 4.6:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Banton
+    - 5.1:
+        non_striker: HC Brook
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.2:
+        non_striker: T Banton
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 5.3:
+        non_striker: T Banton
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 5.4:
+        non_striker: T Banton
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 5.5:
+        non_striker: T Banton
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 5.6:
+        non_striker: T Banton
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 6.1:
+        non_striker: HC Brook
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 6.2:
+        non_striker: HC Brook
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 6.3:
+        non_striker: HC Brook
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.4:
+        non_striker: T Banton
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 6.5:
+        non_striker: T Banton
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 6.6:
+        non_striker: T Banton
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 7.1:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          fielders:
+          - Usman Khan
+          kind: caught
+    - 7.2:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 7.3:
+        non_striker: SM Curran
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 7.4:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 7.5:
+        non_striker: SM Curran
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 7.6:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 8.1:
+        non_striker: HC Brook
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 8.2:
+        non_striker: SM Curran
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.3:
+        non_striker: HC Brook
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 8.4:
+        non_striker: SM Curran
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Brook
+    - 8.5:
+        non_striker: SM Curran
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.6:
+        non_striker: HC Brook
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 8.7:
+        non_striker: HC Brook
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 9.1:
+        non_striker: SM Curran
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 9.2:
+        non_striker: HC Brook
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 9.3:
+        non_striker: SM Curran
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 9.4:
+        non_striker: SM Curran
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 9.5:
+        non_striker: SM Curran
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 9.6:
+        non_striker: HC Brook
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.1:
+        non_striker: HC Brook
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.2:
+        non_striker: SM Curran
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 10.3:
+        non_striker: SM Curran
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 10.4:
+        non_striker: HC Brook
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.5:
+        non_striker: SM Curran
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 10.6:
+        non_striker: SM Curran
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 11.1:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 11.2:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 11.3:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 11.4:
+        non_striker: SM Curran
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 11.5:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          fielders:
+          - Mohammad Nawaz
+          kind: caught
+    - 11.6:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 12.1:
+        non_striker: HC Brook
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 12.2:
+        non_striker: HC Brook
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 12.3:
+        non_striker: HC Brook
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 12.4:
+        non_striker: HC Brook
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 12.5:
+        non_striker: HC Brook
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 12.6:
+        non_striker: HC Brook
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 13.1:
+        non_striker: WG Jacks
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 13.2:
+        non_striker: WG Jacks
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 13.3:
+        non_striker: WG Jacks
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 13.4:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 13.5:
+        non_striker: WG Jacks
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 13.6:
+        non_striker: WG Jacks
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 14.1:
+        non_striker: WG Jacks
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 14.2:
+        non_striker: WG Jacks
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 14.3:
+        non_striker: WG Jacks
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 14.4:
+        non_striker: HC Brook
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 14.5:
+        non_striker: HC Brook
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 14.6:
+        non_striker: WG Jacks
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 15.1:
+        non_striker: WG Jacks
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 15.2:
+        non_striker: WG Jacks
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 15.3:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 15.4:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WG Jacks
+    - 15.5:
+        non_striker: HC Brook
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 15.6:
+        non_striker: WG Jacks
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 16.1:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 16.2:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 16.3:
+        non_striker: HC Brook
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 16.4:
+        non_striker: WG Jacks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 16.5:
+        non_striker: WG Jacks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 16.6:
+        non_striker: WG Jacks
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          kind: bowled
+    - 17.1:
+        non_striker: J Overton
+        bowler: Salman Mirza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WG Jacks
+    - 17.2:
+        non_striker: J Overton
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 17.3:
+        non_striker: J Overton
+        bowler: Salman Mirza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WG Jacks
+    - 17.4:
+        non_striker: J Overton
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 17.5:
+        non_striker: J Overton
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 17.6:
+        non_striker: J Overton
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 17.7:
+        non_striker: J Overton
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 17.8:
+        non_striker: J Overton
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 18.1:
+        non_striker: J Overton
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          kind: bowled
+    - 18.2:
+        non_striker: J Overton
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 18.3:
+        non_striker: LA Dawson
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 18.4:
+        non_striker: LA Dawson
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 18.5:
+        non_striker: LA Dawson
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+        wicket:
+          player_out: J Overton
+          fielders:
+          - Usman Khan
+          kind: stumped
+    - 18.6:
+        non_striker: LA Dawson
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 19.1:
+        non_striker: LA Dawson
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Archer

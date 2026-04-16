@@ -1,0 +1,2133 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chennai
+  dates:
+  - '2026-02-15'
+  gender: male
+  match_type: T20
+  match_type_number: 3713
+  outcome:
+    winner: United States of America
+    by:
+      runs: 31
+  overs: 20
+  player_of_match:
+  - SP Krishnamurthi
+  players:
+    United States of America:
+    - MD Patel
+    - Shayan Jahangir
+    - SR Mukkamalla
+    - SP Krishnamurthi
+    - Milind Kumar
+    - Shubham Ranjane
+    - Harmeet Singh
+    - Mohammad Mohsin
+    - SC van Schalkwyk
+    - SN Netravalkar
+    - Ali Khan
+    Namibia:
+    - L Steenkamp
+    - JN Frylinck
+    - JN Loftie-Eaton
+    - MG Erasmus
+    - JJ Smit
+    - ZE Green
+    - R Trumpelmann
+    - DO Leicher
+    - WP Myburgh
+    - BM Scholtz
+    - M Heingo
+  registry:
+    people:
+      AJ Pycroft: 685d3f80
+      Ali Khan: b0eaaac6
+      BM Scholtz: e85d03d6
+      DO Leicher: e28bb0b9
+      Harmeet Singh: 0bf15e52
+      J Madanagopal: 8275b04a
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      KN Ananthapadmanabhan: 3144063a
+      L Steenkamp: 8bd9fd13
+      M Heingo: 0abb2525
+      MD Patel: 25d7f1ac
+      MG Erasmus: 95a5e066
+      Milind Kumar: b4296080
+      Mohammad Mohsin: 79f8472d
+      Nitin Menon: e1d41d9e
+      R Trumpelmann: ff6a7ab5
+      SC van Schalkwyk: 97b0e4ff
+      SN Netravalkar: c8a3f688
+      SP Krishnamurthi: 3b8e7647
+      SR Mukkamalla: 156d0ea2
+      Sharfuddoula: 63896abb
+      Shayan Jahangir: 571e1d2a
+      Shubham Ranjane: 6c7a68d0
+      WP Myburgh: f1a042e5
+      ZE Green: 8716233e
+  teams:
+  - United States of America
+  - Namibia
+  toss:
+    winner: United States of America
+    decision: bat
+  umpires:
+  - KN Ananthapadmanabhan
+  - Sharfuddoula
+  venue: MA Chidambaram Stadium, Chepauk, Chennai
+innings:
+- 1st innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Patel
+    - 0.2:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.3:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.4:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 0.5:
+        non_striker: MD Patel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 0.6:
+        non_striker: MD Patel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 0.7:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.1:
+        non_striker: MD Patel
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 1.2:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Patel
+    - 1.3:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.4:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.5:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 1.6:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 2.1:
+        non_striker: MD Patel
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.2:
+        non_striker: MD Patel
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 2.3:
+        non_striker: MD Patel
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shayan Jahangir
+    - 2.4:
+        non_striker: MD Patel
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.5:
+        non_striker: MD Patel
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.6:
+        non_striker: MD Patel
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shayan Jahangir
+    - 3.1:
+        non_striker: Shayan Jahangir
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 3.2:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 3.3:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 3.4:
+        non_striker: Shayan Jahangir
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 3.5:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 3.6:
+        non_striker: Shayan Jahangir
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 4.1:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Patel
+    - 4.2:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 4.3:
+        non_striker: MD Patel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shayan Jahangir
+    - 4.4:
+        non_striker: MD Patel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 4.5:
+        non_striker: MD Patel
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shayan Jahangir
+    - 4.6:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 5.1:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 5.2:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Patel
+    - 5.3:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 5.4:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 5.5:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 5.6:
+        non_striker: Shayan Jahangir
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 6.1:
+        non_striker: Shayan Jahangir
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 6.2:
+        non_striker: MD Patel
+        bowler: WP Myburgh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shayan Jahangir
+    - 6.3:
+        non_striker: Shayan Jahangir
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 6.4:
+        non_striker: MD Patel
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 6.5:
+        non_striker: MD Patel
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: Shayan Jahangir
+          fielders:
+          - JJ Smit
+          kind: caught
+    - 6.6:
+        non_striker: MD Patel
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 7.1:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 7.2:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 7.3:
+        non_striker: SR Mukkamalla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 7.4:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 7.5:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 7.6:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 8.1:
+        non_striker: SR Mukkamalla
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 8.2:
+        non_striker: MD Patel
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 8.3:
+        non_striker: MD Patel
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 8.4:
+        non_striker: SR Mukkamalla
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 8.5:
+        non_striker: SR Mukkamalla
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 8.6:
+        non_striker: MD Patel
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 9.1:
+        non_striker: SR Mukkamalla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 9.2:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 9.3:
+        non_striker: SR Mukkamalla
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 9.4:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 9.5:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 9.6:
+        non_striker: MD Patel
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 10.1:
+        non_striker: MD Patel
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 10.2:
+        non_striker: SR Mukkamalla
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          fielders:
+          - JJ Smit
+          kind: caught
+    - 10.3:
+        non_striker: SR Mukkamalla
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 10.4:
+        non_striker: SP Krishnamurthi
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 10.5:
+        non_striker: SP Krishnamurthi
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 10.6:
+        non_striker: SR Mukkamalla
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 11.1:
+        non_striker: SR Mukkamalla
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Krishnamurthi
+    - 11.2:
+        non_striker: SR Mukkamalla
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 11.3:
+        non_striker: SP Krishnamurthi
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 11.4:
+        non_striker: SP Krishnamurthi
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+        wicket:
+          player_out: SR Mukkamalla
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 11.5:
+        non_striker: SP Krishnamurthi
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 11.6:
+        non_striker: Milind Kumar
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 12.1:
+        non_striker: SP Krishnamurthi
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 12.2:
+        non_striker: Milind Kumar
+        bowler: WP Myburgh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SP Krishnamurthi
+    - 12.3:
+        non_striker: SP Krishnamurthi
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 12.4:
+        non_striker: Milind Kumar
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 12.5:
+        non_striker: SP Krishnamurthi
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 12.6:
+        non_striker: SP Krishnamurthi
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 13.1:
+        non_striker: SP Krishnamurthi
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 13.2:
+        non_striker: Milind Kumar
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 13.3:
+        non_striker: Milind Kumar
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 13.4:
+        non_striker: Milind Kumar
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 13.5:
+        non_striker: SP Krishnamurthi
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 13.6:
+        non_striker: Milind Kumar
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SP Krishnamurthi
+    - 14.1:
+        non_striker: SP Krishnamurthi
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 14.2:
+        non_striker: SP Krishnamurthi
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 14.3:
+        non_striker: Milind Kumar
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Krishnamurthi
+    - 14.4:
+        non_striker: Milind Kumar
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Krishnamurthi
+    - 14.5:
+        non_striker: Milind Kumar
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 14.6:
+        non_striker: SP Krishnamurthi
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 15.1:
+        non_striker: Milind Kumar
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 15.2:
+        non_striker: SP Krishnamurthi
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 15.3:
+        non_striker: Milind Kumar
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 15.4:
+        non_striker: Milind Kumar
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Krishnamurthi
+    - 15.5:
+        non_striker: Milind Kumar
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 15.6:
+        non_striker: SP Krishnamurthi
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Milind Kumar
+    - 16.1:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SP Krishnamurthi
+    - 16.2:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 16.3:
+        non_striker: SP Krishnamurthi
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 16.4:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Krishnamurthi
+    - 16.5:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Krishnamurthi
+    - 16.6:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: SP Krishnamurthi
+    - 16.7:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SP Krishnamurthi
+    - 16.8:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 17.1:
+        non_striker: SP Krishnamurthi
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 17.2:
+        non_striker: Milind Kumar
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 17.3:
+        non_striker: Milind Kumar
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 17.4:
+        non_striker: SP Krishnamurthi
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 17.5:
+        non_striker: Milind Kumar
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 17.6:
+        non_striker: SP Krishnamurthi
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 18.1:
+        non_striker: SP Krishnamurthi
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Milind Kumar
+    - 18.2:
+        non_striker: SP Krishnamurthi
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 18.3:
+        non_striker: SP Krishnamurthi
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 18.4:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Krishnamurthi
+    - 18.5:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 18.6:
+        non_striker: SP Krishnamurthi
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 18.7:
+        non_striker: Milind Kumar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 19.1:
+        non_striker: Milind Kumar
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 19.2:
+        non_striker: SP Krishnamurthi
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+        wicket:
+          player_out: Milind Kumar
+          fielders:
+          - JJ Smit
+          kind: caught
+    - 19.3:
+        non_striker: SP Krishnamurthi
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 19.4:
+        non_striker: SP Krishnamurthi
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 19.5:
+        non_striker: Shubham Ranjane
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Krishnamurthi
+    - 19.6:
+        non_striker: Shubham Ranjane
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 0.2:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 0.3:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 0.4:
+        non_striker: L Steenkamp
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 0.5:
+        non_striker: L Steenkamp
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 0.6:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 1.1:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 1.2:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 1.3:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 1.4:
+        non_striker: JN Frylinck
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 1.5:
+        non_striker: JN Frylinck
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 1.6:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 2.1:
+        non_striker: JN Frylinck
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 2.2:
+        non_striker: L Steenkamp
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 2.3:
+        non_striker: L Steenkamp
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 2.4:
+        non_striker: JN Frylinck
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Steenkamp
+    - 2.5:
+        non_striker: JN Frylinck
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 2.6:
+        non_striker: L Steenkamp
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 3.1:
+        non_striker: L Steenkamp
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 3.2:
+        non_striker: L Steenkamp
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 3.3:
+        non_striker: JN Frylinck
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 3.4:
+        non_striker: JN Frylinck
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 3.5:
+        non_striker: L Steenkamp
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 3.6:
+        non_striker: JN Frylinck
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 4.1:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Steenkamp
+    - 4.2:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 4.3:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 4.4:
+        non_striker: L Steenkamp
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 4.5:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 4.6:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: L Steenkamp
+    - 4.7:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 4.8:
+        non_striker: JN Frylinck
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Steenkamp
+    - 5.1:
+        non_striker: L Steenkamp
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Frylinck
+    - 5.2:
+        non_striker: L Steenkamp
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          kind: caught and bowled
+    - 5.3:
+        non_striker: L Steenkamp
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 5.4:
+        non_striker: JN Loftie-Eaton
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 5.5:
+        non_striker: JN Loftie-Eaton
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 5.6:
+        non_striker: L Steenkamp
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 6.1:
+        non_striker: L Steenkamp
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 6.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 6.3:
+        non_striker: JN Loftie-Eaton
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 6.4:
+        non_striker: JN Loftie-Eaton
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 6.5:
+        non_striker: JN Loftie-Eaton
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 6.6:
+        non_striker: L Steenkamp
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 7.1:
+        non_striker: JN Loftie-Eaton
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 7.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 7.3:
+        non_striker: JN Loftie-Eaton
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 7.4:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 7.5:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Loftie-Eaton
+    - 7.6:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 8.1:
+        non_striker: L Steenkamp
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 8.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 8.3:
+        non_striker: L Steenkamp
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 8.4:
+        non_striker: JN Loftie-Eaton
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 8.5:
+        non_striker: L Steenkamp
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 8.6:
+        non_striker: JN Loftie-Eaton
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Steenkamp
+    - 9.1:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 9.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 9.3:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 9.4:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 9.5:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 9.6:
+        non_striker: L Steenkamp
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 10.1:
+        non_striker: L Steenkamp
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 10.2:
+        non_striker: JN Loftie-Eaton
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 10.3:
+        non_striker: L Steenkamp
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - Shubham Ranjane
+          kind: caught
+    - 10.4:
+        non_striker: L Steenkamp
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.5:
+        non_striker: L Steenkamp
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.6:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 11.1:
+        non_striker: MG Erasmus
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 11.2:
+        non_striker: L Steenkamp
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.3:
+        non_striker: MG Erasmus
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 11.4:
+        non_striker: MG Erasmus
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 11.5:
+        non_striker: MG Erasmus
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 11.6:
+        non_striker: MG Erasmus
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Steenkamp
+    - 12.1:
+        non_striker: L Steenkamp
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.2:
+        non_striker: MG Erasmus
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Steenkamp
+    - 12.3:
+        non_striker: MG Erasmus
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+        wicket:
+          player_out: L Steenkamp
+          fielders:
+          - Mohammad Mohsin
+          kind: caught
+    - 12.4:
+        non_striker: MG Erasmus
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 12.5:
+        non_striker: MG Erasmus
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 12.6:
+        non_striker: JJ Smit
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.2:
+        non_striker: JJ Smit
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.3:
+        non_striker: MG Erasmus
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.4:
+        non_striker: JJ Smit
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.5:
+        non_striker: MG Erasmus
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 13.6:
+        non_striker: MG Erasmus
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 14.1:
+        non_striker: JJ Smit
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.2:
+        non_striker: JJ Smit
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.3:
+        non_striker: MG Erasmus
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 14.4:
+        non_striker: JJ Smit
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - Shayan Jahangir
+          kind: caught
+    - 14.5:
+        non_striker: JJ Smit
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZE Green
+    - 14.6:
+        non_striker: JJ Smit
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 15.1:
+        non_striker: ZE Green
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 15.2:
+        non_striker: JJ Smit
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 15.3:
+        non_striker: JJ Smit
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 15.4:
+        non_striker: ZE Green
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 15.5:
+        non_striker: JJ Smit
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 15.6:
+        non_striker: JJ Smit
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 16.1:
+        non_striker: JJ Smit
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 16.2:
+        non_striker: ZE Green
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 16.3:
+        non_striker: JJ Smit
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 16.4:
+        non_striker: ZE Green
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Smit
+    - 16.5:
+        non_striker: ZE Green
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 16.6:
+        non_striker: JJ Smit
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZE Green
+    - 16.7:
+        non_striker: JJ Smit
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZE Green
+    - 17.1:
+        non_striker: ZE Green
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 17.2:
+        non_striker: JJ Smit
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 17.3:
+        non_striker: ZE Green
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 17.4:
+        non_striker: JJ Smit
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 17.5:
+        non_striker: ZE Green
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 17.6:
+        non_striker: JJ Smit
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZE Green
+        wicket:
+          player_out: ZE Green
+          kind: retired out
+    - 18.1:
+        non_striker: R Trumpelmann
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 18.2:
+        non_striker: R Trumpelmann
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 18.3:
+        non_striker: R Trumpelmann
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 18.4:
+        non_striker: R Trumpelmann
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 18.5:
+        non_striker: R Trumpelmann
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 18.6:
+        non_striker: JJ Smit
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Trumpelmann
+    - 19.1:
+        non_striker: R Trumpelmann
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 19.2:
+        non_striker: JJ Smit
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 19.3:
+        non_striker: R Trumpelmann
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 19.4:
+        non_striker: R Trumpelmann
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 19.5:
+        non_striker: R Trumpelmann
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+        wicket:
+          player_out: JJ Smit
+          fielders:
+          - Shayan Jahangir
+          kind: caught
+    - 19.6:
+        non_striker: R Trumpelmann
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DO Leicher

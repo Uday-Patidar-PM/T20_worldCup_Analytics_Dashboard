@@ -1,0 +1,1903 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chennai
+  dates:
+  - '2026-02-10'
+  gender: male
+  match_type: T20
+  match_type_number: 3694
+  outcome:
+    winner: New Zealand
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - TL Seifert
+  players:
+    United Arab Emirates:
+    - A Sharma
+    - Waseem Muhammad
+    - A Sharafu
+    - H Kaushik
+    - MR Kumar
+    - Shoaib Khan
+    - Muhammad Arfan
+    - D Parashar
+    - Haider Ali
+    - Junaid Siddique
+    - Muhammad Rohid
+    New Zealand:
+    - TL Seifert
+    - FH Allen
+    - R Ravindra
+    - GD Phillips
+    - MS Chapman
+    - DJ Mitchell
+    - MJ Santner
+    - JDS Neesham
+    - MJ Henry
+    - LH Ferguson
+    - JA Duffy
+  registry:
+    people:
+      A Sharafu: 06cad4f0
+      A Sharma: 5661ef90
+      D Parashar: 395179e8
+      DJ Mitchell: eade4650
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      H Kaushik: 2bfec670
+      Haider Ali: dd572696
+      JA Duffy: dadbdb68
+      JDS Neesham: 9219eff0
+      Junaid Siddique: 84dc72db
+      LH Ferguson: 2f9d0389
+      LS Reifer: 5dee559a
+      MJ Henry: e84ac20c
+      MJ Santner: e4a0deae
+      MR Kumar: c1c47acd
+      MS Chapman: 7fa12533
+      Muhammad Arfan: 1294ee6d
+      Muhammad Rohid: 9103ecdb
+      PR Reiffel: c9354f29
+      R Black: 156c8fb1
+      R Ravindra: ba5e1069
+      RJ Tucker: 38810cfc
+      RS Madugalle: 766b5798
+      Shoaib Khan: fdee4a01
+      TL Seifert: 4663bd23
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - United Arab Emirates
+  - New Zealand
+  toss:
+    winner: United Arab Emirates
+    decision: bat
+  umpires:
+  - PR Reiffel
+  - R Black
+  venue: MA Chidambaram Stadium, Chepauk, Chennai
+innings:
+- 1st innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 0.2:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Sharma
+    - 0.3:
+        non_striker: A Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: A Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 0.5:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 0.6:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharma
+    - 1.1:
+        non_striker: A Sharma
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.2:
+        non_striker: Waseem Muhammad
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sharma
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharma
+    - 1.4:
+        non_striker: Waseem Muhammad
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+        wicket:
+          player_out: A Sharma
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 1.5:
+        non_striker: Waseem Muhammad
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 1.6:
+        non_striker: A Sharafu
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.7:
+        non_striker: A Sharafu
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 1.8:
+        non_striker: A Sharafu
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.1:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 2.2:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 2.3:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 2.4:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: A Sharafu
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sharafu
+    - 3.1:
+        non_striker: A Sharafu
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 3.4:
+        non_striker: A Sharafu
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 3.5:
+        non_striker: A Sharafu
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.6:
+        non_striker: A Sharafu
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 4.1:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Sharafu
+    - 4.2:
+        non_striker: A Sharafu
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 4.3:
+        non_striker: A Sharafu
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.4:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.5:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.6:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.7:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 5.1:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 5.2:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 5.3:
+        non_striker: A Sharafu
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 5.4:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 5.5:
+        non_striker: A Sharafu
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 5.6:
+        non_striker: A Sharafu
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 6.1:
+        non_striker: A Sharafu
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.2:
+        non_striker: A Sharafu
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 6.3:
+        non_striker: A Sharafu
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 6.4:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 6.5:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 6.6:
+        non_striker: A Sharafu
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.1:
+        non_striker: A Sharafu
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Waseem Muhammad
+    - 7.2:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 7.3:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 7.4:
+        non_striker: A Sharafu
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 7.5:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 7.6:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 8.1:
+        non_striker: Waseem Muhammad
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 8.2:
+        non_striker: Waseem Muhammad
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 8.3:
+        non_striker: A Sharafu
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 8.4:
+        non_striker: Waseem Muhammad
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 8.5:
+        non_striker: Waseem Muhammad
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 8.6:
+        non_striker: A Sharafu
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 9.1:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 9.2:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 9.3:
+        non_striker: A Sharafu
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 9.4:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 9.5:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 9.6:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 10.1:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 10.2:
+        non_striker: A Sharafu
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 10.3:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 10.4:
+        non_striker: A Sharafu
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 10.5:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 10.6:
+        non_striker: A Sharafu
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 11.1:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 11.2:
+        non_striker: A Sharafu
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 11.3:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 11.4:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharafu
+    - 11.5:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 11.6:
+        non_striker: A Sharafu
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 12.1:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharafu
+    - 12.2:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 12.3:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 12.4:
+        non_striker: A Sharafu
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 12.5:
+        non_striker: A Sharafu
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 12.6:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.1:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 13.2:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.3:
+        non_striker: A Sharafu
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 13.4:
+        non_striker: A Sharafu
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 13.5:
+        non_striker: Waseem Muhammad
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.6:
+        non_striker: A Sharafu
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 14.1:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 14.2:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+        wicket:
+          player_out: A Sharafu
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 14.3:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 14.4:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 14.5:
+        non_striker: Waseem Muhammad
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 14.6:
+        non_striker: H Kaushik
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 15.1:
+        non_striker: Waseem Muhammad
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 15.2:
+        non_striker: Waseem Muhammad
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 15.3:
+        non_striker: H Kaushik
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 15.4:
+        non_striker: H Kaushik
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 15.5:
+        non_striker: Waseem Muhammad
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+        wicket:
+          player_out: H Kaushik
+          fielders:
+          - JDS Neesham
+          kind: caught
+    - 15.6:
+        non_striker: Waseem Muhammad
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Kumar
+    - 16.1:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Kumar
+    - 16.2:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Kumar
+    - 16.3:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Kumar
+    - 16.4:
+        non_striker: MR Kumar
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 16.5:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Kumar
+    - 16.6:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Kumar
+    - 17.1:
+        non_striker: MR Kumar
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 17.2:
+        non_striker: Waseem Muhammad
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Kumar
+    - 17.3:
+        non_striker: Waseem Muhammad
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Kumar
+    - 17.4:
+        non_striker: Waseem Muhammad
+        bowler: GD Phillips
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MR Kumar
+    - 17.5:
+        non_striker: MR Kumar
+        bowler: GD Phillips
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Waseem Muhammad
+    - 17.6:
+        non_striker: MR Kumar
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 17.7:
+        non_striker: MR Kumar
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 17.8:
+        non_striker: Waseem Muhammad
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Kumar
+    - 18.1:
+        non_striker: MR Kumar
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 18.2:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Kumar
+    - 18.3:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Kumar
+    - 18.4:
+        non_striker: MR Kumar
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 18.5:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Kumar
+    - 18.6:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Kumar
+    - 18.7:
+        non_striker: Waseem Muhammad
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Kumar
+        wicket:
+          player_out: MR Kumar
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 19.1:
+        non_striker: Shoaib Khan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 19.2:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 19.3:
+        non_striker: Shoaib Khan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 19.4:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Khan
+    - 19.5:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+        wicket:
+          player_out: Shoaib Khan
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 19.6:
+        non_striker: Waseem Muhammad
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+        wicket:
+          player_out: Muhammad Arfan
+          fielders:
+          - GD Phillips
+          kind: caught
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 0.2:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.3:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 0.4:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.6:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.1:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: TL Seifert
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.4:
+        non_striker: TL Seifert
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.5:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.2:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.3:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.4:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.5:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.6:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.1:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 3.2:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 3.3:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.4:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 3.5:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.6:
+        non_striker: FH Allen
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 3.7:
+        non_striker: FH Allen
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 4.1:
+        non_striker: TL Seifert
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.2:
+        non_striker: FH Allen
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 4.3:
+        non_striker: FH Allen
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.4:
+        non_striker: TL Seifert
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 4.5:
+        non_striker: TL Seifert
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.6:
+        non_striker: FH Allen
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 5.1:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 5.2:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 5.3:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 5.4:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 5.5:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 5.6:
+        non_striker: TL Seifert
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.1:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.2:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 6.3:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.4:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 6.5:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.6:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 7.1:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 7.2:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 7.3:
+        non_striker: FH Allen
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.4:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 7.5:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 7.6:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 8.1:
+        non_striker: FH Allen
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.2:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 8.3:
+        non_striker: FH Allen
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.4:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 8.5:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 8.6:
+        non_striker: FH Allen
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 9.1:
+        non_striker: TL Seifert
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 9.2:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 9.3:
+        non_striker: TL Seifert
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 9.4:
+        non_striker: TL Seifert
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 9.5:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 9.6:
+        non_striker: TL Seifert
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 10.1:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.2:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 10.3:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 10.4:
+        non_striker: TL Seifert
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 10.5:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 10.6:
+        non_striker: FH Allen
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 11.1:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 11.2:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.3:
+        non_striker: FH Allen
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 11.4:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 11.5:
+        non_striker: FH Allen
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 11.6:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 12.1:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 12.2:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 12.3:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 12.4:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 12.5:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 12.6:
+        non_striker: FH Allen
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 13.1:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 13.2:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 13.3:
+        non_striker: TL Seifert
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 13.4:
+        non_striker: FH Allen
+        bowler: Muhammad Arfan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 13.5:
+        non_striker: FH Allen
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 13.6:
+        non_striker: FH Allen
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 13.7:
+        non_striker: FH Allen
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 14.1:
+        non_striker: FH Allen
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 14.2:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 14.3:
+        non_striker: FH Allen
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 14.4:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 14.5:
+        non_striker: FH Allen
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 14.6:
+        non_striker: TL Seifert
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 15.1:
+        non_striker: TL Seifert
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 15.2:
+        non_striker: FH Allen
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert

@@ -1,0 +1,2140 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  dates:
+  - '2026-02-07'
+  gender: male
+  match_type: T20
+  match_type_number: 3685
+  outcome:
+    winner: West Indies
+    by:
+      runs: 35
+  overs: 20
+  player_of_match:
+  - SO Hetmyer
+  players:
+    West Indies:
+    - BA King
+    - SD Hope
+    - SO Hetmyer
+    - R Powell
+    - SE Rutherford
+    - R Shepherd
+    - MW Forde
+    - JO Holder
+    - AJ Hosein
+    - S Joseph
+    - G Motie
+    Scotland:
+    - HG Munsey
+    - MA Jones
+    - BJ McMullen
+    - RD Berrington
+    - TC Bruce
+    - MH Cross
+    - MRJ Watt
+    - MA Leask
+    - O Davidson
+    - SM Sharif
+    - BJ Currie
+  registry:
+    people:
+      AJ Hosein: 4d7f517e
+      BA King: 7fca84b7
+      BJ Currie: 2ecd844a
+      BJ McMullen: 436c763a
+      G Motie: 97bdec3d
+      HG Munsey: ff014c34
+      J Madanagopal: 8275b04a
+      J Srinath: bad31fac
+      JO Holder: 0f721006
+      KN Ananthapadmanabhan: 3144063a
+      MA Jones: 05f96194
+      MA Leask: '28131839'
+      MH Cross: 8b261d84
+      MRJ Watt: 1252f71a
+      MW Forde: 83d17bbc
+      Nitin Menon: e1d41d9e
+      O Davidson: '63249474'
+      R Powell: 650d5e49
+      R Shepherd: c5aef772
+      RD Berrington: e21bc7f3
+      S Joseph: 97290faf
+      SD Hope: 1fc6ef83
+      SE Rutherford: d014d5ac
+      SJ Nogajski: 9b3f9323
+      SM Sharif: f43dd8c2
+      SO Hetmyer: 48a1d7b7
+      TC Bruce: f92c9151
+  teams:
+  - West Indies
+  - Scotland
+  toss:
+    winner: Scotland
+    decision: field
+  umpires:
+  - Nitin Menon
+  - SJ Nogajski
+  venue: Eden Gardens, Kolkata
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: SD Hope
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 0.2:
+        non_striker: SD Hope
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.3:
+        non_striker: SD Hope
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 0.4:
+        non_striker: BA King
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 0.5:
+        non_striker: SD Hope
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.6:
+        non_striker: SD Hope
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 1.1:
+        non_striker: SD Hope
+        bowler: BJ Currie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 1.2:
+        non_striker: SD Hope
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.3:
+        non_striker: SD Hope
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 1.4:
+        non_striker: BA King
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.5:
+        non_striker: BA King
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.6:
+        non_striker: BA King
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 1.7:
+        non_striker: BA King
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.1:
+        non_striker: BA King
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 2.2:
+        non_striker: BA King
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.3:
+        non_striker: SD Hope
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 2.4:
+        non_striker: BA King
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 2.5:
+        non_striker: BA King
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 2.6:
+        non_striker: BA King
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 3.1:
+        non_striker: SD Hope
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 3.2:
+        non_striker: BA King
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 3.3:
+        non_striker: SD Hope
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.4:
+        non_striker: SD Hope
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 3.5:
+        non_striker: SD Hope
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.6:
+        non_striker: SD Hope
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 4.1:
+        non_striker: SD Hope
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 4.2:
+        non_striker: SD Hope
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 4.3:
+        non_striker: SD Hope
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 4.4:
+        non_striker: SD Hope
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 4.5:
+        non_striker: BA King
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 4.6:
+        non_striker: BA King
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 5.1:
+        non_striker: BA King
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 5.2:
+        non_striker: BA King
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 5.3:
+        non_striker: BA King
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 5.4:
+        non_striker: SD Hope
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 5.5:
+        non_striker: SD Hope
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 5.6:
+        non_striker: SD Hope
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 6.1:
+        non_striker: SD Hope
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 6.2:
+        non_striker: SD Hope
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 6.3:
+        non_striker: SD Hope
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 6.4:
+        non_striker: SD Hope
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 6.5:
+        non_striker: BA King
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.6:
+        non_striker: SD Hope
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 7.1:
+        non_striker: SD Hope
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 7.2:
+        non_striker: BA King
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 7.3:
+        non_striker: BA King
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 7.4:
+        non_striker: SD Hope
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 7.5:
+        non_striker: BA King
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 7.6:
+        non_striker: SD Hope
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 8.1:
+        non_striker: BA King
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 8.2:
+        non_striker: BA King
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          kind: bowled
+    - 8.3:
+        non_striker: BA King
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 8.4:
+        non_striker: BA King
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.5:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 8.6:
+        non_striker: BA King
+        bowler: MA Leask
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 9.1:
+        non_striker: BA King
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.2:
+        non_striker: SO Hetmyer
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 9.3:
+        non_striker: SO Hetmyer
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 9.4:
+        non_striker: R Powell
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 9.5:
+        non_striker: R Powell
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 9.6:
+        non_striker: R Powell
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.1:
+        non_striker: R Powell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.2:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 10.3:
+        non_striker: R Powell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 10.4:
+        non_striker: R Powell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 10.5:
+        non_striker: R Powell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.6:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 11.1:
+        non_striker: R Powell
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.2:
+        non_striker: SO Hetmyer
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.3:
+        non_striker: R Powell
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 11.4:
+        non_striker: R Powell
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 11.5:
+        non_striker: R Powell
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 11.6:
+        non_striker: R Powell
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.1:
+        non_striker: R Powell
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.2:
+        non_striker: R Powell
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: R Powell
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 12.4:
+        non_striker: R Powell
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 12.5:
+        non_striker: R Powell
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.6:
+        non_striker: SO Hetmyer
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 12.7:
+        non_striker: SO Hetmyer
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.8:
+        non_striker: SO Hetmyer
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 13.1:
+        non_striker: R Powell
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.2:
+        non_striker: SO Hetmyer
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.3:
+        non_striker: R Powell
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 13.4:
+        non_striker: R Powell
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.5:
+        non_striker: SO Hetmyer
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.6:
+        non_striker: R Powell
+        bowler: O Davidson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SO Hetmyer
+    - 14.1:
+        non_striker: R Powell
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.2:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 14.3:
+        non_striker: R Powell
+        bowler: MA Leask
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 14.4:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 14.6:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 14.7:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 15.1:
+        non_striker: R Powell
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.2:
+        non_striker: SO Hetmyer
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 15.3:
+        non_striker: SO Hetmyer
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - MA Jones
+          kind: caught
+    - 15.4:
+        non_striker: SO Hetmyer
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.5:
+        non_striker: SO Hetmyer
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.6:
+        non_striker: SE Rutherford
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.1:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.2:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 16.3:
+        non_striker: SE Rutherford
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 16.4:
+        non_striker: SE Rutherford
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.5:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 16.6:
+        non_striker: SO Hetmyer
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 17.1:
+        non_striker: SE Rutherford
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 17.2:
+        non_striker: SO Hetmyer
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 17.3:
+        non_striker: SO Hetmyer
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 17.4:
+        non_striker: SO Hetmyer
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 17.5:
+        non_striker: SO Hetmyer
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 17.6:
+        non_striker: SE Rutherford
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.1:
+        non_striker: SE Rutherford
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 18.2:
+        non_striker: SE Rutherford
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 18.3:
+        non_striker: SE Rutherford
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.4:
+        non_striker: SO Hetmyer
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 18.5:
+        non_striker: SO Hetmyer
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 18.6:
+        non_striker: SE Rutherford
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - BJ McMullen
+          kind: caught
+    - 19.1:
+        non_striker: R Shepherd
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          fielders:
+          - MA Jones
+          kind: caught
+    - 19.2:
+        non_striker: R Shepherd
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+    - 19.3:
+        non_striker: R Shepherd
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Forde
+    - 19.4:
+        non_striker: MW Forde
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 19.5:
+        non_striker: MW Forde
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 19.6:
+        non_striker: MW Forde
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: MA Jones
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 0.2:
+        non_striker: HG Munsey
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 0.3:
+        non_striker: HG Munsey
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 0.4:
+        non_striker: HG Munsey
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 0.5:
+        non_striker: MA Jones
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 0.6:
+        non_striker: MA Jones
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 1.1:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 1.2:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Jones
+    - 1.3:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+        wicket:
+          player_out: MA Jones
+          fielders:
+          - SE Rutherford
+          kind: caught
+    - 1.4:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 1.5:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 1.6:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 1.7:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 2.1:
+        non_striker: BJ McMullen
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 2.2:
+        non_striker: HG Munsey
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 2.3:
+        non_striker: HG Munsey
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ McMullen
+    - 2.4:
+        non_striker: HG Munsey
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 2.5:
+        non_striker: BJ McMullen
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 2.6:
+        non_striker: HG Munsey
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 3.1:
+        non_striker: BJ McMullen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 3.2:
+        non_striker: BJ McMullen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.3:
+        non_striker: BJ McMullen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 3.4:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 3.5:
+        non_striker: BJ McMullen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 3.6:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McMullen
+    - 3.7:
+        non_striker: HG Munsey
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 4.1:
+        non_striker: HG Munsey
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 4.2:
+        non_striker: BJ McMullen
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 4.3:
+        non_striker: HG Munsey
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+        wicket:
+          player_out: BJ McMullen
+          kind: bowled
+    - 4.4:
+        non_striker: HG Munsey
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 4.5:
+        non_striker: RD Berrington
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 4.6:
+        non_striker: HG Munsey
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.1:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 5.2:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 5.3:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 5.4:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 5.5:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 5.6:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 5.7:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 6.1:
+        non_striker: TC Bruce
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.2:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 6.3:
+        non_striker: TC Bruce
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.4:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 6.5:
+        non_striker: TC Bruce
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.6:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 7.1:
+        non_striker: TC Bruce
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 7.2:
+        non_striker: TC Bruce
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 7.3:
+        non_striker: RD Berrington
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 7.4:
+        non_striker: TC Bruce
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 7.5:
+        non_striker: RD Berrington
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 7.6:
+        non_striker: TC Bruce
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 8.1:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 8.2:
+        non_striker: TC Bruce
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.3:
+        non_striker: TC Bruce
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 8.4:
+        non_striker: TC Bruce
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 8.5:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 8.6:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 9.1:
+        non_striker: TC Bruce
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 9.2:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Bruce
+    - 9.3:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 9.4:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 9.5:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 9.6:
+        non_striker: TC Bruce
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 9.7:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: TC Bruce
+    - 9.8:
+        non_striker: RD Berrington
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 10.1:
+        non_striker: TC Bruce
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 10.2:
+        non_striker: TC Bruce
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 10.3:
+        non_striker: TC Bruce
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 10.4:
+        non_striker: RD Berrington
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 10.5:
+        non_striker: TC Bruce
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 10.6:
+        non_striker: TC Bruce
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 11.1:
+        non_striker: RD Berrington
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Bruce
+    - 11.2:
+        non_striker: RD Berrington
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 11.3:
+        non_striker: RD Berrington
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 11.4:
+        non_striker: TC Bruce
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 11.5:
+        non_striker: TC Bruce
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 11.6:
+        non_striker: RD Berrington
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.1:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Bruce
+    - 12.2:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.3:
+        non_striker: TC Bruce
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 12.4:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 12.5:
+        non_striker: RD Berrington
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.6:
+        non_striker: TC Bruce
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 13.1:
+        non_striker: RD Berrington
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.2:
+        non_striker: TC Bruce
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+        wicket:
+          player_out: RD Berrington
+          fielders:
+          - S Joseph
+          kind: caught
+    - 13.3:
+        non_striker: TC Bruce
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 13.4:
+        non_striker: TC Bruce
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 13.5:
+        non_striker: MH Cross
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.6:
+        non_striker: TC Bruce
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 14.1:
+        non_striker: MH Cross
+        bowler: G Motie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 14.2:
+        non_striker: MH Cross
+        bowler: G Motie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TC Bruce
+    - 14.3:
+        non_striker: TC Bruce
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 14.4:
+        non_striker: MH Cross
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          kind: lbw
+    - 14.5:
+        non_striker: MH Cross
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 14.6:
+        non_striker: MRJ Watt
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 14.7:
+        non_striker: MRJ Watt
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 15.1:
+        non_striker: MH Cross
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 15.2:
+        non_striker: MRJ Watt
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 15.3:
+        non_striker: MRJ Watt
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 15.4:
+        non_striker: MRJ Watt
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 15.5:
+        non_striker: MH Cross
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 15.6:
+        non_striker: MRJ Watt
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 16.1:
+        non_striker: MH Cross
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 16.2:
+        non_striker: MRJ Watt
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+        wicket:
+          player_out: MH Cross
+          fielders:
+          - SE Rutherford
+          kind: caught
+    - 16.3:
+        non_striker: MRJ Watt
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+        wicket:
+          player_out: MA Leask
+          fielders:
+          - R Powell
+          kind: caught
+    - 16.4:
+        non_striker: MRJ Watt
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Davidson
+        wicket:
+          player_out: O Davidson
+          kind: bowled
+    - 16.5:
+        non_striker: MRJ Watt
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 16.6:
+        non_striker: MRJ Watt
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+        wicket:
+          player_out: SM Sharif
+          fielders:
+          - JO Holder
+          kind: caught
+    - 17.1:
+        non_striker: BJ Currie
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 17.2:
+        non_striker: MRJ Watt
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Currie
+    - 17.3:
+        non_striker: MRJ Watt
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Currie
+    - 17.4:
+        non_striker: BJ Currie
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 17.5:
+        non_striker: BJ Currie
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 17.6:
+        non_striker: BJ Currie
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 18.1:
+        non_striker: BJ Currie
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MRJ Watt
+    - 18.2:
+        non_striker: BJ Currie
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MRJ Watt
+    - 18.3:
+        non_striker: BJ Currie
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 18.4:
+        non_striker: MRJ Watt
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Currie
+    - 18.5:
+        non_striker: MRJ Watt
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Currie
+    - 18.6:
+        non_striker: BJ Currie
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+        wicket:
+          player_out: MRJ Watt
+          fielders:
+          - R Shepherd
+          kind: caught

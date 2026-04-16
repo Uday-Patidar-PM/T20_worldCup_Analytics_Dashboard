@@ -1,0 +1,1477 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2026-02-26'
+  gender: male
+  match_type: T20
+  match_type_number: 3739
+  outcome:
+    winner: Japan
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Abhishek Anand
+  players:
+    Bahrain:
+    - Asif Ali
+    - P Kurup
+    - Fiaz Ahmed
+    - Sohail Ahmed
+    - Ahmer Bin Nisar
+    - Yasser Nazir
+    - Rizwan Butt
+    - Ali Dawood
+    - Abdul Majid Abbasi
+    - Asif Shaikh
+    - Muhammad Salman
+    Japan:
+    - K Kadowaki-Fleming
+    - Abhishek Anand
+    - Esam Rahman
+    - C Hinze
+    - B Ito-Davis
+    - D Suzuki
+    - I Takahashi
+    - S Ravichandran
+    - A Patmore
+    - K Lake
+    - M Taniyama
+  registry:
+    people:
+      A Patmore: '85119526'
+      Abdul Majid Abbasi: 0cfb42b5
+      Abhishek Anand: 2c12bc65
+      Ahmer Bin Nisar: afbc53ba
+      Ali Dawood: 596982e6
+      Asif Ali: 0a4736eb
+      Asif Shaikh: 231daa19
+      B Ito-Davis: '96275259'
+      C Hinze: 626af7ff
+      D Suzuki: 64c81abf
+      Esam Rahman: 5ea3a7c6
+      Fiaz Ahmed: df1f2f29
+      I Takahashi: c988daa1
+      J Sanjeev: 3cc94090
+      K Kadowaki-Fleming: 33290a80
+      K Lake: 20321b0c
+      M Taniyama: cbd91942
+      Muhammad Salman: 460fc0ba
+      P Kurup: 50ceaef6
+      Rizwan Butt: e741ed8f
+      S Ravichandran: 9f2be73d
+      Samad Akbar: f05bd21b
+      Sohail Ahmed: 4db71b2e
+      T Khalid: 9168597e
+      Yasser Nazir: ccceaca9
+  teams:
+  - Bahrain
+  - Japan
+  toss:
+    winner: Bahrain
+    decision: bat
+  umpires:
+  - Samad Akbar
+  - J Sanjeev
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Kurup
+        batsman: Asif Ali
+    - 0.2:
+        bowler: K Lake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: P Kurup
+        batsman: Asif Ali
+    - 0.3:
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Kurup
+        batsman: Asif Ali
+    - 0.4:
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Kurup
+        batsman: Asif Ali
+    - 0.5:
+        non_striker: Asif Ali
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 0.6:
+        non_striker: Asif Ali
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 0.7:
+        non_striker: P Kurup
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 0.8:
+        non_striker: P Kurup
+        bowler: K Lake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+        wicket:
+          player_out: Asif Ali
+          fielders:
+          - A Patmore
+          kind: caught
+    - 1.1:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fiaz Ahmed
+        batsman: P Kurup
+    - 1.2:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fiaz Ahmed
+        batsman: P Kurup
+    - 1.3:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Fiaz Ahmed
+        batsman: P Kurup
+    - 1.4:
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Fiaz Ahmed
+        batsman: P Kurup
+    - 1.5:
+        non_striker: P Kurup
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 1.6:
+        non_striker: P Kurup
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 2.1:
+        non_striker: Fiaz Ahmed
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kurup
+    - 2.2:
+        non_striker: Fiaz Ahmed
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 2.3:
+        non_striker: Fiaz Ahmed
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 2.4:
+        non_striker: P Kurup
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 2.5:
+        non_striker: P Kurup
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiaz Ahmed
+    - 2.6:
+        non_striker: P Kurup
+        bowler: I Takahashi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Fiaz Ahmed
+    - 3.1:
+        non_striker: P Kurup
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 3.2:
+        non_striker: P Kurup
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 3.3:
+        non_striker: Fiaz Ahmed
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 3.4:
+        non_striker: Fiaz Ahmed
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 3.5:
+        non_striker: Fiaz Ahmed
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 3.6:
+        non_striker: Fiaz Ahmed
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 4.1:
+        non_striker: P Kurup
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 4.2:
+        non_striker: Fiaz Ahmed
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 4.3:
+        non_striker: Fiaz Ahmed
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 4.4:
+        non_striker: P Kurup
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 4.5:
+        non_striker: Fiaz Ahmed
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 4.6:
+        non_striker: Fiaz Ahmed
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 5.1:
+        non_striker: Fiaz Ahmed
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 5.2:
+        non_striker: Fiaz Ahmed
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 5.3:
+        non_striker: Fiaz Ahmed
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 5.4:
+        non_striker: P Kurup
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 5.5:
+        non_striker: P Kurup
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fiaz Ahmed
+    - 5.6:
+        non_striker: P Kurup
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 6.1:
+        non_striker: Fiaz Ahmed
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 6.2:
+        non_striker: Fiaz Ahmed
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 6.3:
+        non_striker: Fiaz Ahmed
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 6.4:
+        non_striker: Fiaz Ahmed
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 6.5:
+        non_striker: Fiaz Ahmed
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 6.6:
+        non_striker: P Kurup
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 7.1:
+        non_striker: Fiaz Ahmed
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 7.2:
+        non_striker: Fiaz Ahmed
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 7.3:
+        non_striker: Fiaz Ahmed
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 7.4:
+        non_striker: P Kurup
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+        wicket:
+          player_out: Fiaz Ahmed
+          fielders:
+          - S Ravichandran
+          kind: caught
+    - 7.5:
+        non_striker: P Kurup
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+        wicket:
+          player_out: Sohail Ahmed
+          kind: bowled
+    - 7.6:
+        non_striker: P Kurup
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 8.1:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 8.2:
+        non_striker: Ahmer Bin Nisar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 8.3:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmer Bin Nisar
+    - 8.4:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+        wicket:
+          player_out: Ahmer Bin Nisar
+          fielders:
+          - I Takahashi
+          kind: caught
+    - 8.5:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasser Nazir
+    - 8.6:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasser Nazir
+    - 9.1:
+        non_striker: P Kurup
+        bowler: B Ito-Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yasser Nazir
+    - 9.2:
+        non_striker: Yasser Nazir
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 9.3:
+        non_striker: Yasser Nazir
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 9.4:
+        non_striker: P Kurup
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasser Nazir
+        wicket:
+          player_out: Yasser Nazir
+          kind: lbw
+    - 9.5:
+        non_striker: P Kurup
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rizwan Butt
+    - 9.6:
+        non_striker: Rizwan Butt
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 10.1:
+        non_striker: Rizwan Butt
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 10.2:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizwan Butt
+    - 10.3:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizwan Butt
+    - 10.4:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizwan Butt
+    - 10.5:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizwan Butt
+    - 10.6:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizwan Butt
+    - 11.1:
+        non_striker: Rizwan Butt
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 11.2:
+        non_striker: Rizwan Butt
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 11.3:
+        non_striker: P Kurup
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rizwan Butt
+    - 11.4:
+        non_striker: Rizwan Butt
+        bowler: B Ito-Davis
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: P Kurup
+    - 11.5:
+        non_striker: Rizwan Butt
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 11.6:
+        non_striker: Rizwan Butt
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 12.1:
+        non_striker: P Kurup
+        bowler: S Ravichandran
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Rizwan Butt
+    - 12.2:
+        non_striker: P Kurup
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rizwan Butt
+    - 12.3:
+        non_striker: Rizwan Butt
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 12.4:
+        non_striker: P Kurup
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rizwan Butt
+        wicket:
+          player_out: Rizwan Butt
+          kind: bowled
+    - 12.5:
+        non_striker: P Kurup
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Dawood
+    - 12.6:
+        non_striker: P Kurup
+        bowler: S Ravichandran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Dawood
+    - 12.7:
+        non_striker: P Kurup
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Dawood
+        wicket:
+          player_out: Ali Dawood
+          fielders:
+          - M Taniyama
+          kind: caught
+    - 13.1:
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdul Majid Abbasi
+        batsman: P Kurup
+    - 13.2:
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdul Majid Abbasi
+        batsman: P Kurup
+    - 13.3:
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abdul Majid Abbasi
+        batsman: P Kurup
+    - 13.4:
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abdul Majid Abbasi
+        batsman: P Kurup
+    - 13.5:
+        non_striker: P Kurup
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Majid Abbasi
+    - 13.6:
+        non_striker: P Kurup
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Majid Abbasi
+    - 14.1:
+        non_striker: Abdul Majid Abbasi
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 14.2:
+        non_striker: Abdul Majid Abbasi
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kurup
+    - 14.3:
+        non_striker: Abdul Majid Abbasi
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 14.4:
+        non_striker: Abdul Majid Abbasi
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 14.5:
+        non_striker: P Kurup
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Majid Abbasi
+    - 14.6:
+        non_striker: Abdul Majid Abbasi
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+        wicket:
+          player_out: P Kurup
+          fielders:
+          - Esam Rahman
+          kind: caught
+    - 15.1:
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Asif Shaikh
+        batsman: Abdul Majid Abbasi
+    - 15.2:
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Asif Shaikh
+        batsman: Abdul Majid Abbasi
+    - 15.3:
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Asif Shaikh
+        batsman: Abdul Majid Abbasi
+    - 15.4:
+        non_striker: Abdul Majid Abbasi
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Shaikh
+    - 15.5:
+        non_striker: Abdul Majid Abbasi
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Shaikh
+    - 15.6:
+        non_striker: Abdul Majid Abbasi
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Shaikh
+    - 16.1:
+        non_striker: Asif Shaikh
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Majid Abbasi
+    - 16.2:
+        non_striker: Asif Shaikh
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Majid Abbasi
+    - 16.3:
+        non_striker: Abdul Majid Abbasi
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Shaikh
+    - 16.4:
+        non_striker: Asif Shaikh
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Majid Abbasi
+    - 16.5:
+        non_striker: Abdul Majid Abbasi
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Shaikh
+    - 16.6:
+        non_striker: Asif Shaikh
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Majid Abbasi
+    - 17.1:
+        non_striker: Abdul Majid Abbasi
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Shaikh
+    - 17.2:
+        non_striker: Asif Shaikh
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Majid Abbasi
+    - 17.3:
+        non_striker: Asif Shaikh
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Majid Abbasi
+    - 17.4:
+        non_striker: Abdul Majid Abbasi
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Shaikh
+    - 17.5:
+        non_striker: Abdul Majid Abbasi
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Shaikh
+        wicket:
+          player_out: Asif Shaikh
+          fielders:
+          - B Ito-Davis
+          kind: caught
+    - 17.6:
+        non_striker: Abdul Majid Abbasi
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Salman
+    - 18.1:
+        non_striker: Muhammad Salman
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Majid Abbasi
+    - 18.2:
+        non_striker: Muhammad Salman
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Majid Abbasi
+    - 18.3:
+        non_striker: Abdul Majid Abbasi
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Salman
+    - 18.4:
+        non_striker: Muhammad Salman
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Majid Abbasi
+    - 18.5:
+        non_striker: Abdul Majid Abbasi
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Salman
+    - 18.6:
+        non_striker: Abdul Majid Abbasi
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Salman
+    - 19.1:
+        non_striker: Abdul Majid Abbasi
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Salman
+    - 19.2:
+        non_striker: Abdul Majid Abbasi
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Salman
+        wicket:
+          player_out: Muhammad Salman
+          fielders:
+          - K Lake
+          kind: caught
+- 2nd innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: Ali Dawood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Abhishek Anand
+        batsman: K Kadowaki-Fleming
+    - 0.2:
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abhishek Anand
+        batsman: K Kadowaki-Fleming
+    - 0.3:
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abhishek Anand
+        batsman: K Kadowaki-Fleming
+    - 0.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 0.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 0.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 0.7:
+        non_striker: K Kadowaki-Fleming
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 1.1:
+        non_striker: Abhishek Anand
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+        wicket:
+          player_out: K Kadowaki-Fleming
+          fielders:
+          - P Kurup
+          kind: caught
+    - 1.2:
+        non_striker: Abhishek Anand
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 1.3:
+        non_striker: Abhishek Anand
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Esam Rahman
+    - 1.4:
+        non_striker: Abhishek Anand
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Esam Rahman
+    - 1.5:
+        non_striker: Abhishek Anand
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Esam Rahman
+    - 1.6:
+        non_striker: Abhishek Anand
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Esam Rahman
+    - 2.1:
+        non_striker: Abhishek Anand
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 2.2:
+        non_striker: Abhishek Anand
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Esam Rahman
+    - 2.3:
+        non_striker: Abhishek Anand
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Esam Rahman
+    - 2.4:
+        non_striker: Abhishek Anand
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Esam Rahman
+    - 2.5:
+        non_striker: Abhishek Anand
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 2.6:
+        non_striker: Abhishek Anand
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 3.1:
+        non_striker: Esam Rahman
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 3.2:
+        non_striker: Esam Rahman
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 3.3:
+        non_striker: Esam Rahman
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 3.4:
+        non_striker: Abhishek Anand
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+    - 3.5:
+        non_striker: Abhishek Anand
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Esam Rahman
+    - 3.6:
+        non_striker: Abhishek Anand
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Esam Rahman
+    - 4.1:
+        non_striker: Esam Rahman
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Anand
+    - 4.2:
+        non_striker: Esam Rahman
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 4.3:
+        non_striker: Abhishek Anand
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Esam Rahman
+        wicket:
+          player_out: Esam Rahman
+          fielders:
+          - Ahmer Bin Nisar
+          kind: caught
+    - 4.4:
+        non_striker: Abhishek Anand
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hinze
+    - 4.5:
+        non_striker: C Hinze
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 4.6:
+        non_striker: C Hinze
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 5.1:
+        non_striker: Abhishek Anand
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hinze
+    - 5.2:
+        non_striker: C Hinze
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 5.3:
+        non_striker: C Hinze
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Anand
+    - 5.4:
+        non_striker: C Hinze
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 5.5:
+        non_striker: C Hinze
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 5.6:
+        non_striker: C Hinze
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Anand
+    - 6.1:
+        non_striker: Abhishek Anand
+        bowler: Ali Dawood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Hinze
+    - 6.2:
+        non_striker: C Hinze
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 6.3:
+        non_striker: Abhishek Anand
+        bowler: Ali Dawood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Hinze
+    - 6.4:
+        non_striker: Abhishek Anand
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hinze
+    - 6.5:
+        non_striker: Abhishek Anand
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hinze
+    - 6.6:
+        non_striker: Abhishek Anand
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Hinze
+    - 6.7:
+        non_striker: Abhishek Anand
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Hinze
+    - 7.1:
+        non_striker: C Hinze
+        bowler: Ahmer Bin Nisar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Anand

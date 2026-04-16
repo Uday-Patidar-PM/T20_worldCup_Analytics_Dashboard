@@ -1,0 +1,1708 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  dates:
+  - '2026-02-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3702
+  outcome:
+    winner: Italy
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - CJPF Kalugamage
+  players:
+    Nepal:
+    - K Bhurtel
+    - Aasif Sheikh
+    - RK Paudel
+    - DS Airee
+    - Aarif Sheikh
+    - Lokesh Bam
+    - Gulsan Jha
+    - Karan KC
+    - NK Yadav
+    - S Lamichhane
+    - LN Rajbanshi
+    Italy:
+    - J Mosca
+    - AJ Mosca
+    - JT Smuts
+    - HJ Manenti
+    - M Campopiano
+    - BAD Manenti
+    - G Stewart
+    - GP Meade
+    - Jaspreet Singh
+    - CJPF Kalugamage
+    - Ali Hasan
+  registry:
+    people:
+      A Paleker: 634b11ac
+      AJ Mosca: 19c56e6e
+      Aarif Sheikh: cd4d7695
+      Aasif Sheikh: dcbea954
+      Ali Hasan: cae17490
+      BAD Manenti: ab21795b
+      CJPF Kalugamage: 31c04b7b
+      CM Brown: 448f4f1c
+      DM Koch: 6d10c034
+      DS Airee: 1747ea18
+      G Stewart: a77472dc
+      GP Meade: 3957a70a
+      Gulsan Jha: 9811e35e
+      HJ Manenti: 0e56c514
+      J Mosca: 8f02f6a8
+      JT Smuts: 42172c3c
+      Jaspreet Singh: d76ab352
+      K Bhurtel: e3386c8a
+      Karan KC: f53b3e1d
+      LN Rajbanshi: 6ad2d5f7
+      Lokesh Bam: 75c8a26b
+      M Campopiano: 26d80a9d
+      NK Yadav: 737e595d
+      RK Paudel: 1a3cc554
+      RS Madugalle: 766b5798
+      S Lamichhane: b410bd3d
+      SJ Nogajski: 9b3f9323
+  teams:
+  - Nepal
+  - Italy
+  toss:
+    winner: Italy
+    decision: field
+  umpires:
+  - DM Koch
+  - SJ Nogajski
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        non_striker: Aasif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Bhurtel
+    - 0.2:
+        non_striker: Aasif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.3:
+        non_striker: Aasif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.4:
+        non_striker: Aasif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.5:
+        non_striker: Aasif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.6:
+        non_striker: Aasif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 0.7:
+        non_striker: Aasif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.1:
+        non_striker: K Bhurtel
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 1.2:
+        non_striker: Aasif Sheikh
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+    - 1.3:
+        non_striker: Aasif Sheikh
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Bhurtel
+    - 1.4:
+        non_striker: K Bhurtel
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 1.5:
+        non_striker: Aasif Sheikh
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Bhurtel
+    - 1.6:
+        non_striker: Aasif Sheikh
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Bhurtel
+        wicket:
+          player_out: K Bhurtel
+          fielders:
+          - J Mosca
+          kind: caught
+    - 2.1:
+        non_striker: RK Paudel
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.2:
+        non_striker: RK Paudel
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.3:
+        non_striker: RK Paudel
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 2.4:
+        non_striker: RK Paudel
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 2.5:
+        non_striker: Aasif Sheikh
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 2.6:
+        non_striker: RK Paudel
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 3.1:
+        non_striker: Aasif Sheikh
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 3.2:
+        non_striker: RK Paudel
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aasif Sheikh
+    - 3.3:
+        non_striker: RK Paudel
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aasif Sheikh
+    - 3.4:
+        non_striker: RK Paudel
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aasif Sheikh
+    - 3.5:
+        non_striker: RK Paudel
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 3.6:
+        non_striker: Aasif Sheikh
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 4.1:
+        non_striker: Aasif Sheikh
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 4.2:
+        non_striker: RK Paudel
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 4.3:
+        non_striker: RK Paudel
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 4.4:
+        non_striker: Aasif Sheikh
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 4.5:
+        non_striker: Aasif Sheikh
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 4.6:
+        non_striker: RK Paudel
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 5.1:
+        non_striker: RK Paudel
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 5.2:
+        non_striker: Aasif Sheikh
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 5.3:
+        non_striker: Aasif Sheikh
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Paudel
+    - 5.4:
+        non_striker: Aasif Sheikh
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Paudel
+    - 5.5:
+        non_striker: Aasif Sheikh
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 5.6:
+        non_striker: RK Paudel
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 6.1:
+        non_striker: RK Paudel
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 6.2:
+        non_striker: Aasif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 6.3:
+        non_striker: Aasif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Paudel
+    - 6.4:
+        non_striker: RK Paudel
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aasif Sheikh
+    - 6.5:
+        non_striker: Aasif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+    - 6.6:
+        non_striker: Aasif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Paudel
+        wicket:
+          player_out: RK Paudel
+          fielders:
+          - G Stewart
+          kind: caught
+    - 7.1:
+        non_striker: DS Airee
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+    - 7.2:
+        non_striker: DS Airee
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aasif Sheikh
+        wicket:
+          player_out: Aasif Sheikh
+          fielders:
+          - GP Meade
+          kind: stumped
+    - 7.3:
+        non_striker: DS Airee
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 7.4:
+        non_striker: DS Airee
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aarif Sheikh
+    - 7.5:
+        non_striker: DS Airee
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 7.6:
+        non_striker: Aarif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 8.1:
+        non_striker: DS Airee
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 8.2:
+        non_striker: Aarif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 8.3:
+        non_striker: DS Airee
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 8.4:
+        non_striker: DS Airee
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 8.5:
+        non_striker: DS Airee
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aarif Sheikh
+    - 8.6:
+        non_striker: DS Airee
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 9.1:
+        non_striker: DS Airee
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 9.2:
+        non_striker: Aarif Sheikh
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 9.3:
+        non_striker: DS Airee
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 9.4:
+        non_striker: Aarif Sheikh
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 9.5:
+        non_striker: DS Airee
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 9.6:
+        non_striker: Aarif Sheikh
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 10.1:
+        non_striker: Aarif Sheikh
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 10.2:
+        non_striker: Aarif Sheikh
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 10.3:
+        non_striker: Aarif Sheikh
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 10.4:
+        non_striker: DS Airee
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 10.5:
+        non_striker: DS Airee
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 10.6:
+        non_striker: DS Airee
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 11.1:
+        non_striker: DS Airee
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 11.2:
+        non_striker: Aarif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 11.3:
+        non_striker: Aarif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 11.4:
+        non_striker: DS Airee
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 11.5:
+        non_striker: DS Airee
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 11.6:
+        non_striker: DS Airee
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 12.1:
+        non_striker: Aarif Sheikh
+        bowler: Jaspreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DS Airee
+    - 12.2:
+        non_striker: Aarif Sheikh
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 12.3:
+        non_striker: Aarif Sheikh
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 12.4:
+        non_striker: DS Airee
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 12.5:
+        non_striker: DS Airee
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 12.6:
+        non_striker: Aarif Sheikh
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 12.7:
+        non_striker: Aarif Sheikh
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 13.1:
+        non_striker: Aarif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Airee
+    - 13.2:
+        non_striker: Aarif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 13.3:
+        non_striker: Aarif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Airee
+    - 13.4:
+        non_striker: DS Airee
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 13.5:
+        non_striker: Aarif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+        wicket:
+          player_out: DS Airee
+          kind: bowled
+    - 13.6:
+        non_striker: Aarif Sheikh
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lokesh Bam
+    - 14.1:
+        non_striker: Aarif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Lokesh Bam
+    - 14.2:
+        non_striker: Aarif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lokesh Bam
+    - 14.3:
+        non_striker: Aarif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lokesh Bam
+    - 14.4:
+        non_striker: Aarif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lokesh Bam
+        wicket:
+          player_out: Lokesh Bam
+          fielders:
+          - AJ Mosca
+          kind: caught
+    - 14.5:
+        non_striker: Aarif Sheikh
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 14.6:
+        non_striker: Gulsan Jha
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 15.1:
+        non_striker: Aarif Sheikh
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 15.2:
+        non_striker: Gulsan Jha
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 15.3:
+        non_striker: Aarif Sheikh
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulsan Jha
+    - 15.4:
+        non_striker: Gulsan Jha
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+        wicket:
+          player_out: Aarif Sheikh
+          fielders:
+          - M Campopiano
+          kind: caught
+    - 15.5:
+        non_striker: Gulsan Jha
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 15.6:
+        non_striker: Gulsan Jha
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 16.1:
+        non_striker: Gulsan Jha
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 16.2:
+        non_striker: Gulsan Jha
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 16.3:
+        non_striker: Karan KC
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulsan Jha
+        wicket:
+          player_out: Gulsan Jha
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 16.4:
+        non_striker: Karan KC
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Yadav
+    - 16.5:
+        non_striker: Karan KC
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Yadav
+        wicket:
+          player_out: NK Yadav
+          fielders:
+          - J Mosca
+          - GP Meade
+          kind: run out
+    - 16.6:
+        non_striker: Karan KC
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 17.1:
+        non_striker: S Lamichhane
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 17.2:
+        non_striker: Karan KC
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 17.3:
+        non_striker: S Lamichhane
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 17.4:
+        non_striker: Karan KC
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 17.5:
+        non_striker: S Lamichhane
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Karan KC
+    - 17.6:
+        non_striker: S Lamichhane
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karan KC
+    - 18.1:
+        non_striker: Karan KC
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 18.2:
+        non_striker: S Lamichhane
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 18.3:
+        non_striker: Karan KC
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 18.4:
+        non_striker: S Lamichhane
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Karan KC
+    - 18.5:
+        non_striker: S Lamichhane
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 18.6:
+        non_striker: Karan KC
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 19.1:
+        non_striker: Karan KC
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+        wicket:
+          player_out: S Lamichhane
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 19.2:
+        non_striker: Karan KC
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 19.3:
+        non_striker: Karan KC
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+        wicket:
+          player_out: LN Rajbanshi
+          fielders:
+          - HJ Manenti
+          kind: run out
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 0.2:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 0.3:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 0.4:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 0.5:
+        non_striker: J Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 0.6:
+        non_striker: J Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 1.1:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Mosca
+    - 1.2:
+        non_striker: J Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 1.3:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 1.4:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 1.5:
+        non_striker: J Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 1.6:
+        non_striker: J Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 2.1:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.2:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mosca
+    - 2.3:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.4:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 2.5:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 2.6:
+        non_striker: AJ Mosca
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 3.1:
+        non_striker: J Mosca
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 3.2:
+        non_striker: J Mosca
+        bowler: LN Rajbanshi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Mosca
+    - 3.3:
+        non_striker: AJ Mosca
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 3.4:
+        non_striker: AJ Mosca
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mosca
+    - 3.5:
+        non_striker: AJ Mosca
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 3.6:
+        non_striker: J Mosca
+        bowler: LN Rajbanshi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 4.1:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 4.2:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 4.3:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 4.4:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 4.5:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 4.6:
+        non_striker: J Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 5.1:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 5.2:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 5.3:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 5.4:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 5.5:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 5.6:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 6.1:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 6.2:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 6.3:
+        non_striker: J Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 6.4:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 6.5:
+        non_striker: J Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 6.6:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 7.1:
+        non_striker: AJ Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 7.2:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 7.3:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 7.4:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 7.5:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 7.6:
+        non_striker: AJ Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 8.1:
+        non_striker: AJ Mosca
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 8.2:
+        non_striker: AJ Mosca
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 8.3:
+        non_striker: AJ Mosca
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 8.4:
+        non_striker: J Mosca
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 8.5:
+        non_striker: J Mosca
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 8.6:
+        non_striker: AJ Mosca
+        bowler: NK Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 9.1:
+        non_striker: J Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 9.2:
+        non_striker: AJ Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 9.3:
+        non_striker: J Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 9.4:
+        non_striker: AJ Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 9.5:
+        non_striker: AJ Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 9.6:
+        non_striker: J Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 10.1:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 10.2:
+        non_striker: AJ Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 10.3:
+        non_striker: AJ Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 10.4:
+        non_striker: AJ Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 10.5:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 10.6:
+        non_striker: J Mosca
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 11.1:
+        non_striker: AJ Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 11.2:
+        non_striker: J Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 11.3:
+        non_striker: AJ Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 11.4:
+        non_striker: J Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Mosca
+    - 11.5:
+        non_striker: AJ Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mosca
+    - 11.6:
+        non_striker: AJ Mosca
+        bowler: K Bhurtel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 12.1:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 12.2:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 12.3:
+        non_striker: AJ Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 12.4:
+        non_striker: J Mosca
+        bowler: DS Airee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca

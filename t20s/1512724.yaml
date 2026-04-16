@@ -1,0 +1,2193 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  dates:
+  - '2026-02-08'
+  gender: male
+  match_type: T20
+  match_type_number: 3689
+  outcome:
+    winner: Sri Lanka
+    by:
+      runs: 20
+  overs: 20
+  player_of_match:
+  - PHKD Mendis
+  players:
+    Sri Lanka:
+    - P Nissanka
+    - K Mishara
+    - BKG Mendis
+    - P Rathnayake
+    - DN Wellalage
+    - PHKD Mendis
+    - MD Shanaka
+    - PWH de Silva
+    - PVD Chameera
+    - M Theekshana
+    - M Pathirana
+    Ireland:
+    - PR Stirling
+    - GR Adair
+    - HT Tector
+    - L Tucker
+    - C Campher
+    - BF Calitz
+    - GJ Delany
+    - GH Dockrell
+    - MR Adair
+    - BJ McCarthy
+    - MJ Humphreys
+  registry:
+    people:
+      Ahsan Raza: e0e5b209
+      Asif Yaqoob: 6b35790c
+      BF Calitz: 24ad97e7
+      BJ McCarthy: 3766056b
+      BKG Mendis: 5d1e7582
+      C Campher: 478a63e7
+      DA Cosker: aac9f784
+      DN Wellalage: 736123bb
+      GH Dockrell: 99cddc5e
+      GJ Delany: 33b3d2df
+      GR Adair: 4ec96094
+      HT Tector: 59ea70a4
+      K Mishara: 65cebd5d
+      L Tucker: 3979b5e0
+      M Pathirana: 64839cb3
+      M Theekshana: f24c6701
+      MD Shanaka: 3ff033bb
+      MJ Humphreys: 2c54c49b
+      MR Adair: fc55ec67
+      P Nissanka: 8ee36b18
+      P Rathnayake: c1fdfb46
+      PHKD Mendis: '08548b13'
+      PR Stirling: cf494ffe
+      PVD Chameera: 327b58d3
+      PWH de Silva: a97c8ec2
+      RA Kettleborough: 4017868f
+      WR Knights: 63cbf8d8
+  teams:
+  - Sri Lanka
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - Ahsan Raza
+  - Asif Yaqoob
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: K Mishara
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: K Mishara
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: K Mishara
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.4:
+        non_striker: K Mishara
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: P Nissanka
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 0.6:
+        non_striker: P Nissanka
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mishara
+    - 1.1:
+        non_striker: K Mishara
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 1.2:
+        non_striker: K Mishara
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mishara
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mishara
+    - 1.5:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 1.7:
+        non_striker: K Mishara
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.1:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 2.2:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mishara
+    - 2.3:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 2.6:
+        non_striker: K Mishara
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 2.7:
+        non_striker: K Mishara
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.1:
+        non_striker: K Mishara
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: K Mishara
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.3:
+        non_striker: K Mishara
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 3.4:
+        non_striker: K Mishara
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 3.6:
+        non_striker: P Nissanka
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+        wicket:
+          player_out: K Mishara
+          fielders:
+          - BJ McCarthy
+          kind: caught
+    - 4.1:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 4.2:
+        non_striker: P Nissanka
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.3:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 4.4:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 4.5:
+        non_striker: P Nissanka
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.1:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.2:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 5.3:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.4:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 5.5:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.6:
+        non_striker: P Nissanka
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 6.1:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.2:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.3:
+        non_striker: P Nissanka
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.4:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 6.5:
+        non_striker: P Nissanka
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.6:
+        non_striker: P Nissanka
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.1:
+        non_striker: P Nissanka
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 7.2:
+        non_striker: P Nissanka
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.3:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.4:
+        non_striker: P Nissanka
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.5:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.6:
+        non_striker: P Nissanka
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.1:
+        non_striker: P Nissanka
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.2:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - PR Stirling
+          kind: caught
+    - 8.3:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 8.4:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 8.5:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 8.6:
+        non_striker: P Rathnayake
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 9.1:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 9.2:
+        non_striker: P Rathnayake
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 9.3:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 9.4:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 9.5:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 9.6:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 10.1:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+        wicket:
+          player_out: P Rathnayake
+          kind: bowled
+    - 10.2:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 10.3:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 10.4:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 10.5:
+        non_striker: DN Wellalage
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 10.6:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 11.1:
+        non_striker: BKG Mendis
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 11.2:
+        non_striker: DN Wellalage
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 11.3:
+        non_striker: BKG Mendis
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 11.4:
+        non_striker: BKG Mendis
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 11.5:
+        non_striker: DN Wellalage
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 11.6:
+        non_striker: DN Wellalage
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 12.1:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 12.2:
+        non_striker: DN Wellalage
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 12.3:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 12.4:
+        non_striker: DN Wellalage
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 12.5:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wellalage
+    - 12.6:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wellalage
+    - 12.7:
+        non_striker: BKG Mendis
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 13.1:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 13.2:
+        non_striker: DN Wellalage
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 13.3:
+        non_striker: DN Wellalage
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 13.4:
+        non_striker: DN Wellalage
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 13.5:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+        wicket:
+          player_out: DN Wellalage
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 13.6:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 14.1:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 14.2:
+        non_striker: PHKD Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 14.3:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 14.4:
+        non_striker: PHKD Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 14.5:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 14.6:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 15.1:
+        non_striker: PHKD Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 15.2:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 15.3:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 15.4:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 15.5:
+        non_striker: PHKD Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 15.6:
+        non_striker: BKG Mendis
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 16.1:
+        non_striker: PHKD Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 16.2:
+        non_striker: PHKD Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 16.3:
+        non_striker: PHKD Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BKG Mendis
+    - 16.4:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PHKD Mendis
+    - 16.5:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 16.6:
+        non_striker: BKG Mendis
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 17.1:
+        non_striker: PHKD Mendis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 17.2:
+        non_striker: BKG Mendis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 17.3:
+        non_striker: PHKD Mendis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 17.4:
+        non_striker: BKG Mendis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 17.5:
+        non_striker: PHKD Mendis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 17.6:
+        non_striker: PHKD Mendis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 18.1:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: PHKD Mendis
+    - 18.2:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 18.3:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 18.4:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PHKD Mendis
+    - 18.5:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 18.6:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 18.7:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 18.8:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+        wicket:
+          player_out: PHKD Mendis
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 18.9:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - MR Adair
+          kind: caught
+    - 18.10:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWH de Silva
+    - 18.11:
+        non_striker: BKG Mendis
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 19.1:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 19.2:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 19.3:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 19.4:
+        non_striker: BKG Mendis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 19.5:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 19.6:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 19.7:
+        non_striker: PWH de Silva
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GR Adair
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: GR Adair
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.3:
+        non_striker: GR Adair
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 0.4:
+        non_striker: GR Adair
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 1.1:
+        non_striker: GR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.3:
+        non_striker: PR Stirling
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 1.4:
+        non_striker: GR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: GR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 2.1:
+        non_striker: GR Adair
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: GR Adair
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: PR Stirling
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 2.4:
+        non_striker: GR Adair
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 2.5:
+        non_striker: GR Adair
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.6:
+        non_striker: GR Adair
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 2.7:
+        non_striker: PR Stirling
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 3.1:
+        non_striker: GR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.2:
+        non_striker: GR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          kind: bowled
+    - 3.3:
+        non_striker: GR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 3.4:
+        non_striker: HT Tector
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 3.5:
+        non_striker: GR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 3.6:
+        non_striker: GR Adair
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 4.1:
+        non_striker: GR Adair
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 4.2:
+        non_striker: GR Adair
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 4.3:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 4.4:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 4.5:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 4.6:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 5.1:
+        non_striker: GR Adair
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 5.2:
+        non_striker: GR Adair
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 5.3:
+        non_striker: HT Tector
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 5.4:
+        non_striker: HT Tector
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 5.5:
+        non_striker: HT Tector
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 5.6:
+        non_striker: HT Tector
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 6.1:
+        non_striker: GR Adair
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.2:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 6.3:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 6.4:
+        non_striker: GR Adair
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 6.5:
+        non_striker: GR Adair
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.6:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 6.7:
+        non_striker: GR Adair
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 7.1:
+        non_striker: HT Tector
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 7.2:
+        non_striker: HT Tector
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 7.3:
+        non_striker: GR Adair
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.4:
+        non_striker: HT Tector
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 7.5:
+        non_striker: HT Tector
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 7.6:
+        non_striker: HT Tector
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          kind: bowled
+    - 8.1:
+        non_striker: L Tucker
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.2:
+        non_striker: HT Tector
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 8.3:
+        non_striker: HT Tector
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 8.4:
+        non_striker: L Tucker
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 8.5:
+        non_striker: L Tucker
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.6:
+        non_striker: L Tucker
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 9.1:
+        non_striker: HT Tector
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.2:
+        non_striker: L Tucker
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 9.3:
+        non_striker: L Tucker
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.4:
+        non_striker: HT Tector
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.5:
+        non_striker: L Tucker
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 9.6:
+        non_striker: L Tucker
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.1:
+        non_striker: L Tucker
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 10.2:
+        non_striker: L Tucker
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.3:
+        non_striker: HT Tector
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 10.4:
+        non_striker: HT Tector
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.5:
+        non_striker: L Tucker
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.6:
+        non_striker: HT Tector
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.1:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.2:
+        non_striker: L Tucker
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 11.3:
+        non_striker: L Tucker
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.4:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 11.5:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 11.6:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 12.1:
+        non_striker: L Tucker
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.2:
+        non_striker: HT Tector
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 12.3:
+        non_striker: HT Tector
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.4:
+        non_striker: L Tucker
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.5:
+        non_striker: HT Tector
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 12.6:
+        non_striker: HT Tector
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 13.1:
+        non_striker: HT Tector
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 13.2:
+        non_striker: HT Tector
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 13.3:
+        non_striker: L Tucker
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 13.4:
+        non_striker: L Tucker
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 13.5:
+        non_striker: L Tucker
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 13.6:
+        non_striker: L Tucker
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 14.1:
+        non_striker: L Tucker
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 14.2:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - K Mishara
+          kind: caught
+    - 14.3:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: C Campher
+    - 14.4:
+        non_striker: C Campher
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 14.5:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 14.6:
+        non_striker: HT Tector
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 15.1:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - P Rathnayake
+          kind: caught
+    - 15.2:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 15.3:
+        non_striker: BF Calitz
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 15.4:
+        non_striker: BF Calitz
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 15.5:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 15.6:
+        non_striker: BF Calitz
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 16.1:
+        non_striker: BF Calitz
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 16.2:
+        non_striker: C Campher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Calitz
+    - 16.3:
+        non_striker: C Campher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+        wicket:
+          player_out: BF Calitz
+          fielders:
+          - BKG Mendis
+          kind: stumped
+    - 16.4:
+        non_striker: C Campher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          fielders:
+          - PVD Chameera
+          kind: caught
+    - 16.5:
+        non_striker: C Campher
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 16.6:
+        non_striker: GH Dockrell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 17.1:
+        non_striker: C Campher
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 17.2:
+        non_striker: GH Dockrell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 17.3:
+        non_striker: GH Dockrell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 17.4:
+        non_striker: GH Dockrell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          fielders:
+          - MD Shanaka
+          kind: caught
+    - 17.5:
+        non_striker: GH Dockrell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 17.6:
+        non_striker: GH Dockrell
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 18.1:
+        non_striker: MR Adair
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 18.2:
+        non_striker: MR Adair
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 18.3:
+        non_striker: GH Dockrell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 18.4:
+        non_striker: GH Dockrell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 18.5:
+        non_striker: GH Dockrell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 18.6:
+        non_striker: GH Dockrell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          fielders:
+          - MD Shanaka
+          kind: caught
+    - 19.1:
+        non_striker: BJ McCarthy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 19.2:
+        non_striker: BJ McCarthy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 19.3:
+        non_striker: BJ McCarthy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - PHKD Mendis
+          kind: caught
+    - 19.4:
+        non_striker: BJ McCarthy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+    - 19.5:
+        non_striker: BJ McCarthy
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Humphreys
+        wicket:
+          player_out: MJ Humphreys
+          kind: bowled

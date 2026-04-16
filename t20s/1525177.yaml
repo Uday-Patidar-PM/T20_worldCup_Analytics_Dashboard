@@ -1,0 +1,1986 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: George Town
+  dates:
+  - '2026-03-15'
+  gender: male
+  match_type: T20
+  match_type_number: 3775
+  outcome:
+    winner: Cayman Islands
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - A Wright
+  players:
+    Argentina:
+    - P Baron
+    - A Ferguson
+    - Lucas Rossi
+    - A Kirschbaum
+    - T Rossi
+    - R Escobar
+    - AAP Rivero
+    - Manuel Iturbe
+    - H Fennell
+    - A Husain
+    - JP Cabrera
+    Cayman Islands:
+    - J Baker
+    - YSD Seneveratne
+    - RA Sealy
+    - AR Naidoo
+    - Davion Codner
+    - V Dhaniram
+    - J Buchanan
+    - R Edwards
+    - A Wright
+    - D Johnson
+    - C Wright
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Gajjar: 37db06ef
+      A Husain: 034d3c52
+      A Kirschbaum: d953bf92
+      A Wright: 4bb7f51e
+      AAP Rivero: 1911dcbc
+      AR Naidoo: 68886c16
+      C Wright: d465c6d7
+      D Johnson: d406e303
+      Davion Codner: 6a84b40e
+      Denavon Hayles: 5cbeeb02
+      H Fennell: 0d38ab25
+      J Baker: a12672e0
+      J Buchanan: 01127aa9
+      JP Cabrera: b30bfd44
+      Jermaine Lindo: 1154bf4f
+      Lucas Rossi: 2064e555
+      Manuel Iturbe: bddbf5ec
+      P Baron: c6d1b1e4
+      R Edwards: 4c5a72e2
+      R Escobar: 9fa5496f
+      R Shah: 3424e050
+      RA Sealy: 1e98804a
+      T Rossi: 5470418a
+      V Dhaniram: '10885753'
+      YSD Seneveratne: 0f71478c
+  teams:
+  - Argentina
+  - Cayman Islands
+  toss:
+    winner: Argentina
+    decision: bat
+  umpires:
+  - A Gajjar
+  - R Shah
+  venue: Jimmy Powell Oval, Cayman Islands
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Ferguson
+        batsman: P Baron
+    - 0.2:
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Ferguson
+        batsman: P Baron
+    - 0.3:
+        non_striker: P Baron
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 0.4:
+        non_striker: P Baron
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+        wicket:
+          player_out: A Ferguson
+          fielders:
+          - D Johnson
+          kind: caught
+    - 0.5:
+        non_striker: P Baron
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 0.6:
+        non_striker: Lucas Rossi
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.1:
+        non_striker: P Baron
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 1.2:
+        non_striker: Lucas Rossi
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          fielders:
+          - C Wright
+          kind: caught
+    - 1.3:
+        non_striker: Lucas Rossi
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 1.4:
+        non_striker: Lucas Rossi
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 1.5:
+        non_striker: A Kirschbaum
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+        wicket:
+          player_out: Lucas Rossi
+          fielders:
+          - V Dhaniram
+          kind: caught
+    - 1.6:
+        non_striker: A Kirschbaum
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 2.1:
+        non_striker: A Kirschbaum
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 2.2:
+        non_striker: A Kirschbaum
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Rossi
+    - 2.3:
+        non_striker: A Kirschbaum
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rossi
+    - 2.4:
+        non_striker: A Kirschbaum
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 2.5:
+        non_striker: T Rossi
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 2.6:
+        non_striker: T Rossi
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 3.1:
+        non_striker: T Rossi
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 3.2:
+        non_striker: T Rossi
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 3.3:
+        non_striker: T Rossi
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 3.4:
+        non_striker: A Kirschbaum
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 3.5:
+        non_striker: A Kirschbaum
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 3.6:
+        non_striker: A Kirschbaum
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+        wicket:
+          player_out: T Rossi
+          kind: bowled
+    - 4.1:
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Escobar
+        batsman: A Kirschbaum
+    - 4.2:
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Escobar
+        batsman: A Kirschbaum
+    - 4.3:
+        non_striker: A Kirschbaum
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 4.4:
+        non_striker: A Kirschbaum
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 4.5:
+        non_striker: A Kirschbaum
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 4.6:
+        non_striker: A Kirschbaum
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 5.1:
+        non_striker: R Escobar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 5.2:
+        non_striker: R Escobar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Kirschbaum
+    - 5.3:
+        non_striker: R Escobar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 5.4:
+        non_striker: A Kirschbaum
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 5.5:
+        non_striker: A Kirschbaum
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 5.6:
+        non_striker: A Kirschbaum
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 6.1:
+        non_striker: R Escobar
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 6.2:
+        non_striker: R Escobar
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kirschbaum
+    - 6.3:
+        non_striker: R Escobar
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 6.4:
+        non_striker: R Escobar
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 6.5:
+        non_striker: R Escobar
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.6:
+        non_striker: A Kirschbaum
+        bowler: D Johnson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Escobar
+    - 6.7:
+        non_striker: R Escobar
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.8:
+        non_striker: A Kirschbaum
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 7.1:
+        non_striker: R Escobar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 7.2:
+        non_striker: R Escobar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 7.3:
+        non_striker: A Kirschbaum
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 7.4:
+        non_striker: R Escobar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 7.5:
+        non_striker: R Escobar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 7.6:
+        non_striker: A Kirschbaum
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 8.1:
+        non_striker: A Kirschbaum
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 8.2:
+        non_striker: A Kirschbaum
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 8.3:
+        non_striker: R Escobar
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 8.4:
+        non_striker: A Kirschbaum
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 8.5:
+        non_striker: R Escobar
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 8.6:
+        non_striker: A Kirschbaum
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 9.1:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 9.2:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 9.3:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 9.4:
+        non_striker: A Kirschbaum
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 9.5:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 9.6:
+        non_striker: A Kirschbaum
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Escobar
+    - 10.1:
+        non_striker: R Escobar
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 10.2:
+        non_striker: R Escobar
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 10.3:
+        non_striker: A Kirschbaum
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 10.4:
+        non_striker: R Escobar
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 10.5:
+        non_striker: A Kirschbaum
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 10.6:
+        non_striker: A Kirschbaum
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 11.1:
+        non_striker: A Kirschbaum
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 11.2:
+        non_striker: A Kirschbaum
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 11.3:
+        non_striker: A Kirschbaum
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 11.4:
+        non_striker: R Escobar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 11.5:
+        non_striker: R Escobar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 11.6:
+        non_striker: R Escobar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 12.1:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 12.2:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 12.3:
+        non_striker: A Kirschbaum
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 12.4:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 12.5:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 12.6:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 13.1:
+        non_striker: R Escobar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 13.2:
+        non_striker: R Escobar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          kind: lbw
+    - 13.3:
+        non_striker: R Escobar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 13.4:
+        non_striker: R Escobar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 13.5:
+        non_striker: AAP Rivero
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 13.6:
+        non_striker: R Escobar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 14.1:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 14.2:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 14.3:
+        non_striker: AAP Rivero
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 14.4:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 14.5:
+        non_striker: AAP Rivero
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 14.6:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAP Rivero
+    - 14.7:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 15.1:
+        non_striker: R Escobar
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AAP Rivero
+    - 15.2:
+        non_striker: AAP Rivero
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 15.3:
+        non_striker: R Escobar
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 15.4:
+        non_striker: AAP Rivero
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 15.5:
+        non_striker: R Escobar
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AAP Rivero
+    - 15.6:
+        non_striker: R Escobar
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 16.1:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 16.2:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 16.3:
+        non_striker: AAP Rivero
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 16.4:
+        non_striker: AAP Rivero
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 16.5:
+        non_striker: R Escobar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 16.6:
+        non_striker: AAP Rivero
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 17.1:
+        non_striker: AAP Rivero
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 17.2:
+        non_striker: AAP Rivero
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+        wicket:
+          player_out: R Escobar
+          kind: lbw
+    - 17.3:
+        non_striker: AAP Rivero
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 17.4:
+        non_striker: AAP Rivero
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 17.5:
+        non_striker: AAP Rivero
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manuel Iturbe
+    - 17.6:
+        non_striker: Manuel Iturbe
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 18.1:
+        non_striker: Manuel Iturbe
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 18.2:
+        non_striker: Manuel Iturbe
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 18.3:
+        non_striker: Manuel Iturbe
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 18.4:
+        non_striker: Manuel Iturbe
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAP Rivero
+    - 18.5:
+        non_striker: Manuel Iturbe
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAP Rivero
+    - 18.6:
+        non_striker: Manuel Iturbe
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AAP Rivero
+    - 18.7:
+        non_striker: Manuel Iturbe
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+        wicket:
+          player_out: AAP Rivero
+          kind: bowled
+    - 18.8:
+        non_striker: Manuel Iturbe
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: H Fennell
+    - 19.1:
+        non_striker: Manuel Iturbe
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Fennell
+    - 19.2:
+        non_striker: H Fennell
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+    - 19.3:
+        non_striker: H Fennell
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manuel Iturbe
+        wicket:
+          player_out: Manuel Iturbe
+          kind: bowled
+    - 19.4:
+        non_striker: H Fennell
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Husain
+    - 19.5:
+        non_striker: H Fennell
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Husain
+    - 19.6:
+        non_striker: H Fennell
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Husain
+- 2nd innings:
+    team: Cayman Islands
+    deliveries:
+    - 0.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.2:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.3:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.4:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.5:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 0.6:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 1.1:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 1.2:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 1.3:
+        non_striker: J Baker
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 1.4:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 1.5:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 1.6:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 2.1:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 2.2:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 2.3:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 2.4:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 2.5:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 2.6:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 3.1:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 3.2:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 3.3:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 3.4:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 3.5:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 3.6:
+        non_striker: YSD Seneveratne
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 4.1:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 4.2:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 4.3:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YSD Seneveratne
+    - 4.4:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 4.5:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 4.6:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 5.1:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 5.2:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 5.3:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 5.4:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 5.5:
+        non_striker: YSD Seneveratne
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 5.6:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 6.1:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 6.2:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 6.3:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 6.4:
+        non_striker: J Baker
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 6.5:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 6.6:
+        non_striker: YSD Seneveratne
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 7.1:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+        wicket:
+          player_out: YSD Seneveratne
+          fielders:
+          - P Baron
+          kind: caught
+    - 7.2:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 7.3:
+        non_striker: RA Sealy
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 7.4:
+        non_striker: RA Sealy
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 7.5:
+        non_striker: RA Sealy
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 7.6:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 8.1:
+        non_striker: RA Sealy
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 8.2:
+        non_striker: J Baker
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 8.3:
+        non_striker: RA Sealy
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 8.4:
+        non_striker: J Baker
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+        wicket:
+          player_out: RA Sealy
+          fielders:
+          - P Baron
+          kind: caught
+    - 8.5:
+        non_striker: J Baker
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 8.6:
+        non_striker: J Baker
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 8.7:
+        non_striker: J Baker
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Naidoo
+    - 8.8:
+        non_striker: J Baker
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 9.1:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 9.2:
+        non_striker: AR Naidoo
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 9.3:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 9.4:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 9.5:
+        non_striker: AR Naidoo
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 9.6:
+        non_striker: AR Naidoo
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 10.1:
+        non_striker: J Baker
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 10.2:
+        non_striker: AR Naidoo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 10.3:
+        non_striker: AR Naidoo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 10.4:
+        non_striker: AR Naidoo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 10.5:
+        non_striker: J Baker
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 10.6:
+        non_striker: AR Naidoo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 11.1:
+        non_striker: AR Naidoo
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 11.2:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 11.3:
+        non_striker: AR Naidoo
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 11.4:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 11.5:
+        non_striker: J Baker
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 11.6:
+        non_striker: AR Naidoo
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 12.1:
+        non_striker: AR Naidoo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 12.2:
+        non_striker: AR Naidoo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 12.3:
+        non_striker: AR Naidoo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 12.4:
+        non_striker: J Baker
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 12.5:
+        non_striker: AR Naidoo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 12.6:
+        non_striker: AR Naidoo
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 13.1:
+        non_striker: AR Naidoo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 13.2:
+        non_striker: J Baker
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 13.3:
+        non_striker: J Baker
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 13.4:
+        non_striker: AR Naidoo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 13.5:
+        non_striker: J Baker
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 13.6:
+        non_striker: AR Naidoo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 14.1:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 14.2:
+        non_striker: J Baker
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 14.3:
+        non_striker: J Baker
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 14.4:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+        wicket:
+          player_out: J Baker
+          kind: caught and bowled
+    - 14.5:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Davion Codner
+    - 14.6:
+        non_striker: Davion Codner
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 15.1:
+        non_striker: AR Naidoo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Davion Codner
+    - 15.2:
+        non_striker: Davion Codner
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Naidoo
+    - 15.3:
+        non_striker: Davion Codner
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 15.4:
+        non_striker: AR Naidoo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Davion Codner
+    - 15.5:
+        non_striker: AR Naidoo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Davion Codner
+    - 15.6:
+        non_striker: AR Naidoo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Davion Codner
+    - 16.1:
+        non_striker: Davion Codner
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 16.2:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Davion Codner
+    - 16.3:
+        non_striker: Davion Codner
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 16.4:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Davion Codner
+        wicket:
+          player_out: Davion Codner
+          fielders:
+          - T Rossi
+          kind: caught
+    - 16.5:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Dhaniram
+    - 16.6:
+        non_striker: AR Naidoo
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Dhaniram

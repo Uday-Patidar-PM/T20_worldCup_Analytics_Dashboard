@@ -1,0 +1,2162 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: George Town
+  dates:
+  - '2026-03-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3766
+  outcome:
+    winner: Cayman Islands
+    by:
+      runs: 93
+  overs: 20
+  player_of_match:
+  - RA Sealy
+  players:
+    Cayman Islands:
+    - J Baker
+    - YSD Seneveratne
+    - RA Sealy
+    - AR Naidoo
+    - Davion Codner
+    - C Wright
+    - A Wright
+    - D Johnson
+    - J Buchanan
+    - R Edwards
+    - V Dhaniram
+    Mexico:
+    - R Galgalikar
+    - Shantanu Kaveri
+    - Gurpreet Singh
+    - KB Patil
+    - J Byrappa
+    - S Sharma
+    - S Kochar
+    - D Panda
+    - D Ebersohn
+    - Bhargav Narasimha
+    - Pratik Singh Bais
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      A Wright: 4bb7f51e
+      AR Maddela: 5c861579
+      AR Naidoo: 68886c16
+      Bhargav Narasimha: e60e8014
+      C Wright: d465c6d7
+      D Ebersohn: 6ca4e7bf
+      D Johnson: d406e303
+      D Panda: bad1af65
+      Davion Codner: 6a84b40e
+      Denavon Hayles: 5cbeeb02
+      Gurpreet Singh: f43dcdc1
+      J Baker: a12672e0
+      J Buchanan: 01127aa9
+      J Byrappa: 860f7b67
+      Jermaine Lindo: 1154bf4f
+      KB Patil: 0474fd64
+      Pratik Singh Bais: 5b351aff
+      R Edwards: 4c5a72e2
+      R Galgalikar: 3f951265
+      RA Sealy: 1e98804a
+      ROC Dunka: 762f43b7
+      S Kochar: da2eeb97
+      S Sharma: d6d2ac95
+      Shantanu Kaveri: '091880f7'
+      V Dhaniram: '10885753'
+      YSD Seneveratne: 0f71478c
+  teams:
+  - Cayman Islands
+  - Mexico
+  toss:
+    winner: Cayman Islands
+    decision: bat
+  umpires:
+  - A Gajjar
+  - AR Maddela
+  venue: Jimmy Powell Oval, Cayman Islands
+innings:
+- 1st innings:
+    team: Cayman Islands
+    deliveries:
+    - 0.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.3:
+        non_striker: J Baker
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 0.4:
+        non_striker: YSD Seneveratne
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 0.5:
+        non_striker: J Baker
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 0.6:
+        non_striker: J Baker
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 1.1:
+        non_striker: YSD Seneveratne
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 1.2:
+        non_striker: J Baker
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YSD Seneveratne
+    - 1.3:
+        non_striker: J Baker
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 1.4:
+        non_striker: J Baker
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 1.5:
+        non_striker: YSD Seneveratne
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Baker
+    - 1.6:
+        non_striker: YSD Seneveratne
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 1.7:
+        non_striker: YSD Seneveratne
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 2.1:
+        non_striker: YSD Seneveratne
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Baker
+    - 2.2:
+        non_striker: YSD Seneveratne
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 2.3:
+        non_striker: J Baker
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 2.4:
+        non_striker: J Baker
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 2.5:
+        non_striker: J Baker
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YSD Seneveratne
+    - 2.6:
+        non_striker: J Baker
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 2.7:
+        non_striker: J Baker
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YSD Seneveratne
+    - 3.1:
+        non_striker: YSD Seneveratne
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 3.2:
+        non_striker: J Baker
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 3.3:
+        non_striker: YSD Seneveratne
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 3.4:
+        non_striker: YSD Seneveratne
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Baker
+    - 3.5:
+        non_striker: YSD Seneveratne
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 3.6:
+        non_striker: J Baker
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 4.1:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YSD Seneveratne
+    - 4.2:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 4.3:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 4.4:
+        non_striker: YSD Seneveratne
+        bowler: S Sharma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: J Baker
+    - 4.5:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YSD Seneveratne
+    - 4.6:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 4.7:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 5.1:
+        non_striker: J Baker
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 5.2:
+        non_striker: J Baker
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 5.3:
+        non_striker: J Baker
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YSD Seneveratne
+    - 5.4:
+        non_striker: J Baker
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 5.5:
+        non_striker: J Baker
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 5.6:
+        non_striker: YSD Seneveratne
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 6.1:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 6.2:
+        non_striker: YSD Seneveratne
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 6.3:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 6.4:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 6.5:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 6.6:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 7.1:
+        non_striker: J Baker
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 7.2:
+        non_striker: YSD Seneveratne
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 7.3:
+        non_striker: YSD Seneveratne
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 7.4:
+        non_striker: YSD Seneveratne
+        bowler: Gurpreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Baker
+    - 7.5:
+        non_striker: YSD Seneveratne
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 7.6:
+        non_striker: YSD Seneveratne
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 7.7:
+        non_striker: J Baker
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YSD Seneveratne
+    - 8.1:
+        non_striker: YSD Seneveratne
+        bowler: S Sharma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: J Baker
+    - 8.2:
+        non_striker: YSD Seneveratne
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 8.3:
+        non_striker: YSD Seneveratne
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 8.4:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 8.5:
+        non_striker: J Baker
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 8.6:
+        non_striker: YSD Seneveratne
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 9.1:
+        non_striker: YSD Seneveratne
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+        wicket:
+          player_out: J Baker
+          fielders:
+          - D Ebersohn
+          kind: caught
+    - 9.2:
+        non_striker: YSD Seneveratne
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 9.3:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 9.4:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 9.5:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+        wicket:
+          player_out: YSD Seneveratne
+          kind: bowled
+    - 9.6:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 10.1:
+        non_striker: RA Sealy
+        bowler: S Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Naidoo
+    - 10.2:
+        non_striker: AR Naidoo
+        bowler: S Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RA Sealy
+    - 10.3:
+        non_striker: RA Sealy
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 10.4:
+        non_striker: RA Sealy
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 10.5:
+        non_striker: AR Naidoo
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 10.6:
+        non_striker: RA Sealy
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 11.1:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 11.2:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 11.3:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 11.4:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 11.5:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 11.6:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 12.1:
+        non_striker: AR Naidoo
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 12.2:
+        non_striker: AR Naidoo
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 12.3:
+        non_striker: RA Sealy
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 12.4:
+        non_striker: AR Naidoo
+        bowler: J Byrappa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RA Sealy
+    - 12.5:
+        non_striker: AR Naidoo
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 12.6:
+        non_striker: AR Naidoo
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 12.7:
+        non_striker: AR Naidoo
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 13.1:
+        non_striker: AR Naidoo
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 13.2:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 13.3:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AR Naidoo
+    - 13.4:
+        non_striker: AR Naidoo
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 13.5:
+        non_striker: RA Sealy
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 13.6:
+        non_striker: AR Naidoo
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 14.1:
+        non_striker: AR Naidoo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 14.2:
+        non_striker: RA Sealy
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 14.3:
+        non_striker: AR Naidoo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 14.4:
+        non_striker: RA Sealy
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 14.5:
+        non_striker: AR Naidoo
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 14.6:
+        non_striker: RA Sealy
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Naidoo
+    - 15.1:
+        non_striker: AR Naidoo
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 15.2:
+        non_striker: AR Naidoo
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 15.3:
+        non_striker: AR Naidoo
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 15.4:
+        non_striker: AR Naidoo
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 15.5:
+        non_striker: AR Naidoo
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Sealy
+    - 15.6:
+        non_striker: AR Naidoo
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 16.1:
+        non_striker: AR Naidoo
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 16.2:
+        non_striker: AR Naidoo
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 16.3:
+        non_striker: RA Sealy
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 16.4:
+        non_striker: RA Sealy
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 16.5:
+        non_striker: RA Sealy
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 16.6:
+        non_striker: RA Sealy
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Naidoo
+    - 17.1:
+        non_striker: AR Naidoo
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 17.2:
+        non_striker: RA Sealy
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Naidoo
+    - 17.3:
+        non_striker: RA Sealy
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 17.4:
+        non_striker: RA Sealy
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 17.5:
+        non_striker: AR Naidoo
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 17.6:
+        non_striker: AR Naidoo
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Sealy
+    - 18.1:
+        non_striker: RA Sealy
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 18.2:
+        non_striker: AR Naidoo
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 18.3:
+        non_striker: RA Sealy
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Naidoo
+    - 18.4:
+        non_striker: AR Naidoo
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 18.5:
+        non_striker: AR Naidoo
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+    - 18.6:
+        non_striker: AR Naidoo
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Sealy
+    - 19.1:
+        non_striker: AR Naidoo
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Sealy
+    - 19.2:
+        non_striker: AR Naidoo
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Sealy
+        wicket:
+          player_out: RA Sealy
+          fielders:
+          - J Byrappa
+          kind: caught
+    - 19.3:
+        non_striker: AR Naidoo
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Davion Codner
+    - 19.4:
+        non_striker: Davion Codner
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 19.5:
+        non_striker: Davion Codner
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+    - 19.6:
+        non_striker: Davion Codner
+        bowler: Bhargav Narasimha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Naidoo
+- 2nd innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shantanu Kaveri
+        batsman: R Galgalikar
+    - 0.2:
+        non_striker: R Galgalikar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 0.3:
+        non_striker: R Galgalikar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 0.4:
+        non_striker: R Galgalikar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 0.5:
+        non_striker: Shantanu Kaveri
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 0.6:
+        non_striker: Shantanu Kaveri
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Galgalikar
+    - 1.1:
+        non_striker: Shantanu Kaveri
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Galgalikar
+    - 1.2:
+        non_striker: Shantanu Kaveri
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 1.3:
+        non_striker: Shantanu Kaveri
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Galgalikar
+    - 1.4:
+        non_striker: R Galgalikar
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 1.5:
+        non_striker: R Galgalikar
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 1.6:
+        non_striker: R Galgalikar
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+        wicket:
+          player_out: Shantanu Kaveri
+          fielders:
+          - RA Sealy
+          kind: caught
+    - 2.1:
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Gurpreet Singh
+        batsman: R Galgalikar
+    - 2.2:
+        non_striker: R Galgalikar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 2.3:
+        non_striker: R Galgalikar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gurpreet Singh
+    - 2.4:
+        non_striker: R Galgalikar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 2.5:
+        non_striker: R Galgalikar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 2.6:
+        non_striker: R Galgalikar
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 3.1:
+        non_striker: Gurpreet Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 3.2:
+        non_striker: Gurpreet Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 3.3:
+        non_striker: Gurpreet Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 3.4:
+        non_striker: Gurpreet Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 3.5:
+        non_striker: Gurpreet Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 3.6:
+        non_striker: Gurpreet Singh
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 4.1:
+        non_striker: R Galgalikar
+        bowler: R Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Gurpreet Singh
+    - 4.2:
+        non_striker: R Galgalikar
+        bowler: R Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Gurpreet Singh
+    - 4.3:
+        non_striker: R Galgalikar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 4.4:
+        non_striker: Gurpreet Singh
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Galgalikar
+    - 4.5:
+        non_striker: R Galgalikar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 4.6:
+        non_striker: R Galgalikar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+        wicket:
+          player_out: Gurpreet Singh
+          fielders:
+          - AR Naidoo
+          kind: caught
+    - 4.7:
+        non_striker: R Galgalikar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 4.8:
+        non_striker: R Galgalikar
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 5.1:
+        non_striker: KB Patil
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 5.2:
+        non_striker: KB Patil
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Galgalikar
+    - 5.3:
+        non_striker: R Galgalikar
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 5.4:
+        non_striker: KB Patil
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 5.5:
+        non_striker: KB Patil
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Galgalikar
+    - 5.6:
+        non_striker: R Galgalikar
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KB Patil
+    - 5.7:
+        non_striker: R Galgalikar
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 6.1:
+        non_striker: KB Patil
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+        wicket:
+          player_out: R Galgalikar
+          kind: bowled
+    - 6.2:
+        non_striker: KB Patil
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa
+    - 6.3:
+        non_striker: J Byrappa
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 6.4:
+        non_striker: J Byrappa
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 6.5:
+        non_striker: J Byrappa
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 6.6:
+        non_striker: KB Patil
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Byrappa
+    - 7.1:
+        non_striker: J Byrappa
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 7.2:
+        non_striker: KB Patil
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa
+    - 7.3:
+        non_striker: J Byrappa
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 7.4:
+        non_striker: J Byrappa
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 7.5:
+        non_striker: KB Patil
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Byrappa
+    - 7.6:
+        non_striker: KB Patil
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Byrappa
+    - 8.1:
+        non_striker: J Byrappa
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 8.2:
+        non_striker: J Byrappa
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 8.3:
+        non_striker: KB Patil
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa
+    - 8.4:
+        non_striker: J Byrappa
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 8.5:
+        non_striker: KB Patil
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Byrappa
+        wicket:
+          player_out: J Byrappa
+          kind: bowled
+    - 8.6:
+        non_striker: KB Patil
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sharma
+        wicket:
+          player_out: S Sharma
+          kind: bowled
+    - 9.1:
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Kochar
+        batsman: KB Patil
+    - 9.2:
+        non_striker: KB Patil
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kochar
+    - 9.3:
+        non_striker: KB Patil
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kochar
+    - 9.4:
+        non_striker: S Kochar
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 9.5:
+        non_striker: KB Patil
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kochar
+    - 9.6:
+        non_striker: S Kochar
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 10.1:
+        non_striker: S Kochar
+        bowler: J Buchanan
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: KB Patil
+    - 10.2:
+        non_striker: S Kochar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 10.3:
+        non_striker: KB Patil
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kochar
+    - 10.4:
+        non_striker: S Kochar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 10.5:
+        non_striker: S Kochar
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 10.6:
+        non_striker: KB Patil
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kochar
+    - 10.7:
+        non_striker: KB Patil
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kochar
+    - 11.1:
+        non_striker: S Kochar
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KB Patil
+    - 11.2:
+        non_striker: S Kochar
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 11.3:
+        non_striker: S Kochar
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 11.4:
+        non_striker: S Kochar
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 11.5:
+        non_striker: KB Patil
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kochar
+        wicket:
+          player_out: S Kochar
+          kind: lbw
+    - 11.6:
+        non_striker: KB Patil
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 12.1:
+        non_striker: D Panda
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 12.2:
+        non_striker: D Panda
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 12.3:
+        non_striker: KB Patil
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 12.4:
+        non_striker: D Panda
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 12.5:
+        non_striker: D Panda
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 12.6:
+        non_striker: D Panda
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 13.1:
+        non_striker: D Panda
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 13.2:
+        non_striker: D Panda
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 13.3:
+        non_striker: KB Patil
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 13.4:
+        non_striker: KB Patil
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Panda
+    - 13.5:
+        non_striker: KB Patil
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 13.6:
+        non_striker: D Panda
+        bowler: Davion Codner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 14.1:
+        non_striker: D Panda
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KB Patil
+    - 14.2:
+        non_striker: D Panda
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 14.3:
+        non_striker: KB Patil
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+        wicket:
+          player_out: D Panda
+          fielders:
+          - RA Sealy
+          kind: stumped
+    - 14.4:
+        non_striker: KB Patil
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 14.5:
+        non_striker: KB Patil
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 14.6:
+        non_striker: D Ebersohn
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 15.1:
+        non_striker: KB Patil
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ebersohn
+    - 15.2:
+        non_striker: KB Patil
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ebersohn
+    - 15.3:
+        non_striker: KB Patil
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 15.4:
+        non_striker: KB Patil
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 15.5:
+        non_striker: KB Patil
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 15.6:
+        non_striker: KB Patil
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 16.1:
+        non_striker: D Ebersohn
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+        wicket:
+          player_out: KB Patil
+          fielders:
+          - RA Sealy
+          kind: caught
+    - 16.2:
+        non_striker: D Ebersohn
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhargav Narasimha
+    - 16.3:
+        non_striker: D Ebersohn
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhargav Narasimha
+    - 16.4:
+        non_striker: D Ebersohn
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhargav Narasimha
+    - 16.5:
+        non_striker: D Ebersohn
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhargav Narasimha
+    - 16.6:
+        non_striker: D Ebersohn
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhargav Narasimha
+    - 17.1:
+        non_striker: Bhargav Narasimha
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 17.2:
+        non_striker: D Ebersohn
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhargav Narasimha
+    - 17.3:
+        non_striker: D Ebersohn
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bhargav Narasimha
+    - 17.4:
+        non_striker: Bhargav Narasimha
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 17.5:
+        non_striker: D Ebersohn
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bhargav Narasimha
+    - 17.6:
+        non_striker: Bhargav Narasimha
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 18.1:
+        non_striker: D Ebersohn
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bhargav Narasimha
+    - 18.2:
+        non_striker: D Ebersohn
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bhargav Narasimha
+        wicket:
+          player_out: D Ebersohn
+          fielders:
+          - ROC Dunka (sub)
+          kind: run out
+    - 18.3:
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Pratik Singh Bais
+        batsman: Bhargav Narasimha
+    - 18.4:
+        non_striker: Bhargav Narasimha
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratik Singh Bais
+    - 18.5:
+        non_striker: Bhargav Narasimha
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+    - 18.6:
+        non_striker: Bhargav Narasimha
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 19.1:
+        non_striker: Bhargav Narasimha
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 19.2:
+        non_striker: Pratik Singh Bais
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bhargav Narasimha
+    - 19.3:
+        non_striker: Bhargav Narasimha
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 19.4:
+        non_striker: Pratik Singh Bais
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bhargav Narasimha
+    - 19.5:
+        non_striker: Bhargav Narasimha
+        bowler: D Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratik Singh Bais
+    - 19.6:
+        non_striker: Bhargav Narasimha
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+        wicket:
+          player_out: Pratik Singh Bais
+          kind: bowled

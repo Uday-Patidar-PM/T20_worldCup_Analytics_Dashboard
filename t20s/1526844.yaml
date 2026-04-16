@@ -1,0 +1,1806 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Accra
+  dates:
+  - '2026-03-25'
+  gender: male
+  match_type: T20
+  match_type_number: 3785
+  outcome:
+    winner: Tanzania
+    by:
+      runs: 158
+  overs: 20
+  player_of_match:
+  - MS Maker
+  players:
+    Tanzania:
+    - DA Mehta
+    - II Selemani
+    - A Augastin
+    - Arun Yadav
+    - MS Maker
+    - K Nassoro
+    - AM Kimote
+    - K Juma
+    - LS Barkania
+    - MO Kitunda
+    - YM Nkanya
+    Eswatini:
+    - Adil Butt
+    - M Khojbariya
+    - Eric Phiri
+    - R Sandeep
+    - Mohammed Alamgir
+    - H Jangariya
+    - M Magagula
+    - Saqib Anwar
+    - S Jele
+    - M Jele
+    - Het Patel
+  registry:
+    people:
+      A Augastin: 056e3558
+      AM Kimote: 34e36b65
+      Adil Butt: fde53ec1
+      Arun Yadav: 53ace082
+      DA Mehta: 61a7d6e9
+      Eric Phiri: b6355062
+      H Jangariya: 0ec2277a
+      Habib Enesi: fb35ab1f
+      Het Patel: '000803b1'
+      II Selemani: b2dadc51
+      K Juma: '089ebf89'
+      K Nassoro: 29ee9bf9
+      LS Barkania: 073126d6
+      M Jele: 1a8cedc8
+      M Khojbariya: e1631e47
+      M Magagula: 7a787b98
+      MO Kitunda: badef0dc
+      MS Maker: 14318ae4
+      Mohammed Alamgir: e0f12392
+      O Chirombe: 6345307f
+      P Sizara: 5d45bb7f
+      Patric Makumbi: e4c69c16
+      R Sandeep: 175937f6
+      S Jele: 1c5c65d6
+      Saqib Anwar: 3847f098
+      YM Nkanya: 9238dd92
+  teams:
+  - Tanzania
+  - Eswatini
+  toss:
+    winner: Eswatini
+    decision: field
+  umpires:
+  - Habib Enesi
+  - Patric Makumbi
+  venue: Achimota Senior Secondary School B Field, Accra
+innings:
+- 1st innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+        wicket:
+          player_out: DA Mehta
+          fielders:
+          - R Sandeep
+          kind: caught
+    - 0.2:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 0.3:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 0.4:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 0.5:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 0.6:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Augastin
+    - 1.1:
+        non_striker: A Augastin
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 1.2:
+        non_striker: II Selemani
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Augastin
+    - 1.3:
+        non_striker: II Selemani
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 1.4:
+        non_striker: A Augastin
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: II Selemani
+    - 1.5:
+        non_striker: A Augastin
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 1.6:
+        non_striker: A Augastin
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 1.7:
+        non_striker: II Selemani
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 2.1:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 2.2:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Augastin
+    - 2.3:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 2.4:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Augastin
+    - 2.5:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Augastin
+    - 2.6:
+        non_striker: II Selemani
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 3.1:
+        non_striker: A Augastin
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 3.2:
+        non_striker: A Augastin
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 3.3:
+        non_striker: A Augastin
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 3.4:
+        non_striker: II Selemani
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 3.5:
+        non_striker: A Augastin
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 3.6:
+        non_striker: A Augastin
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: II Selemani
+    - 4.1:
+        non_striker: II Selemani
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 4.2:
+        non_striker: II Selemani
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 4.3:
+        non_striker: A Augastin
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: II Selemani
+    - 4.4:
+        non_striker: II Selemani
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Augastin
+    - 4.5:
+        non_striker: II Selemani
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Augastin
+    - 4.6:
+        non_striker: II Selemani
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Augastin
+    - 4.7:
+        non_striker: II Selemani
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 4.8:
+        non_striker: A Augastin
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: II Selemani
+    - 5.1:
+        non_striker: A Augastin
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 5.2:
+        non_striker: A Augastin
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 5.3:
+        non_striker: A Augastin
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 5.4:
+        non_striker: II Selemani
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 5.5:
+        non_striker: II Selemani
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 5.6:
+        non_striker: A Augastin
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 6.1:
+        non_striker: A Augastin
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 6.2:
+        non_striker: II Selemani
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 6.3:
+        non_striker: A Augastin
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: II Selemani
+    - 6.4:
+        non_striker: A Augastin
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 6.5:
+        non_striker: II Selemani
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Augastin
+    - 6.6:
+        non_striker: II Selemani
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 6.7:
+        non_striker: II Selemani
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+        wicket:
+          player_out: A Augastin
+          fielders:
+          - R Sandeep
+          kind: caught
+    - 7.1:
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Arun Yadav
+        batsman: II Selemani
+    - 7.2:
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Arun Yadav
+        batsman: II Selemani
+    - 7.3:
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Arun Yadav
+        batsman: II Selemani
+    - 7.4:
+        non_striker: II Selemani
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 7.5:
+        non_striker: II Selemani
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 7.6:
+        non_striker: Arun Yadav
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: II Selemani
+    - 8.1:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 8.2:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: II Selemani
+    - 8.3:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 8.4:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: II Selemani
+    - 8.5:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+    - 8.6:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: II Selemani
+        wicket:
+          player_out: II Selemani
+          kind: lbw
+    - 9.1:
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MS Maker
+        batsman: Arun Yadav
+    - 9.2:
+        non_striker: Arun Yadav
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 9.3:
+        non_striker: Arun Yadav
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 9.4:
+        non_striker: Arun Yadav
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 9.5:
+        non_striker: Arun Yadav
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 9.6:
+        non_striker: MS Maker
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 10.1:
+        non_striker: Arun Yadav
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 10.2:
+        non_striker: MS Maker
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 10.3:
+        non_striker: Arun Yadav
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 10.4:
+        non_striker: Arun Yadav
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 10.5:
+        non_striker: MS Maker
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 10.6:
+        non_striker: Arun Yadav
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Maker
+    - 11.1:
+        non_striker: MS Maker
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 11.2:
+        non_striker: Arun Yadav
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 11.3:
+        non_striker: Arun Yadav
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 11.4:
+        non_striker: MS Maker
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arun Yadav
+    - 11.5:
+        non_striker: MS Maker
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 11.6:
+        non_striker: Arun Yadav
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Maker
+    - 12.1:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 12.2:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Maker
+    - 12.3:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 12.4:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 12.5:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 12.6:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arun Yadav
+    - 13.1:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 13.2:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 13.3:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 13.4:
+        non_striker: MS Maker
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 13.5:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Maker
+    - 13.6:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 14.1:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 14.2:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 14.3:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 14.4:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 14.5:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 14.6:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 15.1:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Maker
+    - 15.2:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 15.3:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 15.4:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 15.5:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Maker
+    - 15.6:
+        non_striker: Arun Yadav
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 16.1:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Maker
+    - 16.2:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 16.3:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Maker
+    - 16.4:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 16.5:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 16.6:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 17.1:
+        non_striker: Arun Yadav
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 17.2:
+        non_striker: MS Maker
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 17.3:
+        non_striker: Arun Yadav
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Maker
+    - 17.4:
+        non_striker: Arun Yadav
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Maker
+    - 17.5:
+        non_striker: Arun Yadav
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 17.6:
+        non_striker: Arun Yadav
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 18.1:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Maker
+    - 18.2:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Maker
+    - 18.3:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Maker
+    - 18.4:
+        non_striker: Arun Yadav
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 18.5:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arun Yadav
+    - 18.6:
+        non_striker: MS Maker
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 19.1:
+        non_striker: MS Maker
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 19.2:
+        non_striker: Arun Yadav
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 19.3:
+        non_striker: MS Maker
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+        wicket:
+          player_out: Arun Yadav
+          fielders:
+          - Het Patel
+          kind: caught
+    - 19.4:
+        non_striker: MS Maker
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Nassoro
+    - 19.5:
+        non_striker: MS Maker
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Nassoro
+    - 19.6:
+        non_striker: MS Maker
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Nassoro
+- 2nd innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Khojbariya
+        batsman: Adil Butt
+    - 0.2:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Khojbariya
+        batsman: Adil Butt
+    - 0.3:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Khojbariya
+        batsman: Adil Butt
+    - 0.4:
+        non_striker: Adil Butt
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+        wicket:
+          player_out: M Khojbariya
+          kind: bowled
+    - 0.5:
+        non_striker: Adil Butt
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 0.6:
+        non_striker: Adil Butt
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 1.1:
+        non_striker: Eric Phiri
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+        wicket:
+          player_out: Adil Butt
+          fielders:
+          - II Selemani
+          kind: caught
+    - 1.2:
+        non_striker: Eric Phiri
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 1.3:
+        non_striker: Eric Phiri
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandeep
+    - 1.4:
+        non_striker: R Sandeep
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+        wicket:
+          player_out: Eric Phiri
+          fielders:
+          - MS Maker
+          kind: caught
+    - 1.5:
+        non_striker: R Sandeep
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 1.6:
+        non_striker: R Sandeep
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 2.1:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 2.2:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 2.3:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 2.4:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 2.5:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandeep
+    - 2.6:
+        non_striker: R Sandeep
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 3.1:
+        non_striker: Mohammed Alamgir
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 3.2:
+        non_striker: Mohammed Alamgir
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 3.3:
+        non_striker: Mohammed Alamgir
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+        wicket:
+          player_out: R Sandeep
+          fielders:
+          - II Selemani
+          kind: caught
+    - 3.4:
+        non_striker: Mohammed Alamgir
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 3.5:
+        non_striker: H Jangariya
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 3.6:
+        non_striker: H Jangariya
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 4.1:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Jangariya
+    - 4.2:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 4.3:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 4.4:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 4.5:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 4.6:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+        wicket:
+          player_out: H Jangariya
+          kind: bowled
+    - 4.7:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 5.1:
+        non_striker: M Magagula
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Alamgir
+    - 5.2:
+        non_striker: Mohammed Alamgir
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 5.3:
+        non_striker: M Magagula
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 5.4:
+        non_striker: M Magagula
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 5.5:
+        non_striker: M Magagula
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 5.6:
+        non_striker: M Magagula
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 6.1:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 6.2:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 6.3:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+        wicket:
+          player_out: M Magagula
+          kind: bowled
+    - 6.4:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 6.5:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 6.6:
+        non_striker: Mohammed Alamgir
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 7.1:
+        non_striker: Saqib Anwar
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 7.2:
+        non_striker: Saqib Anwar
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 7.3:
+        non_striker: Saqib Anwar
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 7.4:
+        non_striker: Saqib Anwar
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 7.5:
+        non_striker: Saqib Anwar
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Alamgir
+    - 7.6:
+        non_striker: Mohammed Alamgir
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 8.1:
+        non_striker: Saqib Anwar
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 8.2:
+        non_striker: Saqib Anwar
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+        wicket:
+          player_out: Mohammed Alamgir
+          fielders:
+          - Arun Yadav
+          kind: caught
+    - 8.3:
+        non_striker: Saqib Anwar
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+    - 8.4:
+        non_striker: Saqib Anwar
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+    - 8.5:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 8.6:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 9.1:
+        non_striker: Saqib Anwar
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+    - 9.2:
+        non_striker: Saqib Anwar
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+    - 9.3:
+        non_striker: S Jele
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 9.4:
+        non_striker: S Jele
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 9.5:
+        non_striker: S Jele
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 9.6:
+        non_striker: S Jele
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Anwar
+    - 10.1:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 10.2:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 10.3:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Anwar
+    - 10.4:
+        non_striker: Saqib Anwar
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+    - 10.5:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 10.6:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 11.1:
+        non_striker: Saqib Anwar
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+    - 11.2:
+        non_striker: S Jele
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+        wicket:
+          player_out: Saqib Anwar
+          kind: lbw
+    - 11.3:
+        non_striker: S Jele
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jele
+        wicket:
+          player_out: M Jele
+          kind: bowled
+    - 11.4:
+        non_striker: S Jele
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Het Patel
+    - 11.5:
+        non_striker: S Jele
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Het Patel
+    - 11.6:
+        non_striker: S Jele
+        bowler: YM Nkanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Het Patel
+    - 12.1:
+        non_striker: Het Patel
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+    - 12.2:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Het Patel
+    - 12.3:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Het Patel
+    - 12.4:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Het Patel
+    - 12.5:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Het Patel
+    - 12.6:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Het Patel
+    - 12.7:
+        non_striker: S Jele
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Het Patel
+    - 12.8:
+        non_striker: Het Patel
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+        wicket:
+          player_out: S Jele
+          fielders:
+          - MO Kitunda
+          kind: stumped

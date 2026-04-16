@@ -1,0 +1,2199 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abuja
+  dates:
+  - '2025-12-05'
+  gender: male
+  match_type: T20
+  match_type_number: 3604
+  outcome:
+    winner: Rwanda
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Z Bimenyimana
+  players:
+    Zambia:
+    - Mohmedazim Abbasbhai
+    - Mohammad Bhaidu
+    - Jakir Patel
+    - Muhammad Asim
+    - JV Chand
+    - Javid Patel
+    - Ayaz Dadabhai
+    - Shahnawaz Patel
+    - Soyeb Pendi
+    - M Yambayamba
+    - Aslam Bera
+    Rwanda:
+    - Hamza Khan
+    - D Ndikubwimana
+    - I Niyomugabo
+    - D Gumyusenge
+    - O Tuyisenge
+    - Z Bimenyimana
+    - C Rububagumya
+    - Muhammad Nadir
+    - I Ntirenganya
+    - E Rukiriza
+    - F Zirahangaje
+  registry:
+    people:
+      Aslam Bera: bf50e8de
+      Ayaz Dadabhai: 5c658441
+      C Rububagumya: 8088632c
+      D Gumyusenge: eeb78e0a
+      D Ndikubwimana: 3cbedf51
+      E Rukiriza: 3ac13a94
+      F Zirahangaje: 4de681b8
+      Habib Enesi: fb35ab1f
+      Hamza Khan: 44a5f2b2
+      I Niyomugabo: 72bf5103
+      I Ntirenganya: e73f6c4b
+      JV Chand: 59bff8c7
+      Jakir Patel: 82b1e99f
+      Javid Patel: '06989091'
+      M Yambayamba: 40f1590c
+      Mohammad Bhaidu: 6d1c88a4
+      Mohmedazim Abbasbhai: 175d3d9f
+      Muhammad Asim: 8ba04532
+      Muhammad Nadir: '090f96e4'
+      O Tuyisenge: e6a6888f
+      Ramon Adelakun: 2cf9e146
+      Shahnawaz Patel: aa86d9d4
+      Soyeb Pendi: 8d646b49
+      TJ Onikoyi: b68d9bc6
+      Tonye Timinadi: 5cc0fccb
+      Z Bimenyimana: ba57fb08
+  teams:
+  - Zambia
+  - Rwanda
+  toss:
+    winner: Rwanda
+    decision: field
+  umpires:
+  - Habib Enesi
+  - Ramon Adelakun
+  venue: Nigeria Cricket Federation Oval 1, Abuja
+innings:
+- 1st innings:
+    team: Zambia
+    deliveries:
+    - 0.1:
+        non_striker: Mohammad Bhaidu
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohmedazim Abbasbhai
+        wicket:
+          player_out: Mohmedazim Abbasbhai
+          kind: lbw
+    - 0.2:
+        non_striker: Mohammad Bhaidu
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 0.3:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Bhaidu
+    - 0.4:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Bhaidu
+    - 0.5:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Bhaidu
+    - 0.6:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Bhaidu
+    - 0.7:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Bhaidu
+    - 0.8:
+        non_striker: Mohammad Bhaidu
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 1.1:
+        non_striker: Jakir Patel
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Bhaidu
+    - 1.2:
+        non_striker: Mohammad Bhaidu
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 1.3:
+        non_striker: Mohammad Bhaidu
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 1.4:
+        non_striker: Mohammad Bhaidu
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 1.5:
+        non_striker: Mohammad Bhaidu
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 1.6:
+        non_striker: Jakir Patel
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Bhaidu
+    - 2.1:
+        non_striker: Mohammad Bhaidu
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jakir Patel
+    - 2.2:
+        non_striker: Mohammad Bhaidu
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 2.3:
+        non_striker: Mohammad Bhaidu
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 2.4:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Bhaidu
+    - 2.5:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Bhaidu
+    - 2.6:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Bhaidu
+        wicket:
+          player_out: Mohammad Bhaidu
+          fielders:
+          - O Tuyisenge
+          kind: caught
+    - 3.1:
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Asim
+        batsman: Jakir Patel
+    - 3.2:
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Asim
+        batsman: Jakir Patel
+    - 3.3:
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Asim
+        batsman: Jakir Patel
+    - 3.4:
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Muhammad Asim
+        batsman: Jakir Patel
+    - 3.5:
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Asim
+        batsman: Jakir Patel
+    - 3.6:
+        non_striker: Jakir Patel
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 4.1:
+        non_striker: Muhammad Asim
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 4.2:
+        non_striker: Muhammad Asim
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 4.3:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+        wicket:
+          player_out: Muhammad Asim
+          fielders:
+          - D Ndikubwimana
+          - I Niyomugabo
+          kind: run out
+    - 4.4:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 4.5:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 4.6:
+        non_striker: Jakir Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 5.1:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jakir Patel
+    - 5.2:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 5.3:
+        non_striker: Jakir Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JV Chand
+    - 5.4:
+        non_striker: Jakir Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 5.5:
+        non_striker: Jakir Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JV Chand
+    - 5.6:
+        non_striker: Jakir Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JV Chand
+    - 5.7:
+        non_striker: Jakir Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 5.8:
+        non_striker: Jakir Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 5.9:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+        wicket:
+          player_out: Jakir Patel
+          kind: bowled
+    - 6.1:
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Javid Patel
+        batsman: JV Chand
+    - 6.2:
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Javid Patel
+        batsman: JV Chand
+    - 6.3:
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Javid Patel
+        batsman: JV Chand
+    - 6.4:
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Javid Patel
+        batsman: JV Chand
+    - 6.5:
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Javid Patel
+        batsman: JV Chand
+    - 6.6:
+        non_striker: JV Chand
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 7.1:
+        non_striker: Javid Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 7.2:
+        non_striker: Javid Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 7.3:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Javid Patel
+    - 7.4:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javid Patel
+    - 7.5:
+        non_striker: Javid Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 7.6:
+        non_striker: Javid Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 7.7:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 8.1:
+        non_striker: Javid Patel
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 8.2:
+        non_striker: JV Chand
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 8.3:
+        non_striker: JV Chand
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javid Patel
+    - 8.4:
+        non_striker: Javid Patel
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 8.5:
+        non_striker: Javid Patel
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 8.6:
+        non_striker: JV Chand
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Javid Patel
+    - 9.1:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 9.2:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 9.3:
+        non_striker: JV Chand
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javid Patel
+    - 9.4:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 9.5:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 9.6:
+        non_striker: JV Chand
+        bowler: E Rukiriza
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Javid Patel
+    - 9.7:
+        non_striker: JV Chand
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 10.1:
+        non_striker: Javid Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 10.2:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 10.3:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javid Patel
+    - 10.4:
+        non_striker: Javid Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 10.5:
+        non_striker: Javid Patel
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 10.6:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 11.1:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JV Chand
+    - 11.2:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 11.3:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 11.4:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 11.5:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 11.6:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JV Chand
+    - 12.1:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 12.2:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 12.3:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 12.4:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 12.5:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 12.6:
+        non_striker: JV Chand
+        bowler: Muhammad Nadir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 13.1:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+        wicket:
+          player_out: JV Chand
+          fielders:
+          - D Ndikubwimana
+          kind: stumped
+    - 13.2:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 13.3:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 13.4:
+        non_striker: Javid Patel
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 13.5:
+        non_striker: Ayaz Dadabhai
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Javid Patel
+    - 13.6:
+        non_striker: Ayaz Dadabhai
+        bowler: E Rukiriza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 14.1:
+        non_striker: Javid Patel
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 14.2:
+        non_striker: Ayaz Dadabhai
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+    - 14.3:
+        non_striker: Ayaz Dadabhai
+        bowler: I Ntirenganya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Javid Patel
+    - 14.4:
+        non_striker: Javid Patel
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 14.5:
+        non_striker: Javid Patel
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 14.6:
+        non_striker: Javid Patel
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 15.1:
+        non_striker: Ayaz Dadabhai
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+        wicket:
+          player_out: Javid Patel
+          fielders:
+          - Muhammad Nadir
+          kind: caught
+    - 15.2:
+        non_striker: Ayaz Dadabhai
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 15.3:
+        non_striker: Shahnawaz Patel
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 15.4:
+        non_striker: Ayaz Dadabhai
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 15.5:
+        non_striker: Shahnawaz Patel
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 15.6:
+        non_striker: Ayaz Dadabhai
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahnawaz Patel
+    - 16.1:
+        non_striker: Shahnawaz Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 16.2:
+        non_striker: Shahnawaz Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 16.3:
+        non_striker: Ayaz Dadabhai
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahnawaz Patel
+    - 16.4:
+        non_striker: Ayaz Dadabhai
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahnawaz Patel
+    - 16.5:
+        non_striker: Shahnawaz Patel
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 16.6:
+        non_striker: Ayaz Dadabhai
+        bowler: Z Bimenyimana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahnawaz Patel
+        wicket:
+          player_out: Shahnawaz Patel
+          fielders:
+          - C Rububagumya
+          kind: caught
+    - 17.1:
+        bowler: F Zirahangaje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Soyeb Pendi
+        batsman: Ayaz Dadabhai
+    - 17.2:
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Soyeb Pendi
+        batsman: Ayaz Dadabhai
+    - 17.3:
+        bowler: F Zirahangaje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Soyeb Pendi
+        batsman: Ayaz Dadabhai
+    - 17.4:
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Soyeb Pendi
+        batsman: Ayaz Dadabhai
+    - 17.5:
+        non_striker: Ayaz Dadabhai
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soyeb Pendi
+    - 17.6:
+        non_striker: Ayaz Dadabhai
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soyeb Pendi
+    - 17.7:
+        non_striker: Ayaz Dadabhai
+        bowler: F Zirahangaje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Soyeb Pendi
+    - 17.8:
+        non_striker: Ayaz Dadabhai
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soyeb Pendi
+    - 17.9:
+        non_striker: Soyeb Pendi
+        bowler: F Zirahangaje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 18.1:
+        non_striker: Soyeb Pendi
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 18.2:
+        non_striker: Ayaz Dadabhai
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soyeb Pendi
+    - 18.3:
+        non_striker: Ayaz Dadabhai
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soyeb Pendi
+    - 18.4:
+        non_striker: Ayaz Dadabhai
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soyeb Pendi
+    - 18.5:
+        non_striker: Ayaz Dadabhai
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Soyeb Pendi
+    - 18.6:
+        non_striker: Ayaz Dadabhai
+        bowler: I Ntirenganya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soyeb Pendi
+    - 19.1:
+        non_striker: Soyeb Pendi
+        bowler: C Rububagumya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Ayaz Dadabhai
+    - 19.2:
+        non_striker: Ayaz Dadabhai
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soyeb Pendi
+    - 19.3:
+        non_striker: Ayaz Dadabhai
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soyeb Pendi
+    - 19.4:
+        non_striker: Soyeb Pendi
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 19.5:
+        non_striker: Ayaz Dadabhai
+        bowler: C Rububagumya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Soyeb Pendi
+    - 19.6:
+        non_striker: Soyeb Pendi
+        bowler: C Rububagumya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ayaz Dadabhai
+- 2nd innings:
+    team: Rwanda
+    deliveries:
+    - 0.1:
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Ndikubwimana
+        batsman: Hamza Khan
+    - 0.2:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 0.3:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 0.4:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 0.5:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 0.6:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+    - 1.1:
+        non_striker: D Ndikubwimana
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 1.2:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ndikubwimana
+    - 1.3:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ndikubwimana
+        wicket:
+          player_out: D Ndikubwimana
+          fielders:
+          - Ayaz Dadabhai
+          kind: caught
+    - 1.4:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 1.5:
+        non_striker: I Niyomugabo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 1.6:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 1.7:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 2.1:
+        non_striker: I Niyomugabo
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hamza Khan
+    - 2.2:
+        non_striker: I Niyomugabo
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 2.3:
+        non_striker: I Niyomugabo
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 2.4:
+        non_striker: I Niyomugabo
+        bowler: Soyeb Pendi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hamza Khan
+    - 2.5:
+        non_striker: I Niyomugabo
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 2.6:
+        non_striker: I Niyomugabo
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 2.7:
+        non_striker: I Niyomugabo
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 3.1:
+        non_striker: I Niyomugabo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 3.2:
+        non_striker: I Niyomugabo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 3.3:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 3.4:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 3.5:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 3.6:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 4.1:
+        non_striker: I Niyomugabo
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hamza Khan
+    - 4.2:
+        non_striker: I Niyomugabo
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 4.3:
+        non_striker: Hamza Khan
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 4.4:
+        non_striker: Hamza Khan
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 4.5:
+        non_striker: I Niyomugabo
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 4.6:
+        non_striker: I Niyomugabo
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 4.7:
+        non_striker: Hamza Khan
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 5.1:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 5.2:
+        non_striker: I Niyomugabo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hamza Khan
+    - 5.3:
+        non_striker: I Niyomugabo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 5.4:
+        non_striker: I Niyomugabo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 5.5:
+        non_striker: I Niyomugabo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 5.6:
+        non_striker: I Niyomugabo
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 6.1:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 6.2:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 6.3:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 6.4:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 6.5:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 6.6:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 6.7:
+        non_striker: I Niyomugabo
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 7.1:
+        non_striker: I Niyomugabo
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hamza Khan
+    - 7.2:
+        non_striker: I Niyomugabo
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 7.3:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Niyomugabo
+    - 7.4:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Niyomugabo
+    - 7.5:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 7.6:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 8.1:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 8.2:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 8.3:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 8.4:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 8.5:
+        non_striker: I Niyomugabo
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 8.6:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 8.7:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 8.8:
+        non_striker: I Niyomugabo
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 9.1:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Niyomugabo
+    - 9.2:
+        non_striker: I Niyomugabo
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 9.3:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 9.4:
+        non_striker: I Niyomugabo
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 9.5:
+        non_striker: I Niyomugabo
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 9.6:
+        non_striker: I Niyomugabo
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 10.1:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 10.2:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 10.3:
+        non_striker: I Niyomugabo
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 10.4:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+    - 10.5:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 10.6:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Niyomugabo
+    - 10.7:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 10.8:
+        non_striker: I Niyomugabo
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 11.1:
+        non_striker: I Niyomugabo
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 11.2:
+        non_striker: I Niyomugabo
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 11.3:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Niyomugabo
+    - 11.4:
+        non_striker: I Niyomugabo
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 11.5:
+        non_striker: I Niyomugabo
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 11.6:
+        non_striker: I Niyomugabo
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 12.1:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Niyomugabo
+        wicket:
+          player_out: I Niyomugabo
+          fielders:
+          - Shahnawaz Patel
+          kind: caught
+    - 12.2:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gumyusenge
+    - 12.3:
+        non_striker: D Gumyusenge
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hamza Khan
+    - 12.4:
+        non_striker: D Gumyusenge
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 12.5:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 12.6:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gumyusenge
+    - 13.1:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 13.2:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 13.3:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gumyusenge
+    - 13.4:
+        non_striker: D Gumyusenge
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 13.5:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Gumyusenge
+    - 13.6:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Gumyusenge
+    - 14.1:
+        non_striker: D Gumyusenge
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 14.2:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 14.3:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Gumyusenge
+    - 14.4:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 14.5:
+        non_striker: Hamza Khan
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gumyusenge
+    - 14.6:
+        non_striker: D Gumyusenge
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 15.1:
+        non_striker: D Gumyusenge
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 15.2:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gumyusenge
+    - 15.3:
+        non_striker: D Gumyusenge
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 15.4:
+        non_striker: D Gumyusenge
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 15.5:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Gumyusenge
+    - 15.6:
+        non_striker: Hamza Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gumyusenge
+    - 16.1:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 16.2:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Gumyusenge
+    - 16.3:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gumyusenge
+    - 16.4:
+        non_striker: D Gumyusenge
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 16.5:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Gumyusenge
+    - 16.6:
+        non_striker: Hamza Khan
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gumyusenge
+    - 17.1:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+    - 17.2:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Gumyusenge
+    - 17.3:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gumyusenge
+        wicket:
+          player_out: D Gumyusenge
+          fielders:
+          - Ayaz Dadabhai
+          kind: caught
+    - 17.4:
+        non_striker: Hamza Khan
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 17.5:
+        non_striker: O Tuyisenge
+        bowler: Javid Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hamza Khan
+    - 17.6:
+        non_striker: O Tuyisenge
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 17.7:
+        non_striker: O Tuyisenge
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 18.1:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge
+    - 18.2:
+        non_striker: O Tuyisenge
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamza Khan
+    - 18.3:
+        non_striker: O Tuyisenge
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamza Khan
+    - 18.4:
+        non_striker: O Tuyisenge
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamza Khan
+    - 18.5:
+        non_striker: Hamza Khan
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Tuyisenge

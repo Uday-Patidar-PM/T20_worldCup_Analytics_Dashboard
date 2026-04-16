@@ -1,0 +1,1491 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2026-02-28'
+  gender: male
+  match_type: T20
+  match_type_number: 3745
+  outcome:
+    winner: Bhutan
+    by:
+      runs: 7
+  overs: 20
+  player_of_match:
+  - T Jamtsho
+  players:
+    Bhutan:
+    - Namgay Thinley
+    - T Jamtsho
+    - RM Dorji
+    - Tenjin Rabgey
+    - GK Ghalley
+    - Tashi Dorji
+    - N Chejay
+    - A Mongar
+    - Tashi Phuntsho
+    - S Yeshi
+    - T Chopel
+    Thailand:
+    - S Desungnoen
+    - AP Yadav
+    - J Coetzee
+    - AV Lazarus
+    - C Chatphaisan
+    - MK Thakur
+    - Y Saranonnakkun
+    - N Nuntarach
+    - P Thongsa
+    - W Ngowhuad
+    - N Senamontree
+  registry:
+    people:
+      A Mongar: 940255af
+      AK Rana: 562d74d0
+      AP Yadav: a5501504
+      AV Lazarus: 30c917bf
+      C Chatphaisan: 85c56be8
+      GK Ghalley: 2d1b6dee
+      J Coetzee: 3ad06915
+      J Sanjeev: 3cc94090
+      MK Thakur: 2d9451cc
+      N Chejay: a9e63549
+      N Nuntarach: 9e3575ce
+      N Senamontree: 44e00a4c
+      Namgay Thinley: 9c333e40
+      P Thongsa: '62318525'
+      RM Dorji: 3d7f02d4
+      S Desungnoen: 3eb26dc4
+      S Yeshi: 0c24fb7b
+      Samad Akbar: f05bd21b
+      T Chopel: d9a7ca8e
+      T Jamtsho: c01d1c0a
+      Tashi Dorji: 0f05655d
+      Tashi Phuntsho: 43d365ca
+      Tenjin Rabgey: 1fed517a
+      W Ngowhuad: b8cd9955
+      Y Saranonnakkun: 9c93c0a3
+  teams:
+  - Bhutan
+  - Thailand
+  toss:
+    winner: Bhutan
+    decision: bat
+  umpires:
+  - AK Rana
+  - J Sanjeev
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Jamtsho
+        batsman: Namgay Thinley
+    - 0.2:
+        non_striker: Namgay Thinley
+        bowler: J Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Jamtsho
+    - 0.3:
+        non_striker: T Jamtsho
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 0.4:
+        non_striker: T Jamtsho
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 0.5:
+        non_striker: T Jamtsho
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 0.6:
+        non_striker: T Jamtsho
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 1.1:
+        non_striker: T Jamtsho
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 1.2:
+        non_striker: T Jamtsho
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Namgay Thinley
+    - 1.3:
+        non_striker: T Jamtsho
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Namgay Thinley
+    - 1.4:
+        non_striker: T Jamtsho
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 1.5:
+        non_striker: Namgay Thinley
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 1.6:
+        non_striker: T Jamtsho
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 2.1:
+        non_striker: Namgay Thinley
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 2.2:
+        non_striker: T Jamtsho
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+        wicket:
+          player_out: Namgay Thinley
+          fielders:
+          - N Nuntarach
+          kind: caught
+    - 2.3:
+        non_striker: T Jamtsho
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 2.4:
+        non_striker: T Jamtsho
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Dorji
+    - 2.5:
+        non_striker: T Jamtsho
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 2.6:
+        non_striker: RM Dorji
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 3.1:
+        non_striker: RM Dorji
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 3.2:
+        non_striker: T Jamtsho
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+        wicket:
+          player_out: RM Dorji
+          kind: bowled
+    - 3.3:
+        non_striker: T Jamtsho
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 3.4:
+        non_striker: Tenjin Rabgey
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Jamtsho
+    - 3.5:
+        non_striker: T Jamtsho
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 3.6:
+        non_striker: T Jamtsho
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 4.1:
+        non_striker: T Jamtsho
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.2:
+        non_striker: T Jamtsho
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.3:
+        non_striker: T Jamtsho
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.4:
+        non_striker: T Jamtsho
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tenjin Rabgey
+    - 4.5:
+        non_striker: T Jamtsho
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.6:
+        non_striker: T Jamtsho
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 5.1:
+        non_striker: Tenjin Rabgey
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Jamtsho
+    - 5.2:
+        non_striker: Tenjin Rabgey
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+        wicket:
+          player_out: T Jamtsho
+          fielders:
+          - AP Yadav
+          kind: caught
+    - 5.3:
+        non_striker: Tenjin Rabgey
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 5.4:
+        non_striker: Tenjin Rabgey
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 5.5:
+        non_striker: Tenjin Rabgey
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 5.6:
+        non_striker: Tenjin Rabgey
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 6.1:
+        non_striker: GK Ghalley
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 6.2:
+        non_striker: Tenjin Rabgey
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 6.3:
+        non_striker: Tenjin Rabgey
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 6.4:
+        non_striker: Tenjin Rabgey
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 6.5:
+        non_striker: Tenjin Rabgey
+        bowler: N Senamontree
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GK Ghalley
+    - 6.6:
+        non_striker: Tenjin Rabgey
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Ghalley
+    - 6.7:
+        non_striker: GK Ghalley
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+        wicket:
+          player_out: Tenjin Rabgey
+          fielders:
+          - P Thongsa
+          kind: caught
+    - 7.1:
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Tashi Dorji
+        batsman: GK Ghalley
+    - 7.2:
+        non_striker: GK Ghalley
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 7.3:
+        non_striker: GK Ghalley
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tashi Dorji
+    - 7.4:
+        non_striker: GK Ghalley
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 7.5:
+        non_striker: Tashi Dorji
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Ghalley
+    - 7.6:
+        non_striker: GK Ghalley
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 8.1:
+        non_striker: GK Ghalley
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 8.2:
+        non_striker: GK Ghalley
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 8.3:
+        non_striker: Tashi Dorji
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Ghalley
+    - 8.4:
+        non_striker: GK Ghalley
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 8.5:
+        non_striker: GK Ghalley
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 8.6:
+        non_striker: GK Ghalley
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 9.1:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 9.2:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GK Ghalley
+    - 9.3:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GK Ghalley
+    - 9.4:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Ghalley
+    - 9.5:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+        wicket:
+          player_out: GK Ghalley
+          fielders:
+          - W Ngowhuad
+          kind: caught
+    - 9.6:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chejay
+    - 9.7:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 10.1:
+        non_striker: Tashi Dorji
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 10.2:
+        non_striker: Tashi Dorji
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 10.3:
+        non_striker: N Chejay
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 10.4:
+        non_striker: N Chejay
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 10.5:
+        non_striker: Tashi Dorji
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 10.6:
+        non_striker: N Chejay
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 11.1:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chejay
+    - 11.2:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 11.3:
+        non_striker: N Chejay
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tashi Dorji
+    - 11.4:
+        non_striker: N Chejay
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 11.5:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chejay
+    - 11.6:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 11.7:
+        non_striker: N Chejay
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 11.8:
+        non_striker: Tashi Dorji
+        bowler: C Chatphaisan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chejay
+    - 12.1:
+        non_striker: N Chejay
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 12.2:
+        non_striker: N Chejay
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 12.3:
+        non_striker: N Chejay
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 12.4:
+        non_striker: Tashi Dorji
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 12.5:
+        non_striker: Tashi Dorji
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+        wicket:
+          player_out: N Chejay
+          kind: bowled
+    - 12.6:
+        non_striker: Tashi Dorji
+        bowler: J Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mongar
+        wicket:
+          player_out: Tashi Dorji
+          fielders:
+          - AP Yadav
+          kind: run out
+    - 12.7:
+        non_striker: Tashi Phuntsho
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+        wicket:
+          player_out: Tashi Phuntsho
+          fielders:
+          - AP Yadav
+          kind: run out
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Yadav
+        batsman: S Desungnoen
+    - 0.2:
+        non_striker: AP Yadav
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          kind: bowled
+    - 0.3:
+        non_striker: AP Yadav
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 0.4:
+        non_striker: J Coetzee
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 0.5:
+        non_striker: J Coetzee
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 0.6:
+        non_striker: J Coetzee
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 1.1:
+        non_striker: J Coetzee
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 1.2:
+        non_striker: J Coetzee
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 1.3:
+        non_striker: AP Yadav
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 1.4:
+        non_striker: AP Yadav
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 1.5:
+        non_striker: J Coetzee
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 1.6:
+        non_striker: J Coetzee
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 2.1:
+        non_striker: J Coetzee
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Yadav
+    - 2.2:
+        non_striker: J Coetzee
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 2.3:
+        non_striker: AP Yadav
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 2.4:
+        non_striker: AP Yadav
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Coetzee
+    - 2.5:
+        non_striker: AP Yadav
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Coetzee
+    - 2.6:
+        non_striker: AP Yadav
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 3.1:
+        non_striker: J Coetzee
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 3.2:
+        non_striker: J Coetzee
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 3.3:
+        non_striker: J Coetzee
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 3.4:
+        non_striker: J Coetzee
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 3.5:
+        non_striker: AP Yadav
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 3.6:
+        non_striker: AP Yadav
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Coetzee
+    - 4.1:
+        non_striker: J Coetzee
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 4.2:
+        non_striker: AP Yadav
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 4.3:
+        non_striker: J Coetzee
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+        wicket:
+          player_out: AP Yadav
+          fielders:
+          - GK Ghalley
+          kind: caught
+    - 4.4:
+        non_striker: J Coetzee
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 4.5:
+        non_striker: AV Lazarus
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 4.6:
+        non_striker: J Coetzee
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 5.1:
+        non_striker: AV Lazarus
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 5.2:
+        non_striker: AV Lazarus
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Coetzee
+    - 5.3:
+        non_striker: J Coetzee
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 5.4:
+        non_striker: AV Lazarus
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 5.5:
+        non_striker: AV Lazarus
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+    - 5.6:
+        non_striker: AV Lazarus
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Coetzee
+    - 6.1:
+        non_striker: J Coetzee
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 6.2:
+        non_striker: AV Lazarus
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Coetzee
+        wicket:
+          player_out: J Coetzee
+          fielders:
+          - Tenjin Rabgey
+          kind: caught
+    - 6.3:
+        non_striker: AV Lazarus
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 6.4:
+        non_striker: AV Lazarus
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 6.5:
+        non_striker: C Chatphaisan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 6.6:
+        non_striker: C Chatphaisan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 7.1:
+        non_striker: AV Lazarus
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 7.2:
+        non_striker: AV Lazarus
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 7.3:
+        non_striker: C Chatphaisan
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 7.4:
+        non_striker: C Chatphaisan
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 7.5:
+        non_striker: AV Lazarus
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 7.6:
+        non_striker: C Chatphaisan
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 8.1:
+        non_striker: AV Lazarus
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 8.2:
+        non_striker: AV Lazarus
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 8.3:
+        non_striker: AV Lazarus
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 8.4:
+        non_striker: C Chatphaisan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+        wicket:
+          player_out: AV Lazarus
+          fielders:
+          - N Chejay
+          kind: stumped
+    - 8.5:
+        non_striker: C Chatphaisan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 8.6:
+        non_striker: C Chatphaisan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 9.1:
+        non_striker: MK Thakur
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 9.2:
+        non_striker: MK Thakur
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatphaisan
+    - 9.3:
+        non_striker: MK Thakur
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 9.4:
+        non_striker: C Chatphaisan
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 9.5:
+        non_striker: MK Thakur
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 9.6:
+        non_striker: C Chatphaisan
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 10.1:
+        non_striker: MK Thakur
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 10.2:
+        non_striker: C Chatphaisan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MK Thakur
+    - 10.3:
+        non_striker: C Chatphaisan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 10.4:
+        non_striker: C Chatphaisan
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 10.5:
+        non_striker: MK Thakur
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 10.6:
+        non_striker: MK Thakur
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 11.1:
+        non_striker: C Chatphaisan
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 11.2:
+        non_striker: MK Thakur
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Chatphaisan
+    - 11.3:
+        non_striker: C Chatphaisan
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 11.4:
+        non_striker: MK Thakur
+        bowler: RM Dorji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Chatphaisan
+    - 11.5:
+        non_striker: C Chatphaisan
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MK Thakur
+    - 11.6:
+        non_striker: C Chatphaisan
+        bowler: RM Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 12.1:
+        non_striker: C Chatphaisan
+        bowler: T Jamtsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Thakur
+    - 12.2:
+        non_striker: C Chatphaisan
+        bowler: T Jamtsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MK Thakur
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - T Jamtsho
+          kind: run out
+    - 12.3:
+        non_striker: Y Saranonnakkun
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+        wicket:
+          player_out: MK Thakur
+          fielders:
+          - Tashi Phuntsho
+          kind: caught
+    - 12.4:
+        non_striker: Y Saranonnakkun
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+        wicket:
+          player_out: N Nuntarach
+          fielders:
+          - Tashi Phuntsho
+          kind: caught
+    - 12.5:
+        non_striker: Y Saranonnakkun
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+        wicket:
+          player_out: P Thongsa
+          fielders:
+          - Tenjin Rabgey
+          - N Chejay
+          kind: run out
+    - 12.6:
+        non_striker: Y Saranonnakkun
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ngowhuad
+    - 12.7:
+        non_striker: Y Saranonnakkun
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Ngowhuad
+    - 12.8:
+        non_striker: W Ngowhuad
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          kind: lbw

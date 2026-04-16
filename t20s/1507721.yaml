@@ -1,0 +1,2118 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kandy
+  dates:
+  - '2026-02-03'
+  gender: male
+  match_type: T20
+  match_type_number: 3683
+  outcome:
+    winner: England
+    by:
+      runs: 12
+  overs: 20
+  player_of_match:
+  - SM Curran
+  players:
+    England:
+    - JC Buttler
+    - BM Duckett
+    - JG Bethell
+    - T Banton
+    - HC Brook
+    - SM Curran
+    - WG Jacks
+    - LA Dawson
+    - J Overton
+    - AU Rashid
+    - L Wood
+    Sri Lanka:
+    - P Nissanka
+    - K Mishara
+    - BKG Mendis
+    - P Rathnayake
+    - PHKD Mendis
+    - J Liyanage
+    - DN Wellalage
+    - MD Shanaka
+    - PVD Chameera
+    - M Theekshana
+    - M Pathirana
+  registry:
+    people:
+      AU Rashid: 249d60c9
+      BKG Mendis: 5d1e7582
+      BM Duckett: 5f26f677
+      DN Wellalage: 736123bb
+      HC Brook: 4ae1755b
+      IC Soysa: 717a7971
+      J Liyanage: 84212ffb
+      J Overton: 59559bc2
+      JC Buttler: 99b75528
+      JG Bethell: 3c55c703
+      JWHD Boteju: 7934d6fb
+      K Mishara: 65cebd5d
+      L Wood: 65b6943c
+      LA Dawson: 4a461c24
+      M Pathirana: 64839cb3
+      M Theekshana: f24c6701
+      MD Shanaka: 3ff033bb
+      N Perera: 129709f9
+      P Nissanka: 8ee36b18
+      P Rathnayake: c1fdfb46
+      PHKD Mendis: '08548b13'
+      PVD Chameera: 327b58d3
+      RA Kottahachchi: 808f2939
+      SM Curran: e94915e6
+      T Banton: 25f7b7d6
+      V Narayan Kutty: 4bacee3d
+      WG Jacks: 9caf69a1
+  teams:
+  - England
+  - Sri Lanka
+  toss:
+    winner: England
+    decision: bat
+  umpires:
+  - JWHD Boteju
+  - RA Kottahachchi
+  venue: Pallekele International Cricket Stadium
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: BM Duckett
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Buttler
+    - 0.2:
+        non_striker: BM Duckett
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.3:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+        wicket:
+          player_out: BM Duckett
+          kind: lbw
+    - 0.4:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 0.5:
+        non_striker: JG Bethell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.6:
+        non_striker: JC Buttler
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 0.7:
+        non_striker: JG Bethell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.1:
+        non_striker: JG Bethell
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.2:
+        non_striker: JG Bethell
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.3:
+        non_striker: JG Bethell
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.4:
+        non_striker: JG Bethell
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.1:
+        non_striker: JG Bethell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: JC Buttler
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 2.3:
+        non_striker: JG Bethell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 2.4:
+        non_striker: JG Bethell
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.5:
+        non_striker: JC Buttler
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.6:
+        non_striker: JC Buttler
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 3.1:
+        non_striker: T Banton
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 3.2:
+        non_striker: T Banton
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.3:
+        non_striker: JC Buttler
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 3.4:
+        non_striker: T Banton
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.5:
+        non_striker: JC Buttler
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 3.6:
+        non_striker: JC Buttler
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Banton
+    - 4.1:
+        non_striker: T Banton
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.2:
+        non_striker: T Banton
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.3:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Banton
+    - 4.4:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.5:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 4.6:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          kind: bowled
+    - 5.1:
+        non_striker: HC Brook
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Buttler
+    - 5.2:
+        non_striker: HC Brook
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 5.3:
+        non_striker: JC Buttler
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 5.4:
+        non_striker: JC Buttler
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 5.5:
+        non_striker: JC Buttler
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          fielders:
+          - J Liyanage
+          kind: caught
+    - 5.6:
+        non_striker: JC Buttler
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 5.7:
+        non_striker: SM Curran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 6.1:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 6.2:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 6.3:
+        non_striker: SM Curran
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 6.4:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 6.5:
+        non_striker: SM Curran
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 6.6:
+        non_striker: SM Curran
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 7.1:
+        non_striker: JC Buttler
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 7.2:
+        non_striker: JC Buttler
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 7.3:
+        non_striker: JC Buttler
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 7.4:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          kind: bowled
+    - 7.5:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 7.6:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 8.1:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 8.2:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 8.3:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 8.4:
+        non_striker: SM Curran
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 8.5:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 8.6:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 9.1:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 9.2:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 9.3:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 9.4:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 9.5:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 9.6:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.1:
+        non_striker: WG Jacks
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 10.2:
+        non_striker: WG Jacks
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.3:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          fielders:
+          - P Nissanka
+          kind: caught
+    - 10.4:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 10.5:
+        non_striker: LA Dawson
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 10.6:
+        non_striker: LA Dawson
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 11.1:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 11.2:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 11.3:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dawson
+    - 11.4:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 11.5:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 11.6:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 12.1:
+        non_striker: SM Curran
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 12.2:
+        non_striker: LA Dawson
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 12.3:
+        non_striker: LA Dawson
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 12.4:
+        non_striker: SM Curran
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 12.5:
+        non_striker: SM Curran
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 12.6:
+        non_striker: LA Dawson
+        bowler: PHKD Mendis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 13.1:
+        non_striker: SM Curran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 13.2:
+        non_striker: SM Curran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 13.3:
+        non_striker: LA Dawson
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 13.4:
+        non_striker: LA Dawson
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 13.5:
+        non_striker: SM Curran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 13.6:
+        non_striker: LA Dawson
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 14.1:
+        non_striker: LA Dawson
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 14.2:
+        non_striker: LA Dawson
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 14.3:
+        non_striker: LA Dawson
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 14.4:
+        non_striker: SM Curran
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 14.5:
+        non_striker: SM Curran
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 14.6:
+        non_striker: LA Dawson
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.1:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.2:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 15.3:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 15.4:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LA Dawson
+    - 15.5:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 15.6:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 16.1:
+        non_striker: SM Curran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 16.2:
+        non_striker: SM Curran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 16.3:
+        non_striker: LA Dawson
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 16.4:
+        non_striker: SM Curran
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 16.5:
+        non_striker: LA Dawson
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 16.6:
+        non_striker: LA Dawson
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 17.1:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 17.2:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+        wicket:
+          player_out: LA Dawson
+          fielders:
+          - PHKD Mendis
+          kind: caught
+    - 17.3:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 17.4:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Overton
+    - 17.5:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+        wicket:
+          player_out: J Overton
+          fielders:
+          - J Liyanage
+          kind: caught
+    - 17.6:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+    - 18.1:
+        non_striker: AU Rashid
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Curran
+    - 18.2:
+        non_striker: AU Rashid
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 18.3:
+        non_striker: AU Rashid
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 18.4:
+        non_striker: SM Curran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 18.5:
+        non_striker: AU Rashid
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 18.6:
+        non_striker: SM Curran
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 18.7:
+        non_striker: AU Rashid
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 19.1:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AU Rashid
+    - 19.2:
+        non_striker: SM Curran
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 19.3:
+        non_striker: AU Rashid
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 19.4:
+        non_striker: AU Rashid
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 19.5:
+        non_striker: AU Rashid
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          fielders:
+          - P Nissanka
+          kind: caught
+    - 19.6:
+        non_striker: AU Rashid
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: K Mishara
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: P Nissanka
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 0.3:
+        non_striker: P Nissanka
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+        wicket:
+          player_out: K Mishara
+          fielders:
+          - BM Duckett
+          kind: caught
+    - 0.4:
+        non_striker: P Nissanka
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 0.5:
+        non_striker: P Nissanka
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 0.6:
+        non_striker: P Nissanka
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.1:
+        non_striker: BKG Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.2:
+        non_striker: BKG Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.3:
+        non_striker: BKG Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.4:
+        non_striker: BKG Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 1.5:
+        non_striker: P Nissanka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.1:
+        non_striker: BKG Mendis
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 2.2:
+        non_striker: P Nissanka
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.3:
+        non_striker: P Nissanka
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 2.6:
+        non_striker: BKG Mendis
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 3.1:
+        non_striker: P Nissanka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 3.3:
+        non_striker: BKG Mendis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.4:
+        non_striker: P Nissanka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 3.6:
+        non_striker: BKG Mendis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 4.1:
+        non_striker: BKG Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 4.2:
+        non_striker: BKG Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - WG Jacks
+          kind: caught
+    - 4.3:
+        non_striker: BKG Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 4.4:
+        non_striker: P Rathnayake
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.5:
+        non_striker: BKG Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 5.1:
+        non_striker: BKG Mendis
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 5.2:
+        non_striker: BKG Mendis
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 5.3:
+        non_striker: BKG Mendis
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 5.4:
+        non_striker: BKG Mendis
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 5.5:
+        non_striker: P Rathnayake
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.6:
+        non_striker: P Rathnayake
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 6.1:
+        non_striker: BKG Mendis
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 6.2:
+        non_striker: P Rathnayake
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.3:
+        non_striker: P Rathnayake
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.4:
+        non_striker: P Rathnayake
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.5:
+        non_striker: BKG Mendis
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 6.6:
+        non_striker: P Rathnayake
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.1:
+        non_striker: P Rathnayake
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.2:
+        non_striker: BKG Mendis
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 7.3:
+        non_striker: BKG Mendis
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 7.4:
+        non_striker: P Rathnayake
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.5:
+        non_striker: BKG Mendis
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 7.6:
+        non_striker: P Rathnayake
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 8.1:
+        non_striker: BKG Mendis
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 8.2:
+        non_striker: P Rathnayake
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.3:
+        non_striker: BKG Mendis
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 8.4:
+        non_striker: P Rathnayake
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 8.5:
+        non_striker: P Rathnayake
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.6:
+        non_striker: BKG Mendis
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+        wicket:
+          player_out: P Rathnayake
+          kind: bowled
+    - 9.1:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - AU Rashid
+          kind: caught
+    - 9.2:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 9.3:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 9.4:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Liyanage
+    - 9.5:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 9.6:
+        non_striker: J Liyanage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 9.7:
+        non_striker: J Liyanage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 10.1:
+        non_striker: J Liyanage
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 10.2:
+        non_striker: J Liyanage
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 10.3:
+        non_striker: PHKD Mendis
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Liyanage
+    - 10.4:
+        non_striker: PHKD Mendis
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 10.5:
+        non_striker: J Liyanage
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 10.6:
+        non_striker: PHKD Mendis
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 11.1:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 11.2:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 11.3:
+        non_striker: J Liyanage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 11.4:
+        non_striker: J Liyanage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 11.5:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 11.6:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 12.1:
+        non_striker: J Liyanage
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 12.2:
+        non_striker: PHKD Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 12.3:
+        non_striker: PHKD Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Liyanage
+    - 12.4:
+        non_striker: PHKD Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 12.5:
+        non_striker: J Liyanage
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PHKD Mendis
+    - 12.6:
+        non_striker: J Liyanage
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 13.1:
+        non_striker: J Liyanage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+        wicket:
+          player_out: PHKD Mendis
+          kind: lbw
+    - 13.2:
+        non_striker: J Liyanage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 13.3:
+        non_striker: J Liyanage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 13.4:
+        non_striker: J Liyanage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 13.5:
+        non_striker: J Liyanage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 13.6:
+        non_striker: DN Wellalage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 14.1:
+        non_striker: J Liyanage
+        bowler: JG Bethell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DN Wellalage
+    - 14.2:
+        non_striker: DN Wellalage
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 14.3:
+        non_striker: DN Wellalage
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Liyanage
+    - 14.4:
+        non_striker: DN Wellalage
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 14.5:
+        non_striker: J Liyanage
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 14.6:
+        non_striker: DN Wellalage
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 15.1:
+        non_striker: DN Wellalage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+        wicket:
+          player_out: J Liyanage
+          fielders:
+          - JG Bethell
+          kind: caught
+    - 15.2:
+        non_striker: DN Wellalage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 15.3:
+        non_striker: DN Wellalage
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.4:
+        non_striker: MD Shanaka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wellalage
+    - 15.5:
+        non_striker: MD Shanaka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wellalage
+    - 15.6:
+        non_striker: MD Shanaka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 16.1:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 16.2:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 16.3:
+        non_striker: DN Wellalage
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 16.4:
+        non_striker: DN Wellalage
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 16.5:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 16.6:
+        non_striker: DN Wellalage
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 17.1:
+        non_striker: MD Shanaka
+        bowler: JG Bethell
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: DN Wellalage
+    - 17.2:
+        non_striker: MD Shanaka
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+        wicket:
+          player_out: DN Wellalage
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 17.3:
+        non_striker: MD Shanaka
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 17.4:
+        non_striker: MD Shanaka
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+        wicket:
+          player_out: PVD Chameera
+          fielders:
+          - HC Brook
+          kind: caught
+    - 17.5:
+        non_striker: MD Shanaka
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 17.6:
+        non_striker: M Theekshana
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - JC Buttler
+          kind: stumped
+    - 18.1:
+        non_striker: M Pathirana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 18.2:
+        non_striker: M Theekshana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pathirana
+    - 18.3:
+        non_striker: M Theekshana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pathirana
+    - 18.4:
+        non_striker: M Pathirana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 18.5:
+        non_striker: M Pathirana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 18.6:
+        non_striker: M Pathirana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 19.1:
+        non_striker: M Theekshana
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pathirana
+    - 19.2:
+        non_striker: M Theekshana
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pathirana
+    - 19.3:
+        non_striker: M Pathirana
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+        wicket:
+          player_out: M Theekshana
+          fielders:
+          - LA Dawson
+          kind: caught

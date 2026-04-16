@@ -1,0 +1,2131 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Accra
+  dates:
+  - '2026-03-24'
+  gender: male
+  match_type: T20
+  match_type_number: 3781
+  outcome:
+    winner: Eswatini
+    by:
+      runs: 27
+  overs: 20
+  player_of_match:
+  - M Magagula
+  players:
+    Eswatini:
+    - Adil Butt
+    - M Khojbariya
+    - Eric Phiri
+    - R Sandeep
+    - Mohammed Alamgir
+    - H Jangariya
+    - M Magagula
+    - Saqib Anwar
+    - S Jele
+    - M Jele
+    - Het Patel
+    St Helena:
+    - J Essex
+    - J Henry
+    - Delroy Leo
+    - A Yon
+    - J Thomas
+    - R Francis
+    - AR Leo
+    - CR Richards
+    - B Leo
+    - BK Stroud
+    - J Yon
+  registry:
+    people:
+      A Jacobs: 70d117de
+      A Kassam: 7d13b388
+      A Yon: 99bf1fb7
+      AR Leo: e13f8b16
+      Adil Butt: fde53ec1
+      B Leo: 740a5494
+      BK Stroud: 6577a6ad
+      CR Richards: c10a581f
+      Claus Schumacher: 85645e62
+      Delroy Leo: e71f511e
+      Eric Phiri: b6355062
+      H Jangariya: 0ec2277a
+      Het Patel: '000803b1'
+      J Essex: 84012d7f
+      J Henry: 68e7e8d5
+      J Thomas: 11b785d6
+      J Yon: ecd41f8c
+      M Jele: 1a8cedc8
+      M Khojbariya: e1631e47
+      M Magagula: 7a787b98
+      Mohammed Alamgir: e0f12392
+      O Chirombe: 6345307f
+      R Francis: 06b766f4
+      R Sandeep: 175937f6
+      S Jele: 1c5c65d6
+      Saqib Anwar: 3847f098
+  teams:
+  - Eswatini
+  - St Helena
+  toss:
+    winner: Eswatini
+    decision: bat
+  umpires:
+  - A Kassam
+  - A Jacobs
+  venue: Achimota Senior Secondary School A Field, Accra
+innings:
+- 1st innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Khojbariya
+        batsman: Adil Butt
+    - 0.2:
+        non_striker: Adil Butt
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Khojbariya
+    - 0.3:
+        non_striker: Adil Butt
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 0.4:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 0.5:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 0.6:
+        non_striker: Adil Butt
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 1.1:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 1.2:
+        non_striker: Adil Butt
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 1.3:
+        non_striker: Adil Butt
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 1.4:
+        non_striker: Adil Butt
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 1.5:
+        non_striker: Adil Butt
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 1.6:
+        non_striker: Adil Butt
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 2.1:
+        non_striker: Adil Butt
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 2.2:
+        non_striker: Adil Butt
+        bowler: R Francis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Khojbariya
+    - 2.3:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 2.4:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 2.5:
+        non_striker: Adil Butt
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 2.6:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 3.1:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 3.2:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 3.3:
+        non_striker: Adil Butt
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 3.4:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Adil Butt
+    - 3.5:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 3.6:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 3.7:
+        non_striker: Adil Butt
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 4.1:
+        non_striker: Adil Butt
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 4.2:
+        non_striker: Adil Butt
+        bowler: R Francis
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: M Khojbariya
+    - 4.3:
+        non_striker: Adil Butt
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 4.4:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+        wicket:
+          player_out: Adil Butt
+          kind: bowled
+    - 4.5:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 4.6:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 4.7:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eric Phiri
+    - 5.1:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 5.2:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eric Phiri
+    - 5.3:
+        non_striker: Eric Phiri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Khojbariya
+    - 5.4:
+        non_striker: Eric Phiri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 5.5:
+        non_striker: Eric Phiri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 5.6:
+        non_striker: Eric Phiri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 6.1:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 6.2:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+        wicket:
+          player_out: Eric Phiri
+          kind: bowled
+    - 6.3:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 6.4:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+        wicket:
+          player_out: R Sandeep
+          kind: bowled
+    - 6.5:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 6.6:
+        non_striker: M Khojbariya
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 7.1:
+        non_striker: Mohammed Alamgir
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Khojbariya
+    - 7.2:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 7.3:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 7.4:
+        non_striker: M Khojbariya
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Alamgir
+    - 7.5:
+        non_striker: Mohammed Alamgir
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 7.6:
+        non_striker: Mohammed Alamgir
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 8.1:
+        non_striker: M Khojbariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Alamgir
+    - 8.2:
+        non_striker: Mohammed Alamgir
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+        wicket:
+          player_out: M Khojbariya
+          fielders:
+          - R Francis
+          kind: caught
+    - 8.3:
+        non_striker: Mohammed Alamgir
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 8.4:
+        non_striker: Mohammed Alamgir
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 8.5:
+        non_striker: Mohammed Alamgir
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 8.6:
+        non_striker: Mohammed Alamgir
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 9.1:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Alamgir
+    - 9.2:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 9.3:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Alamgir
+    - 9.4:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 9.5:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 9.6:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 10.1:
+        non_striker: Mohammed Alamgir
+        bowler: J Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Jangariya
+    - 10.2:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 10.3:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Alamgir
+    - 10.4:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Mohammed Alamgir
+    - 10.5:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Alamgir
+    - 10.6:
+        non_striker: Mohammed Alamgir
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 10.7:
+        non_striker: Mohammed Alamgir
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 11.1:
+        non_striker: Mohammed Alamgir
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 11.2:
+        non_striker: Mohammed Alamgir
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Jangariya
+    - 11.3:
+        non_striker: Mohammed Alamgir
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 11.4:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammed Alamgir
+    - 11.5:
+        non_striker: Mohammed Alamgir
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 11.6:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Alamgir
+    - 12.1:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Alamgir
+    - 12.2:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 12.3:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 12.4:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+    - 12.5:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+        wicket:
+          player_out: Mohammed Alamgir
+          kind: bowled
+    - 12.6:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 13.1:
+        non_striker: M Magagula
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 13.2:
+        non_striker: H Jangariya
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 13.3:
+        non_striker: M Magagula
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Jangariya
+    - 13.4:
+        non_striker: M Magagula
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 13.5:
+        non_striker: H Jangariya
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 13.6:
+        non_striker: M Magagula
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 14.1:
+        non_striker: M Magagula
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Jangariya
+    - 14.2:
+        non_striker: M Magagula
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 14.3:
+        non_striker: M Magagula
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 14.4:
+        non_striker: M Magagula
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 14.5:
+        non_striker: M Magagula
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 14.6:
+        non_striker: H Jangariya
+        bowler: J Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 15.1:
+        non_striker: M Magagula
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 15.2:
+        non_striker: H Jangariya
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 15.3:
+        non_striker: H Jangariya
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 15.4:
+        non_striker: M Magagula
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 15.5:
+        non_striker: M Magagula
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 15.6:
+        non_striker: M Magagula
+        bowler: B Leo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 16.1:
+        non_striker: H Jangariya
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 16.2:
+        non_striker: M Magagula
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 16.3:
+        non_striker: M Magagula
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 16.4:
+        non_striker: H Jangariya
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 16.5:
+        non_striker: H Jangariya
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 16.6:
+        non_striker: H Jangariya
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 17.1:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Magagula
+    - 17.2:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 17.3:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 17.4:
+        non_striker: M Magagula
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 17.5:
+        non_striker: M Magagula
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 17.6:
+        non_striker: H Jangariya
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+        wicket:
+          player_out: M Magagula
+          fielders:
+          - R Francis
+          kind: caught
+    - 18.1:
+        non_striker: Saqib Anwar
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+        wicket:
+          player_out: H Jangariya
+          kind: bowled
+    - 18.2:
+        non_striker: Saqib Anwar
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+    - 18.3:
+        non_striker: Saqib Anwar
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jele
+    - 18.4:
+        non_striker: Saqib Anwar
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jele
+    - 18.5:
+        non_striker: Saqib Anwar
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jele
+    - 18.6:
+        non_striker: Saqib Anwar
+        bowler: J Yon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+        wicket:
+          player_out: Saqib Anwar
+          fielders:
+          - R Francis
+          - J Yon
+          kind: run out
+    - 19.1:
+        non_striker: S Jele
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jele
+    - 19.2:
+        non_striker: M Jele
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+    - 19.3:
+        non_striker: M Jele
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+    - 19.4:
+        non_striker: M Jele
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jele
+    - 19.5:
+        non_striker: M Jele
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jele
+    - 19.6:
+        non_striker: M Jele
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+- 2nd innings:
+    team: St Helena
+    deliveries:
+    - 0.1:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Henry
+        batsman: J Essex
+    - 0.2:
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Henry
+        batsman: J Essex
+    - 0.3:
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Henry
+        batsman: J Essex
+    - 0.4:
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Henry
+        batsman: J Essex
+    - 0.5:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Henry
+        batsman: J Essex
+    - 0.6:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Henry
+        batsman: J Essex
+    - 0.7:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Henry
+        batsman: J Essex
+    - 0.8:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Henry
+        batsman: J Essex
+    - 0.9:
+        non_striker: J Henry
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 1.1:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 1.2:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 1.3:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 1.4:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 1.5:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Henry
+    - 1.6:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 1.7:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 2.1:
+        non_striker: J Essex
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 2.2:
+        non_striker: J Essex
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 2.3:
+        non_striker: J Essex
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 2.4:
+        non_striker: J Henry
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 2.5:
+        non_striker: J Henry
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Essex
+    - 2.6:
+        non_striker: J Henry
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 3.1:
+        non_striker: J Henry
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 3.2:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Henry
+    - 3.3:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+        wicket:
+          player_out: J Henry
+          kind: bowled
+    - 3.4:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Delroy Leo
+    - 3.5:
+        non_striker: Delroy Leo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 3.6:
+        non_striker: Delroy Leo
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 4.1:
+        non_striker: J Essex
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Delroy Leo
+    - 4.2:
+        non_striker: J Essex
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Delroy Leo
+    - 4.3:
+        non_striker: J Essex
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Delroy Leo
+    - 4.4:
+        non_striker: J Essex
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Delroy Leo
+    - 4.5:
+        non_striker: J Essex
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Delroy Leo
+        wicket:
+          player_out: Delroy Leo
+          fielders:
+          - M Jele
+          kind: caught
+    - 4.6:
+        non_striker: J Essex
+        bowler: Mohammed Alamgir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 5.1:
+        non_striker: A Yon
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 5.2:
+        non_striker: A Yon
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 5.3:
+        non_striker: A Yon
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 5.4:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 5.5:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 5.6:
+        non_striker: J Essex
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Yon
+    - 6.1:
+        non_striker: A Yon
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 6.2:
+        non_striker: A Yon
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 6.3:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+        wicket:
+          player_out: A Yon
+          kind: lbw
+    - 6.4:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 6.5:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 6.6:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 7.1:
+        non_striker: J Essex
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 7.2:
+        non_striker: J Thomas
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 7.3:
+        non_striker: J Thomas
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 7.4:
+        non_striker: J Thomas
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 7.5:
+        non_striker: J Thomas
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 7.6:
+        non_striker: J Thomas
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Essex
+    - 8.1:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 8.2:
+        non_striker: J Thomas
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 8.3:
+        non_striker: J Thomas
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 8.4:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 8.5:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 8.6:
+        non_striker: J Thomas
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Essex
+    - 9.1:
+        non_striker: J Essex
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 9.2:
+        non_striker: J Essex
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Thomas
+    - 9.3:
+        non_striker: J Essex
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 9.4:
+        non_striker: J Essex
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 9.5:
+        non_striker: J Thomas
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 9.6:
+        non_striker: J Thomas
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 10.1:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Thomas
+    - 10.2:
+        non_striker: J Thomas
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 10.3:
+        non_striker: J Thomas
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Essex
+    - 10.4:
+        non_striker: J Thomas
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 10.5:
+        non_striker: J Thomas
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 10.6:
+        non_striker: J Thomas
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 10.7:
+        non_striker: J Thomas
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 11.1:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 11.2:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 11.3:
+        non_striker: J Thomas
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 11.4:
+        non_striker: J Essex
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 11.5:
+        non_striker: J Thomas
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 11.6:
+        non_striker: J Thomas
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 12.1:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+        wicket:
+          player_out: J Thomas
+          fielders:
+          - S Jele
+          kind: caught
+    - 12.2:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+    - 12.3:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+        wicket:
+          player_out: R Francis
+          kind: lbw
+    - 12.4:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+    - 12.5:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Leo
+    - 12.6:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+    - 12.7:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+    - 13.1:
+        non_striker: AR Leo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 13.2:
+        non_striker: AR Leo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Essex
+    - 13.3:
+        non_striker: AR Leo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 13.4:
+        non_striker: J Essex
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Leo
+    - 13.5:
+        non_striker: AR Leo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 13.6:
+        non_striker: AR Leo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 14.1:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+    - 14.2:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Leo
+    - 14.3:
+        non_striker: AR Leo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 14.4:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: AR Leo
+    - 14.5:
+        non_striker: J Essex
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Leo
+    - 14.6:
+        non_striker: AR Leo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Essex
+    - 15.1:
+        non_striker: J Essex
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Leo
+    - 15.2:
+        non_striker: AR Leo
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Essex
+    - 15.3:
+        non_striker: J Essex
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+    - 15.4:
+        non_striker: J Essex
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Leo
+    - 15.5:
+        non_striker: J Essex
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+        wicket:
+          player_out: AR Leo
+          kind: bowled
+    - 15.6:
+        non_striker: J Essex
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Richards
+    - 16.1:
+        non_striker: CR Richards
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+        wicket:
+          player_out: J Essex
+          fielders:
+          - Eric Phiri
+          kind: caught
+    - 16.2:
+        non_striker: CR Richards
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Leo
+    - 16.3:
+        non_striker: CR Richards
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Leo
+    - 16.4:
+        non_striker: CR Richards
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Leo
+    - 16.5:
+        non_striker: CR Richards
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Leo
+    - 16.6:
+        non_striker: B Leo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Richards
+        wicket:
+          player_out: CR Richards
+          fielders:
+          - H Jangariya
+          kind: stumped
+    - 17.1:
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BK Stroud
+        batsman: B Leo
+    - 17.2:
+        non_striker: B Leo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Stroud
+    - 17.3:
+        non_striker: B Leo
+        bowler: M Khojbariya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BK Stroud
+    - 17.4:
+        non_striker: BK Stroud
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Leo
+    - 17.5:
+        non_striker: BK Stroud
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Leo
+    - 17.6:
+        non_striker: BK Stroud
+        bowler: M Khojbariya
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: B Leo
+    - 17.7:
+        non_striker: B Leo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BK Stroud
+    - 18.1:
+        non_striker: BK Stroud
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Leo
+    - 18.2:
+        non_striker: B Leo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BK Stroud
+    - 18.3:
+        non_striker: B Leo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Stroud
+        wicket:
+          player_out: BK Stroud
+          kind: bowled
+    - 18.4:
+        non_striker: B Leo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Yon
+        wicket:
+          player_out: J Yon
+          kind: bowled

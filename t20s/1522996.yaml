@@ -1,0 +1,2143 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Doha
+  dates:
+  - '2026-02-14'
+  gender: male
+  match_type: T20
+  match_type_number: 3710
+  outcome:
+    winner: Bahrain
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Asif Ali
+  players:
+    Qatar:
+    - Saqlain Arshad
+    - Zubair Ali
+    - I Liyanage
+    - Muhammad Asim
+    - MM Baig
+    - Zeeshan Haider
+    - Shahzeb Afridi
+    - Mujeeb-ur-Rehman
+    - DAM Louis
+    - Owais Ahmed
+    - Shariq Munir
+    Bahrain:
+    - Asif Ali
+    - P Kurup
+    - Fiaz Ahmed
+    - Sohail Ahmed
+    - Ahmer Bin Nisar
+    - Yasser Nazir
+    - Rizwan Butt
+    - Ali Dawood
+    - Abdullah Mohd Yousaf
+    - Imran Khan
+    - Muhammad Salman
+  registry:
+    people:
+      Abdullah Mohd Yousaf: 4cc968c5
+      Ahmer Bin Nisar: afbc53ba
+      Ali Dawood: 596982e6
+      Aminul Islam: 6e60a05f
+      Asif Ali: 0a4736eb
+      DAM Louis: b975210d
+      Fiaz Ahmed: df1f2f29
+      I Liyanage: 826e1017
+      Imran Khan: da3b91fd
+      MM Baig: add288ea
+      Muhammad Asim: b424d3d3
+      Muhammad Salman: 460fc0ba
+      Muhammad Usman: 05b35689
+      Mujeeb-ur-Rehman: 1a8f879b
+      Owais Ahmed: cef52835
+      P Kurup: 50ceaef6
+      Rilas Abubacker: aa7e972c
+      Rizwan Butt: e741ed8f
+      Sajid Ullah: cdf6aa1b
+      Saqlain Arshad: 71ad618b
+      Shahzaib Jamil: fbb6d1a7
+      Shahzeb Afridi: '53494306'
+      Shariq Munir: 298d9b83
+      Sohail Ahmed: 4db71b2e
+      Yasser Nazir: ccceaca9
+      Zeeshan Haider: e4d76518
+      Zubair Ali: f16e776a
+  teams:
+  - Qatar
+  - Bahrain
+  toss:
+    winner: Bahrain
+    decision: field
+  umpires:
+  - Rilas Abubacker
+  - Muhammad Usman
+  venue: West End Park International Cricket Stadium, Doha
+innings:
+- 1st innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zubair Ali
+        batsman: Saqlain Arshad
+    - 0.2:
+        non_striker: Saqlain Arshad
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 0.3:
+        non_striker: Zubair Ali
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 0.4:
+        non_striker: Zubair Ali
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+    - 0.5:
+        non_striker: Zubair Ali
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqlain Arshad
+    - 0.6:
+        non_striker: Saqlain Arshad
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 1.1:
+        non_striker: Saqlain Arshad
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 1.2:
+        non_striker: Saqlain Arshad
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubair Ali
+    - 1.3:
+        non_striker: Saqlain Arshad
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 1.4:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saqlain Arshad
+    - 1.5:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqlain Arshad
+    - 1.6:
+        non_striker: Saqlain Arshad
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 1.7:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saqlain Arshad
+    - 2.1:
+        non_striker: Saqlain Arshad
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Ali
+    - 2.2:
+        non_striker: Saqlain Arshad
+        bowler: Ali Dawood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Zubair Ali
+    - 2.3:
+        non_striker: Zubair Ali
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqlain Arshad
+        wicket:
+          player_out: Saqlain Arshad
+          fielders:
+          - P Kurup
+          kind: caught
+    - 2.4:
+        non_striker: Zubair Ali
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 2.5:
+        non_striker: I Liyanage
+        bowler: Ali Dawood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zubair Ali
+    - 2.6:
+        non_striker: I Liyanage
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 2.7:
+        non_striker: Zubair Ali
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 3.1:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 3.2:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 3.3:
+        non_striker: I Liyanage
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 3.4:
+        non_striker: I Liyanage
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Ali
+    - 3.5:
+        non_striker: I Liyanage
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Ali
+    - 3.6:
+        non_striker: I Liyanage
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 4.1:
+        non_striker: I Liyanage
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 4.2:
+        non_striker: I Liyanage
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 4.3:
+        non_striker: Zubair Ali
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 4.4:
+        non_striker: Zubair Ali
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 4.5:
+        non_striker: Zubair Ali
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 4.6:
+        non_striker: Zubair Ali
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 5.1:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+        wicket:
+          player_out: I Liyanage
+          fielders:
+          - Ahmer Bin Nisar
+          kind: caught
+    - 5.2:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 5.3:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 5.4:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Asim
+    - 5.5:
+        non_striker: Zubair Ali
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 5.6:
+        non_striker: Muhammad Asim
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 6.1:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 6.2:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 6.3:
+        non_striker: Zubair Ali
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 6.4:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 6.5:
+        non_striker: Zubair Ali
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 6.6:
+        non_striker: Zubair Ali
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 7.1:
+        non_striker: Zubair Ali
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 7.2:
+        non_striker: Muhammad Asim
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+        wicket:
+          player_out: Zubair Ali
+          kind: caught and bowled
+    - 7.3:
+        non_striker: Muhammad Asim
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Baig
+    - 7.4:
+        non_striker: Muhammad Asim
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 7.5:
+        non_striker: MM Baig
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 7.6:
+        non_striker: Muhammad Asim
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 8.1:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 8.2:
+        non_striker: MM Baig
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 8.3:
+        non_striker: MM Baig
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 8.4:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 8.5:
+        non_striker: MM Baig
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 8.6:
+        non_striker: MM Baig
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 9.1:
+        non_striker: Muhammad Asim
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 9.2:
+        non_striker: MM Baig
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 9.3:
+        non_striker: Muhammad Asim
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Baig
+    - 9.4:
+        non_striker: Muhammad Asim
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Baig
+    - 9.5:
+        non_striker: Muhammad Asim
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Baig
+    - 9.6:
+        non_striker: Muhammad Asim
+        bowler: Abdullah Mohd Yousaf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Baig
+    - 10.1:
+        non_striker: MM Baig
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 10.2:
+        non_striker: MM Baig
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 10.3:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 10.4:
+        non_striker: MM Baig
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 10.5:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 10.6:
+        non_striker: MM Baig
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 11.1:
+        non_striker: MM Baig
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 11.2:
+        non_striker: MM Baig
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 11.3:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Baig
+    - 11.4:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MM Baig
+    - 11.5:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Baig
+        wicket:
+          player_out: MM Baig
+          fielders:
+          - P Kurup
+          kind: caught
+    - 11.6:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Haider
+    - 12.1:
+        non_striker: Zeeshan Haider
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 12.2:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Haider
+    - 12.3:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Haider
+    - 12.4:
+        non_striker: Zeeshan Haider
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 12.5:
+        non_striker: Muhammad Asim
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Haider
+    - 12.6:
+        non_striker: Zeeshan Haider
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 13.1:
+        non_striker: Zeeshan Haider
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 13.2:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Haider
+    - 13.3:
+        non_striker: Zeeshan Haider
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 13.4:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Haider
+    - 13.5:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Haider
+    - 13.6:
+        non_striker: Zeeshan Haider
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 14.1:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Haider
+    - 14.2:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Haider
+    - 14.3:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Haider
+    - 14.4:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Haider
+        wicket:
+          player_out: Zeeshan Haider
+          fielders:
+          - Ali Dawood
+          kind: caught
+    - 14.5:
+        non_striker: Muhammad Asim
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzeb Afridi
+    - 14.6:
+        non_striker: Shahzeb Afridi
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 15.1:
+        non_striker: Shahzeb Afridi
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Muhammad Asim
+    - 15.2:
+        non_striker: Muhammad Asim
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzeb Afridi
+    - 15.3:
+        non_striker: Muhammad Asim
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzeb Afridi
+    - 15.4:
+        non_striker: Shahzeb Afridi
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 15.5:
+        non_striker: Shahzeb Afridi
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 15.6:
+        non_striker: Muhammad Asim
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzeb Afridi
+    - 16.1:
+        non_striker: Shahzeb Afridi
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Asim
+    - 16.2:
+        non_striker: Shahzeb Afridi
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 16.3:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzeb Afridi
+    - 16.4:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahzeb Afridi
+    - 16.5:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahzeb Afridi
+    - 16.6:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahzeb Afridi
+    - 16.7:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzeb Afridi
+    - 17.1:
+        non_striker: Shahzeb Afridi
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 17.2:
+        non_striker: Shahzeb Afridi
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 17.3:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahzeb Afridi
+    - 17.4:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzeb Afridi
+    - 17.5:
+        non_striker: Shahzeb Afridi
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 17.6:
+        non_striker: Shahzeb Afridi
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 18.1:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzeb Afridi
+    - 18.2:
+        non_striker: Shahzeb Afridi
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 18.3:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahzeb Afridi
+    - 18.4:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahzeb Afridi
+    - 18.5:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzeb Afridi
+    - 18.6:
+        non_striker: Muhammad Asim
+        bowler: Ali Dawood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzeb Afridi
+    - 19.1:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahzeb Afridi
+    - 19.2:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahzeb Afridi
+    - 19.3:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzeb Afridi
+    - 19.4:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzeb Afridi
+    - 19.5:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahzeb Afridi
+    - 19.6:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzeb Afridi
+    - 19.7:
+        non_striker: Shahzeb Afridi
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 19.8:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahzeb Afridi
+    - 19.9:
+        non_striker: Muhammad Asim
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzeb Afridi
+- 2nd innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: P Kurup
+        batsman: Asif Ali
+    - 0.2:
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Kurup
+        batsman: Asif Ali
+    - 0.3:
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Kurup
+        batsman: Asif Ali
+    - 0.4:
+        non_striker: Asif Ali
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 0.5:
+        non_striker: Asif Ali
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kurup
+    - 0.6:
+        non_striker: Asif Ali
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 1.1:
+        non_striker: P Kurup
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 1.2:
+        non_striker: Asif Ali
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Kurup
+    - 1.3:
+        non_striker: Asif Ali
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 1.4:
+        non_striker: P Kurup
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 1.5:
+        non_striker: P Kurup
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 1.6:
+        non_striker: Asif Ali
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kurup
+    - 2.1:
+        non_striker: P Kurup
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 2.2:
+        non_striker: P Kurup
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 2.3:
+        non_striker: P Kurup
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 2.4:
+        non_striker: P Kurup
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Ali
+    - 2.5:
+        non_striker: P Kurup
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 2.6:
+        non_striker: P Kurup
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 3.1:
+        non_striker: Asif Ali
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 3.2:
+        non_striker: Asif Ali
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 3.3:
+        non_striker: P Kurup
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 3.4:
+        non_striker: Asif Ali
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 3.5:
+        non_striker: Asif Ali
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 3.6:
+        non_striker: P Kurup
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 4.1:
+        non_striker: P Kurup
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 4.2:
+        non_striker: P Kurup
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 4.3:
+        non_striker: P Kurup
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 4.4:
+        non_striker: P Kurup
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 4.5:
+        non_striker: P Kurup
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 4.6:
+        non_striker: Asif Ali
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 5.1:
+        non_striker: Asif Ali
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kurup
+    - 5.2:
+        non_striker: Asif Ali
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 5.3:
+        non_striker: Asif Ali
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 5.4:
+        non_striker: P Kurup
+        bowler: Shariq Munir
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Asif Ali
+    - 5.5:
+        non_striker: Asif Ali
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kurup
+    - 5.6:
+        non_striker: Asif Ali
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Kurup
+    - 5.7:
+        non_striker: Asif Ali
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 6.1:
+        non_striker: Asif Ali
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 6.2:
+        non_striker: Asif Ali
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 6.3:
+        non_striker: P Kurup
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+        wicket:
+          player_out: Asif Ali
+          kind: bowled
+    - 6.4:
+        non_striker: P Kurup
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 6.5:
+        non_striker: Fiaz Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 6.6:
+        non_striker: P Kurup
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 7.1:
+        non_striker: Fiaz Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 7.2:
+        non_striker: P Kurup
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 7.3:
+        non_striker: Fiaz Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 7.4:
+        non_striker: Fiaz Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+        wicket:
+          player_out: P Kurup
+          fielders:
+          - MM Baig
+          kind: run out
+    - 7.5:
+        non_striker: Fiaz Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 7.6:
+        non_striker: Fiaz Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 8.1:
+        non_striker: Fiaz Ahmed
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 8.2:
+        non_striker: Fiaz Ahmed
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 8.3:
+        non_striker: Sohail Ahmed
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 8.4:
+        non_striker: Sohail Ahmed
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 8.5:
+        non_striker: Fiaz Ahmed
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 8.6:
+        non_striker: Sohail Ahmed
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 9.1:
+        non_striker: Sohail Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 9.2:
+        non_striker: Sohail Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiaz Ahmed
+    - 9.3:
+        non_striker: Sohail Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 9.4:
+        non_striker: Fiaz Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 9.5:
+        non_striker: Fiaz Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sohail Ahmed
+    - 9.6:
+        non_striker: Fiaz Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohail Ahmed
+    - 10.1:
+        non_striker: Sohail Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 10.2:
+        non_striker: Sohail Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 10.3:
+        non_striker: Sohail Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 10.4:
+        non_striker: Fiaz Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 10.5:
+        non_striker: Sohail Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiaz Ahmed
+    - 10.6:
+        non_striker: Sohail Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 11.1:
+        non_striker: Fiaz Ahmed
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 11.2:
+        non_striker: Sohail Ahmed
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 11.3:
+        non_striker: Sohail Ahmed
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 11.4:
+        non_striker: Sohail Ahmed
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fiaz Ahmed
+    - 11.5:
+        non_striker: Sohail Ahmed
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 11.6:
+        non_striker: Fiaz Ahmed
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 12.1:
+        non_striker: Fiaz Ahmed
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 12.2:
+        non_striker: Sohail Ahmed
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 12.3:
+        non_striker: Fiaz Ahmed
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sohail Ahmed
+    - 12.4:
+        non_striker: Fiaz Ahmed
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 12.5:
+        non_striker: Sohail Ahmed
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 12.6:
+        non_striker: Fiaz Ahmed
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 13.1:
+        non_striker: Fiaz Ahmed
+        bowler: Saqlain Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 13.2:
+        non_striker: Sohail Ahmed
+        bowler: Saqlain Arshad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 13.3:
+        non_striker: Sohail Ahmed
+        bowler: Saqlain Arshad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fiaz Ahmed
+    - 13.4:
+        non_striker: Sohail Ahmed
+        bowler: Saqlain Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 13.5:
+        non_striker: Fiaz Ahmed
+        bowler: Saqlain Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 13.6:
+        non_striker: Sohail Ahmed
+        bowler: Saqlain Arshad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 14.1:
+        non_striker: Sohail Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 14.2:
+        non_striker: Fiaz Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohail Ahmed
+    - 14.3:
+        non_striker: Sohail Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 14.4:
+        non_striker: Sohail Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 14.5:
+        non_striker: Fiaz Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 14.6:
+        non_striker: Fiaz Ahmed
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+    - 15.1:
+        non_striker: Sohail Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 15.2:
+        non_striker: Sohail Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fiaz Ahmed
+    - 15.3:
+        non_striker: Sohail Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+        wicket:
+          player_out: Fiaz Ahmed
+          fielders:
+          - Shahzaib Jamil (sub)
+          kind: caught
+    - 15.4:
+        non_striker: Sohail Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 15.5:
+        non_striker: Ahmer Bin Nisar
+        bowler: Owais Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sohail Ahmed
+    - 15.6:
+        non_striker: Sohail Ahmed
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 16.1:
+        non_striker: Sohail Ahmed
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmer Bin Nisar
+    - 16.2:
+        non_striker: Sohail Ahmed
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmer Bin Nisar
+    - 16.3:
+        non_striker: Sohail Ahmed
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmer Bin Nisar
+    - 16.4:
+        non_striker: Sohail Ahmed
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmer Bin Nisar
+    - 16.5:
+        non_striker: Sohail Ahmed
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 16.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohail Ahmed
+        wicket:
+          player_out: Sohail Ahmed
+          fielders:
+          - I Liyanage
+          kind: caught
+    - 17.1:
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yasser Nazir
+        batsman: Ahmer Bin Nisar
+    - 17.2:
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Yasser Nazir
+        batsman: Ahmer Bin Nisar
+    - 17.3:
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Yasser Nazir
+        batsman: Ahmer Bin Nisar
+    - 17.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasser Nazir
+    - 17.5:
+        non_striker: Yasser Nazir
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 17.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasser Nazir
+    - 18.1:
+        non_striker: Ahmer Bin Nisar
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasser Nazir
+    - 18.2:
+        non_striker: Yasser Nazir
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 18.3:
+        non_striker: Ahmer Bin Nisar
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasser Nazir
+    - 18.4:
+        non_striker: Ahmer Bin Nisar
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasser Nazir
+    - 18.5:
+        non_striker: Ahmer Bin Nisar
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasser Nazir
+    - 18.6:
+        non_striker: Yasser Nazir
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmer Bin Nisar
+    - 19.1:
+        non_striker: Ahmer Bin Nisar
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasser Nazir
+    - 19.2:
+        non_striker: Yasser Nazir
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 19.3:
+        non_striker: Ahmer Bin Nisar
+        bowler: MM Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Yasser Nazir
+    - 19.4:
+        non_striker: Yasser Nazir
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmer Bin Nisar
+    - 19.5:
+        non_striker: Ahmer Bin Nisar
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasser Nazir
+        wicket:
+          player_out: Yasser Nazir
+          fielders:
+          - DAM Louis
+          kind: caught
+    - 19.6:
+        non_striker: Ahmer Bin Nisar
+        bowler: MM Baig
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Rizwan Butt
+    - 19.7:
+        non_striker: Rizwan Butt
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmer Bin Nisar

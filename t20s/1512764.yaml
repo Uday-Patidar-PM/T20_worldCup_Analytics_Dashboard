@@ -1,0 +1,2162 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  dates:
+  - '2026-02-25'
+  gender: male
+  match_type: T20
+  match_type_number: 3736
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 61
+  overs: 20
+  player_of_match:
+  - R Ravindra
+  players:
+    New Zealand:
+    - TL Seifert
+    - FH Allen
+    - R Ravindra
+    - GD Phillips
+    - DJ Mitchell
+    - MS Chapman
+    - MJ Santner
+    - CE McConchie
+    - MJ Henry
+    - IS Sodhi
+    - LH Ferguson
+    Sri Lanka:
+    - P Nissanka
+    - BKG Mendis
+    - KIC Asalanka
+    - P Rathnayake
+    - PHKD Mendis
+    - MD Shanaka
+    - MADI Hemantha
+    - DN Wellalage
+    - PVD Chameera
+    - M Theekshana
+    - D Madushanka
+  registry:
+    people:
+      A Paleker: 634b11ac
+      Ahsan Raza: e0e5b209
+      Asif Yaqoob: 6b35790c
+      BKG Mendis: 5d1e7582
+      CE McConchie: d285acaf
+      D Madushanka: de7d833e
+      DJ Mitchell: eade4650
+      DN Wellalage: 736123bb
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      IS Sodhi: 641ac5ff
+      KIC Asalanka: 732c038e
+      LH Ferguson: 2f9d0389
+      M Theekshana: f24c6701
+      MADI Hemantha: 58431ca0
+      MD Shanaka: 3ff033bb
+      MJ Henry: e84ac20c
+      MJ Santner: e4a0deae
+      MS Chapman: 7fa12533
+      P Nissanka: 8ee36b18
+      P Rathnayake: c1fdfb46
+      PHKD Mendis: '08548b13'
+      PVD Chameera: 327b58d3
+      R Ravindra: ba5e1069
+      RB Richardson: 410e2f12
+      RJ Tucker: 38810cfc
+      TL Seifert: 4663bd23
+  teams:
+  - New Zealand
+  - Sri Lanka
+  toss:
+    winner: Sri Lanka
+    decision: field
+  umpires:
+  - A Paleker
+  - Asif Yaqoob
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 0.2:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.3:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.4:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.6:
+        non_striker: FH Allen
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.1:
+        non_striker: TL Seifert
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.2:
+        non_striker: FH Allen
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: TL Seifert
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.4:
+        non_striker: TL Seifert
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.5:
+        non_striker: TL Seifert
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.6:
+        non_striker: FH Allen
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.2:
+        non_striker: FH Allen
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.3:
+        non_striker: FH Allen
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.4:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.5:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.6:
+        non_striker: TL Seifert
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.1:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          kind: caught and bowled
+    - 3.2:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 3.3:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 3.4:
+        non_striker: R Ravindra
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 3.5:
+        non_striker: TL Seifert
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 3.6:
+        non_striker: R Ravindra
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 4.1:
+        non_striker: TL Seifert
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 4.2:
+        non_striker: R Ravindra
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - PHKD Mendis
+          kind: caught
+    - 4.3:
+        non_striker: R Ravindra
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.4:
+        non_striker: R Ravindra
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 4.5:
+        non_striker: GD Phillips
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 4.6:
+        non_striker: GD Phillips
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 5.1:
+        non_striker: R Ravindra
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.2:
+        non_striker: R Ravindra
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 5.3:
+        non_striker: GD Phillips
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 5.4:
+        non_striker: R Ravindra
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.5:
+        non_striker: R Ravindra
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 5.6:
+        non_striker: GD Phillips
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ravindra
+    - 6.1:
+        non_striker: R Ravindra
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 6.2:
+        non_striker: GD Phillips
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 6.3:
+        non_striker: GD Phillips
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 6.4:
+        non_striker: GD Phillips
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 6.5:
+        non_striker: R Ravindra
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.6:
+        non_striker: R Ravindra
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 7.1:
+        non_striker: GD Phillips
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 7.2:
+        non_striker: R Ravindra
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.3:
+        non_striker: GD Phillips
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 7.4:
+        non_striker: R Ravindra
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.5:
+        non_striker: GD Phillips
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 7.6:
+        non_striker: R Ravindra
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 8.1:
+        non_striker: GD Phillips
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Ravindra
+    - 8.2:
+        non_striker: GD Phillips
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 8.3:
+        non_striker: R Ravindra
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 8.4:
+        non_striker: R Ravindra
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 8.5:
+        non_striker: R Ravindra
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 8.6:
+        non_striker: R Ravindra
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.1:
+        non_striker: R Ravindra
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.2:
+        non_striker: GD Phillips
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 9.3:
+        non_striker: R Ravindra
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          kind: bowled
+    - 9.4:
+        non_striker: R Ravindra
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 9.5:
+        non_striker: R Ravindra
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 9.6:
+        non_striker: R Ravindra
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 10.1:
+        non_striker: DJ Mitchell
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 10.2:
+        non_striker: DJ Mitchell
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 10.3:
+        non_striker: DJ Mitchell
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 10.4:
+        non_striker: R Ravindra
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.5:
+        non_striker: DJ Mitchell
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 10.6:
+        non_striker: R Ravindra
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.1:
+        non_striker: R Ravindra
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.2:
+        non_striker: DJ Mitchell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          fielders:
+          - MADI Hemantha
+          kind: caught
+    - 11.3:
+        non_striker: DJ Mitchell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 11.4:
+        non_striker: DJ Mitchell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          kind: bowled
+    - 11.5:
+        non_striker: DJ Mitchell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 11.6:
+        non_striker: DJ Mitchell
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 12.1:
+        non_striker: MJ Santner
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          kind: bowled
+    - 12.2:
+        non_striker: MJ Santner
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 12.3:
+        non_striker: MJ Santner
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 12.4:
+        non_striker: CE McConchie
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 12.5:
+        non_striker: CE McConchie
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.6:
+        non_striker: MJ Santner
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 13.1:
+        non_striker: CE McConchie
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 13.2:
+        non_striker: MJ Santner
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 13.3:
+        non_striker: MJ Santner
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 13.4:
+        non_striker: MJ Santner
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 13.5:
+        non_striker: MJ Santner
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 13.6:
+        non_striker: CE McConchie
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.1:
+        non_striker: MJ Santner
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 14.2:
+        non_striker: MJ Santner
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 14.3:
+        non_striker: MJ Santner
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 14.4:
+        non_striker: MJ Santner
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 14.5:
+        non_striker: CE McConchie
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.6:
+        non_striker: CE McConchie
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.1:
+        non_striker: CE McConchie
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 15.2:
+        non_striker: CE McConchie
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.3:
+        non_striker: MJ Santner
+        bowler: KIC Asalanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CE McConchie
+    - 15.4:
+        non_striker: CE McConchie
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.5:
+        non_striker: MJ Santner
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 15.6:
+        non_striker: MJ Santner
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 16.1:
+        non_striker: MJ Santner
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CE McConchie
+    - 16.2:
+        non_striker: MJ Santner
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 16.3:
+        non_striker: MJ Santner
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CE McConchie
+    - 16.4:
+        non_striker: MJ Santner
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 16.5:
+        non_striker: CE McConchie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 16.6:
+        non_striker: MJ Santner
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 17.1:
+        non_striker: CE McConchie
+        bowler: M Theekshana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MJ Santner
+    - 17.2:
+        non_striker: MJ Santner
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 17.3:
+        non_striker: MJ Santner
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 17.4:
+        non_striker: CE McConchie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 17.5:
+        non_striker: CE McConchie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 17.6:
+        non_striker: CE McConchie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 17.7:
+        non_striker: CE McConchie
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 18.1:
+        non_striker: MJ Santner
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 18.2:
+        non_striker: MJ Santner
+        bowler: D Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE McConchie
+    - 18.3:
+        non_striker: MJ Santner
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 18.4:
+        non_striker: CE McConchie
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 18.5:
+        non_striker: CE McConchie
+        bowler: D Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Santner
+    - 18.6:
+        non_striker: CE McConchie
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 18.7:
+        non_striker: CE McConchie
+        bowler: D Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Santner
+    - 18.8:
+        non_striker: CE McConchie
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 18.9:
+        non_striker: CE McConchie
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 19.1:
+        non_striker: CE McConchie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 19.2:
+        non_striker: CE McConchie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 19.3:
+        non_striker: CE McConchie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 19.4:
+        non_striker: CE McConchie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 19.5:
+        non_striker: CE McConchie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 19.6:
+        non_striker: CE McConchie
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          fielders:
+          - KIC Asalanka
+          kind: caught
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          kind: bowled
+    - 0.2:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 0.3:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 0.4:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 0.5:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 0.6:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 1.1:
+        non_striker: KIC Asalanka
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.2:
+        non_striker: KIC Asalanka
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 1.3:
+        non_striker: BKG Mendis
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 1.4:
+        non_striker: BKG Mendis
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 1.5:
+        non_striker: BKG Mendis
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 1.6:
+        non_striker: KIC Asalanka
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.1:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 2.2:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 2.3:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 2.4:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 2.5:
+        non_striker: BKG Mendis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 2.6:
+        non_striker: P Rathnayake
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 3.3:
+        non_striker: P Rathnayake
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.4:
+        non_striker: P Rathnayake
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.5:
+        non_striker: P Rathnayake
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 3.6:
+        non_striker: BKG Mendis
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 4.1:
+        non_striker: P Rathnayake
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 4.2:
+        non_striker: BKG Mendis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 4.3:
+        non_striker: P Rathnayake
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.4:
+        non_striker: P Rathnayake
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 4.5:
+        non_striker: P Rathnayake
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.6:
+        non_striker: P Rathnayake
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.1:
+        non_striker: BKG Mendis
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 5.2:
+        non_striker: BKG Mendis
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 5.3:
+        non_striker: BKG Mendis
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Rathnayake
+    - 5.4:
+        non_striker: P Rathnayake
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.5:
+        non_striker: P Rathnayake
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 5.6:
+        non_striker: BKG Mendis
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 6.1:
+        non_striker: BKG Mendis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 6.2:
+        non_striker: BKG Mendis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 6.3:
+        non_striker: P Rathnayake
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.4:
+        non_striker: P Rathnayake
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.5:
+        non_striker: P Rathnayake
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 6.6:
+        non_striker: BKG Mendis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 7.1:
+        non_striker: BKG Mendis
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 7.2:
+        non_striker: P Rathnayake
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 7.3:
+        non_striker: P Rathnayake
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 7.4:
+        non_striker: BKG Mendis
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 7.5:
+        non_striker: P Rathnayake
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 7.6:
+        non_striker: P Rathnayake
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.1:
+        non_striker: P Rathnayake
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - TL Seifert
+          kind: stumped
+    - 8.2:
+        non_striker: P Rathnayake
+        bowler: R Ravindra
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: PHKD Mendis
+    - 8.3:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+        wicket:
+          player_out: P Rathnayake
+          fielders:
+          - TL Seifert
+          kind: stumped
+    - 8.4:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 8.5:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 8.6:
+        non_striker: MD Shanaka
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 8.7:
+        non_striker: MD Shanaka
+        bowler: R Ravindra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 8.8:
+        non_striker: MD Shanaka
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 9.1:
+        non_striker: MD Shanaka
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 9.2:
+        non_striker: PHKD Mendis
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 9.3:
+        non_striker: MD Shanaka
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 9.4:
+        non_striker: MD Shanaka
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 9.5:
+        non_striker: PHKD Mendis
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 9.6:
+        non_striker: MD Shanaka
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 10.1:
+        non_striker: MD Shanaka
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 10.2:
+        non_striker: MD Shanaka
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 10.3:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - FH Allen
+          kind: caught
+    - 10.4:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MADI Hemantha
+    - 10.5:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MADI Hemantha
+    - 10.6:
+        non_striker: MADI Hemantha
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 11.1:
+        non_striker: PHKD Mendis
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MADI Hemantha
+    - 11.2:
+        non_striker: MADI Hemantha
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 11.3:
+        non_striker: PHKD Mendis
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MADI Hemantha
+    - 11.4:
+        non_striker: MADI Hemantha
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 11.5:
+        non_striker: MADI Hemantha
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 11.6:
+        non_striker: MADI Hemantha
+        bowler: CE McConchie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PHKD Mendis
+    - 11.7:
+        non_striker: MADI Hemantha
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 12.1:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MADI Hemantha
+    - 12.2:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MADI Hemantha
+        wicket:
+          player_out: MADI Hemantha
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 12.3:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 12.4:
+        non_striker: DN Wellalage
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 12.5:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 12.6:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wellalage
+    - 12.7:
+        non_striker: PHKD Mendis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 13.1:
+        non_striker: PHKD Mendis
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 13.2:
+        non_striker: PHKD Mendis
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 13.3:
+        non_striker: DN Wellalage
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 13.4:
+        non_striker: DN Wellalage
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 13.5:
+        non_striker: PHKD Mendis
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 13.6:
+        non_striker: DN Wellalage
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 14.1:
+        non_striker: DN Wellalage
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 14.2:
+        non_striker: DN Wellalage
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 14.3:
+        non_striker: DN Wellalage
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 14.4:
+        non_striker: DN Wellalage
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 14.5:
+        non_striker: DN Wellalage
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 14.6:
+        non_striker: DN Wellalage
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+        wicket:
+          player_out: PHKD Mendis
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 15.1:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DN Wellalage
+    - 15.2:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wellalage
+    - 15.3:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 15.4:
+        non_striker: DN Wellalage
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 15.5:
+        non_striker: DN Wellalage
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 15.6:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 16.1:
+        non_striker: DN Wellalage
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 16.2:
+        non_striker: DN Wellalage
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 16.3:
+        non_striker: PVD Chameera
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 16.4:
+        non_striker: PVD Chameera
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wellalage
+    - 16.5:
+        non_striker: PVD Chameera
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 16.6:
+        non_striker: PVD Chameera
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 17.1:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 17.2:
+        non_striker: DN Wellalage
+        bowler: GD Phillips
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: PVD Chameera
+    - 17.3:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 17.4:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 17.5:
+        non_striker: DN Wellalage
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 17.6:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 18.1:
+        non_striker: PVD Chameera
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 18.2:
+        non_striker: PVD Chameera
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 18.3:
+        non_striker: DN Wellalage
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 18.4:
+        non_striker: PVD Chameera
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 18.5:
+        non_striker: DN Wellalage
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 18.6:
+        non_striker: DN Wellalage
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 19.1:
+        non_striker: DN Wellalage
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 19.2:
+        non_striker: DN Wellalage
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 19.3:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 19.4:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+        wicket:
+          player_out: DN Wellalage
+          fielders:
+          - R Ravindra
+          kind: caught
+    - 19.5:
+        non_striker: PVD Chameera
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 19.6:
+        non_striker: M Theekshana
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera

@@ -1,0 +1,1495 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Accra
+  dates:
+  - '2026-03-27'
+  gender: male
+  match_type: T20
+  match_type_number: 3787
+  outcome:
+    winner: Ghana
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - J Guatam
+  players:
+    St Helena:
+    - J Essex
+    - Delroy Leo
+    - J Henry
+    - A Yon
+    - R Francis
+    - J Thomas
+    - AR Leo
+    - CR Richards
+    - Dane Leo
+    - BK Stroud
+    - J Yon
+    Ghana:
+    - J Guatam
+    - R Baaleri
+    - OH Agbomadzie
+    - F Baleri
+    - P Yevugah
+    - Nitesh Hooda
+    - L Nyarko
+    - Devender Singh
+    - BK Majji
+    - S Devasia
+    - V Ateak
+  registry:
+    people:
+      A Yon: 99bf1fb7
+      AR Leo: e13f8b16
+      BK Majji: d864f752
+      BK Stroud: 6577a6ad
+      CR Richards: c10a581f
+      D Odhiambo: '45994517'
+      Dane Leo: 391d8a48
+      Delroy Leo: e71f511e
+      Devender Singh: 68e21fb1
+      F Baleri: 6efdad14
+      J Essex: 84012d7f
+      J Guatam: 5992c2ba
+      J Henry: 68e7e8d5
+      J Thomas: 11b785d6
+      J Yon: ecd41f8c
+      L Nyarko: c391d077
+      Nitesh Hooda: d424d06a
+      O Chirombe: 6345307f
+      OH Agbomadzie: b38a9f73
+      P Yevugah: 5c842df4
+      Patric Makumbi: e4c69c16
+      R Baaleri: 26c9b5be
+      R D'Mello: f3c22863
+      R Francis: 06b766f4
+      S Devasia: fb52a279
+      V Ateak: 65a60be7
+  teams:
+  - St Helena
+  - Ghana
+  toss:
+    winner: Ghana
+    decision: field
+  umpires:
+  - D Odhiambo
+  - Patric Makumbi
+  venue: Achimota Senior Secondary School A Field, Accra
+innings:
+- 1st innings:
+    team: St Helena
+    deliveries:
+    - 0.1:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Delroy Leo
+        batsman: J Essex
+    - 0.2:
+        non_striker: J Essex
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Delroy Leo
+    - 0.3:
+        non_striker: J Essex
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Delroy Leo
+    - 0.4:
+        non_striker: J Essex
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Delroy Leo
+    - 0.5:
+        non_striker: Delroy Leo
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 0.6:
+        non_striker: Delroy Leo
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 1.1:
+        non_striker: J Essex
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Delroy Leo
+    - 1.2:
+        non_striker: J Essex
+        bowler: Nitesh Hooda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Delroy Leo
+    - 1.3:
+        non_striker: J Essex
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Delroy Leo
+    - 1.4:
+        non_striker: Delroy Leo
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Essex
+    - 1.5:
+        non_striker: Delroy Leo
+        bowler: Nitesh Hooda
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: J Essex
+    - 1.6:
+        non_striker: Delroy Leo
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 1.7:
+        non_striker: Delroy Leo
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 1.8:
+        non_striker: Delroy Leo
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 2.1:
+        non_striker: Delroy Leo
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 2.2:
+        non_striker: Delroy Leo
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 2.3:
+        non_striker: Delroy Leo
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Essex
+    - 2.4:
+        non_striker: Delroy Leo
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 2.5:
+        non_striker: Delroy Leo
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 2.6:
+        non_striker: J Essex
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Delroy Leo
+    - 3.1:
+        non_striker: Delroy Leo
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 3.2:
+        non_striker: Delroy Leo
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 3.3:
+        non_striker: J Essex
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Delroy Leo
+    - 3.4:
+        non_striker: Delroy Leo
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 3.5:
+        non_striker: J Essex
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Delroy Leo
+    - 3.6:
+        non_striker: Delroy Leo
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 4.1:
+        non_striker: Delroy Leo
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Essex
+    - 4.2:
+        non_striker: J Essex
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Delroy Leo
+        wicket:
+          player_out: Delroy Leo
+          kind: lbw
+    - 4.3:
+        non_striker: J Essex
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 4.4:
+        non_striker: J Essex
+        bowler: OH Agbomadzie
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: J Henry
+    - 4.5:
+        non_striker: J Essex
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 4.6:
+        non_striker: J Henry
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 5.1:
+        non_striker: J Essex
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 5.2:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+    - 5.3:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Essex
+        wicket:
+          player_out: J Essex
+          kind: bowled
+    - 5.4:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 5.5:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 5.6:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 6.1:
+        non_striker: A Yon
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 6.2:
+        non_striker: A Yon
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 6.3:
+        non_striker: A Yon
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 6.4:
+        non_striker: A Yon
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 6.5:
+        non_striker: J Henry
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Yon
+    - 6.6:
+        non_striker: J Henry
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 7.1:
+        non_striker: A Yon
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 7.2:
+        non_striker: A Yon
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 7.3:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 7.4:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 7.5:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 7.6:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Yon
+    - 8.1:
+        non_striker: J Henry
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+    - 8.2:
+        non_striker: J Henry
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Yon
+        wicket:
+          player_out: A Yon
+          fielders:
+          - L Nyarko
+          kind: caught
+    - 8.3:
+        non_striker: J Henry
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+    - 8.4:
+        non_striker: J Henry
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+    - 8.5:
+        non_striker: J Henry
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Francis
+    - 8.6:
+        non_striker: R Francis
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 9.1:
+        non_striker: R Francis
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Henry
+    - 9.2:
+        non_striker: R Francis
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 9.3:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+    - 9.4:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+    - 9.5:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Francis
+    - 9.6:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+    - 10.1:
+        non_striker: R Francis
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 10.2:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+    - 10.3:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Francis
+    - 10.4:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+    - 10.5:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+    - 10.6:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Francis
+        wicket:
+          player_out: R Francis
+          kind: bowled
+    - 10.7:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 11.1:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 11.2:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 11.3:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 11.4:
+        non_striker: J Thomas
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Henry
+    - 11.5:
+        non_striker: J Henry
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 11.6:
+        non_striker: J Thomas
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Henry
+    - 12.1:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Thomas
+    - 12.2:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 12.3:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 12.4:
+        non_striker: J Henry
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 12.5:
+        non_striker: J Thomas
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 12.6:
+        non_striker: J Thomas
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+    - 13.1:
+        non_striker: J Henry
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 13.2:
+        non_striker: J Henry
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+    - 13.3:
+        non_striker: J Henry
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thomas
+    - 13.4:
+        non_striker: J Thomas
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Henry
+        wicket:
+          player_out: J Henry
+          kind: bowled
+    - 13.5:
+        non_striker: J Thomas
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Leo
+    - 13.6:
+        non_striker: AR Leo
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thomas
+        wicket:
+          player_out: J Thomas
+          kind: bowled
+    - 14.1:
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CR Richards
+        batsman: AR Leo
+    - 14.2:
+        non_striker: AR Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Richards
+    - 14.3:
+        non_striker: AR Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Richards
+    - 14.4:
+        non_striker: AR Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Richards
+    - 14.5:
+        non_striker: AR Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Richards
+    - 14.6:
+        non_striker: CR Richards
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+    - 15.1:
+        non_striker: AR Leo
+        bowler: S Devasia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Richards
+    - 15.2:
+        non_striker: AR Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Richards
+    - 15.3:
+        non_striker: AR Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Richards
+    - 15.4:
+        non_striker: AR Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Richards
+    - 15.5:
+        non_striker: AR Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Richards
+    - 15.6:
+        non_striker: AR Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Richards
+    - 15.7:
+        non_striker: CR Richards
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+    - 16.1:
+        non_striker: AR Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Richards
+        wicket:
+          player_out: CR Richards
+          kind: bowled
+    - 16.2:
+        non_striker: AR Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dane Leo
+    - 16.3:
+        non_striker: AR Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dane Leo
+    - 16.4:
+        non_striker: AR Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dane Leo
+    - 16.5:
+        non_striker: AR Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dane Leo
+    - 16.6:
+        non_striker: Dane Leo
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+    - 17.1:
+        non_striker: AR Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dane Leo
+    - 17.2:
+        non_striker: AR Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dane Leo
+    - 17.3:
+        non_striker: Dane Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+    - 17.4:
+        non_striker: Dane Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Leo
+        wicket:
+          player_out: AR Leo
+          fielders:
+          - F Baleri
+          kind: stumped
+    - 17.5:
+        non_striker: Dane Leo
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Stroud
+        wicket:
+          player_out: Dane Leo
+          fielders:
+          - F Baleri
+          - BK Majji
+          kind: run out
+    - 17.6:
+        non_striker: BK Stroud
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Yon
+    - 18.1:
+        non_striker: J Yon
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Stroud
+    - 18.2:
+        non_striker: J Yon
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Stroud
+    - 18.3:
+        non_striker: J Yon
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Stroud
+    - 18.4:
+        non_striker: J Yon
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Stroud
+    - 18.5:
+        non_striker: BK Stroud
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Yon
+    - 18.6:
+        non_striker: BK Stroud
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Yon
+    - 19.1:
+        non_striker: J Yon
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BK Stroud
+    - 19.2:
+        non_striker: J Yon
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BK Stroud
+    - 19.3:
+        non_striker: J Yon
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Stroud
+    - 19.4:
+        non_striker: BK Stroud
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Yon
+    - 19.5:
+        non_striker: BK Stroud
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Yon
+    - 19.6:
+        non_striker: BK Stroud
+        bowler: S Devasia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Yon
+        wicket:
+          player_out: BK Stroud
+          fielders:
+          - F Baleri
+          - Devender Singh
+          kind: run out
+- 2nd innings:
+    team: Ghana
+    deliveries:
+    - 0.1:
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: R Baaleri
+        batsman: J Guatam
+    - 0.2:
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Baaleri
+        batsman: J Guatam
+    - 0.3:
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Baaleri
+        batsman: J Guatam
+    - 0.4:
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Baaleri
+        batsman: J Guatam
+    - 0.5:
+        bowler: R Francis
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: R Baaleri
+        batsman: J Guatam
+    - 0.6:
+        non_striker: J Guatam
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Baaleri
+    - 0.7:
+        non_striker: J Guatam
+        bowler: R Francis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Baaleri
+    - 1.1:
+        non_striker: R Baaleri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 1.2:
+        non_striker: R Baaleri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 1.3:
+        non_striker: R Baaleri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Guatam
+    - 1.4:
+        non_striker: R Baaleri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 1.5:
+        non_striker: R Baaleri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam
+    - 1.6:
+        non_striker: R Baaleri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam
+    - 2.1:
+        non_striker: J Guatam
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Baaleri
+    - 2.2:
+        non_striker: J Guatam
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 2.3:
+        non_striker: J Guatam
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 2.4:
+        non_striker: R Baaleri
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 2.5:
+        non_striker: R Baaleri
+        bowler: J Essex
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Guatam
+    - 2.6:
+        non_striker: R Baaleri
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Guatam
+    - 2.7:
+        non_striker: J Guatam
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Baaleri
+    - 3.1:
+        non_striker: R Baaleri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Guatam
+    - 3.2:
+        non_striker: R Baaleri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam
+    - 3.3:
+        non_striker: R Baaleri
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Guatam
+    - 3.4:
+        non_striker: J Guatam
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 3.5:
+        non_striker: J Guatam
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Baaleri
+    - 3.6:
+        non_striker: J Guatam
+        bowler: BK Stroud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 4.1:
+        non_striker: J Guatam
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 4.2:
+        non_striker: J Guatam
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Baaleri
+    - 4.3:
+        non_striker: J Guatam
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 4.4:
+        non_striker: J Guatam
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 4.5:
+        non_striker: R Baaleri
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam
+    - 4.6:
+        non_striker: R Baaleri
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 5.1:
+        non_striker: J Guatam
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+        wicket:
+          player_out: R Baaleri
+          kind: bowled
+    - 5.2:
+        non_striker: J Guatam
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OH Agbomadzie
+    - 5.3:
+        non_striker: J Guatam
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 5.4:
+        non_striker: J Guatam
+        bowler: AR Leo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: OH Agbomadzie
+    - 5.5:
+        non_striker: J Guatam
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OH Agbomadzie
+    - 5.6:
+        non_striker: J Guatam
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OH Agbomadzie
+    - 5.7:
+        non_striker: J Guatam
+        bowler: AR Leo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 6.1:
+        non_striker: OH Agbomadzie
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 6.2:
+        non_striker: OH Agbomadzie
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam
+    - 6.3:
+        non_striker: OH Agbomadzie
+        bowler: J Essex
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: J Guatam
+    - 6.4:
+        non_striker: OH Agbomadzie
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Guatam
+    - 6.5:
+        non_striker: OH Agbomadzie
+        bowler: J Essex
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam

@@ -1,0 +1,1730 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abuja
+  dates:
+  - '2025-12-07'
+  gender: male
+  match_type: T20
+  match_type_number: 3611
+  outcome:
+    winner: Nigeria
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Ali Rahmon
+  players:
+    Sierra Leone:
+    - Y Jalloh
+    - J Bangura
+    - R Coker
+    - AB Kamara
+    - A Gbla
+    - L Lamin
+    - C Bah
+    - Brima Ansumana
+    - J Lassayo
+    - Mohamed Turay
+    - JF Bangura
+    Nigeria:
+    - Selim Salau
+    - Ali Rahmon
+    - Sulaimon Runsewe
+    - IO Okpe
+    - VD Adewoye
+    - Joshua Asia
+    - D Ajekun
+    - SA Okpe
+    - I Danladi
+    - P Useni
+    - O Isiyaku
+  registry:
+    people:
+      A Gbla: 34ab1e6e
+      A Modupe: c2e27b71
+      AB Kamara: 3951be49
+      Ali Rahmon: c9c19700
+      Brima Ansumana: cd3d4e8c
+      C Bah: 7213d757
+      D Ajekun: 2494ff9e
+      Habib Enesi: fb35ab1f
+      I Danladi: c156cc1f
+      IO Okpe: 1c5c3dce
+      J Bangura: d7acab5d
+      J Lassayo: dee70255
+      JF Bangura: d43f2b7a
+      Joshua Asia: c4ecc42c
+      K Boniface: a89433c5
+      L Lamin: 5a970aab
+      Mohamed Turay: '019d7ef5'
+      O Adekoya: 0c8bce52
+      O Isiyaku: 4a0a532f
+      P Useni: 71fa64d6
+      R Coker: 3239c8a9
+      SA Okpe: 681f522f
+      Selim Salau: d18d3a0f
+      Sulaimon Runsewe: c25d26dc
+      Tonye Timinadi: 5cc0fccb
+      VD Adewoye: 45a34a2d
+      Y Jalloh: 7fe9a7e6
+  teams:
+  - Sierra Leone
+  - Nigeria
+  toss:
+    winner: Nigeria
+    decision: field
+  umpires:
+  - A Modupe
+  - O Adekoya
+  venue: Nigeria Cricket Federation Oval 1, Abuja
+innings:
+- 1st innings:
+    team: Sierra Leone
+    deliveries:
+    - 0.1:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Bangura
+        batsman: Y Jalloh
+    - 0.2:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Bangura
+        batsman: Y Jalloh
+    - 0.3:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Bangura
+        batsman: Y Jalloh
+    - 0.4:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Bangura
+        batsman: Y Jalloh
+    - 0.5:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Bangura
+        batsman: Y Jalloh
+    - 0.6:
+        non_striker: Y Jalloh
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 1.1:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 1.2:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 1.3:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 1.4:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 1.5:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Y Jalloh
+    - 1.6:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Jalloh
+    - 1.7:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+    - 2.1:
+        non_striker: Y Jalloh
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 2.2:
+        non_striker: J Bangura
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Jalloh
+    - 2.3:
+        non_striker: Y Jalloh
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Bangura
+    - 2.4:
+        non_striker: Y Jalloh
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 2.5:
+        non_striker: J Bangura
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Jalloh
+        wicket:
+          player_out: Y Jalloh
+          fielders:
+          - Sulaimon Runsewe
+          kind: caught
+    - 2.6:
+        non_striker: J Bangura
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 3.1:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Coker
+    - 3.2:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 3.3:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 3.4:
+        non_striker: R Coker
+        bowler: O Isiyaku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Bangura
+    - 3.5:
+        non_striker: R Coker
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bangura
+    - 3.6:
+        non_striker: R Coker
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 3.7:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 4.1:
+        non_striker: R Coker
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 4.2:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 4.3:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 4.4:
+        non_striker: R Coker
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 4.5:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 4.6:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Coker
+    - 5.1:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Coker
+    - 5.2:
+        non_striker: R Coker
+        bowler: O Isiyaku
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Bangura
+    - 5.3:
+        non_striker: R Coker
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 5.4:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+    - 5.5:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Coker
+    - 5.6:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Coker
+        wicket:
+          player_out: R Coker
+          kind: bowled
+    - 5.7:
+        non_striker: J Bangura
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kamara
+    - 6.1:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB Kamara
+    - 6.2:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kamara
+    - 6.3:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Kamara
+    - 6.4:
+        non_striker: AB Kamara
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 6.5:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kamara
+    - 6.6:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Kamara
+        wicket:
+          player_out: AB Kamara
+          fielders:
+          - Sulaimon Runsewe
+          - I Danladi
+          kind: run out
+    - 7.1:
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Gbla
+        batsman: J Bangura
+    - 7.2:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gbla
+        wicket:
+          player_out: A Gbla
+          fielders:
+          - K Boniface (sub)
+          kind: caught
+    - 7.3:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 7.4:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Lamin
+    - 7.5:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 7.6:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 8.1:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bangura
+    - 8.2:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 8.3:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Bangura
+    - 8.4:
+        non_striker: L Lamin
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 8.5:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 8.6:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 9.1:
+        non_striker: L Lamin
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 9.2:
+        non_striker: L Lamin
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 9.3:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lamin
+    - 9.4:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Lamin
+        wicket:
+          player_out: L Lamin
+          fielders:
+          - Joshua Asia
+          - SA Okpe
+          kind: run out
+    - 9.5:
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Bah
+        batsman: J Bangura
+    - 9.6:
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Bah
+        batsman: J Bangura
+    - 9.7:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bah
+    - 10.1:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bah
+    - 10.2:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bah
+        wicket:
+          player_out: C Bah
+          fielders:
+          - P Useni
+          kind: caught
+    - 10.3:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 10.4:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brima Ansumana
+    - 10.5:
+        non_striker: Brima Ansumana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 10.6:
+        non_striker: Brima Ansumana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 10.7:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Brima Ansumana
+    - 10.8:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brima Ansumana
+    - 11.1:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 11.2:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 11.3:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 11.4:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 11.5:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 11.6:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 12.1:
+        non_striker: Brima Ansumana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 12.2:
+        non_striker: Brima Ansumana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 12.3:
+        non_striker: Brima Ansumana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 12.4:
+        non_striker: Brima Ansumana
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 12.5:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 12.6:
+        non_striker: J Bangura
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brima Ansumana
+    - 13.1:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 13.2:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Brima Ansumana
+    - 13.3:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 13.4:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 13.5:
+        non_striker: J Bangura
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brima Ansumana
+    - 13.6:
+        non_striker: Brima Ansumana
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 14.1:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 14.2:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+    - 14.3:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brima Ansumana
+    - 14.4:
+        non_striker: Brima Ansumana
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 14.5:
+        non_striker: Brima Ansumana
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 14.6:
+        non_striker: Brima Ansumana
+        bowler: VD Adewoye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Bangura
+    - 14.7:
+        non_striker: Brima Ansumana
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 15.1:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Brima Ansumana
+        wicket:
+          player_out: Brima Ansumana
+          fielders:
+          - Ali Rahmon
+          kind: caught
+    - 15.2:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Lassayo
+    - 15.3:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Lassayo
+    - 15.4:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Lassayo
+        wicket:
+          player_out: J Lassayo
+          fielders:
+          - Sulaimon Runsewe
+          - Joshua Asia
+          kind: run out
+    - 15.5:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Turay
+    - 15.6:
+        non_striker: Mohamed Turay
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Bangura
+    - 16.1:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohamed Turay
+    - 16.2:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohamed Turay
+    - 16.3:
+        non_striker: Mohamed Turay
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+        wicket:
+          player_out: Mohamed Turay
+          fielders:
+          - VD Adewoye
+          - P Useni
+          kind: run out
+    - 16.4:
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JF Bangura
+        batsman: J Bangura
+    - 16.5:
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JF Bangura
+        batsman: J Bangura
+    - 16.6:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Bangura
+    - 17.1:
+        non_striker: JF Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 17.2:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Bangura
+    - 17.3:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Bangura
+    - 17.4:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Bangura
+    - 17.5:
+        non_striker: JF Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Bangura
+    - 17.6:
+        non_striker: J Bangura
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Bangura
+    - 18.1:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Bangura
+    - 18.2:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Bangura
+    - 18.3:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Bangura
+    - 18.4:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Bangura
+    - 18.5:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JF Bangura
+    - 18.6:
+        non_striker: J Bangura
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Bangura
+        wicket:
+          player_out: JF Bangura
+          kind: bowled
+- 2nd innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ali Rahmon
+        batsman: Selim Salau
+    - 0.2:
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ali Rahmon
+        batsman: Selim Salau
+    - 0.3:
+        non_striker: Selim Salau
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 0.4:
+        non_striker: Ali Rahmon
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+    - 0.5:
+        non_striker: Ali Rahmon
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+        wicket:
+          player_out: Selim Salau
+          fielders:
+          - R Coker
+          kind: caught
+    - 0.6:
+        non_striker: Ali Rahmon
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 1.1:
+        non_striker: Sulaimon Runsewe
+        bowler: JF Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 1.2:
+        non_striker: Sulaimon Runsewe
+        bowler: JF Bangura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 1.3:
+        non_striker: Sulaimon Runsewe
+        bowler: JF Bangura
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Rahmon
+    - 1.4:
+        non_striker: Sulaimon Runsewe
+        bowler: JF Bangura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 1.5:
+        non_striker: Ali Rahmon
+        bowler: JF Bangura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sulaimon Runsewe
+    - 1.6:
+        non_striker: Ali Rahmon
+        bowler: JF Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 1.7:
+        non_striker: Ali Rahmon
+        bowler: JF Bangura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 2.1:
+        non_striker: Sulaimon Runsewe
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 2.2:
+        non_striker: Ali Rahmon
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 2.3:
+        non_striker: Ali Rahmon
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sulaimon Runsewe
+    - 2.4:
+        non_striker: Sulaimon Runsewe
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 2.5:
+        non_striker: Sulaimon Runsewe
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 2.6:
+        non_striker: Sulaimon Runsewe
+        bowler: C Bah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 3.1:
+        non_striker: Sulaimon Runsewe
+        bowler: A Gbla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ali Rahmon
+    - 3.2:
+        non_striker: Sulaimon Runsewe
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 3.3:
+        non_striker: Sulaimon Runsewe
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 3.4:
+        non_striker: Sulaimon Runsewe
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 3.5:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 3.6:
+        non_striker: Sulaimon Runsewe
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ali Rahmon
+    - 3.7:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 4.1:
+        non_striker: Ali Rahmon
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 4.2:
+        non_striker: Ali Rahmon
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 4.3:
+        non_striker: Ali Rahmon
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 4.4:
+        non_striker: Sulaimon Runsewe
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 4.5:
+        non_striker: Sulaimon Runsewe
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 4.6:
+        non_striker: Sulaimon Runsewe
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 5.1:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 5.2:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sulaimon Runsewe
+    - 5.3:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 5.4:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 5.5:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 5.6:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 5.7:
+        non_striker: Sulaimon Runsewe
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 6.1:
+        non_striker: Ali Rahmon
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 6.2:
+        non_striker: Sulaimon Runsewe
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 6.3:
+        non_striker: Sulaimon Runsewe
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 6.4:
+        non_striker: Sulaimon Runsewe
+        bowler: AB Kamara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ali Rahmon
+    - 6.5:
+        non_striker: Ali Rahmon
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 6.6:
+        non_striker: Sulaimon Runsewe
+        bowler: AB Kamara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ali Rahmon
+    - 7.1:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 7.2:
+        non_striker: Sulaimon Runsewe
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Rahmon
+    - 7.3:
+        non_striker: Sulaimon Runsewe
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 7.4:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 7.5:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 7.6:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 8.1:
+        non_striker: Sulaimon Runsewe
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Rahmon
+    - 8.2:
+        non_striker: Sulaimon Runsewe
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 8.3:
+        non_striker: Sulaimon Runsewe
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Rahmon
+    - 8.4:
+        non_striker: Sulaimon Runsewe
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ali Rahmon
+    - 8.5:
+        non_striker: Ali Rahmon
+        bowler: R Coker
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Sulaimon Runsewe
+    - 8.6:
+        non_striker: Sulaimon Runsewe
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Rahmon
+    - 8.7:
+        non_striker: Sulaimon Runsewe
+        bowler: R Coker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 9.1:
+        non_striker: Ali Rahmon
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sulaimon Runsewe
+    - 9.2:
+        non_striker: Ali Rahmon
+        bowler: Mohamed Turay
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: Sulaimon Runsewe
+    - 9.3:
+        non_striker: Ali Rahmon
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sulaimon Runsewe
+    - 9.4:
+        non_striker: Ali Rahmon
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 9.5:
+        non_striker: Sulaimon Runsewe
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Rahmon
+    - 9.6:
+        non_striker: Sulaimon Runsewe
+        bowler: Mohamed Turay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 10.1:
+        non_striker: Ali Rahmon
+        bowler: L Lamin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 10.2:
+        non_striker: Sulaimon Runsewe
+        bowler: L Lamin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Rahmon
+    - 10.3:
+        non_striker: Sulaimon Runsewe
+        bowler: L Lamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 10.4:
+        non_striker: Sulaimon Runsewe
+        bowler: L Lamin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Rahmon
+    - 10.5:
+        non_striker: Sulaimon Runsewe
+        bowler: L Lamin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 10.6:
+        non_striker: Ali Rahmon
+        bowler: L Lamin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sulaimon Runsewe
+    - 11.1:
+        non_striker: Sulaimon Runsewe
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Rahmon
+    - 11.2:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 11.3:
+        non_striker: Ali Rahmon
+        bowler: A Gbla
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Sulaimon Runsewe

@@ -1,0 +1,1983 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ahmedabad
+  dates:
+  - '2026-02-14'
+  gender: male
+  match_type: T20
+  match_type_number: 3711
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - M Jansen
+  players:
+    New Zealand:
+    - TL Seifert
+    - FH Allen
+    - R Ravindra
+    - GD Phillips
+    - MS Chapman
+    - DJ Mitchell
+    - MJ Santner
+    - JDS Neesham
+    - MJ Henry
+    - LH Ferguson
+    - JA Duffy
+    South Africa:
+    - AK Markram
+    - Q de Kock
+    - RD Rickelton
+    - D Brevis
+    - DA Miller
+    - T Stubbs
+    - C Bosch
+    - M Jansen
+    - K Rabada
+    - KA Maharaj
+    - L Ngidi
+  registry:
+    people:
+      AK Markram: 6a26221c
+      C Bosch: 172dff15
+      D Brevis: 844e79d1
+      DA Miller: d67d5f00
+      DJ Mitchell: eade4650
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      J Srinath: bad31fac
+      JA Duffy: dadbdb68
+      JDS Neesham: 9219eff0
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      L Ngidi: f834dcfc
+      LH Ferguson: 2f9d0389
+      LS Reifer: 5dee559a
+      M Jansen: 81c36ee9
+      MJ Henry: e84ac20c
+      MJ Santner: e4a0deae
+      MS Chapman: 7fa12533
+      PR Reiffel: c9354f29
+      Q de Kock: 372455c4
+      R Black: 156c8fb1
+      R Ravindra: ba5e1069
+      RD Rickelton: e66732f8
+      RJ Tucker: 38810cfc
+      T Stubbs: 85b3fab2
+      TL Seifert: 4663bd23
+  teams:
+  - New Zealand
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - PR Reiffel
+  - R Black
+  venue: Narendra Modi Stadium, Ahmedabad
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 0.2:
+        non_striker: FH Allen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 0.3:
+        non_striker: TL Seifert
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.4:
+        non_striker: FH Allen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 0.5:
+        non_striker: FH Allen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 0.6:
+        non_striker: FH Allen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.1:
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: TL Seifert
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.4:
+        non_striker: TL Seifert
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.5:
+        non_striker: TL Seifert
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.6:
+        non_striker: TL Seifert
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.1:
+        non_striker: TL Seifert
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.2:
+        non_striker: TL Seifert
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.3:
+        non_striker: TL Seifert
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.4:
+        non_striker: TL Seifert
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.5:
+        non_striker: TL Seifert
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 2.6:
+        non_striker: TL Seifert
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 3.1:
+        non_striker: FH Allen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 3.2:
+        non_striker: FH Allen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 3.3:
+        non_striker: FH Allen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 3.4:
+        non_striker: R Ravindra
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 3.5:
+        non_striker: R Ravindra
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 3.6:
+        non_striker: R Ravindra
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.1:
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 4.2:
+        non_striker: R Ravindra
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.3:
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 4.4:
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 4.5:
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 4.6:
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 5.1:
+        non_striker: FH Allen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Ravindra
+    - 5.2:
+        non_striker: FH Allen
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          fielders:
+          - DA Miller
+          kind: caught
+    - 5.3:
+        non_striker: FH Allen
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GD Phillips
+    - 5.4:
+        non_striker: GD Phillips
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 5.5:
+        non_striker: GD Phillips
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - AK Markram
+          kind: caught
+    - 5.6:
+        non_striker: GD Phillips
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.1:
+        non_striker: MS Chapman
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 6.2:
+        non_striker: GD Phillips
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 6.3:
+        non_striker: GD Phillips
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.4:
+        non_striker: MS Chapman
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          kind: bowled
+    - 6.5:
+        non_striker: MS Chapman
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.6:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 7.1:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 7.2:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 7.3:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 7.4:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 7.5:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 7.6:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 8.2:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 8.3:
+        non_striker: MS Chapman
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.4:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 8.5:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.1:
+        non_striker: DJ Mitchell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.2:
+        non_striker: MS Chapman
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 9.3:
+        non_striker: MS Chapman
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 9.4:
+        non_striker: MS Chapman
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.5:
+        non_striker: DJ Mitchell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.6:
+        non_striker: MS Chapman
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.1:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.2:
+        non_striker: DJ Mitchell
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 10.3:
+        non_striker: DJ Mitchell
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 10.4:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 10.5:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 10.6:
+        non_striker: MS Chapman
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 11.1:
+        non_striker: DJ Mitchell
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 11.2:
+        non_striker: DJ Mitchell
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 11.3:
+        non_striker: MS Chapman
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 11.4:
+        non_striker: MS Chapman
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.5:
+        non_striker: DJ Mitchell
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 11.6:
+        non_striker: DJ Mitchell
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 12.1:
+        non_striker: DJ Mitchell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 12.2:
+        non_striker: DJ Mitchell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 12.3:
+        non_striker: MS Chapman
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.4:
+        non_striker: DJ Mitchell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 12.5:
+        non_striker: DJ Mitchell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 12.6:
+        non_striker: DJ Mitchell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 13.1:
+        non_striker: MS Chapman
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.2:
+        non_striker: DJ Mitchell
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 13.3:
+        non_striker: DJ Mitchell
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 13.4:
+        non_striker: DJ Mitchell
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 13.5:
+        non_striker: MS Chapman
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.6:
+        non_striker: DJ Mitchell
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 14.1:
+        non_striker: MJ Santner
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.2:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.3:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.4:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.5:
+        non_striker: DJ Mitchell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 14.6:
+        non_striker: MJ Santner
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 15.1:
+        non_striker: DJ Mitchell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 15.2:
+        non_striker: DJ Mitchell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.3:
+        non_striker: MJ Santner
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 15.4:
+        non_striker: MJ Santner
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 15.5:
+        non_striker: MJ Santner
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 15.6:
+        non_striker: JDS Neesham
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 16.1:
+        non_striker: JDS Neesham
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 16.2:
+        non_striker: MJ Santner
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 16.3:
+        non_striker: JDS Neesham
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 16.4:
+        non_striker: JDS Neesham
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 16.5:
+        non_striker: JDS Neesham
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 16.6:
+        non_striker: MJ Henry
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 17.1:
+        non_striker: MJ Henry
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 17.2:
+        non_striker: MJ Henry
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 17.3:
+        non_striker: JDS Neesham
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Henry
+    - 17.4:
+        non_striker: JDS Neesham
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Henry
+    - 17.5:
+        non_striker: JDS Neesham
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Henry
+    - 17.6:
+        non_striker: JDS Neesham
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 18.1:
+        non_striker: JDS Neesham
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 18.2:
+        non_striker: MJ Henry
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 18.3:
+        non_striker: MJ Henry
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 18.4:
+        non_striker: JDS Neesham
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 18.5:
+        non_striker: MJ Henry
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 18.6:
+        non_striker: MJ Henry
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 19.1:
+        non_striker: MJ Henry
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 19.2:
+        non_striker: MJ Henry
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 19.3:
+        non_striker: MJ Henry
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 19.4:
+        non_striker: JDS Neesham
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 19.5:
+        non_striker: MJ Henry
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 19.6:
+        non_striker: MJ Henry
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 0.5:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 1.4:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.7:
+        non_striker: Q de Kock
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 3.1:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.1:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.4:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 4.5:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 4.6:
+        non_striker: RD Rickelton
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 5.1:
+        non_striker: AK Markram
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 5.2:
+        non_striker: AK Markram
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 5.3:
+        non_striker: AK Markram
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 5.4:
+        non_striker: AK Markram
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 5.5:
+        non_striker: AK Markram
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 5.6:
+        non_striker: RD Rickelton
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 5.7:
+        non_striker: RD Rickelton
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 6.1:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 6.2:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.3:
+        non_striker: RD Rickelton
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.4:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.5:
+        non_striker: RD Rickelton
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 6.6:
+        non_striker: RD Rickelton
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 7.1:
+        non_striker: AK Markram
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.2:
+        non_striker: RD Rickelton
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 7.3:
+        non_striker: RD Rickelton
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.4:
+        non_striker: AK Markram
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 7.5:
+        non_striker: AK Markram
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 7.6:
+        non_striker: AK Markram
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 8.1:
+        non_striker: D Brevis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.2:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 8.3:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.4:
+        non_striker: D Brevis
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 8.5:
+        non_striker: D Brevis
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.6:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 8.7:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 9.1:
+        non_striker: D Brevis
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.2:
+        non_striker: AK Markram
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 9.3:
+        non_striker: AK Markram
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.4:
+        non_striker: D Brevis
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.5:
+        non_striker: AK Markram
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.6:
+        non_striker: D Brevis
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.1:
+        non_striker: D Brevis
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.2:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 10.3:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 10.4:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 10.5:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 10.6:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.1:
+        non_striker: AK Markram
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.2:
+        non_striker: D Brevis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.3:
+        non_striker: AK Markram
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 11.4:
+        non_striker: AK Markram
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 11.5:
+        non_striker: AK Markram
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.6:
+        non_striker: DA Miller
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 12.1:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.2:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.3:
+        non_striker: DA Miller
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 12.4:
+        non_striker: DA Miller
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.5:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.6:
+        non_striker: DA Miller
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.7:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.1:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.2:
+        non_striker: DA Miller
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.3:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 13.4:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.5:
+        non_striker: DA Miller
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 13.6:
+        non_striker: DA Miller
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 13.7:
+        non_striker: DA Miller
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 14.1:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.2:
+        non_striker: DA Miller
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.3:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 14.4:
+        non_striker: AK Markram
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.5:
+        non_striker: DA Miller
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 14.6:
+        non_striker: DA Miller
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 15.1:
+        non_striker: DA Miller
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 15.2:
+        non_striker: DA Miller
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 15.3:
+        non_striker: DA Miller
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 15.4:
+        non_striker: AK Markram
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 15.5:
+        non_striker: AK Markram
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 15.6:
+        non_striker: AK Markram
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.7:
+        non_striker: DA Miller
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.1:
+        non_striker: DA Miller
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: AK Markram
+    - 16.2:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.3:
+        non_striker: DA Miller
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.4:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.5:
+        non_striker: DA Miller
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.6:
+        non_striker: AK Markram
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.1:
+        non_striker: AK Markram
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller

@@ -1,0 +1,2049 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Paarl
+  dates:
+  - '2026-01-27'
+  gender: male
+  match_type: T20
+  match_type_number: 3671
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - GF Linde
+  players:
+    West Indies:
+    - BA King
+    - J Charles
+    - MW Forde
+    - SE Rutherford
+    - RL Chase
+    - SO Hetmyer
+    - R Powell
+    - JO Holder
+    - R Shepherd
+    - JNT Seales
+    - AJ Hosein
+    South Africa:
+    - LG Pretorius
+    - AK Markram
+    - RD Rickelton
+    - D Brevis
+    - RA Herman
+    - JF Smith
+    - GF Linde
+    - C Bosch
+    - K Rabada
+    - KA Maharaj
+    - KT Maphaka
+  registry:
+    people:
+      A Jacobs: 70d117de
+      AJ Hosein: 4d7f517e
+      AK Markram: 6a26221c
+      BA King: 7fca84b7
+      BP Jele: 7bb1331e
+      C Bosch: 172dff15
+      D Brevis: 844e79d1
+      GF Linde: e5437608
+      J Charles: '09a9d073'
+      JF Smith: 91cd48e0
+      JNT Seales: ded9ff1e
+      JO Holder: 0f721006
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      KT Maphaka: 107c26fb
+      LG Pretorius: 60aa2db3
+      Lauren Agenbag: 40849abd
+      MW Forde: 83d17bbc
+      R Powell: 650d5e49
+      R Shepherd: c5aef772
+      RA Herman: 9c821d2e
+      RD Rickelton: e66732f8
+      RL Chase: 3feda4fa
+      S Wadvalla: c1a1acf3
+      SE Rutherford: d014d5ac
+      SO Hetmyer: 48a1d7b7
+      Stephen Harris: fdcfd4aa
+  teams:
+  - West Indies
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - BP Jele
+  - Stephen Harris
+  venue: Boland Park, Paarl
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 0.2:
+        non_striker: J Charles
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 0.3:
+        non_striker: J Charles
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.4:
+        non_striker: J Charles
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 0.5:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 0.6:
+        non_striker: J Charles
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.1:
+        non_striker: BA King
+        bowler: GF Linde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Charles
+    - 1.2:
+        non_striker: J Charles
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.3:
+        non_striker: J Charles
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.4:
+        non_striker: J Charles
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.5:
+        non_striker: J Charles
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 1.6:
+        non_striker: J Charles
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 2.1:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 2.2:
+        non_striker: J Charles
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA King
+    - 2.3:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Charles
+    - 2.4:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Charles
+    - 2.5:
+        non_striker: J Charles
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 2.6:
+        non_striker: J Charles
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 2.7:
+        non_striker: J Charles
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 3.1:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.2:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Charles
+    - 3.3:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Charles
+    - 3.4:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 3.5:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          kind: bowled
+    - 3.6:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+    - 4.1:
+        non_striker: MW Forde
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 4.2:
+        non_striker: MW Forde
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          kind: bowled
+    - 4.3:
+        non_striker: MW Forde
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 4.4:
+        non_striker: MW Forde
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 4.5:
+        non_striker: MW Forde
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 4.6:
+        non_striker: SE Rutherford
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+    - 5.1:
+        non_striker: MW Forde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 5.2:
+        non_striker: MW Forde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 5.3:
+        non_striker: SE Rutherford
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Forde
+    - 5.4:
+        non_striker: MW Forde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+        wicket:
+          player_out: SE Rutherford
+          kind: bowled
+    - 5.5:
+        non_striker: MW Forde
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 5.6:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Forde
+    - 6.1:
+        non_striker: MW Forde
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 6.2:
+        non_striker: MW Forde
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.3:
+        non_striker: RL Chase
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+    - 6.4:
+        non_striker: RL Chase
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+    - 6.5:
+        non_striker: RL Chase
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Forde
+    - 6.6:
+        non_striker: MW Forde
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.1:
+        non_striker: RL Chase
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Forde
+    - 7.2:
+        non_striker: MW Forde
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.3:
+        non_striker: MW Forde
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 7.4:
+        non_striker: RL Chase
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Forde
+    - 7.5:
+        non_striker: MW Forde
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 7.6:
+        non_striker: RL Chase
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Forde
+    - 8.1:
+        non_striker: MW Forde
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 8.2:
+        non_striker: MW Forde
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.3:
+        non_striker: RL Chase
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+    - 8.4:
+        non_striker: RL Chase
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Forde
+    - 8.5:
+        non_striker: RL Chase
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Forde
+        wicket:
+          player_out: MW Forde
+          fielders:
+          - K Rabada
+          kind: caught
+    - 8.6:
+        non_striker: RL Chase
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 8.7:
+        non_striker: RL Chase
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 9.1:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 9.2:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 9.3:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 9.4:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.5:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 9.6:
+        non_striker: RL Chase
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 10.1:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 10.2:
+        non_striker: RL Chase
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.3:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 10.4:
+        non_striker: RL Chase
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.5:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 10.6:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 11.1:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+        wicket:
+          player_out: RL Chase
+          kind: bowled
+    - 11.2:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: R Powell
+    - 11.3:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 11.4:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 11.5:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 11.6:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 12.1:
+        non_striker: R Powell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.2:
+        non_striker: R Powell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: R Powell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.4:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.5:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.6:
+        non_striker: R Powell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 13.1:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.2:
+        non_striker: R Powell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 13.3:
+        non_striker: R Powell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 13.4:
+        non_striker: R Powell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 13.5:
+        non_striker: R Powell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 13.6:
+        non_striker: R Powell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.1:
+        non_striker: R Powell
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 14.2:
+        non_striker: R Powell
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 14.3:
+        non_striker: R Powell
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: SO Hetmyer
+    - 14.4:
+        non_striker: R Powell
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 14.6:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 14.7:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.1:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 15.2:
+        non_striker: R Powell
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 15.3:
+        non_striker: R Powell
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.4:
+        non_striker: R Powell
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.5:
+        non_striker: R Powell
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 15.6:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 16.1:
+        non_striker: R Powell
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 16.2:
+        non_striker: R Powell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 16.3:
+        non_striker: R Powell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.4:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 16.5:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 16.6:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 16.7:
+        non_striker: R Powell
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 17.1:
+        non_striker: R Powell
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 17.2:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 17.3:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 17.4:
+        non_striker: R Powell
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 17.5:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 17.6:
+        non_striker: R Powell
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 18.1:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 18.2:
+        non_striker: R Powell
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 18.3:
+        non_striker: R Powell
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.4:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 18.5:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 18.6:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 18.7:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 19.1:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 19.2:
+        non_striker: R Powell
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - D Brevis
+          kind: caught
+    - 19.3:
+        non_striker: R Powell
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 19.4:
+        non_striker: JO Holder
+        bowler: GF Linde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Powell
+    - 19.5:
+        non_striker: JO Holder
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 19.6:
+        non_striker: R Powell
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+        wicket:
+          player_out: JO Holder
+          fielders:
+          - C Bosch
+          kind: caught
+    - 19.7:
+        non_striker: R Powell
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: AK Markram
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 0.2:
+        non_striker: LG Pretorius
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 0.3:
+        non_striker: LG Pretorius
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 0.4:
+        non_striker: LG Pretorius
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 0.5:
+        non_striker: LG Pretorius
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 0.6:
+        non_striker: LG Pretorius
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 1.1:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 1.2:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 1.3:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LG Pretorius
+    - 1.4:
+        non_striker: LG Pretorius
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.5:
+        non_striker: LG Pretorius
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.6:
+        non_striker: LG Pretorius
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 2.1:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 2.2:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 2.3:
+        non_striker: LG Pretorius
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 2.4:
+        non_striker: LG Pretorius
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.5:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 2.6:
+        non_striker: LG Pretorius
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 2.7:
+        non_striker: LG Pretorius
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 3.1:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 3.2:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 3.3:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 3.4:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 3.5:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 3.6:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 4.1:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 4.2:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 4.3:
+        non_striker: LG Pretorius
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 4.4:
+        non_striker: LG Pretorius
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 4.5:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+    - 4.6:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 5.1:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LG Pretorius
+    - 5.2:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 5.3:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 5.4:
+        non_striker: LG Pretorius
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 5.5:
+        non_striker: LG Pretorius
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 5.6:
+        non_striker: LG Pretorius
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 5.7:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 6.1:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 6.2:
+        non_striker: LG Pretorius
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.3:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 6.4:
+        non_striker: LG Pretorius
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.5:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 6.6:
+        non_striker: LG Pretorius
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 7.1:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LG Pretorius
+    - 7.2:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LG Pretorius
+    - 7.3:
+        non_striker: LG Pretorius
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 7.4:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LG Pretorius
+    - 7.5:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Pretorius
+        wicket:
+          player_out: LG Pretorius
+          fielders:
+          - MW Forde
+          kind: caught
+    - 7.6:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.1:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.2:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.3:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 8.4:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 8.5:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.6:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 9.1:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 9.2:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 9.3:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 9.4:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.5:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 9.6:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.1:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 10.2:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.3:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 10.4:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.5:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 10.6:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 11.1:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 11.2:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.3:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 11.4:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 11.5:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 11.6:
+        non_striker: AK Markram
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 12.1:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.2:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 12.3:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 12.4:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 12.5:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 12.6:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.1:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 13.2:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.3:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 13.4:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 13.5:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 13.6:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 13.7:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 14.1:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 14.2:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.3:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 14.4:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 14.5:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 14.6:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 15.1:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 15.2:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Rickelton
+    - 15.3:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 15.4:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 15.5:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 15.6:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 15.7:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 16.1:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 16.2:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 16.3:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.4:
+        non_striker: AK Markram
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 16.5:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 16.6:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 17.1:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 17.2:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 17.3:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 17.4:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 17.5:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram

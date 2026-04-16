@@ -1,0 +1,2121 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: George Town
+  dates:
+  - '2026-03-11'
+  gender: male
+  match_type: T20
+  match_type_number: 3764
+  outcome:
+    winner: Argentina
+    by:
+      runs: 62
+  overs: 20
+  player_of_match:
+  - A Kirschbaum
+  players:
+    Argentina:
+    - P Baron
+    - A Ferguson
+    - Lucas Rossi
+    - A Kirschbaum
+    - T Rossi
+    - AAP Rivero
+    - H Fennell
+    - R Escobar
+    - A Husain
+    - Manuel Iturbe
+    - JP Cabrera
+    Mexico:
+    - R Galgalikar
+    - Kaushal Kumar
+    - Amir Butt
+    - Gurpreet Singh
+    - KB Patil
+    - D Panda
+    - D Ebersohn
+    - J Byrappa
+    - Shantanu Kaveri
+    - Shoaib Rafiq
+    - Pratik Singh Bais
+  registry:
+    people:
+      A Ferguson: 4a8d1b14
+      A Gajjar: 37db06ef
+      A Husain: 034d3c52
+      A Kirschbaum: d953bf92
+      AAP Rivero: 1911dcbc
+      AR Maddela: 5c861579
+      Amir Butt: 5bdf2343
+      D Ebersohn: 6ca4e7bf
+      D Panda: bad1af65
+      Denavon Hayles: 5cbeeb02
+      Gurpreet Singh: f43dcdc1
+      H Fennell: 0d38ab25
+      J Byrappa: 860f7b67
+      JP Cabrera: b30bfd44
+      KB Patil: 0474fd64
+      Kaushal Kumar: 8cc37805
+      Lucas Rossi: 2064e555
+      Manuel Iturbe: bddbf5ec
+      P Baron: c6d1b1e4
+      Pratik Singh Bais: 5b351aff
+      R Escobar: 9fa5496f
+      R Galgalikar: 3f951265
+      R Shah: 3424e050
+      Shantanu Kaveri: '091880f7'
+      Shoaib Rafiq: 27df03d2
+      T Rossi: 5470418a
+  teams:
+  - Argentina
+  - Mexico
+  toss:
+    winner: Mexico
+    decision: field
+  umpires:
+  - A Gajjar
+  - R Shah
+  venue: Jimmy Powell Oval, Cayman Islands
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Ferguson
+        batsman: P Baron
+    - 0.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Ferguson
+        batsman: P Baron
+    - 0.3:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Ferguson
+        batsman: P Baron
+    - 0.4:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 0.5:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 0.6:
+        non_striker: A Ferguson
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Baron
+    - 0.7:
+        non_striker: A Ferguson
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: P Baron
+    - 1.1:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.2:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.3:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 1.4:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 1.5:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.6:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 2.1:
+        non_striker: A Ferguson
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 2.2:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 2.3:
+        non_striker: A Ferguson
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 2.4:
+        non_striker: A Ferguson
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 2.5:
+        non_striker: A Ferguson
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 2.6:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 3.1:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 3.2:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Baron
+    - 3.3:
+        non_striker: P Baron
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 3.4:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 3.5:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 3.6:
+        non_striker: A Ferguson
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 4.1:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 4.2:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 4.3:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 4.4:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 4.5:
+        non_striker: A Ferguson
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 4.6:
+        non_striker: A Ferguson
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 5.1:
+        non_striker: P Baron
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ferguson
+    - 5.2:
+        non_striker: P Baron
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 5.3:
+        non_striker: P Baron
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 5.4:
+        non_striker: P Baron
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ferguson
+    - 5.5:
+        non_striker: P Baron
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ferguson
+    - 5.6:
+        non_striker: P Baron
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 5.7:
+        non_striker: P Baron
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+    - 6.1:
+        non_striker: A Ferguson
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 6.2:
+        non_striker: P Baron
+        bowler: D Panda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ferguson
+    - 6.3:
+        non_striker: P Baron
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ferguson
+    - 6.4:
+        non_striker: A Ferguson
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 6.5:
+        non_striker: A Ferguson
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 6.6:
+        non_striker: P Baron
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ferguson
+        wicket:
+          player_out: A Ferguson
+          fielders:
+          - Shoaib Rafiq
+          kind: caught
+    - 6.7:
+        non_striker: P Baron
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 7.1:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 7.2:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 7.3:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 7.4:
+        non_striker: Lucas Rossi
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 7.5:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 7.6:
+        non_striker: Lucas Rossi
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 8.1:
+        non_striker: Lucas Rossi
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 8.2:
+        non_striker: P Baron
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 8.3:
+        non_striker: Lucas Rossi
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 8.4:
+        non_striker: P Baron
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 8.5:
+        non_striker: Lucas Rossi
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 8.6:
+        non_striker: P Baron
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 9.1:
+        non_striker: Lucas Rossi
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 9.2:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+        wicket:
+          player_out: Lucas Rossi
+          fielders:
+          - KB Patil
+          kind: caught
+    - 9.3:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 9.4:
+        non_striker: A Kirschbaum
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 9.5:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 9.6:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 10.1:
+        non_striker: A Kirschbaum
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 10.2:
+        non_striker: P Baron
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 10.3:
+        non_striker: A Kirschbaum
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 10.4:
+        non_striker: A Kirschbaum
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 10.5:
+        non_striker: A Kirschbaum
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 10.6:
+        non_striker: P Baron
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 11.1:
+        non_striker: A Kirschbaum
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 11.2:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 11.3:
+        non_striker: P Baron
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 11.4:
+        non_striker: A Kirschbaum
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Baron
+    - 11.5:
+        non_striker: A Kirschbaum
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 11.6:
+        non_striker: A Kirschbaum
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 12.1:
+        non_striker: A Kirschbaum
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 12.2:
+        non_striker: A Kirschbaum
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 12.3:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 12.4:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 12.5:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 12.6:
+        non_striker: P Baron
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Kirschbaum
+    - 13.1:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 13.2:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 13.3:
+        non_striker: P Baron
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 13.4:
+        non_striker: P Baron
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 13.5:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 13.6:
+        non_striker: P Baron
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 14.1:
+        non_striker: P Baron
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 14.2:
+        non_striker: A Kirschbaum
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 14.3:
+        non_striker: A Kirschbaum
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 14.4:
+        non_striker: A Kirschbaum
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 14.5:
+        non_striker: P Baron
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 14.6:
+        non_striker: A Kirschbaum
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 15.1:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 15.2:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 15.3:
+        non_striker: P Baron
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 15.4:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Baron
+    - 15.5:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 15.6:
+        non_striker: P Baron
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 16.1:
+        non_striker: P Baron
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 16.2:
+        non_striker: P Baron
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 16.3:
+        non_striker: P Baron
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 16.4:
+        non_striker: A Kirschbaum
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 16.5:
+        non_striker: P Baron
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 16.6:
+        non_striker: A Kirschbaum
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Baron
+    - 17.1:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 17.2:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          kind: bowled
+    - 17.3:
+        non_striker: A Kirschbaum
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 17.4:
+        non_striker: T Rossi
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 17.5:
+        non_striker: T Rossi
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 17.6:
+        non_striker: T Rossi
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 18.1:
+        non_striker: T Rossi
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 18.2:
+        non_striker: T Rossi
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 18.3:
+        non_striker: A Kirschbaum
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 18.4:
+        non_striker: T Rossi
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          fielders:
+          - Pratik Singh Bais
+          kind: run out
+    - 18.5:
+        bowler: J Byrappa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AAP Rivero
+        batsman: T Rossi
+    - 18.6:
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AAP Rivero
+        batsman: T Rossi
+    - 18.7:
+        non_striker: T Rossi
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 19.1:
+        non_striker: AAP Rivero
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Rossi
+    - 19.2:
+        non_striker: AAP Rivero
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Rossi
+    - 19.3:
+        non_striker: AAP Rivero
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rossi
+    - 19.4:
+        non_striker: AAP Rivero
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Rossi
+    - 19.5:
+        non_striker: AAP Rivero
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 19.6:
+        non_striker: T Rossi
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AAP Rivero
+- 2nd innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: R Galgalikar
+    - 0.2:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: R Galgalikar
+    - 0.3:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kaushal Kumar
+        batsman: R Galgalikar
+    - 0.4:
+        non_striker: R Galgalikar
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 0.5:
+        non_striker: R Galgalikar
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+        wicket:
+          player_out: Kaushal Kumar
+          fielders:
+          - T Rossi
+          kind: caught
+    - 0.6:
+        non_striker: R Galgalikar
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 1.1:
+        non_striker: Amir Butt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 1.2:
+        non_striker: Amir Butt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 1.3:
+        non_striker: Amir Butt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 1.4:
+        non_striker: Amir Butt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+        wicket:
+          player_out: R Galgalikar
+          fielders:
+          - AAP Rivero
+          kind: caught
+    - 1.5:
+        non_striker: Amir Butt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 1.6:
+        non_striker: Amir Butt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 2.1:
+        non_striker: Amir Butt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 2.2:
+        non_striker: Amir Butt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+        wicket:
+          player_out: Gurpreet Singh
+          fielders:
+          - AAP Rivero
+          kind: caught
+    - 2.3:
+        non_striker: Amir Butt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KB Patil
+    - 2.4:
+        non_striker: Amir Butt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 2.5:
+        non_striker: Amir Butt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 2.6:
+        non_striker: Amir Butt
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 3.1:
+        non_striker: KB Patil
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Butt
+    - 3.2:
+        non_striker: KB Patil
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 3.3:
+        non_striker: KB Patil
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 3.4:
+        non_striker: KB Patil
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 3.5:
+        non_striker: KB Patil
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 3.6:
+        non_striker: Amir Butt
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 4.1:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 4.2:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 4.3:
+        non_striker: Amir Butt
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KB Patil
+    - 4.4:
+        non_striker: Amir Butt
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 4.5:
+        non_striker: Amir Butt
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 4.6:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 5.1:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 5.2:
+        non_striker: Amir Butt
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 5.3:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 5.4:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Butt
+    - 5.5:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 5.6:
+        non_striker: Amir Butt
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 6.1:
+        non_striker: Amir Butt
+        bowler: A Husain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KB Patil
+    - 6.2:
+        non_striker: Amir Butt
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 6.3:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 6.4:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 6.5:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 6.6:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 6.7:
+        non_striker: Amir Butt
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 7.1:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 7.2:
+        non_striker: Amir Butt
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 7.3:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+        wicket:
+          player_out: Amir Butt
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 7.4:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Panda
+    - 7.5:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 7.6:
+        non_striker: D Panda
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 8.1:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 8.2:
+        non_striker: D Panda
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 8.3:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 8.4:
+        non_striker: D Panda
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 8.5:
+        non_striker: D Panda
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 8.6:
+        non_striker: KB Patil
+        bowler: A Husain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 9.1:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 9.2:
+        non_striker: D Panda
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 9.3:
+        non_striker: D Panda
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 9.4:
+        non_striker: KB Patil
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 9.5:
+        non_striker: D Panda
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+        wicket:
+          player_out: KB Patil
+          fielders:
+          - A Ferguson
+          kind: caught
+    - 9.6:
+        non_striker: D Panda
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 10.1:
+        non_striker: D Ebersohn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 10.2:
+        non_striker: D Ebersohn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 10.3:
+        non_striker: D Ebersohn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 10.4:
+        non_striker: D Ebersohn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 10.5:
+        non_striker: D Ebersohn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 10.6:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 11.1:
+        non_striker: D Ebersohn
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 11.2:
+        non_striker: D Panda
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 11.3:
+        non_striker: D Ebersohn
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 11.4:
+        non_striker: D Ebersohn
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 11.5:
+        non_striker: D Panda
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 11.6:
+        non_striker: D Panda
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 12.1:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ebersohn
+    - 12.2:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 12.3:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ebersohn
+    - 12.4:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 12.5:
+        non_striker: D Ebersohn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 12.6:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 13.1:
+        non_striker: D Ebersohn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Panda
+    - 13.2:
+        non_striker: D Ebersohn
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 13.3:
+        non_striker: D Panda
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 13.4:
+        non_striker: D Panda
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 13.5:
+        non_striker: D Panda
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 13.6:
+        non_striker: D Panda
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 14.1:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 14.2:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 14.3:
+        non_striker: D Ebersohn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Panda
+    - 14.4:
+        non_striker: D Ebersohn
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 14.5:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 14.6:
+        non_striker: D Panda
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ebersohn
+    - 15.1:
+        non_striker: D Panda
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 15.2:
+        non_striker: D Panda
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+    - 15.3:
+        non_striker: D Panda
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ebersohn
+        wicket:
+          player_out: D Ebersohn
+          kind: lbw
+    - 15.4:
+        non_striker: D Panda
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa
+    - 15.5:
+        non_striker: J Byrappa
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Panda
+    - 15.6:
+        non_striker: J Byrappa
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 16.1:
+        non_striker: D Panda
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa
+    - 16.2:
+        non_striker: J Byrappa
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+        wicket:
+          player_out: D Panda
+          fielders:
+          - A Ferguson
+          kind: caught
+    - 16.3:
+        non_striker: J Byrappa
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 16.4:
+        non_striker: Shantanu Kaveri
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Byrappa
+    - 16.5:
+        non_striker: Shantanu Kaveri
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Byrappa
+    - 16.6:
+        non_striker: Shantanu Kaveri
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Byrappa
+    - 17.1:
+        non_striker: J Byrappa
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 17.2:
+        non_striker: J Byrappa
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 17.3:
+        non_striker: Shantanu Kaveri
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa
+    - 17.4:
+        non_striker: J Byrappa
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 17.5:
+        non_striker: J Byrappa
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 17.6:
+        non_striker: J Byrappa
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 18.1:
+        non_striker: J Byrappa
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 18.2:
+        non_striker: Shantanu Kaveri
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Byrappa
+    - 18.3:
+        non_striker: J Byrappa
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 18.4:
+        non_striker: J Byrappa
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 18.5:
+        non_striker: Shantanu Kaveri
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Byrappa
+    - 18.6:
+        non_striker: Shantanu Kaveri
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Byrappa
+    - 19.1:
+        non_striker: Shantanu Kaveri
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa
+    - 19.2:
+        non_striker: J Byrappa
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 19.3:
+        non_striker: Shantanu Kaveri
+        bowler: A Kirschbaum
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Byrappa
+    - 19.4:
+        non_striker: J Byrappa
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 19.5:
+        non_striker: J Byrappa
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shantanu Kaveri
+    - 19.6:
+        non_striker: Shantanu Kaveri
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa

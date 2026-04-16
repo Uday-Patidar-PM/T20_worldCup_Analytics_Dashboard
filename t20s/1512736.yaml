@@ -1,0 +1,2141 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Delhi
+  dates:
+  - '2026-02-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3703
+  outcome:
+    winner: India
+    by:
+      runs: 93
+  overs: 20
+  player_of_match:
+  - HH Pandya
+  players:
+    India:
+    - Ishan Kishan
+    - SV Samson
+    - Tilak Varma
+    - SA Yadav
+    - HH Pandya
+    - S Dube
+    - RK Singh
+    - AR Patel
+    - CV Varun
+    - Arshdeep Singh
+    - JJ Bumrah
+    Namibia:
+    - L Steenkamp
+    - JN Frylinck
+    - JN Loftie-Eaton
+    - MG Erasmus
+    - JJ Smit
+    - ZE Green
+    - MB Kruger
+    - R Trumpelmann
+    - BM Scholtz
+    - B Shikongo
+    - M Heingo
+  registry:
+    people:
+      AJ Pycroft: 685d3f80
+      AR Patel: 2e171977
+      Arshdeep Singh: 244048f6
+      B Shikongo: c26cd57a
+      BM Scholtz: e85d03d6
+      CV Varun: 5b7ab5a9
+      DO Leicher: e28bb0b9
+      HH Pandya: dbe50b21
+      Ishan Kishan: 752f7486
+      JJ Bumrah: 462411b3
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      L Steenkamp: 8bd9fd13
+      LS Reifer: 5dee559a
+      M Heingo: 0abb2525
+      MB Kruger: c51add25
+      MG Erasmus: 95a5e066
+      PR Reiffel: c9354f29
+      R Black: 156c8fb1
+      R Trumpelmann: ff6a7ab5
+      RJ Tucker: 38810cfc
+      RK Singh: 0a509d6b
+      S Dube: a4e37e47
+      SA Yadav: 271f83cd
+      SV Samson: a4cc73aa
+      Tilak Varma: b0482a1d
+      ZE Green: 8716233e
+  teams:
+  - India
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - PR Reiffel
+  - RJ Tucker
+  venue: Arun Jaitley Stadium, Delhi
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: SV Samson
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ishan Kishan
+    - 0.2:
+        non_striker: SV Samson
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.3:
+        non_striker: SV Samson
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 0.4:
+        non_striker: Ishan Kishan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.5:
+        non_striker: Ishan Kishan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.6:
+        non_striker: Ishan Kishan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.7:
+        non_striker: Ishan Kishan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 1.1:
+        non_striker: SV Samson
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 1.2:
+        non_striker: SV Samson
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 1.3:
+        non_striker: Ishan Kishan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 1.4:
+        non_striker: Ishan Kishan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 1.5:
+        non_striker: Ishan Kishan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 1.6:
+        non_striker: Ishan Kishan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          fielders:
+          - L Steenkamp
+          kind: caught
+    - 2.1:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 2.2:
+        non_striker: Ishan Kishan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 2.3:
+        non_striker: Ishan Kishan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 2.4:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 2.5:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 2.6:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.1:
+        non_striker: Ishan Kishan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 3.2:
+        non_striker: Tilak Varma
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 3.3:
+        non_striker: Tilak Varma
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 3.4:
+        non_striker: Ishan Kishan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 3.5:
+        non_striker: Tilak Varma
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.6:
+        non_striker: Tilak Varma
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 4.1:
+        non_striker: Tilak Varma
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 4.2:
+        non_striker: Tilak Varma
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 4.3:
+        non_striker: Ishan Kishan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 4.4:
+        non_striker: Ishan Kishan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 4.5:
+        non_striker: Ishan Kishan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 4.6:
+        non_striker: Ishan Kishan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 5.1:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 5.2:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 5.3:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 5.4:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 5.5:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 5.6:
+        non_striker: Tilak Varma
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 6.1:
+        non_striker: Ishan Kishan
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 6.2:
+        non_striker: Ishan Kishan
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 6.3:
+        non_striker: Ishan Kishan
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 6.4:
+        non_striker: Tilak Varma
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 6.5:
+        non_striker: Tilak Varma
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 6.6:
+        non_striker: Tilak Varma
+        bowler: M Heingo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 7.1:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - B Shikongo
+          kind: caught
+    - 7.2:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.3:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.4:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.5:
+        non_striker: SA Yadav
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 7.6:
+        non_striker: SA Yadav
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 8.1:
+        non_striker: Tilak Varma
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.2:
+        non_striker: Tilak Varma
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.3:
+        non_striker: SA Yadav
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 8.4:
+        non_striker: Tilak Varma
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.5:
+        non_striker: SA Yadav
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 8.6:
+        non_striker: Tilak Varma
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.1:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 9.2:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.3:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.4:
+        non_striker: SA Yadav
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 9.5:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.7:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.1:
+        non_striker: Tilak Varma
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - ZE Green
+          kind: stumped
+    - 10.2:
+        non_striker: Tilak Varma
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 10.3:
+        non_striker: Tilak Varma
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 10.4:
+        non_striker: HH Pandya
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.5:
+        non_striker: Tilak Varma
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 10.6:
+        non_striker: Tilak Varma
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 11.1:
+        non_striker: HH Pandya
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.2:
+        non_striker: Tilak Varma
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 11.3:
+        non_striker: HH Pandya
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.4:
+        non_striker: HH Pandya
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.5:
+        non_striker: HH Pandya
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          fielders:
+          - JJ Smit
+          kind: caught
+    - 11.6:
+        non_striker: HH Pandya
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 12.1:
+        non_striker: S Dube
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 12.2:
+        non_striker: HH Pandya
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 12.3:
+        non_striker: S Dube
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 12.4:
+        non_striker: S Dube
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 12.5:
+        non_striker: S Dube
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 12.6:
+        non_striker: HH Pandya
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 13.1:
+        non_striker: HH Pandya
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dube
+    - 13.2:
+        non_striker: HH Pandya
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 13.3:
+        non_striker: HH Pandya
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 13.4:
+        non_striker: S Dube
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Pandya
+    - 13.5:
+        non_striker: S Dube
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 13.6:
+        non_striker: HH Pandya
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 13.7:
+        non_striker: S Dube
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 14.1:
+        non_striker: HH Pandya
+        bowler: BM Scholtz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+    - 14.2:
+        non_striker: HH Pandya
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 14.3:
+        non_striker: HH Pandya
+        bowler: BM Scholtz
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Dube
+    - 14.4:
+        non_striker: HH Pandya
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 14.5:
+        non_striker: S Dube
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 14.6:
+        non_striker: S Dube
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.7:
+        non_striker: S Dube
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 14.8:
+        non_striker: S Dube
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.1:
+        non_striker: S Dube
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 15.2:
+        non_striker: S Dube
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.3:
+        non_striker: HH Pandya
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 15.4:
+        non_striker: S Dube
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 15.5:
+        non_striker: S Dube
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 15.6:
+        non_striker: S Dube
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 16.1:
+        non_striker: HH Pandya
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.2:
+        non_striker: S Dube
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.3:
+        non_striker: HH Pandya
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.4:
+        non_striker: S Dube
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HH Pandya
+    - 16.5:
+        non_striker: HH Pandya
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.6:
+        non_striker: S Dube
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 17.1:
+        non_striker: S Dube
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 17.2:
+        non_striker: HH Pandya
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 17.3:
+        non_striker: S Dube
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 17.4:
+        non_striker: HH Pandya
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 17.5:
+        non_striker: HH Pandya
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 17.6:
+        non_striker: S Dube
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 18.1:
+        non_striker: S Dube
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 18.2:
+        non_striker: S Dube
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - DO Leicher (sub)
+          kind: caught
+    - 18.3:
+        non_striker: S Dube
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+        wicket:
+          player_out: S Dube
+          fielders:
+          - MG Erasmus
+          - B Shikongo
+          kind: run out
+    - 18.4:
+        non_striker: AR Patel
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 18.5:
+        non_striker: AR Patel
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 18.6:
+        non_striker: RK Singh
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          kind: bowled
+    - 19.1:
+        non_striker: CV Varun
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 19.2:
+        non_striker: CV Varun
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 19.3:
+        non_striker: CV Varun
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+        wicket:
+          player_out: RK Singh
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 19.4:
+        non_striker: CV Varun
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arshdeep Singh
+    - 19.5:
+        non_striker: Arshdeep Singh
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CV Varun
+    - 19.6:
+        non_striker: CV Varun
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arshdeep Singh
+        wicket:
+          player_out: Arshdeep Singh
+          fielders:
+          - ZE Green
+          - MB Kruger
+          kind: run out
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        non_striker: JN Frylinck
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 0.2:
+        non_striker: L Steenkamp
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 0.3:
+        non_striker: L Steenkamp
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 0.4:
+        non_striker: L Steenkamp
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 0.5:
+        non_striker: L Steenkamp
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 0.6:
+        non_striker: L Steenkamp
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 1.1:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 1.2:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 1.3:
+        non_striker: JN Frylinck
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 1.4:
+        non_striker: JN Frylinck
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 1.5:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 1.6:
+        non_striker: JN Frylinck
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 2.1:
+        non_striker: JN Frylinck
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 2.2:
+        non_striker: L Steenkamp
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 2.3:
+        non_striker: L Steenkamp
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 2.4:
+        non_striker: L Steenkamp
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Frylinck
+    - 2.5:
+        non_striker: L Steenkamp
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 2.6:
+        non_striker: JN Frylinck
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 3.1:
+        non_striker: JN Frylinck
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 3.2:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Frylinck
+    - 3.3:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 3.4:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 3.5:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          fielders:
+          - S Dube
+          kind: caught
+    - 3.6:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 3.7:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 4.1:
+        non_striker: L Steenkamp
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 4.2:
+        non_striker: JN Loftie-Eaton
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 4.3:
+        non_striker: L Steenkamp
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 4.4:
+        non_striker: JN Loftie-Eaton
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 4.5:
+        non_striker: JN Loftie-Eaton
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Steenkamp
+    - 4.6:
+        non_striker: JN Loftie-Eaton
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 5.1:
+        non_striker: JN Loftie-Eaton
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 5.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 5.3:
+        non_striker: JN Loftie-Eaton
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Steenkamp
+    - 5.4:
+        non_striker: JN Loftie-Eaton
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 5.5:
+        non_striker: JN Loftie-Eaton
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 5.6:
+        non_striker: L Steenkamp
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 5.7:
+        non_striker: JN Loftie-Eaton
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Steenkamp
+    - 6.1:
+        non_striker: L Steenkamp
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Loftie-Eaton
+    - 6.2:
+        non_striker: L Steenkamp
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 6.3:
+        non_striker: JN Loftie-Eaton
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 6.4:
+        non_striker: JN Loftie-Eaton
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: L Steenkamp
+    - 6.5:
+        non_striker: JN Loftie-Eaton
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: L Steenkamp
+    - 6.6:
+        non_striker: L Steenkamp
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 6.7:
+        non_striker: L Steenkamp
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Loftie-Eaton
+    - 6.8:
+        non_striker: L Steenkamp
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 7.1:
+        non_striker: JN Loftie-Eaton
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+        wicket:
+          player_out: L Steenkamp
+          kind: bowled
+    - 7.2:
+        non_striker: JN Loftie-Eaton
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.3:
+        non_striker: JN Loftie-Eaton
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 7.4:
+        non_striker: JN Loftie-Eaton
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 7.5:
+        non_striker: MG Erasmus
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 7.6:
+        non_striker: MG Erasmus
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 8.1:
+        non_striker: MG Erasmus
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 8.2:
+        non_striker: JN Loftie-Eaton
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Erasmus
+    - 8.3:
+        non_striker: JN Loftie-Eaton
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 8.4:
+        non_striker: JN Loftie-Eaton
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Erasmus
+    - 8.5:
+        non_striker: JN Loftie-Eaton
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 8.6:
+        non_striker: JN Loftie-Eaton
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.1:
+        non_striker: JN Loftie-Eaton
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.2:
+        non_striker: MG Erasmus
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - AR Patel
+          kind: caught
+    - 9.3:
+        non_striker: MG Erasmus
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 9.4:
+        non_striker: MG Erasmus
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+        wicket:
+          player_out: JJ Smit
+          kind: bowled
+    - 9.5:
+        non_striker: MG Erasmus
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 9.6:
+        non_striker: ZE Green
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.1:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 10.2:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 10.3:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 10.4:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 10.5:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 10.6:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 11.1:
+        non_striker: MB Kruger
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 11.2:
+        non_striker: MB Kruger
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 11.3:
+        non_striker: MB Kruger
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 11.4:
+        non_striker: MB Kruger
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 11.5:
+        non_striker: ZE Green
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 11.6:
+        non_striker: ZE Green
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 12.1:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 12.2:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MB Kruger
+    - 12.3:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+        wicket:
+          player_out: MB Kruger
+          fielders:
+          - JJ Bumrah
+          kind: caught
+    - 12.4:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 12.5:
+        non_striker: R Trumpelmann
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 12.6:
+        non_striker: ZE Green
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 13.1:
+        non_striker: R Trumpelmann
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 13.2:
+        non_striker: ZE Green
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 13.3:
+        non_striker: R Trumpelmann
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 13.4:
+        non_striker: R Trumpelmann
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 13.5:
+        non_striker: ZE Green
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 13.6:
+        non_striker: ZE Green
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 14.1:
+        non_striker: ZE Green
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 14.2:
+        non_striker: ZE Green
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 14.3:
+        non_striker: R Trumpelmann
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 14.4:
+        non_striker: ZE Green
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 14.5:
+        non_striker: R Trumpelmann
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZE Green
+    - 14.6:
+        non_striker: R Trumpelmann
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 15.1:
+        non_striker: ZE Green
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Trumpelmann
+    - 15.2:
+        non_striker: ZE Green
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 15.3:
+        non_striker: ZE Green
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Trumpelmann
+    - 15.4:
+        non_striker: ZE Green
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 15.5:
+        non_striker: ZE Green
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 15.6:
+        non_striker: ZE Green
+        bowler: S Dube
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Trumpelmann
+    - 15.7:
+        non_striker: ZE Green
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Trumpelmann
+    - 15.8:
+        non_striker: R Trumpelmann
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 15.9:
+        non_striker: ZE Green
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 16.1:
+        non_striker: R Trumpelmann
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 16.2:
+        non_striker: R Trumpelmann
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 16.3:
+        non_striker: R Trumpelmann
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 16.4:
+        non_striker: ZE Green
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+        wicket:
+          player_out: R Trumpelmann
+          kind: bowled
+    - 16.5:
+        non_striker: ZE Green
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Scholtz
+    - 16.6:
+        non_striker: ZE Green
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Scholtz
+    - 17.1:
+        non_striker: BM Scholtz
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 17.2:
+        non_striker: ZE Green
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Scholtz
+    - 17.3:
+        non_striker: ZE Green
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Scholtz
+        wicket:
+          player_out: BM Scholtz
+          fielders:
+          - AR Patel
+          kind: caught
+    - 17.4:
+        non_striker: ZE Green
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shikongo
+        wicket:
+          player_out: B Shikongo
+          kind: lbw
+    - 17.5:
+        non_striker: ZE Green
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Heingo
+    - 17.6:
+        non_striker: ZE Green
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Heingo
+    - 18.1:
+        non_striker: M Heingo
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 18.2:
+        non_striker: M Heingo
+        bowler: S Dube
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+        wicket:
+          player_out: ZE Green
+          kind: hit wicket

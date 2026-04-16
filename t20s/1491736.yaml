@@ -1,0 +1,1977 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2026-03-17'
+  gender: male
+  match_type: T20
+  match_type_number: 3777
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 68
+  overs: 20
+  player_of_match:
+  - DP Conway
+  players:
+    New Zealand:
+    - DP Conway
+    - TWM Latham
+    - TB Robinson
+    - NF Kelly
+    - MJ Santner
+    - JDS Neesham
+    - CE McConchie
+    - JA Clarkson
+    - KA Jamieson
+    - BV Sears
+    - LH Ferguson
+    South Africa:
+    - PWA Mulder
+    - C Esterhuizen
+    - T de Zorzi
+    - RA Herman
+    - JF Smith
+    - D Forrester
+    - GF Linde
+    - G Coetzee
+    - KA Maharaj
+    - N Mokoena
+    - OEG Baartman
+  registry:
+    people:
+      BV Sears: e1891e00
+      C Esterhuizen: ef9acbcc
+      CE McConchie: d285acaf
+      CM Brown: 448f4f1c
+      D Forrester: '23393635'
+      DP Conway: df5a6881
+      Dave Gilbert: aa782370
+      G Coetzee: 3204c99f
+      GF Linde: e5437608
+      JA Clarkson: bed90114
+      JDS Neesham: 9219eff0
+      JF Smith: 91cd48e0
+      KA Jamieson: 68c56d09
+      KA Maharaj: 0b60eb09
+      Kim Cotton: 67a7c2ee
+      LH Ferguson: 2f9d0389
+      MJ Santner: e4a0deae
+      N Mokoena: 201facae
+      NF Kelly: 97f437ed
+      OEG Baartman: 6b9eb501
+      PWA Mulder: c96f6ac5
+      RA Herman: 9c821d2e
+      SB Haig: 811655b3
+      T de Zorzi: d3a1c63d
+      TB Robinson: 5d664346
+      TWM Latham: e824e6ee
+      WR Knights: 63cbf8d8
+  teams:
+  - New Zealand
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - CM Brown
+  - SB Haig
+  venue: Seddon Park, Hamilton
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 0.2:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.3:
+        non_striker: DP Conway
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 0.4:
+        non_striker: DP Conway
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TWM Latham
+    - 0.5:
+        non_striker: DP Conway
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 0.6:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.7:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.1:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 1.2:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.3:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.4:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 1.5:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.6:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Conway
+    - 2.1:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.2:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.3:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 2.4:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 2.5:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.6:
+        non_striker: TWM Latham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.1:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 3.2:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TWM Latham
+    - 3.3:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 3.4:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 3.5:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 3.6:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 4.1:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.2:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 4.3:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.4:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 4.5:
+        non_striker: TWM Latham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.6:
+        non_striker: DP Conway
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 5.1:
+        non_striker: TWM Latham
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.2:
+        non_striker: TWM Latham
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.3:
+        non_striker: TWM Latham
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 5.4:
+        non_striker: TWM Latham
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.5:
+        non_striker: TWM Latham
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.6:
+        non_striker: TWM Latham
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.1:
+        non_striker: TWM Latham
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 6.2:
+        non_striker: TWM Latham
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.3:
+        non_striker: DP Conway
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+        wicket:
+          player_out: TWM Latham
+          fielders:
+          - OEG Baartman
+          kind: caught
+    - 6.4:
+        non_striker: DP Conway
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Robinson
+    - 6.5:
+        non_striker: TB Robinson
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 6.6:
+        non_striker: TB Robinson
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 7.1:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+    - 7.2:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Robinson
+        wicket:
+          player_out: TB Robinson
+          kind: bowled
+    - 7.3:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 7.4:
+        non_striker: NF Kelly
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.5:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NF Kelly
+    - 7.6:
+        non_striker: NF Kelly
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.1:
+        non_striker: NF Kelly
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.2:
+        non_striker: DP Conway
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NF Kelly
+    - 8.3:
+        non_striker: DP Conway
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 8.4:
+        non_striker: NF Kelly
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.5:
+        non_striker: DP Conway
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 8.6:
+        non_striker: DP Conway
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 9.1:
+        non_striker: NF Kelly
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 9.2:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 9.3:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 9.4:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 9.5:
+        non_striker: NF Kelly
+        bowler: GF Linde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 9.6:
+        non_striker: NF Kelly
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 9.7:
+        non_striker: NF Kelly
+        bowler: GF Linde
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DP Conway
+    - 9.8:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 10.1:
+        non_striker: NF Kelly
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 10.2:
+        non_striker: NF Kelly
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 10.3:
+        non_striker: NF Kelly
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.4:
+        non_striker: DP Conway
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 10.5:
+        non_striker: DP Conway
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+        wicket:
+          player_out: NF Kelly
+          kind: bowled
+    - 10.6:
+        non_striker: DP Conway
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 11.1:
+        non_striker: MJ Santner
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 11.2:
+        non_striker: MJ Santner
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 11.3:
+        non_striker: MJ Santner
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.4:
+        non_striker: DP Conway
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 11.5:
+        non_striker: DP Conway
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 11.6:
+        non_striker: DP Conway
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.1:
+        non_striker: DP Conway
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 12.2:
+        non_striker: DP Conway
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 12.3:
+        non_striker: DP Conway
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MJ Santner
+    - 12.4:
+        non_striker: MJ Santner
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 12.5:
+        non_striker: DP Conway
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Santner
+    - 12.6:
+        non_striker: DP Conway
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.7:
+        non_striker: MJ Santner
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 13.1:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 13.2:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 13.3:
+        non_striker: MJ Santner
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 13.4:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Santner
+    - 13.5:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 13.6:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 13.7:
+        non_striker: DP Conway
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 14.1:
+        non_striker: MJ Santner
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.2:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          kind: bowled
+    - 14.3:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 14.4:
+        non_striker: JDS Neesham
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.5:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 14.6:
+        non_striker: DP Conway
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 15.1:
+        non_striker: DP Conway
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 15.2:
+        non_striker: DP Conway
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 15.3:
+        non_striker: JDS Neesham
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          fielders:
+          - C Esterhuizen
+          kind: caught
+    - 15.4:
+        non_striker: JDS Neesham
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 15.5:
+        non_striker: CE McConchie
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 15.6:
+        non_striker: CE McConchie
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 16.1:
+        non_striker: CE McConchie
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 16.2:
+        non_striker: JDS Neesham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 16.3:
+        non_striker: CE McConchie
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 16.4:
+        non_striker: JDS Neesham
+        bowler: N Mokoena
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE McConchie
+    - 16.5:
+        non_striker: JDS Neesham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 16.6:
+        non_striker: JDS Neesham
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 16.7:
+        non_striker: CE McConchie
+        bowler: N Mokoena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 17.1:
+        non_striker: JDS Neesham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 17.2:
+        non_striker: JDS Neesham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 17.3:
+        non_striker: JDS Neesham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 17.4:
+        non_striker: JDS Neesham
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 17.5:
+        non_striker: CE McConchie
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - C Esterhuizen
+          kind: caught
+    - 17.6:
+        non_striker: CE McConchie
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 18.1:
+        non_striker: CE McConchie
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 18.2:
+        non_striker: JA Clarkson
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 18.3:
+        non_striker: JA Clarkson
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 18.4:
+        non_striker: CE McConchie
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 18.5:
+        non_striker: CE McConchie
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Clarkson
+    - 18.6:
+        non_striker: CE McConchie
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Clarkson
+    - 19.1:
+        non_striker: JA Clarkson
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CE McConchie
+    - 19.2:
+        non_striker: JA Clarkson
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 19.3:
+        non_striker: CE McConchie
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 19.4:
+        non_striker: CE McConchie
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 19.5:
+        non_striker: CE McConchie
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 19.6:
+        non_striker: CE McConchie
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Clarkson
+    - 19.7:
+        non_striker: CE McConchie
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: C Esterhuizen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 0.2:
+        non_striker: C Esterhuizen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 0.3:
+        non_striker: C Esterhuizen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 0.4:
+        non_striker: PWA Mulder
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 0.5:
+        non_striker: PWA Mulder
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 0.6:
+        non_striker: PWA Mulder
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Esterhuizen
+    - 0.7:
+        non_striker: PWA Mulder
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 1.1:
+        non_striker: PWA Mulder
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 1.2:
+        non_striker: PWA Mulder
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Esterhuizen
+    - 1.3:
+        non_striker: C Esterhuizen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 1.4:
+        non_striker: C Esterhuizen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 1.5:
+        non_striker: C Esterhuizen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 1.6:
+        non_striker: C Esterhuizen
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PWA Mulder
+    - 2.1:
+        non_striker: C Esterhuizen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 2.2:
+        non_striker: C Esterhuizen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWA Mulder
+    - 2.3:
+        non_striker: C Esterhuizen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 2.4:
+        non_striker: C Esterhuizen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 2.5:
+        non_striker: C Esterhuizen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 2.6:
+        non_striker: C Esterhuizen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 3.1:
+        non_striker: PWA Mulder
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 3.2:
+        non_striker: PWA Mulder
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 3.3:
+        non_striker: PWA Mulder
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Esterhuizen
+    - 3.4:
+        non_striker: PWA Mulder
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 3.5:
+        non_striker: PWA Mulder
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Esterhuizen
+    - 3.6:
+        non_striker: C Esterhuizen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 4.1:
+        non_striker: PWA Mulder
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+    - 4.2:
+        non_striker: PWA Mulder
+        bowler: BV Sears
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: C Esterhuizen
+    - 4.3:
+        non_striker: C Esterhuizen
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWA Mulder
+    - 4.4:
+        non_striker: C Esterhuizen
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 4.5:
+        non_striker: PWA Mulder
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Esterhuizen
+        wicket:
+          player_out: C Esterhuizen
+          fielders:
+          - TB Robinson
+          kind: caught
+    - 4.6:
+        non_striker: PWA Mulder
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+    - 4.7:
+        non_striker: PWA Mulder
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+    - 5.1:
+        non_striker: T de Zorzi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 5.2:
+        non_striker: T de Zorzi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 5.3:
+        non_striker: T de Zorzi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 5.4:
+        non_striker: T de Zorzi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          fielders:
+          - DP Conway
+          kind: caught
+    - 5.5:
+        non_striker: T de Zorzi
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Herman
+    - 5.6:
+        non_striker: RA Herman
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 6.1:
+        non_striker: RA Herman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+        wicket:
+          player_out: T de Zorzi
+          fielders:
+          - JA Clarkson
+          kind: caught
+    - 6.2:
+        non_striker: RA Herman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 6.3:
+        non_striker: JF Smith
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Herman
+    - 6.4:
+        non_striker: RA Herman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 6.5:
+        non_striker: RA Herman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Smith
+    - 6.6:
+        non_striker: RA Herman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 7.1:
+        non_striker: RA Herman
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 7.2:
+        non_striker: JF Smith
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Herman
+    - 7.3:
+        non_striker: RA Herman
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 7.4:
+        non_striker: JF Smith
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Herman
+    - 7.5:
+        non_striker: JF Smith
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Herman
+    - 7.6:
+        non_striker: JF Smith
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Herman
+    - 8.1:
+        non_striker: RA Herman
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 8.2:
+        non_striker: JF Smith
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Herman
+    - 8.3:
+        non_striker: RA Herman
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 8.4:
+        non_striker: JF Smith
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Herman
+    - 8.5:
+        non_striker: JF Smith
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Herman
+    - 8.6:
+        non_striker: RA Herman
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 9.1:
+        non_striker: JF Smith
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Herman
+    - 9.2:
+        non_striker: JF Smith
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Herman
+    - 9.3:
+        non_striker: JF Smith
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Herman
+        wicket:
+          player_out: RA Herman
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 9.4:
+        non_striker: JF Smith
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Forrester
+    - 9.5:
+        non_striker: D Forrester
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 9.6:
+        non_striker: JF Smith
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Forrester
+    - 10.1:
+        non_striker: D Forrester
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 10.2:
+        non_striker: JF Smith
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Forrester
+    - 10.3:
+        non_striker: D Forrester
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 10.4:
+        non_striker: D Forrester
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+        wicket:
+          player_out: JF Smith
+          fielders:
+          - BV Sears
+          kind: caught
+    - 10.5:
+        non_striker: D Forrester
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 10.6:
+        non_striker: GF Linde
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Forrester
+    - 11.1:
+        non_striker: GF Linde
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Forrester
+    - 11.2:
+        non_striker: GF Linde
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Forrester
+    - 11.3:
+        non_striker: D Forrester
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 11.4:
+        non_striker: D Forrester
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 11.5:
+        non_striker: D Forrester
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 11.6:
+        non_striker: D Forrester
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 12.1:
+        non_striker: GF Linde
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Forrester
+    - 12.2:
+        non_striker: GF Linde
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Forrester
+    - 12.3:
+        non_striker: GF Linde
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Forrester
+    - 12.4:
+        non_striker: GF Linde
+        bowler: BV Sears
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Forrester
+    - 12.5:
+        non_striker: GF Linde
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Forrester
+        wicket:
+          player_out: D Forrester
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 12.6:
+        non_striker: GF Linde
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Coetzee
+    - 12.7:
+        non_striker: GF Linde
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+        wicket:
+          player_out: G Coetzee
+          fielders:
+          - CE McConchie
+          kind: caught
+    - 13.1:
+        non_striker: KA Maharaj
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 13.2:
+        non_striker: GF Linde
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+        wicket:
+          player_out: KA Maharaj
+          fielders:
+          - TB Robinson
+          kind: caught
+    - 13.3:
+        non_striker: GF Linde
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mokoena
+        wicket:
+          player_out: N Mokoena
+          fielders:
+          - JDS Neesham
+          kind: caught
+    - 13.4:
+        non_striker: GF Linde
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OEG Baartman
+    - 13.5:
+        non_striker: GF Linde
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OEG Baartman
+    - 13.6:
+        non_striker: GF Linde
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OEG Baartman
+    - 14.1:
+        non_striker: OEG Baartman
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 14.2:
+        non_striker: OEG Baartman
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 14.3:
+        non_striker: OEG Baartman
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.4:
+        non_striker: GF Linde
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OEG Baartman
+    - 14.5:
+        non_striker: GF Linde
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OEG Baartman
+    - 14.6:
+        non_striker: GF Linde
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OEG Baartman
+    - 15.1:
+        non_striker: OEG Baartman
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 15.2:
+        non_striker: OEG Baartman
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 15.3:
+        non_striker: OEG Baartman
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+        wicket:
+          player_out: GF Linde
+          fielders:
+          - CE McConchie
+          kind: caught

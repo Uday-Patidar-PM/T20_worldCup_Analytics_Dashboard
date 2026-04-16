@@ -1,0 +1,2141 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2026-01-29'
+  gender: male
+  match_type: T20
+  match_type_number: 3674
+  outcome:
+    winner: Ireland
+    by:
+      runs: 57
+  overs: 20
+  player_of_match:
+  - GJ Delany
+  players:
+    Ireland:
+    - PR Stirling
+    - GR Adair
+    - HT Tector
+    - L Tucker
+    - C Campher
+    - BF Calitz
+    - GJ Delany
+    - GH Dockrell
+    - MR Adair
+    - BJ McCarthy
+    - MJ Humphreys
+    United Arab Emirates:
+    - A Sharma
+    - Waseem Muhammad
+    - Shoaib Khan
+    - R Chopra
+    - A Sharafu
+    - H Kaushik
+    - Basil Hameed
+    - Muhammad Arfan
+    - Haider Ali
+    - Junaid Siddique
+    - Muhammad Jawadullah
+  registry:
+    people:
+      A Sharafu: 06cad4f0
+      A Sharma: 5661ef90
+      AJ Pycroft: 685d3f80
+      Aasif Iqbal: 42c41e1a
+      Akbar Ali: e753931d
+      BF Calitz: 24ad97e7
+      BJ McCarthy: 3766056b
+      Basil Hameed: adbf0400
+      C Campher: 478a63e7
+      GH Dockrell: 99cddc5e
+      GJ Delany: 33b3d2df
+      GR Adair: 4ec96094
+      H Kaushik: 2bfec670
+      HT Tector: 59ea70a4
+      Haider Ali: dd572696
+      Junaid Siddique: 84dc72db
+      L Tucker: 3979b5e0
+      MJ Humphreys: 2c54c49b
+      MR Adair: fc55ec67
+      Muhammad Arfan: 1294ee6d
+      Muhammad Jawadullah: '098a757c'
+      Nadeem Anjum: 7ccbae86
+      PR Stirling: cf494ffe
+      R Chopra: a71d0f89
+      Shiju Sam: 1e2f3eae
+      Shoaib Khan: fdee4a01
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - Ireland
+  - United Arab Emirates
+  toss:
+    winner: Ireland
+    decision: bat
+  umpires:
+  - Akbar Ali
+  - Shiju Sam
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GR Adair
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: GR Adair
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 0.3:
+        non_striker: GR Adair
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - H Kaushik
+          kind: caught
+    - 0.4:
+        non_striker: GR Adair
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 0.5:
+        non_striker: GR Adair
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 0.6:
+        non_striker: GR Adair
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 0.7:
+        non_striker: HT Tector
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.1:
+        non_striker: GR Adair
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 1.2:
+        non_striker: GR Adair
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 1.3:
+        non_striker: HT Tector
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 1.4:
+        non_striker: HT Tector
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 1.5:
+        non_striker: GR Adair
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 1.6:
+        non_striker: GR Adair
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 2.1:
+        non_striker: GR Adair
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HT Tector
+    - 2.2:
+        non_striker: HT Tector
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.3:
+        non_striker: HT Tector
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GR Adair
+    - 2.4:
+        non_striker: GR Adair
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 2.5:
+        non_striker: GR Adair
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 2.6:
+        non_striker: HT Tector
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 3.1:
+        non_striker: HT Tector
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.2:
+        non_striker: HT Tector
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.3:
+        non_striker: HT Tector
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.4:
+        non_striker: HT Tector
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.5:
+        non_striker: HT Tector
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 3.6:
+        non_striker: HT Tector
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 4.1:
+        non_striker: HT Tector
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 4.2:
+        non_striker: HT Tector
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 4.3:
+        non_striker: HT Tector
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - Muhammad Jawadullah
+          kind: run out
+    - 4.4:
+        non_striker: GR Adair
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 4.5:
+        non_striker: GR Adair
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.6:
+        non_striker: GR Adair
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 5.1:
+        non_striker: L Tucker
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 5.2:
+        non_striker: L Tucker
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 5.3:
+        non_striker: L Tucker
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 5.4:
+        non_striker: GR Adair
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 5.5:
+        non_striker: GR Adair
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 5.6:
+        non_striker: L Tucker
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 6.1:
+        non_striker: GR Adair
+        bowler: Muhammad Arfan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Tucker
+    - 6.2:
+        non_striker: GR Adair
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 6.3:
+        non_striker: GR Adair
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 6.4:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 6.5:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 6.6:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 6.7:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 7.1:
+        non_striker: L Tucker
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 7.2:
+        non_striker: L Tucker
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Adair
+    - 7.3:
+        non_striker: L Tucker
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 7.4:
+        non_striker: GR Adair
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 7.5:
+        non_striker: GR Adair
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.6:
+        non_striker: L Tucker
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 8.1:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 8.2:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          kind: bowled
+    - 8.3:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 8.4:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 8.5:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 8.6:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 9.1:
+        non_striker: C Campher
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 9.2:
+        non_striker: C Campher
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 9.3:
+        non_striker: C Campher
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.4:
+        non_striker: L Tucker
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 9.5:
+        non_striker: L Tucker
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 9.6:
+        non_striker: L Tucker
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 10.1:
+        non_striker: C Campher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 10.2:
+        non_striker: C Campher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 10.3:
+        non_striker: C Campher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.4:
+        non_striker: L Tucker
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 10.5:
+        non_striker: L Tucker
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 10.6:
+        non_striker: L Tucker
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 11.1:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 11.2:
+        non_striker: C Campher
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.3:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 11.4:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Campher
+    - 11.5:
+        non_striker: C Campher
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.6:
+        non_striker: L Tucker
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 12.1:
+        non_striker: L Tucker
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 12.2:
+        non_striker: L Tucker
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Campher
+    - 12.3:
+        non_striker: C Campher
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.4:
+        non_striker: L Tucker
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 12.5:
+        non_striker: L Tucker
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 12.6:
+        non_striker: L Tucker
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 13.1:
+        non_striker: C Campher
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 13.2:
+        non_striker: L Tucker
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 13.3:
+        non_striker: L Tucker
+        bowler: Basil Hameed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Campher
+    - 13.4:
+        non_striker: C Campher
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 13.5:
+        non_striker: C Campher
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 13.6:
+        non_striker: C Campher
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 14.1:
+        non_striker: C Campher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Tucker
+    - 14.2:
+        non_striker: C Campher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 14.3:
+        non_striker: C Campher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - Basil Hameed
+          kind: caught
+    - 14.4:
+        non_striker: C Campher
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 14.5:
+        non_striker: BF Calitz
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 14.6:
+        non_striker: BF Calitz
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          kind: bowled
+    - 15.1:
+        non_striker: GJ Delany
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Calitz
+    - 15.2:
+        non_striker: GJ Delany
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Calitz
+    - 15.3:
+        non_striker: GJ Delany
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BF Calitz
+    - 15.4:
+        non_striker: GJ Delany
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 15.5:
+        non_striker: BF Calitz
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 15.6:
+        non_striker: BF Calitz
+        bowler: Basil Hameed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 16.1:
+        non_striker: BF Calitz
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 16.2:
+        non_striker: BF Calitz
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 16.3:
+        non_striker: GJ Delany
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 16.4:
+        non_striker: BF Calitz
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 16.5:
+        non_striker: BF Calitz
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 16.6:
+        non_striker: BF Calitz
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 17.1:
+        non_striker: BF Calitz
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Delany
+    - 17.2:
+        non_striker: GJ Delany
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 17.3:
+        non_striker: BF Calitz
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          kind: bowled
+    - 17.4:
+        non_striker: BF Calitz
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 17.5:
+        non_striker: GH Dockrell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Calitz
+    - 17.6:
+        non_striker: GH Dockrell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Calitz
+    - 18.1:
+        non_striker: BF Calitz
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 18.2:
+        non_striker: BF Calitz
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 18.3:
+        non_striker: BF Calitz
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 18.4:
+        non_striker: BF Calitz
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 18.5:
+        non_striker: BF Calitz
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 18.6:
+        non_striker: BF Calitz
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 19.1:
+        non_striker: GH Dockrell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Calitz
+    - 19.2:
+        non_striker: GH Dockrell
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BF Calitz
+    - 19.3:
+        non_striker: BF Calitz
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Dockrell
+    - 19.4:
+        non_striker: BF Calitz
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 19.5:
+        non_striker: BF Calitz
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 19.6:
+        non_striker: GH Dockrell
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Calitz
+- 2nd innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharma
+    - 0.2:
+        non_striker: A Sharma
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.3:
+        non_striker: A Sharma
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 0.4:
+        non_striker: A Sharma
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.5:
+        non_striker: A Sharma
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 0.6:
+        non_striker: Waseem Muhammad
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharma
+    - 1.1:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 1.2:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharma
+    - 1.3:
+        non_striker: A Sharma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.4:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 1.5:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 1.6:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 2.1:
+        non_striker: A Sharma
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 2.2:
+        non_striker: A Sharma
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.3:
+        non_striker: A Sharma
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 2.4:
+        non_striker: A Sharma
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.5:
+        non_striker: A Sharma
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 3.1:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.2:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.3:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.4:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 3.5:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.6:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 4.1:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharma
+    - 4.2:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharma
+    - 4.3:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 4.4:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharma
+    - 4.5:
+        non_striker: A Sharma
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.6:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sharma
+    - 5.1:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 5.2:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 5.3:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 5.4:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 5.5:
+        non_striker: Waseem Muhammad
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharma
+    - 5.6:
+        non_striker: A Sharma
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 6.1:
+        non_striker: A Sharma
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.2:
+        non_striker: A Sharma
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 6.3:
+        non_striker: A Sharma
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 6.4:
+        non_striker: Waseem Muhammad
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharma
+    - 6.5:
+        non_striker: Waseem Muhammad
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 6.6:
+        non_striker: Waseem Muhammad
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+        wicket:
+          player_out: A Sharma
+          fielders:
+          - HT Tector
+          kind: caught
+    - 7.1:
+        non_striker: Shoaib Khan
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 7.2:
+        non_striker: Shoaib Khan
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 7.3:
+        non_striker: Shoaib Khan
+        bowler: GH Dockrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Waseem Muhammad
+    - 7.4:
+        non_striker: Waseem Muhammad
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 7.5:
+        non_striker: Waseem Muhammad
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 7.6:
+        non_striker: Shoaib Khan
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 8.1:
+        non_striker: Waseem Muhammad
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 8.2:
+        non_striker: Waseem Muhammad
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 8.3:
+        non_striker: Shoaib Khan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 8.4:
+        non_striker: Waseem Muhammad
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 8.5:
+        non_striker: Shoaib Khan
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 8.6:
+        non_striker: Waseem Muhammad
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 9.1:
+        non_striker: Shoaib Khan
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 9.2:
+        non_striker: Shoaib Khan
+        bowler: GH Dockrell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Waseem Muhammad
+    - 9.3:
+        non_striker: Waseem Muhammad
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+        wicket:
+          player_out: Shoaib Khan
+          fielders:
+          - BF Calitz
+          kind: caught
+    - 9.4:
+        non_striker: Waseem Muhammad
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 9.5:
+        non_striker: R Chopra
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 9.6:
+        non_striker: Waseem Muhammad
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 10.1:
+        non_striker: R Chopra
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Waseem Muhammad
+    - 10.2:
+        non_striker: R Chopra
+        bowler: MJ Humphreys
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Waseem Muhammad
+    - 10.3:
+        non_striker: Waseem Muhammad
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 10.4:
+        non_striker: R Chopra
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - BJ McCarthy
+          kind: caught
+    - 10.5:
+        non_striker: R Chopra
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 10.6:
+        non_striker: R Chopra
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 11.1:
+        non_striker: R Chopra
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 11.2:
+        non_striker: R Chopra
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 11.3:
+        non_striker: R Chopra
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 11.4:
+        non_striker: A Sharafu
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 11.5:
+        non_striker: R Chopra
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 11.6:
+        non_striker: R Chopra
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Sharafu
+    - 12.1:
+        non_striker: R Chopra
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 12.2:
+        non_striker: R Chopra
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 12.3:
+        non_striker: A Sharafu
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 12.4:
+        non_striker: A Sharafu
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 12.5:
+        non_striker: A Sharafu
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 12.6:
+        non_striker: R Chopra
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 13.1:
+        non_striker: A Sharafu
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 13.2:
+        non_striker: R Chopra
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.3:
+        non_striker: A Sharafu
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 13.4:
+        non_striker: A Sharafu
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 13.5:
+        non_striker: A Sharafu
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 13.6:
+        non_striker: R Chopra
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 14.1:
+        non_striker: R Chopra
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 14.2:
+        non_striker: R Chopra
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 14.3:
+        non_striker: R Chopra
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+        wicket:
+          player_out: A Sharafu
+          fielders:
+          - GR Adair
+          kind: caught
+    - 14.4:
+        non_striker: R Chopra
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 14.5:
+        non_striker: H Kaushik
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 14.6:
+        non_striker: H Kaushik
+        bowler: GJ Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Chopra
+        wicket:
+          player_out: R Chopra
+          fielders:
+          - L Tucker
+          kind: stumped
+    - 14.7:
+        non_striker: H Kaushik
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Hameed
+    - 15.1:
+        non_striker: H Kaushik
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Basil Hameed
+    - 15.2:
+        non_striker: Basil Hameed
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+        wicket:
+          player_out: H Kaushik
+          kind: lbw
+    - 15.3:
+        non_striker: Basil Hameed
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 15.4:
+        non_striker: Muhammad Arfan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Basil Hameed
+        wicket:
+          player_out: Basil Hameed
+          fielders:
+          - L Tucker
+          kind: caught
+    - 15.5:
+        non_striker: Muhammad Arfan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 15.6:
+        non_striker: Muhammad Arfan
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 16.1:
+        non_striker: Haider Ali
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 16.2:
+        non_striker: Muhammad Arfan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 16.3:
+        non_striker: Haider Ali
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 16.4:
+        non_striker: Muhammad Arfan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+        wicket:
+          player_out: Haider Ali
+          fielders:
+          - L Tucker
+          kind: caught
+    - 16.5:
+        non_striker: Muhammad Arfan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddique
+    - 16.6:
+        non_striker: Junaid Siddique
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 17.1:
+        non_striker: Junaid Siddique
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+    - 17.2:
+        non_striker: Junaid Siddique
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+    - 17.3:
+        non_striker: Junaid Siddique
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 17.4:
+        non_striker: Muhammad Arfan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 17.5:
+        non_striker: Muhammad Arfan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 17.6:
+        non_striker: Muhammad Arfan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+        wicket:
+          player_out: Junaid Siddique
+          fielders:
+          - C Campher
+          kind: caught
+    - 18.1:
+        non_striker: Muhammad Jawadullah
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 18.2:
+        non_striker: Muhammad Arfan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Jawadullah
+    - 18.3:
+        non_striker: Muhammad Jawadullah
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 18.4:
+        non_striker: Muhammad Arfan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Jawadullah
+    - 18.5:
+        non_striker: Muhammad Jawadullah
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 18.6:
+        non_striker: Muhammad Arfan
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Jawadullah
+    - 19.1:
+        non_striker: Muhammad Jawadullah
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Arfan
+    - 19.2:
+        non_striker: Muhammad Jawadullah
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 19.3:
+        non_striker: Muhammad Arfan
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Jawadullah
+    - 19.4:
+        non_striker: Muhammad Arfan
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Jawadullah
+    - 19.5:
+        non_striker: Muhammad Arfan
+        bowler: BJ McCarthy
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Muhammad Jawadullah
+    - 19.6:
+        non_striker: Muhammad Jawadullah
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Arfan
+    - 19.7:
+        non_striker: Muhammad Jawadullah
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+        wicket:
+          player_out: Muhammad Arfan
+          kind: bowled

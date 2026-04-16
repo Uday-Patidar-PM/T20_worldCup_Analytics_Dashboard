@@ -1,0 +1,1987 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kandy
+  dates:
+  - '2026-02-22'
+  gender: male
+  match_type: T20
+  match_type_number: 3729
+  outcome:
+    winner: England
+    by:
+      runs: 51
+  overs: 20
+  player_of_match:
+  - WG Jacks
+  players:
+    England:
+    - PD Salt
+    - JC Buttler
+    - JG Bethell
+    - T Banton
+    - HC Brook
+    - SM Curran
+    - WG Jacks
+    - LA Dawson
+    - J Overton
+    - JC Archer
+    - AU Rashid
+    Sri Lanka:
+    - P Nissanka
+    - K Mishara
+    - BKG Mendis
+    - P Rathnayake
+    - DN Wellalage
+    - PHKD Mendis
+    - MD Shanaka
+    - MADI Hemantha
+    - PVD Chameera
+    - M Theekshana
+    - D Madushanka
+  registry:
+    people:
+      AJ Pycroft: 685d3f80
+      AT Holdstock: 6fa3258c
+      AU Rashid: 249d60c9
+      Ahsan Raza: e0e5b209
+      Asif Yaqoob: 6b35790c
+      BKG Mendis: 5d1e7582
+      D Madushanka: de7d833e
+      DN Wellalage: 736123bb
+      HC Brook: 4ae1755b
+      J Overton: 59559bc2
+      JC Archer: 5574750c
+      JC Buttler: 99b75528
+      JG Bethell: 3c55c703
+      K Mishara: 65cebd5d
+      LA Dawson: 4a461c24
+      M Theekshana: f24c6701
+      MADI Hemantha: 58431ca0
+      MD Shanaka: 3ff033bb
+      Nitin Menon: e1d41d9e
+      P Nissanka: 8ee36b18
+      P Rathnayake: c1fdfb46
+      PD Salt: 3d284ca3
+      PHKD Mendis: '08548b13'
+      PVD Chameera: 327b58d3
+      SM Curran: e94915e6
+      T Banton: 25f7b7d6
+      WG Jacks: 9caf69a1
+  teams:
+  - England
+  - Sri Lanka
+  toss:
+    winner: Sri Lanka
+    decision: field
+  umpires:
+  - AT Holdstock
+  - Ahsan Raza
+  venue: Pallekele International Cricket Stadium
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.2:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.3:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 0.4:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.5:
+        non_striker: JC Buttler
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.6:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.1:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 1.2:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.3:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.5:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 2.1:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.3:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.4:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.5:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.6:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.1:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          kind: lbw
+    - 3.2:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.3:
+        non_striker: JG Bethell
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 3.4:
+        non_striker: JG Bethell
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 3.5:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.6:
+        non_striker: JG Bethell
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 4.1:
+        non_striker: PD Salt
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 4.2:
+        non_striker: JG Bethell
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 4.3:
+        non_striker: JG Bethell
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 4.4:
+        non_striker: JG Bethell
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 4.5:
+        non_striker: JG Bethell
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 4.6:
+        non_striker: JG Bethell
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 5.1:
+        non_striker: PD Salt
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          fielders:
+          - D Madushanka
+          kind: caught
+    - 5.2:
+        non_striker: PD Salt
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.3:
+        non_striker: T Banton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 5.4:
+        non_striker: T Banton
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PD Salt
+    - 5.5:
+        non_striker: T Banton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 5.6:
+        non_striker: PD Salt
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 5.7:
+        non_striker: T Banton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 6.1:
+        non_striker: T Banton
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 6.2:
+        non_striker: T Banton
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 6.3:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.4:
+        non_striker: T Banton
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 6.5:
+        non_striker: T Banton
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 6.6:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.1:
+        non_striker: PD Salt
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.2:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 7.3:
+        non_striker: PD Salt
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.4:
+        non_striker: T Banton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 7.5:
+        non_striker: PD Salt
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          fielders:
+          - MD Shanaka
+          kind: run out
+    - 7.6:
+        non_striker: HC Brook
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 8.1:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.2:
+        non_striker: HC Brook
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 8.3:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 8.4:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 6
+          batsman: 6
+        batsman: HC Brook
+    - 8.5:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.6:
+        non_striker: HC Brook
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 9.1:
+        non_striker: HC Brook
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 9.2:
+        non_striker: HC Brook
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 9.3:
+        non_striker: HC Brook
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 9.4:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 9.5:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 9.6:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          kind: lbw
+    - 10.1:
+        non_striker: SM Curran
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 10.2:
+        non_striker: SM Curran
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 10.3:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 10.4:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.5:
+        non_striker: SM Curran
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 10.6:
+        non_striker: SM Curran
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 11.1:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 11.2:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 11.3:
+        non_striker: PD Salt
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 11.4:
+        non_striker: PD Salt
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 11.5:
+        non_striker: SM Curran
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 11.6:
+        non_striker: PD Salt
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 12.1:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 12.2:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 12.3:
+        non_striker: SM Curran
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 12.4:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 12.5:
+        non_striker: PD Salt
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 12.6:
+        non_striker: SM Curran
+        bowler: MADI Hemantha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 13.1:
+        non_striker: PD Salt
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 13.2:
+        non_striker: PD Salt
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          fielders:
+          - K Mishara
+          kind: caught
+    - 13.3:
+        non_striker: PD Salt
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 13.4:
+        non_striker: PD Salt
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 13.5:
+        non_striker: WG Jacks
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 13.6:
+        non_striker: WG Jacks
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 14.1:
+        non_striker: PD Salt
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 14.2:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - MADI Hemantha
+          kind: caught
+    - 14.3:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 14.4:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 14.5:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 14.6:
+        non_striker: WG Jacks
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 15.1:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 15.2:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 15.3:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 15.4:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 15.5:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 15.6:
+        non_striker: LA Dawson
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 16.1:
+        non_striker: WG Jacks
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 16.2:
+        non_striker: WG Jacks
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 16.3:
+        non_striker: LA Dawson
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 16.4:
+        non_striker: LA Dawson
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WG Jacks
+    - 16.5:
+        non_striker: LA Dawson
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 16.6:
+        non_striker: WG Jacks
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LA Dawson
+    - 16.7:
+        non_striker: WG Jacks
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 17.1:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+        wicket:
+          player_out: LA Dawson
+          fielders:
+          - MD Shanaka
+          kind: caught
+    - 17.2:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 17.3:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Overton
+    - 17.4:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 17.5:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 17.6:
+        non_striker: WG Jacks
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 17.7:
+        non_striker: J Overton
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 18.1:
+        non_striker: WG Jacks
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 18.2:
+        non_striker: J Overton
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 18.3:
+        non_striker: J Overton
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 18.4:
+        non_striker: J Overton
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WG Jacks
+    - 18.5:
+        non_striker: J Overton
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          fielders:
+          - DN Wellalage
+          kind: caught
+    - 18.6:
+        non_striker: J Overton
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - MADI Hemantha
+          kind: caught
+    - 19.1:
+        non_striker: AU Rashid
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 19.2:
+        non_striker: AU Rashid
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Overton
+    - 19.3:
+        non_striker: AU Rashid
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Overton
+    - 19.4:
+        non_striker: AU Rashid
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Overton
+    - 19.5:
+        non_striker: J Overton
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AU Rashid
+    - 19.6:
+        non_striker: AU Rashid
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Overton
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.4:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: P Nissanka
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 0.6:
+        non_striker: P Nissanka
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Mishara
+    - 0.7:
+        non_striker: P Nissanka
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 1.1:
+        non_striker: P Nissanka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 1.2:
+        non_striker: P Nissanka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 1.5:
+        non_striker: P Nissanka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 1.6:
+        non_striker: P Nissanka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 2.1:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.2:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 2.3:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 2.4:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - J Overton
+          kind: caught
+    - 2.5:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.6:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 3.2:
+        non_striker: K Mishara
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.3:
+        non_striker: K Mishara
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          kind: caught and bowled
+    - 3.4:
+        non_striker: K Mishara
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+        wicket:
+          player_out: P Rathnayake
+          fielders:
+          - T Banton
+          kind: caught
+    - 3.5:
+        non_striker: K Mishara
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 3.6:
+        non_striker: K Mishara
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 4.1:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 4.2:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 4.3:
+        non_striker: K Mishara
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 4.4:
+        non_striker: DN Wellalage
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 4.5:
+        non_striker: DN Wellalage
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+        wicket:
+          player_out: K Mishara
+          fielders:
+          - J Overton
+          kind: caught
+    - 4.6:
+        non_striker: DN Wellalage
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PHKD Mendis
+    - 5.1:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 5.2:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wellalage
+    - 5.3:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 5.4:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 5.5:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+        wicket:
+          player_out: DN Wellalage
+          fielders:
+          - HC Brook
+          kind: caught
+    - 5.6:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 6.1:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 6.2:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 6.3:
+        non_striker: PHKD Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 6.4:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 6.5:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 6.6:
+        non_striker: PHKD Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 7.1:
+        non_striker: MD Shanaka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 7.2:
+        non_striker: MD Shanaka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 7.3:
+        non_striker: MD Shanaka
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 7.4:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 7.5:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 7.6:
+        non_striker: PHKD Mendis
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 8.1:
+        non_striker: PHKD Mendis
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 8.2:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 8.3:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PHKD Mendis
+    - 8.4:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+        wicket:
+          player_out: PHKD Mendis
+          kind: caught and bowled
+    - 8.5:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MADI Hemantha
+    - 8.6:
+        non_striker: MADI Hemantha
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 9.1:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MADI Hemantha
+    - 9.2:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MADI Hemantha
+    - 9.3:
+        non_striker: MADI Hemantha
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 9.4:
+        non_striker: MADI Hemantha
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 9.5:
+        non_striker: MADI Hemantha
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 9.6:
+        non_striker: MADI Hemantha
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 10.1:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MADI Hemantha
+    - 10.2:
+        non_striker: MADI Hemantha
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 10.3:
+        non_striker: MD Shanaka
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MADI Hemantha
+    - 10.4:
+        non_striker: MADI Hemantha
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 10.5:
+        non_striker: MADI Hemantha
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 10.6:
+        non_striker: MADI Hemantha
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 11.1:
+        non_striker: MADI Hemantha
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 11.2:
+        non_striker: MADI Hemantha
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 11.3:
+        non_striker: MD Shanaka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MADI Hemantha
+    - 11.4:
+        non_striker: MD Shanaka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MADI Hemantha
+    - 11.5:
+        non_striker: MADI Hemantha
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 11.6:
+        non_striker: MD Shanaka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MADI Hemantha
+        wicket:
+          player_out: MADI Hemantha
+          kind: hit wicket
+    - 12.1:
+        non_striker: PVD Chameera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 12.2:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 12.3:
+        non_striker: PVD Chameera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 12.4:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PVD Chameera
+    - 12.5:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 12.6:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 12.7:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 13.1:
+        non_striker: PVD Chameera
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.2:
+        non_striker: MD Shanaka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 13.3:
+        non_striker: MD Shanaka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 13.4:
+        non_striker: MD Shanaka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 13.5:
+        non_striker: MD Shanaka
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 13.6:
+        non_striker: PVD Chameera
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 14.1:
+        non_striker: MD Shanaka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 14.2:
+        non_striker: PVD Chameera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - T Banton
+          kind: caught
+    - 14.3:
+        non_striker: PVD Chameera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 14.4:
+        non_striker: PVD Chameera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Theekshana
+    - 14.5:
+        non_striker: PVD Chameera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 14.6:
+        non_striker: PVD Chameera
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Theekshana
+    - 15.1:
+        non_striker: M Theekshana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 15.2:
+        non_striker: M Theekshana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 15.3:
+        non_striker: PVD Chameera
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Theekshana
+    - 15.4:
+        non_striker: PVD Chameera
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 15.5:
+        non_striker: M Theekshana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PVD Chameera
+    - 15.6:
+        non_striker: M Theekshana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+        wicket:
+          player_out: PVD Chameera
+          kind: bowled
+    - 16.1:
+        non_striker: D Madushanka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 16.2:
+        non_striker: D Madushanka
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 16.3:
+        non_striker: M Theekshana
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+    - 16.4:
+        non_striker: M Theekshana
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Madushanka
+        wicket:
+          player_out: D Madushanka
+          kind: bowled

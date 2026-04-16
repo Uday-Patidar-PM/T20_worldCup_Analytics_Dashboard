@@ -1,0 +1,2064 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Centurion
+  dates:
+  - '2026-01-29'
+  gender: male
+  match_type: T20
+  match_type_number: 3675
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Q de Kock
+  players:
+    West Indies:
+    - BA King
+    - SD Hope
+    - SO Hetmyer
+    - R Powell
+    - SE Rutherford
+    - R Shepherd
+    - RL Chase
+    - MW Forde
+    - JO Holder
+    - JNT Seales
+    - AJ Hosein
+    South Africa:
+    - AK Markram
+    - Q de Kock
+    - RD Rickelton
+    - D Brevis
+    - JF Smith
+    - T Stubbs
+    - M Jansen
+    - KA Maharaj
+    - K Rabada
+    - A Nortje
+    - KT Maphaka
+  registry:
+    people:
+      A Jacobs: 70d117de
+      A Nortje: acdc62f5
+      AJ Hosein: 4d7f517e
+      AK Markram: 6a26221c
+      BA King: 7fca84b7
+      BP Jele: 7bb1331e
+      D Brevis: 844e79d1
+      JF Smith: 91cd48e0
+      JNT Seales: ded9ff1e
+      JO Holder: 0f721006
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      KT Maphaka: 107c26fb
+      Lauren Agenbag: 40849abd
+      M Jansen: 81c36ee9
+      MW Forde: 83d17bbc
+      Q de Kock: 372455c4
+      R Powell: 650d5e49
+      R Shepherd: c5aef772
+      RD Rickelton: e66732f8
+      RL Chase: 3feda4fa
+      S Wadvalla: c1a1acf3
+      SD Hope: 1fc6ef83
+      SE Rutherford: d014d5ac
+      SO Hetmyer: 48a1d7b7
+      Stephen Harris: fdcfd4aa
+      T Stubbs: 85b3fab2
+  teams:
+  - West Indies
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - A Jacobs
+  - Stephen Harris
+  venue: SuperSport Park, Centurion
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: SD Hope
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 0.2:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 0.3:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.4:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.5:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.6:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.1:
+        non_striker: SD Hope
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.2:
+        non_striker: SD Hope
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 1.3:
+        non_striker: BA King
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SD Hope
+    - 1.4:
+        non_striker: BA King
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.5:
+        non_striker: BA King
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 1.6:
+        non_striker: BA King
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 1.7:
+        non_striker: BA King
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 2.1:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 2.2:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 2.3:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 2.4:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 2.5:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 2.6:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 3.1:
+        non_striker: SO Hetmyer
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.2:
+        non_striker: SO Hetmyer
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 3.3:
+        non_striker: BA King
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 3.4:
+        non_striker: BA King
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 3.5:
+        non_striker: BA King
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 3.6:
+        non_striker: BA King
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 4.1:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 4.2:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 4.3:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 4.4:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 4.5:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 4.6:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 5.1:
+        non_striker: BA King
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 5.2:
+        non_striker: BA King
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 5.3:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA King
+    - 5.4:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 5.5:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: BA King
+    - 5.6:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 6.1:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 6.2:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 6.3:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 6.4:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 6.5:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 6.6:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 7.1:
+        non_striker: BA King
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 7.2:
+        non_striker: BA King
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 7.3:
+        non_striker: BA King
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 7.4:
+        non_striker: BA King
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 7.5:
+        non_striker: BA King
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 7.6:
+        non_striker: BA King
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.1:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.2:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 8.3:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.4:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 8.5:
+        non_striker: BA King
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 8.6:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 9.1:
+        non_striker: BA King
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 9.2:
+        non_striker: BA King
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 9.3:
+        non_striker: SO Hetmyer
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA King
+    - 9.4:
+        non_striker: BA King
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 9.5:
+        non_striker: BA King
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 9.6:
+        non_striker: BA King
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 10.1:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 10.2:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 10.3:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 10.4:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 10.5:
+        non_striker: BA King
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.6:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 10.7:
+        non_striker: BA King
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 10.8:
+        non_striker: BA King
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 11.1:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 11.2:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 11.3:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 11.4:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.5:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 11.6:
+        non_striker: BA King
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.7:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 11.8:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 11.9:
+        non_striker: SO Hetmyer
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 12.1:
+        non_striker: R Powell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 12.2:
+        non_striker: R Powell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.4:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 12.5:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.6:
+        non_striker: R Powell
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.1:
+        non_striker: R Powell
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.2:
+        non_striker: SO Hetmyer
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 13.3:
+        non_striker: SO Hetmyer
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 13.4:
+        non_striker: SO Hetmyer
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 13.5:
+        non_striker: R Powell
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.6:
+        non_striker: SO Hetmyer
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Powell
+    - 14.1:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          kind: bowled
+    - 14.2:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.3:
+        non_striker: SE Rutherford
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.4:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.5:
+        non_striker: SE Rutherford
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - D Brevis
+          kind: caught
+    - 14.6:
+        non_striker: SE Rutherford
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 15.1:
+        non_striker: R Shepherd
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.2:
+        non_striker: SE Rutherford
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 15.3:
+        non_striker: R Shepherd
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.4:
+        non_striker: R Shepherd
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 15.5:
+        non_striker: R Shepherd
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 15.6:
+        non_striker: R Shepherd
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.1:
+        non_striker: SE Rutherford
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Shepherd
+    - 16.2:
+        non_striker: R Shepherd
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: SE Rutherford
+    - 16.3:
+        non_striker: SE Rutherford
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Shepherd
+    - 16.4:
+        non_striker: SE Rutherford
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 16.5:
+        non_striker: R Shepherd
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.6:
+        non_striker: R Shepherd
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 16.7:
+        non_striker: R Shepherd
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 16.8:
+        non_striker: R Shepherd
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 17.1:
+        non_striker: R Shepherd
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 17.2:
+        non_striker: R Shepherd
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 17.3:
+        non_striker: SE Rutherford
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 17.4:
+        non_striker: R Shepherd
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 17.5:
+        non_striker: R Shepherd
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 17.6:
+        non_striker: R Shepherd
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 18.1:
+        non_striker: SE Rutherford
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 18.2:
+        non_striker: R Shepherd
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 18.3:
+        non_striker: R Shepherd
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 18.4:
+        non_striker: R Shepherd
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 18.5:
+        non_striker: R Shepherd
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 18.6:
+        non_striker: R Shepherd
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 18.7:
+        non_striker: SE Rutherford
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Shepherd
+    - 19.1:
+        non_striker: R Shepherd
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 19.2:
+        non_striker: R Shepherd
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 19.3:
+        non_striker: R Shepherd
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 19.4:
+        non_striker: SE Rutherford
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Shepherd
+    - 19.5:
+        non_striker: SE Rutherford
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 19.6:
+        non_striker: R Shepherd
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AK Markram
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 0.3:
+        non_striker: AK Markram
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 0.7:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 1.2:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: AK Markram
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 1.5:
+        non_striker: Q de Kock
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.3:
+        non_striker: AK Markram
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - SO Hetmyer
+          kind: caught
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.6:
+        non_striker: RD Rickelton
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.1:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 3.5:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.1:
+        non_striker: RD Rickelton
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: RD Rickelton
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: RD Rickelton
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 4.4:
+        non_striker: RD Rickelton
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.5:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 4.6:
+        non_striker: Q de Kock
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 5.1:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 5.2:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 5.3:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 5.4:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 5.5:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 5.6:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.1:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 6.2:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.3:
+        non_striker: Q de Kock
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 6.4:
+        non_striker: Q de Kock
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 6.5:
+        non_striker: Q de Kock
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 6.6:
+        non_striker: Q de Kock
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.1:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.2:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 7.3:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.4:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 7.5:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.6:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: Q de Kock
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 8.2:
+        non_striker: Q de Kock
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 8.3:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.4:
+        non_striker: Q de Kock
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 8.5:
+        non_striker: Q de Kock
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 8.6:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 9.1:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 9.2:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 9.3:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 9.4:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.5:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 9.6:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.1:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 10.2:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 10.3:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 10.4:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 10.5:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 10.6:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 11.1:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 11.2:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 11.3:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Q de Kock
+    - 11.4:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 11.5:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 11.6:
+        non_striker: RD Rickelton
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 11.7:
+        non_striker: Q de Kock
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 11.8:
+        non_striker: Q de Kock
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 12.1:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.2:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 12.3:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 12.4:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 12.5:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 12.6:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 13.1:
+        non_striker: Q de Kock
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 13.2:
+        non_striker: Q de Kock
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 13.3:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 13.4:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 13.5:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 13.6:
+        non_striker: RD Rickelton
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 13.7:
+        non_striker: Q de Kock
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 14.1:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 14.2:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 14.3:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - BA King
+          kind: caught
+    - 14.4:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 14.5:
+        non_striker: D Brevis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 14.6:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 15.1:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 15.2:
+        non_striker: RD Rickelton
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 15.3:
+        non_striker: D Brevis
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 15.4:
+        non_striker: D Brevis
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 15.5:
+        non_striker: D Brevis
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 15.6:
+        non_striker: D Brevis
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 16.1:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 16.2:
+        non_striker: D Brevis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 16.3:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - JO Holder
+          kind: caught
+    - 16.4:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Smith
+    - 16.5:
+        non_striker: RD Rickelton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 16.6:
+        non_striker: JF Smith
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 17.1:
+        non_striker: RD Rickelton
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 17.2:
+        non_striker: JF Smith
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 17.3:
+        non_striker: JF Smith
+        bowler: MW Forde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton

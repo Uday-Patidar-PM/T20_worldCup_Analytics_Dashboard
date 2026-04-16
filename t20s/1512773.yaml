@@ -1,0 +1,2183 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ahmedabad
+  dates:
+  - '2026-03-08'
+  gender: male
+  match_type: T20
+  match_type_number: 3755
+  outcome:
+    winner: India
+    by:
+      runs: 96
+  overs: 20
+  player_of_match:
+  - JJ Bumrah
+  players:
+    India:
+    - SV Samson
+    - Abhishek Sharma
+    - Ishan Kishan
+    - HH Pandya
+    - SA Yadav
+    - Tilak Varma
+    - S Dube
+    - AR Patel
+    - Arshdeep Singh
+    - CV Varun
+    - JJ Bumrah
+    New Zealand:
+    - TL Seifert
+    - FH Allen
+    - R Ravindra
+    - GD Phillips
+    - MS Chapman
+    - DJ Mitchell
+    - MJ Santner
+    - JDS Neesham
+    - MJ Henry
+    - LH Ferguson
+    - JA Duffy
+  registry:
+    people:
+      A Paleker: 634b11ac
+      AG Wharf: 2e0fcc58
+      AJ Pycroft: 685d3f80
+      AR Patel: 2e171977
+      AT Holdstock: 6fa3258c
+      Abhishek Sharma: f29185a1
+      Arshdeep Singh: 244048f6
+      CE McConchie: d285acaf
+      CV Varun: 5b7ab5a9
+      DJ Mitchell: eade4650
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      HH Pandya: dbe50b21
+      Ishan Kishan: 752f7486
+      JA Duffy: dadbdb68
+      JDS Neesham: 9219eff0
+      JJ Bumrah: 462411b3
+      LH Ferguson: 2f9d0389
+      MJ Henry: e84ac20c
+      MJ Santner: e4a0deae
+      MS Chapman: 7fa12533
+      R Ravindra: ba5e1069
+      RK Illingworth: '20672246'
+      S Dube: a4e37e47
+      SA Yadav: 271f83cd
+      SV Samson: a4cc73aa
+      TL Seifert: 4663bd23
+      Tilak Varma: b0482a1d
+  teams:
+  - India
+  - New Zealand
+  toss:
+    winner: New Zealand
+    decision: field
+  umpires:
+  - AG Wharf
+  - RK Illingworth
+  venue: Narendra Modi Stadium, Ahmedabad
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.2:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.3:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.4:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.5:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 0.6:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 1.1:
+        non_striker: Abhishek Sharma
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 1.2:
+        non_striker: SV Samson
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.3:
+        non_striker: SV Samson
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.4:
+        non_striker: SV Samson
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 1.5:
+        non_striker: Abhishek Sharma
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 1.6:
+        non_striker: SV Samson
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhishek Sharma
+    - 2.1:
+        non_striker: Abhishek Sharma
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 2.2:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 2.3:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 2.4:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 2.5:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 2.6:
+        non_striker: Abhishek Sharma
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 2.7:
+        non_striker: Abhishek Sharma
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 3.1:
+        non_striker: SV Samson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 3.2:
+        non_striker: SV Samson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 3.3:
+        non_striker: SV Samson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 3.4:
+        non_striker: Abhishek Sharma
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Samson
+    - 3.5:
+        non_striker: Abhishek Sharma
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 3.6:
+        non_striker: Abhishek Sharma
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Samson
+    - 3.7:
+        non_striker: Abhishek Sharma
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Samson
+    - 3.8:
+        non_striker: Abhishek Sharma
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 3.9:
+        non_striker: Abhishek Sharma
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 4.1:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 4.2:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 4.3:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 4.4:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SV Samson
+    - 4.5:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 4.6:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 4.7:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 4.8:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 4.9:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Samson
+    - 4.10:
+        non_striker: Abhishek Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 5.1:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 5.2:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 5.3:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 5.4:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhishek Sharma
+    - 5.5:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 5.6:
+        non_striker: SV Samson
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 6.1:
+        non_striker: Abhishek Sharma
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 6.2:
+        non_striker: Abhishek Sharma
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 6.3:
+        non_striker: Abhishek Sharma
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 6.4:
+        non_striker: Abhishek Sharma
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 6.5:
+        non_striker: Abhishek Sharma
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 6.6:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 7.1:
+        non_striker: SV Samson
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 7.2:
+        non_striker: SV Samson
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 7.3:
+        non_striker: SV Samson
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 7.4:
+        non_striker: SV Samson
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 7.5:
+        non_striker: SV Samson
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 7.6:
+        non_striker: SV Samson
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 8.1:
+        non_striker: Ishan Kishan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 8.2:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.3:
+        non_striker: Ishan Kishan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 8.4:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.5:
+        non_striker: Ishan Kishan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 8.6:
+        non_striker: Ishan Kishan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 9.1:
+        non_striker: Ishan Kishan
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Samson
+    - 9.2:
+        non_striker: Ishan Kishan
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 9.3:
+        non_striker: Ishan Kishan
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 9.4:
+        non_striker: SV Samson
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 9.5:
+        non_striker: SV Samson
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 9.6:
+        non_striker: Ishan Kishan
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 10.1:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 10.2:
+        non_striker: Ishan Kishan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 10.3:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 10.4:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 10.5:
+        non_striker: Ishan Kishan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 10.6:
+        non_striker: Ishan Kishan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 11.1:
+        non_striker: Ishan Kishan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 11.2:
+        non_striker: Ishan Kishan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 11.3:
+        non_striker: Ishan Kishan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 11.4:
+        non_striker: SV Samson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 11.5:
+        non_striker: SV Samson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 11.6:
+        non_striker: Ishan Kishan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 12.1:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 12.2:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 12.3:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 12.4:
+        non_striker: Ishan Kishan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 12.5:
+        non_striker: SV Samson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 12.6:
+        non_striker: Ishan Kishan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 13.1:
+        non_striker: Ishan Kishan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 13.2:
+        non_striker: Ishan Kishan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 13.3:
+        non_striker: SV Samson
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 13.4:
+        non_striker: Ishan Kishan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 13.5:
+        non_striker: Ishan Kishan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 13.6:
+        non_striker: Ishan Kishan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 14.1:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 14.2:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 14.3:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 14.4:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 14.5:
+        non_striker: Ishan Kishan
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 14.6:
+        non_striker: SV Samson
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 15.1:
+        non_striker: Ishan Kishan
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          fielders:
+          - CE McConchie (sub)
+          kind: caught
+    - 15.2:
+        non_striker: Ishan Kishan
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 15.3:
+        non_striker: Ishan Kishan
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 15.4:
+        non_striker: Ishan Kishan
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.5:
+        non_striker: HH Pandya
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - MS Chapman
+          kind: caught
+    - 15.6:
+        non_striker: HH Pandya
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - R Ravindra
+          kind: caught
+    - 16.1:
+        non_striker: Tilak Varma
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.2:
+        non_striker: HH Pandya
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 16.3:
+        non_striker: Tilak Varma
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.4:
+        non_striker: HH Pandya
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 16.5:
+        non_striker: HH Pandya
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 16.6:
+        non_striker: Tilak Varma
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 17.1:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.2:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 17.3:
+        non_striker: HH Pandya
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 17.4:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 17.5:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 17.6:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 18.1:
+        non_striker: Tilak Varma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 18.2:
+        non_striker: Tilak Varma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 18.3:
+        non_striker: Tilak Varma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 18.4:
+        non_striker: S Dube
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 18.5:
+        non_striker: Tilak Varma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 18.6:
+        non_striker: S Dube
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 19.1:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 19.2:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 19.3:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 19.4:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 19.5:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 19.6:
+        non_striker: Tilak Varma
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 0.2:
+        non_striker: FH Allen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 0.3:
+        non_striker: FH Allen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TL Seifert
+    - 0.4:
+        non_striker: TL Seifert
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 0.6:
+        non_striker: TL Seifert
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.1:
+        non_striker: TL Seifert
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.2:
+        non_striker: FH Allen
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: FH Allen
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 1.4:
+        non_striker: FH Allen
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.5:
+        non_striker: FH Allen
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: FH Allen
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: TL Seifert
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.2:
+        non_striker: FH Allen
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.3:
+        non_striker: TL Seifert
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.4:
+        non_striker: TL Seifert
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 2.5:
+        non_striker: TL Seifert
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 2.6:
+        non_striker: R Ravindra
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.1:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 3.2:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 3.3:
+        non_striker: GD Phillips
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 3.4:
+        non_striker: GD Phillips
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.5:
+        non_striker: GD Phillips
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 3.6:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.1:
+        non_striker: GD Phillips
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 4.2:
+        non_striker: GD Phillips
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.3:
+        non_striker: TL Seifert
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 4.4:
+        non_striker: TL Seifert
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.5:
+        non_striker: TL Seifert
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          kind: bowled
+    - 4.6:
+        non_striker: TL Seifert
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.1:
+        non_striker: MS Chapman
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 5.2:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 5.3:
+        non_striker: TL Seifert
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.4:
+        non_striker: MS Chapman
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.5:
+        non_striker: MS Chapman
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 5.6:
+        non_striker: MS Chapman
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.1:
+        non_striker: MS Chapman
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.2:
+        non_striker: TL Seifert
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.3:
+        non_striker: TL Seifert
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.4:
+        non_striker: MS Chapman
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 6.5:
+        non_striker: MS Chapman
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 6.6:
+        non_striker: MS Chapman
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 7.1:
+        non_striker: TL Seifert
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 7.2:
+        non_striker: MS Chapman
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.3:
+        non_striker: TL Seifert
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.4:
+        non_striker: TL Seifert
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          kind: bowled
+    - 7.5:
+        non_striker: TL Seifert
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.6:
+        non_striker: DJ Mitchell
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 8.2:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 8.3:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: MJ Santner
+    - 8.4:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 8.5:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MJ Santner
+    - 9.1:
+        non_striker: DJ Mitchell
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 9.2:
+        non_striker: DJ Mitchell
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 9.3:
+        non_striker: DJ Mitchell
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 9.4:
+        non_striker: MJ Santner
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.5:
+        non_striker: DJ Mitchell
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 10.1:
+        non_striker: DJ Mitchell
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 10.2:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 10.3:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 10.4:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 10.5:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 10.6:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 10.7:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.1:
+        non_striker: MJ Santner
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.2:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 11.3:
+        non_striker: MJ Santner
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.4:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 11.5:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 11.6:
+        non_striker: DJ Mitchell
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.1:
+        non_striker: DJ Mitchell
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 12.2:
+        non_striker: DJ Mitchell
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 12.3:
+        non_striker: DJ Mitchell
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 12.4:
+        non_striker: MJ Santner
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 12.5:
+        non_striker: MJ Santner
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 12.6:
+        non_striker: MJ Santner
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 13.1:
+        non_striker: JDS Neesham
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 13.2:
+        non_striker: JDS Neesham
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 13.3:
+        non_striker: MJ Santner
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+    - 13.4:
+        non_striker: MJ Santner
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 13.5:
+        non_striker: JDS Neesham
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 13.6:
+        non_striker: MJ Santner
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 13.7:
+        non_striker: JDS Neesham
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 14.1:
+        non_striker: JDS Neesham
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.2:
+        non_striker: JDS Neesham
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 14.3:
+        non_striker: JDS Neesham
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 14.4:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+    - 14.5:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+    - 14.6:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 14.7:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 14.8:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 15.1:
+        non_striker: JDS Neesham
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Santner
+    - 15.2:
+        non_striker: JDS Neesham
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 15.3:
+        non_striker: JDS Neesham
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 15.4:
+        non_striker: MJ Santner
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          kind: bowled
+    - 15.5:
+        non_striker: MJ Santner
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Henry
+        wicket:
+          player_out: MJ Henry
+          kind: bowled
+    - 15.6:
+        non_striker: MJ Santner
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 15.7:
+        non_striker: LH Ferguson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 16.1:
+        non_striker: LH Ferguson
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 16.2:
+        non_striker: LH Ferguson
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Santner
+    - 16.3:
+        non_striker: LH Ferguson
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 16.4:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 16.5:
+        non_striker: MJ Santner
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 16.6:
+        non_striker: LH Ferguson
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 16.7:
+        non_striker: LH Ferguson
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Santner
+    - 16.8:
+        non_striker: LH Ferguson
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 17.1:
+        non_striker: LH Ferguson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 17.2:
+        non_striker: LH Ferguson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 17.3:
+        non_striker: LH Ferguson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+        wicket:
+          player_out: MJ Santner
+          kind: bowled
+    - 17.4:
+        non_striker: LH Ferguson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Duffy
+    - 17.5:
+        non_striker: JA Duffy
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 17.6:
+        non_striker: LH Ferguson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Duffy
+    - 18.1:
+        non_striker: JA Duffy
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 18.2:
+        non_striker: LH Ferguson
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Duffy
+    - 18.3:
+        non_striker: JA Duffy
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 18.4:
+        non_striker: LH Ferguson
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Duffy
+    - 18.5:
+        non_striker: JA Duffy
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 18.6:
+        non_striker: LH Ferguson
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Duffy
+        wicket:
+          player_out: JA Duffy
+          fielders:
+          - Tilak Varma
+          kind: caught

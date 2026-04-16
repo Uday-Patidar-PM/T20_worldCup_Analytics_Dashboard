@@ -1,0 +1,2107 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-12-13'
+  gender: male
+  match_type: T20
+  match_type_number: 3637
+  outcome:
+    winner: Philippines
+    by:
+      wickets: 1
+  overs: 20
+  players:
+    Thailand:
+    - C Chatphaisan
+    - S Desungnoen
+    - P Suanchuai
+    - K Suttisan
+    - C Pengkumta
+    - Y Saranonnakkun
+    - P Thongsa
+    - K Senamontree
+    - W Ngowhuad
+    - N Senamontree
+    - Saran Maliwan
+    Philippines:
+    - ASF Sirah
+    - DC Smith
+    - M Podosky
+    - A Donovan
+    - N Tanner
+    - J Tuffin
+    - KDA Lukies
+    - HER Tyler
+    - GR Russ
+    - JEA Doctora
+    - Rhys Burinaga
+  registry:
+    people:
+      A Donovan: '02888f23'
+      A Natarajan: a2b73ae0
+      ASF Sirah: 06bcade5
+      C Chatphaisan: 85c56be8
+      C Pengkumta: b3540b2a
+      D Sevakumaran: b235cb97
+      DC Smith: a968d39b
+      GR Russ: 1f28fdfd
+      HER Tyler: 0ba9de33
+      Hardeep Jadeja: 552cf5a2
+      J Tuffin: 8069f81f
+      JEA Doctora: 43449b1e
+      K Senamontree: e553e27f
+      K Suttisan: 00757ae7
+      KDA Lukies: 14af45c4
+      M Podosky: c46999c7
+      N Senamontree: 44e00a4c
+      N Tanner: 5f5efae1
+      P Suanchuai: e6948355
+      P Thongsa: '62318525'
+      Rhys Burinaga: a6cbe67b
+      S Desungnoen: 3eb26dc4
+      Saran Maliwan: c7e5cc8f
+      Suresh Singh: 073de6f9
+      V Kalidas: 42d76418
+      W Ngowhuad: b8cd9955
+      Y Saranonnakkun: 9c93c0a3
+  teams:
+  - Thailand
+  - Philippines
+  toss:
+    winner: Philippines
+    decision: field
+  umpires:
+  - A Natarajan
+  - V Kalidas
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.2:
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.3:
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.4:
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.5:
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Desungnoen
+        batsman: C Chatphaisan
+    - 0.6:
+        non_striker: S Desungnoen
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 1.1:
+        non_striker: C Chatphaisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Desungnoen
+    - 1.2:
+        non_striker: C Chatphaisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.3:
+        non_striker: C Chatphaisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.4:
+        non_striker: C Chatphaisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.5:
+        non_striker: C Chatphaisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 1.6:
+        non_striker: S Desungnoen
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 2.1:
+        non_striker: C Chatphaisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Desungnoen
+    - 2.2:
+        non_striker: C Chatphaisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 2.3:
+        non_striker: C Chatphaisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 2.4:
+        non_striker: C Chatphaisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 2.5:
+        non_striker: S Desungnoen
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Chatphaisan
+    - 2.6:
+        non_striker: S Desungnoen
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 3.1:
+        non_striker: C Chatphaisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Desungnoen
+    - 3.2:
+        non_striker: C Chatphaisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.3:
+        non_striker: C Chatphaisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 3.4:
+        non_striker: S Desungnoen
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 3.5:
+        non_striker: S Desungnoen
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Chatphaisan
+    - 3.6:
+        non_striker: S Desungnoen
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Chatphaisan
+    - 4.1:
+        non_striker: C Chatphaisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 4.2:
+        non_striker: C Chatphaisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 4.3:
+        non_striker: C Chatphaisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 4.4:
+        non_striker: S Desungnoen
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 4.5:
+        non_striker: S Desungnoen
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          kind: bowled
+    - 4.6:
+        non_striker: S Desungnoen
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 5.1:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 5.2:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Desungnoen
+    - 5.3:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 5.4:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 5.5:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          fielders:
+          - J Tuffin
+          kind: caught
+    - 5.6:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 5.7:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 6.1:
+        non_striker: K Suttisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 6.2:
+        non_striker: K Suttisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Suanchuai
+    - 6.3:
+        non_striker: K Suttisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 6.4:
+        non_striker: K Suttisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Suanchuai
+    - 6.5:
+        non_striker: K Suttisan
+        bowler: J Tuffin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Suanchuai
+    - 6.6:
+        non_striker: K Suttisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 6.7:
+        non_striker: K Suttisan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 7.1:
+        non_striker: K Suttisan
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 7.2:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 7.3:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Suttisan
+    - 7.4:
+        non_striker: K Suttisan
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 7.5:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 7.6:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 8.1:
+        non_striker: K Suttisan
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 8.2:
+        non_striker: P Suanchuai
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Suttisan
+    - 8.3:
+        non_striker: K Suttisan
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 8.4:
+        non_striker: K Suttisan
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 8.5:
+        non_striker: K Suttisan
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 8.6:
+        non_striker: P Suanchuai
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Suttisan
+    - 9.1:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 9.2:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Suttisan
+    - 9.3:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Suttisan
+    - 9.4:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 9.5:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Suttisan
+    - 9.6:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+    - 10.1:
+        non_striker: K Suttisan
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 10.2:
+        non_striker: K Suttisan
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Suanchuai
+    - 10.3:
+        non_striker: K Suttisan
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 10.4:
+        non_striker: K Suttisan
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 10.5:
+        non_striker: K Suttisan
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 10.6:
+        non_striker: P Suanchuai
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Suttisan
+    - 11.1:
+        non_striker: K Suttisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 11.2:
+        non_striker: K Suttisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 11.3:
+        non_striker: P Suanchuai
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: K Suttisan
+    - 11.4:
+        non_striker: K Suttisan
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 11.5:
+        non_striker: P Suanchuai
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Suttisan
+        wicket:
+          player_out: K Suttisan
+          fielders:
+          - ASF Sirah
+          kind: caught
+    - 11.6:
+        non_striker: P Suanchuai
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 12.1:
+        non_striker: C Pengkumta
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 12.2:
+        non_striker: P Suanchuai
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 12.3:
+        non_striker: P Suanchuai
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 12.4:
+        non_striker: P Suanchuai
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pengkumta
+    - 12.5:
+        non_striker: P Suanchuai
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 12.6:
+        non_striker: P Suanchuai
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 13.1:
+        non_striker: C Pengkumta
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 13.2:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 13.3:
+        non_striker: C Pengkumta
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 13.4:
+        non_striker: C Pengkumta
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 13.5:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 13.6:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Pengkumta
+    - 13.7:
+        non_striker: P Suanchuai
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 14.1:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 14.2:
+        non_striker: C Pengkumta
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Suanchuai
+    - 14.3:
+        non_striker: C Pengkumta
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 14.4:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 14.5:
+        non_striker: C Pengkumta
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 14.6:
+        non_striker: P Suanchuai
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 15.1:
+        non_striker: C Pengkumta
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+        wicket:
+          player_out: P Suanchuai
+          fielders:
+          - A Donovan
+          kind: caught
+    - 15.2:
+        non_striker: C Pengkumta
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 15.3:
+        non_striker: Y Saranonnakkun
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 15.4:
+        non_striker: C Pengkumta
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 15.5:
+        non_striker: C Pengkumta
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Saranonnakkun
+    - 15.6:
+        non_striker: C Pengkumta
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Y Saranonnakkun
+    - 16.1:
+        non_striker: Y Saranonnakkun
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 16.2:
+        non_striker: C Pengkumta
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Saranonnakkun
+    - 16.3:
+        non_striker: C Pengkumta
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          kind: caught and bowled
+    - 16.4:
+        non_striker: C Pengkumta
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 16.5:
+        non_striker: C Pengkumta
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Thongsa
+    - 16.6:
+        non_striker: C Pengkumta
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 17.1:
+        non_striker: C Pengkumta
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Thongsa
+    - 17.2:
+        non_striker: C Pengkumta
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 17.3:
+        non_striker: P Thongsa
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Pengkumta
+    - 17.4:
+        non_striker: P Thongsa
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Pengkumta
+    - 17.5:
+        non_striker: P Thongsa
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Pengkumta
+    - 17.6:
+        non_striker: P Thongsa
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 18.1:
+        non_striker: P Thongsa
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 18.2:
+        non_striker: C Pengkumta
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+        wicket:
+          player_out: P Thongsa
+          fielders:
+          - JEA Doctora
+          kind: caught
+    - 18.3:
+        non_striker: C Pengkumta
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 18.4:
+        non_striker: C Pengkumta
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+        wicket:
+          player_out: K Senamontree
+          fielders:
+          - GR Russ
+          kind: stumped
+    - 18.5:
+        non_striker: C Pengkumta
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ngowhuad
+    - 18.6:
+        non_striker: C Pengkumta
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ngowhuad
+    - 19.1:
+        non_striker: W Ngowhuad
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 19.2:
+        non_striker: C Pengkumta
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Ngowhuad
+    - 19.3:
+        non_striker: C Pengkumta
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Ngowhuad
+    - 19.4:
+        non_striker: W Ngowhuad
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 19.5:
+        non_striker: W Ngowhuad
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 19.6:
+        non_striker: W Ngowhuad
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pengkumta
+- 2nd innings:
+    team: Philippines
+    deliveries:
+    - 0.1:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.2:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.3:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.4:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.5:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.6:
+        non_striker: DC Smith
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 1.1:
+        non_striker: ASF Sirah
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 1.2:
+        non_striker: ASF Sirah
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 1.3:
+        non_striker: ASF Sirah
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 1.4:
+        non_striker: ASF Sirah
+        bowler: K Senamontree
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DC Smith
+    - 1.5:
+        non_striker: DC Smith
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ASF Sirah
+    - 1.6:
+        non_striker: DC Smith
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ASF Sirah
+    - 2.1:
+        non_striker: ASF Sirah
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 2.2:
+        non_striker: ASF Sirah
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 2.3:
+        non_striker: ASF Sirah
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 2.4:
+        non_striker: ASF Sirah
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 2.5:
+        non_striker: ASF Sirah
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 2.6:
+        non_striker: ASF Sirah
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 3.1:
+        non_striker: DC Smith
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ASF Sirah
+    - 3.2:
+        non_striker: DC Smith
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASF Sirah
+    - 3.3:
+        non_striker: ASF Sirah
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 3.4:
+        non_striker: ASF Sirah
+        bowler: Saran Maliwan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: DC Smith
+    - 3.5:
+        non_striker: ASF Sirah
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 3.6:
+        non_striker: DC Smith
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASF Sirah
+    - 4.1:
+        non_striker: DC Smith
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ASF Sirah
+    - 4.2:
+        non_striker: DC Smith
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASF Sirah
+    - 4.3:
+        non_striker: ASF Sirah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 4.4:
+        non_striker: ASF Sirah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+        wicket:
+          player_out: DC Smith
+          fielders:
+          - Y Saranonnakkun
+          kind: caught
+    - 4.5:
+        non_striker: ASF Sirah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 4.6:
+        non_striker: ASF Sirah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 5.1:
+        non_striker: M Podosky
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 5.2:
+        non_striker: M Podosky
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 5.3:
+        non_striker: M Podosky
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 5.4:
+        non_striker: M Podosky
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASF Sirah
+    - 5.5:
+        non_striker: ASF Sirah
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 5.6:
+        non_striker: ASF Sirah
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 6.1:
+        non_striker: M Podosky
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASF Sirah
+    - 6.2:
+        non_striker: ASF Sirah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+        wicket:
+          player_out: M Podosky
+          kind: lbw
+    - 6.3:
+        non_striker: ASF Sirah
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 6.4:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 6.5:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 6.6:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ASF Sirah
+    - 7.1:
+        non_striker: ASF Sirah
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 7.2:
+        non_striker: ASF Sirah
+        bowler: Saran Maliwan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Donovan
+    - 7.3:
+        non_striker: A Donovan
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 7.4:
+        non_striker: A Donovan
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+        wicket:
+          player_out: ASF Sirah
+          kind: bowled
+    - 7.5:
+        non_striker: A Donovan
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 7.6:
+        non_striker: A Donovan
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 7.7:
+        non_striker: N Tanner
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 8.1:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Tanner
+    - 8.2:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 8.3:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+        wicket:
+          player_out: N Tanner
+          fielders:
+          - Saran Maliwan
+          kind: caught
+    - 8.4:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 8.5:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 8.6:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 9.1:
+        non_striker: J Tuffin
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 9.2:
+        non_striker: J Tuffin
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 9.3:
+        non_striker: J Tuffin
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 9.4:
+        non_striker: J Tuffin
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 9.5:
+        non_striker: A Donovan
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 9.6:
+        non_striker: J Tuffin
+        bowler: Saran Maliwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Donovan
+    - 10.1:
+        non_striker: A Donovan
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 10.2:
+        non_striker: A Donovan
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 10.3:
+        non_striker: A Donovan
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 10.4:
+        non_striker: A Donovan
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 10.5:
+        non_striker: J Tuffin
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Donovan
+    - 10.6:
+        non_striker: J Tuffin
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 11.1:
+        non_striker: J Tuffin
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 11.2:
+        non_striker: A Donovan
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tuffin
+    - 11.3:
+        non_striker: A Donovan
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 11.4:
+        non_striker: J Tuffin
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 11.5:
+        non_striker: A Donovan
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 11.6:
+        non_striker: J Tuffin
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 12.1:
+        non_striker: J Tuffin
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 12.2:
+        non_striker: A Donovan
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 12.3:
+        non_striker: J Tuffin
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+        wicket:
+          player_out: A Donovan
+          kind: bowled
+    - 12.4:
+        non_striker: J Tuffin
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDA Lukies
+    - 12.5:
+        non_striker: J Tuffin
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDA Lukies
+    - 12.6:
+        non_striker: J Tuffin
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDA Lukies
+    - 13.1:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 13.2:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 13.3:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+        wicket:
+          player_out: J Tuffin
+          fielders:
+          - Saran Maliwan
+          kind: caught
+    - 13.4:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 13.5:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 13.6:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+        wicket:
+          player_out: HER Tyler
+          kind: lbw
+    - 14.1:
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GR Russ
+        batsman: KDA Lukies
+    - 14.2:
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GR Russ
+        batsman: KDA Lukies
+    - 14.3:
+        non_striker: KDA Lukies
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 14.4:
+        non_striker: GR Russ
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 14.5:
+        non_striker: KDA Lukies
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Russ
+    - 14.6:
+        non_striker: KDA Lukies
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 15.1:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Russ
+    - 15.2:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 15.3:
+        non_striker: GR Russ
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 15.4:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 15.5:
+        non_striker: GR Russ
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KDA Lukies
+    - 15.6:
+        non_striker: KDA Lukies
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 16.1:
+        non_striker: KDA Lukies
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 16.2:
+        non_striker: GR Russ
+        bowler: W Ngowhuad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: KDA Lukies
+    - 16.3:
+        non_striker: KDA Lukies
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 16.4:
+        non_striker: GR Russ
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KDA Lukies
+        wicket:
+          player_out: KDA Lukies
+          fielders:
+          - C Pengkumta
+          kind: caught
+    - 16.5:
+        non_striker: GR Russ
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEA Doctora
+    - 16.6:
+        non_striker: GR Russ
+        bowler: W Ngowhuad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JEA Doctora
+    - 17.1:
+        non_striker: GR Russ
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEA Doctora
+    - 17.2:
+        non_striker: GR Russ
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEA Doctora
+    - 17.3:
+        non_striker: JEA Doctora
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Russ
+    - 17.4:
+        non_striker: JEA Doctora
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 17.5:
+        non_striker: GR Russ
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEA Doctora
+    - 17.6:
+        non_striker: GR Russ
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEA Doctora
+    - 18.1:
+        non_striker: JEA Doctora
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Russ
+    - 18.2:
+        non_striker: JEA Doctora
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 18.3:
+        non_striker: GR Russ
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEA Doctora
+    - 18.4:
+        non_striker: GR Russ
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEA Doctora
+    - 18.5:
+        non_striker: JEA Doctora
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Russ
+    - 18.6:
+        non_striker: JEA Doctora
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Russ
+    - 19.1:
+        non_striker: GR Russ
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JEA Doctora
+    - 19.2:
+        non_striker: GR Russ
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEA Doctora
+        wicket:
+          player_out: JEA Doctora
+          kind: bowled
+    - 19.3:
+        non_striker: GR Russ
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rhys Burinaga
+    - 19.4:
+        non_striker: Rhys Burinaga
+        bowler: C Pengkumta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Russ

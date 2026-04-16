@@ -1,0 +1,2279 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ahmedabad
+  dates:
+  - '2026-02-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3692
+  outcome:
+    winner: South Africa
+    by:
+      runs: 57
+  overs: 20
+  player_of_match:
+  - L Ngidi
+  players:
+    South Africa:
+    - AK Markram
+    - Q de Kock
+    - RD Rickelton
+    - D Brevis
+    - DA Miller
+    - T Stubbs
+    - M Jansen
+    - C Bosch
+    - K Rabada
+    - KA Maharaj
+    - L Ngidi
+    Canada:
+    - DS Bajwa
+    - YS Samra
+    - NS Dhaliwal
+    - NR Kirton
+    - S Movva
+    - H Thaker
+    - Saad Bin Zafar
+    - Jaskaran Singh
+    - D Heyliger
+    - Kaleem Sana
+    - Ansh Patel
+  registry:
+    people:
+      AK Markram: 6a26221c
+      Ansh Patel: 9e76cdb3
+      C Bosch: 172dff15
+      D Brevis: 844e79d1
+      D Heyliger: f8c72766
+      DA Miller: d67d5f00
+      DS Bajwa: e3540b8c
+      Dave Gilbert: aa782370
+      H Thaker: c01d7726
+      J Madanagopal: 8275b04a
+      Jaskaran Singh: d7b3a420
+      K Rabada: e62dd25d
+      KA Maharaj: 0b60eb09
+      KN Ananthapadmanabhan: 3144063a
+      Kaleem Sana: 14810ee7
+      L Ngidi: f834dcfc
+      M Jansen: 81c36ee9
+      NR Kirton: 6b75c2b1
+      NS Dhaliwal: cbabd6ad
+      Nitin Menon: e1d41d9e
+      Q de Kock: 372455c4
+      RD Rickelton: e66732f8
+      S Movva: ee229588
+      Saad Bin Zafar: f28a60e0
+      Sharfuddoula: 63896abb
+      T Stubbs: 85b3fab2
+      YS Samra: d02c40ab
+  teams:
+  - South Africa
+  - Canada
+  toss:
+    winner: Canada
+    decision: field
+  umpires:
+  - J Madanagopal
+  - Nitin Menon
+  venue: Narendra Modi Stadium, Ahmedabad
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 0.2:
+        non_striker: Q de Kock
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 0.3:
+        non_striker: AK Markram
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: AK Markram
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: AK Markram
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: AK Markram
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.7:
+        non_striker: AK Markram
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 0.8:
+        non_striker: AK Markram
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 1.5:
+        non_striker: Q de Kock
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: D Heyliger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 1.7:
+        non_striker: Q de Kock
+        bowler: D Heyliger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 2.1:
+        non_striker: AK Markram
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: AK Markram
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Markram
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.5:
+        non_striker: AK Markram
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 2.7:
+        non_striker: Q de Kock
+        bowler: Kaleem Sana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AK Markram
+    - 3.1:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.1:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: Q de Kock
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 4.4:
+        non_striker: Q de Kock
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 4.5:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.7:
+        non_striker: Q de Kock
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 5.3:
+        non_striker: AK Markram
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.4:
+        non_striker: Q de Kock
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 5.5:
+        non_striker: Q de Kock
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.6:
+        non_striker: Q de Kock
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 6.1:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.2:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 6.3:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.4:
+        non_striker: Q de Kock
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.5:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: bowled
+    - 6.6:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RD Rickelton
+    - 6.7:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.1:
+        non_striker: AK Markram
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 7.2:
+        non_striker: AK Markram
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 7.3:
+        non_striker: AK Markram
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 7.4:
+        non_striker: AK Markram
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 7.5:
+        non_striker: RD Rickelton
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.6:
+        non_striker: RD Rickelton
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.1:
+        non_striker: RD Rickelton
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AK Markram
+    - 8.2:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 8.3:
+        non_striker: RD Rickelton
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.4:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 8.5:
+        non_striker: RD Rickelton
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 8.6:
+        non_striker: RD Rickelton
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 8.7:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 9.1:
+        non_striker: RD Rickelton
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 9.2:
+        non_striker: RD Rickelton
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 9.3:
+        non_striker: RD Rickelton
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.4:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 9.5:
+        non_striker: AK Markram
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 9.6:
+        non_striker: RD Rickelton
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 10.1:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 10.2:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 10.3:
+        non_striker: RD Rickelton
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 10.4:
+        non_striker: RD Rickelton
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.5:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 10.6:
+        non_striker: AK Markram
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 11.1:
+        non_striker: AK Markram
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 11.2:
+        non_striker: RD Rickelton
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 11.3:
+        non_striker: RD Rickelton
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - D Heyliger
+          kind: caught
+    - 11.4:
+        non_striker: RD Rickelton
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.5:
+        non_striker: D Brevis
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 11.6:
+        non_striker: RD Rickelton
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 12.1:
+        non_striker: D Brevis
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 12.2:
+        non_striker: D Brevis
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Rickelton
+    - 12.3:
+        non_striker: D Brevis
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 12.4:
+        non_striker: RD Rickelton
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 12.5:
+        non_striker: RD Rickelton
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 12.6:
+        non_striker: RD Rickelton
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 12.7:
+        non_striker: D Brevis
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 12.8:
+        non_striker: RD Rickelton
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 13.1:
+        non_striker: D Brevis
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - H Thaker
+          kind: caught
+    - 13.2:
+        non_striker: D Brevis
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 13.3:
+        non_striker: D Brevis
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 13.4:
+        non_striker: D Brevis
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.5:
+        non_striker: DA Miller
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - NR Kirton
+          kind: caught
+    - 13.6:
+        non_striker: DA Miller
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 14.1:
+        non_striker: T Stubbs
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 14.2:
+        non_striker: T Stubbs
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 14.3:
+        non_striker: T Stubbs
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 14.4:
+        non_striker: T Stubbs
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 14.5:
+        non_striker: T Stubbs
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.6:
+        non_striker: DA Miller
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 15.1:
+        non_striker: T Stubbs
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.2:
+        non_striker: DA Miller
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 15.3:
+        non_striker: DA Miller
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 15.4:
+        non_striker: DA Miller
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 15.5:
+        non_striker: DA Miller
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 15.6:
+        non_striker: T Stubbs
+        bowler: Ansh Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.1:
+        non_striker: T Stubbs
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.2:
+        non_striker: DA Miller
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 16.3:
+        non_striker: DA Miller
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.4:
+        non_striker: T Stubbs
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.5:
+        non_striker: DA Miller
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 16.6:
+        non_striker: T Stubbs
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Miller
+    - 16.7:
+        non_striker: T Stubbs
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.1:
+        non_striker: T Stubbs
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 17.2:
+        non_striker: T Stubbs
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 17.3:
+        non_striker: DA Miller
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 17.4:
+        non_striker: DA Miller
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 17.5:
+        non_striker: DA Miller
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 17.6:
+        non_striker: DA Miller
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 18.1:
+        non_striker: T Stubbs
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.2:
+        non_striker: DA Miller
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 18.3:
+        non_striker: DA Miller
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 18.4:
+        non_striker: T Stubbs
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 18.5:
+        non_striker: T Stubbs
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: DA Miller
+    - 18.6:
+        non_striker: DA Miller
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: T Stubbs
+    - 18.7:
+        non_striker: T Stubbs
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.8:
+        non_striker: DA Miller
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 19.1:
+        non_striker: T Stubbs
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 19.2:
+        non_striker: T Stubbs
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 19.3:
+        non_striker: T Stubbs
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 19.4:
+        non_striker: DA Miller
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 19.5:
+        non_striker: T Stubbs
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 19.6:
+        non_striker: DA Miller
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+- 2nd innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        non_striker: YS Samra
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+        wicket:
+          player_out: DS Bajwa
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 0.2:
+        non_striker: YS Samra
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 0.3:
+        non_striker: YS Samra
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 0.4:
+        non_striker: YS Samra
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 0.5:
+        non_striker: YS Samra
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 0.6:
+        non_striker: YS Samra
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 1.1:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 1.2:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 1.3:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 1.4:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: YS Samra
+    - 1.5:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Samra
+    - 1.6:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+    - 1.7:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Samra
+    - 2.1:
+        non_striker: YS Samra
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 2.2:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Samra
+    - 2.3:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Samra
+        wicket:
+          player_out: YS Samra
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 2.4:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 2.5:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Kirton
+    - 2.6:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+        wicket:
+          player_out: NR Kirton
+          fielders:
+          - K Rabada
+          kind: caught
+    - 3.1:
+        non_striker: S Movva
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 3.2:
+        non_striker: S Movva
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 3.3:
+        non_striker: S Movva
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 3.4:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 3.5:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 3.6:
+        non_striker: S Movva
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 4.1:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 4.2:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 4.3:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 4.4:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 4.5:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 4.6:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 5.1:
+        non_striker: S Movva
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 5.2:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 5.3:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 5.4:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+        wicket:
+          player_out: S Movva
+          kind: bowled
+    - 5.5:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Thaker
+    - 5.6:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 6.1:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 6.2:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 6.3:
+        non_striker: H Thaker
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 6.4:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 6.5:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 6.6:
+        non_striker: H Thaker
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 7.1:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 7.2:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 7.3:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 7.4:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NS Dhaliwal
+    - 7.5:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 7.6:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 8.1:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 8.2:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 8.3:
+        non_striker: H Thaker
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 8.4:
+        non_striker: H Thaker
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 8.5:
+        non_striker: H Thaker
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 8.6:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Thaker
+    - 9.1:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 9.2:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 9.3:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 9.4:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 9.5:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 9.6:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 10.1:
+        non_striker: H Thaker
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 10.2:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 10.3:
+        non_striker: H Thaker
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 10.4:
+        non_striker: H Thaker
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 10.5:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Thaker
+    - 10.6:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 11.1:
+        non_striker: H Thaker
+        bowler: K Rabada
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: NS Dhaliwal
+    - 11.2:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 11.3:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 11.4:
+        non_striker: H Thaker
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 11.5:
+        non_striker: H Thaker
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 11.6:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: H Thaker
+    - 11.7:
+        non_striker: H Thaker
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NS Dhaliwal
+    - 11.8:
+        non_striker: H Thaker
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 11.9:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 12.1:
+        non_striker: H Thaker
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 12.2:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 12.3:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 12.4:
+        non_striker: H Thaker
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 12.5:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 12.6:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+    - 13.1:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 13.2:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 13.3:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Thaker
+    - 13.4:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 13.5:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 13.6:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Thaker
+    - 13.7:
+        non_striker: H Thaker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NS Dhaliwal
+    - 14.1:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Thaker
+    - 14.2:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Thaker
+        wicket:
+          player_out: H Thaker
+          fielders:
+          - K Rabada
+          kind: caught
+    - 14.3:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 14.4:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 14.5:
+        non_striker: Saad Bin Zafar
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 14.6:
+        non_striker: NS Dhaliwal
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saad Bin Zafar
+    - 15.1:
+        non_striker: Saad Bin Zafar
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 15.2:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 15.3:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 15.4:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 15.5:
+        non_striker: Saad Bin Zafar
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 15.6:
+        non_striker: NS Dhaliwal
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 16.1:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 16.2:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saad Bin Zafar
+    - 16.3:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 16.4:
+        non_striker: Saad Bin Zafar
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NS Dhaliwal
+    - 16.5:
+        non_striker: Saad Bin Zafar
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 16.6:
+        non_striker: NS Dhaliwal
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 16.7:
+        non_striker: Saad Bin Zafar
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NS Dhaliwal
+    - 17.1:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saad Bin Zafar
+    - 17.2:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+        wicket:
+          player_out: Saad Bin Zafar
+          fielders:
+          - C Bosch
+          kind: caught
+    - 17.3:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+        wicket:
+          player_out: Jaskaran Singh
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 17.4:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 17.5:
+        non_striker: D Heyliger
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 17.6:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Heyliger
+    - 17.7:
+        non_striker: NS Dhaliwal
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 17.8:
+        non_striker: D Heyliger
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 18.1:
+        non_striker: D Heyliger
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 18.2:
+        non_striker: D Heyliger
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NS Dhaliwal
+    - 18.3:
+        non_striker: D Heyliger
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 18.4:
+        non_striker: D Heyliger
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: NS Dhaliwal
+    - 18.5:
+        non_striker: NS Dhaliwal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 18.6:
+        non_striker: D Heyliger
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+    - 18.7:
+        non_striker: D Heyliger
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NS Dhaliwal
+    - 19.1:
+        non_striker: D Heyliger
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NS Dhaliwal
+        wicket:
+          player_out: NS Dhaliwal
+          fielders:
+          - T Stubbs
+          kind: caught
+    - 19.2:
+        non_striker: D Heyliger
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleem Sana
+    - 19.3:
+        non_striker: D Heyliger
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaleem Sana
+    - 19.4:
+        non_striker: Kaleem Sana
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Heyliger
+    - 19.5:
+        non_striker: Kaleem Sana
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Heyliger
+    - 19.6:
+        non_striker: D Heyliger
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaleem Sana

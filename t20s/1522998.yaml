@@ -1,0 +1,2189 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2026-02-25'
+  gender: male
+  match_type: T20
+  match_type_number: 3733
+  outcome:
+    winner: Japan
+    by:
+      runs: 37
+  overs: 20
+  player_of_match:
+  - K Kadowaki-Fleming
+  players:
+    Japan:
+    - K Kadowaki-Fleming
+    - Abhishek Anand
+    - S Ravichandran
+    - I Takahashi
+    - B Ito-Davis
+    - D Suzuki
+    - W Miyauchi
+    - C Hinze
+    - S Sugaya-Slater
+    - K Kubota
+    - M Taniyama
+    Thailand:
+    - S Desungnoen
+    - AP Yadav
+    - Y Saranonnakkun
+    - AV Lazarus
+    - C Chatphaisan
+    - P Suanchuai
+    - MK Thakur
+    - P Thongsa
+    - N Senamontree
+    - K Senamontree
+    - Sarawut Maliwan
+  registry:
+    people:
+      AP Yadav: a5501504
+      AV Lazarus: 30c917bf
+      Abhishek Anand: 2c12bc65
+      B Ito-Davis: '96275259'
+      C Chatphaisan: 85c56be8
+      C Hinze: 626af7ff
+      D Suzuki: 64c81abf
+      I Takahashi: c988daa1
+      K Kadowaki-Fleming: 33290a80
+      K Kubota: 42581e6d
+      K Senamontree: e553e27f
+      M Taniyama: cbd91942
+      MK Thakur: 2d9451cc
+      N Senamontree: 44e00a4c
+      P Suanchuai: e6948355
+      P Thongsa: '62318525'
+      S Desungnoen: 3eb26dc4
+      S Ravichandran: 9f2be73d
+      S Sugaya-Slater: 2d02f041
+      Samad Akbar: f05bd21b
+      Sarawut Maliwan: 36a0a88c
+      T Khalid: 9168597e
+      W Miyauchi: fef40097
+      Y Saranonnakkun: 9c93c0a3
+  teams:
+  - Japan
+  - Thailand
+  toss:
+    winner: Thailand
+    decision: field
+  umpires:
+  - Samad Akbar
+  - T Khalid
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Abhishek Anand
+        batsman: K Kadowaki-Fleming
+    - 0.2:
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abhishek Anand
+        batsman: K Kadowaki-Fleming
+    - 0.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 0.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhishek Anand
+    - 0.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 0.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 1.1:
+        non_striker: Abhishek Anand
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Kadowaki-Fleming
+    - 1.2:
+        non_striker: Abhishek Anand
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 1.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 1.4:
+        non_striker: Abhishek Anand
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 1.5:
+        non_striker: Abhishek Anand
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: K Kadowaki-Fleming
+    - 1.6:
+        non_striker: Abhishek Anand
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 1.7:
+        non_striker: K Kadowaki-Fleming
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 1.8:
+        non_striker: Abhishek Anand
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 2.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 2.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 2.3:
+        non_striker: Abhishek Anand
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 2.4:
+        non_striker: Abhishek Anand
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 2.5:
+        non_striker: Abhishek Anand
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 2.6:
+        non_striker: Abhishek Anand
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 3.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Abhishek Anand
+    - 3.2:
+        non_striker: Abhishek Anand
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 3.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 3.4:
+        non_striker: Abhishek Anand
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 3.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 3.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: MK Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Anand
+    - 3.7:
+        non_striker: K Kadowaki-Fleming
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 4.1:
+        non_striker: Abhishek Anand
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 4.2:
+        non_striker: Abhishek Anand
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 4.3:
+        non_striker: Abhishek Anand
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 4.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 4.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 4.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 5.1:
+        non_striker: Abhishek Anand
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 5.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 5.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 5.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Anand
+    - 5.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 5.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Anand
+    - 6.1:
+        non_striker: Abhishek Anand
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.2:
+        non_striker: Abhishek Anand
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.3:
+        non_striker: Abhishek Anand
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 6.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 6.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 6.6:
+        non_striker: Abhishek Anand
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.1:
+        non_striker: Abhishek Anand
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 7.2:
+        non_striker: Abhishek Anand
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 7.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Anand
+    - 7.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 7.6:
+        non_striker: Abhishek Anand
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 8.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 8.2:
+        non_striker: Abhishek Anand
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 8.3:
+        non_striker: Abhishek Anand
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 8.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 8.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+        wicket:
+          player_out: Abhishek Anand
+          fielders:
+          - P Thongsa
+          kind: caught
+    - 8.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 9.1:
+        non_striker: S Ravichandran
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 9.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 9.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 9.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 9.5:
+        non_striker: S Ravichandran
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 9.6:
+        non_striker: S Ravichandran
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 10.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 10.2:
+        non_striker: S Ravichandran
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 10.3:
+        non_striker: S Ravichandran
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 10.4:
+        non_striker: S Ravichandran
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 10.5:
+        non_striker: S Ravichandran
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 10.6:
+        non_striker: S Ravichandran
+        bowler: Sarawut Maliwan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 11.1:
+        non_striker: S Ravichandran
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 11.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Ravichandran
+    - 11.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 11.4:
+        non_striker: S Ravichandran
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 11.5:
+        non_striker: S Ravichandran
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 11.6:
+        non_striker: S Ravichandran
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 12.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.2:
+        non_striker: S Ravichandran
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 12.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Ravichandran
+    - 12.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 12.5:
+        non_striker: S Ravichandran
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 12.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 13.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 13.2:
+        non_striker: S Ravichandran
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 13.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 13.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 13.5:
+        non_striker: S Ravichandran
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 13.6:
+        non_striker: S Ravichandran
+        bowler: AV Lazarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 14.1:
+        non_striker: S Ravichandran
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+        wicket:
+          player_out: K Kadowaki-Fleming
+          fielders:
+          - K Senamontree
+          kind: caught
+    - 14.2:
+        non_striker: S Ravichandran
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 14.3:
+        non_striker: I Takahashi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 14.4:
+        non_striker: I Takahashi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 14.5:
+        non_striker: S Ravichandran
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 14.6:
+        non_striker: S Ravichandran
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 15.1:
+        non_striker: I Takahashi
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+        wicket:
+          player_out: S Ravichandran
+          fielders:
+          - P Suanchuai
+          kind: caught
+    - 15.2:
+        non_striker: I Takahashi
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ito-Davis
+    - 15.3:
+        non_striker: I Takahashi
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ito-Davis
+    - 15.4:
+        non_striker: B Ito-Davis
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+        wicket:
+          player_out: I Takahashi
+          fielders:
+          - S Desungnoen
+          kind: caught
+    - 15.5:
+        non_striker: B Ito-Davis
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Suzuki
+        wicket:
+          player_out: D Suzuki
+          fielders:
+          - Y Saranonnakkun
+          kind: caught
+    - 15.6:
+        non_striker: B Ito-Davis
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+    - 16.1:
+        non_striker: B Ito-Davis
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Miyauchi
+    - 16.2:
+        non_striker: B Ito-Davis
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+    - 16.3:
+        non_striker: W Miyauchi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ito-Davis
+    - 16.4:
+        non_striker: B Ito-Davis
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+    - 16.5:
+        non_striker: W Miyauchi
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ito-Davis
+    - 16.6:
+        non_striker: B Ito-Davis
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 17.1:
+        non_striker: W Miyauchi
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ito-Davis
+    - 17.2:
+        non_striker: W Miyauchi
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ito-Davis
+    - 17.3:
+        non_striker: W Miyauchi
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ito-Davis
+    - 17.4:
+        non_striker: B Ito-Davis
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 17.5:
+        non_striker: B Ito-Davis
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+        wicket:
+          player_out: W Miyauchi
+          kind: bowled
+    - 17.6:
+        non_striker: B Ito-Davis
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hinze
+    - 18.1:
+        non_striker: B Ito-Davis
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hinze
+    - 18.2:
+        non_striker: C Hinze
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ito-Davis
+    - 18.3:
+        non_striker: C Hinze
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ito-Davis
+    - 18.4:
+        non_striker: B Ito-Davis
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Hinze
+    - 18.5:
+        non_striker: B Ito-Davis
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Hinze
+    - 18.6:
+        non_striker: B Ito-Davis
+        bowler: MK Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hinze
+    - 19.1:
+        non_striker: C Hinze
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Ito-Davis
+    - 19.2:
+        non_striker: C Hinze
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ito-Davis
+    - 19.3:
+        non_striker: C Hinze
+        bowler: K Senamontree
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Ito-Davis
+    - 19.4:
+        non_striker: B Ito-Davis
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hinze
+    - 19.5:
+        non_striker: B Ito-Davis
+        bowler: K Senamontree
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: C Hinze
+    - 19.6:
+        non_striker: C Hinze
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ito-Davis
+- 2nd innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AP Yadav
+        batsman: S Desungnoen
+    - 0.2:
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AP Yadav
+        batsman: S Desungnoen
+    - 0.3:
+        non_striker: S Desungnoen
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 0.4:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 0.5:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 0.6:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 0.7:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.1:
+        non_striker: S Desungnoen
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 1.2:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.3:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.4:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 1.5:
+        non_striker: S Desungnoen
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 1.6:
+        non_striker: S Desungnoen
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 2.1:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Desungnoen
+    - 2.2:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Desungnoen
+    - 2.3:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 2.4:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Desungnoen
+    - 2.5:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Desungnoen
+    - 2.6:
+        non_striker: AP Yadav
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Desungnoen
+    - 3.1:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.2:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.3:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.4:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Desungnoen
+    - 3.5:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 3.6:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 4.1:
+        non_striker: S Desungnoen
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.2:
+        non_striker: S Desungnoen
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 4.3:
+        non_striker: S Desungnoen
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 4.4:
+        non_striker: AP Yadav
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 4.5:
+        non_striker: AP Yadav
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          fielders:
+          - W Miyauchi
+          kind: stumped
+    - 4.6:
+        non_striker: AP Yadav
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 5.1:
+        non_striker: Y Saranonnakkun
+        bowler: C Hinze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AP Yadav
+    - 5.2:
+        non_striker: Y Saranonnakkun
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 5.3:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Saranonnakkun
+    - 5.4:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 5.5:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 5.6:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Y Saranonnakkun
+    - 5.7:
+        non_striker: AP Yadav
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 6.1:
+        non_striker: AP Yadav
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 6.2:
+        non_striker: AP Yadav
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 6.3:
+        non_striker: Y Saranonnakkun
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 6.4:
+        non_striker: Y Saranonnakkun
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 6.5:
+        non_striker: AP Yadav
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Y Saranonnakkun
+    - 6.6:
+        non_striker: AP Yadav
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 7.1:
+        non_striker: Y Saranonnakkun
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Yadav
+    - 7.2:
+        non_striker: Y Saranonnakkun
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 7.3:
+        non_striker: AP Yadav
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 7.4:
+        non_striker: Y Saranonnakkun
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 7.5:
+        non_striker: AP Yadav
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Saranonnakkun
+    - 7.6:
+        non_striker: AP Yadav
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 8.1:
+        non_striker: AP Yadav
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 8.2:
+        non_striker: Y Saranonnakkun
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 8.3:
+        non_striker: Y Saranonnakkun
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Yadav
+    - 8.4:
+        non_striker: Y Saranonnakkun
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 8.5:
+        non_striker: AP Yadav
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          kind: bowled
+    - 8.6:
+        non_striker: AP Yadav
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 9.1:
+        non_striker: AV Lazarus
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Yadav
+    - 9.2:
+        non_striker: AV Lazarus
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+    - 9.3:
+        non_striker: AV Lazarus
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Yadav
+    - 9.4:
+        non_striker: AV Lazarus
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Yadav
+    - 9.5:
+        non_striker: AP Yadav
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AV Lazarus
+    - 9.6:
+        non_striker: AP Yadav
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 9.7:
+        non_striker: AV Lazarus
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Yadav
+        wicket:
+          player_out: AP Yadav
+          fielders:
+          - " (sub)"
+          kind: caught
+    - 9.8:
+        non_striker: AV Lazarus
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Chatphaisan
+    - 9.9:
+        non_striker: AV Lazarus
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 10.1:
+        non_striker: AV Lazarus
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chatphaisan
+    - 10.2:
+        non_striker: AV Lazarus
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 10.3:
+        non_striker: C Chatphaisan
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 10.4:
+        non_striker: AV Lazarus
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Chatphaisan
+    - 10.5:
+        non_striker: AV Lazarus
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - D Suzuki
+          kind: caught
+    - 10.6:
+        non_striker: AV Lazarus
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Suanchuai
+    - 10.7:
+        non_striker: AV Lazarus
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+        wicket:
+          player_out: P Suanchuai
+          fielders:
+          - Abhishek Anand
+          kind: caught
+    - 11.1:
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MK Thakur
+        batsman: AV Lazarus
+    - 11.2:
+        non_striker: AV Lazarus
+        bowler: B Ito-Davis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MK Thakur
+    - 11.3:
+        non_striker: MK Thakur
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 11.4:
+        non_striker: MK Thakur
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AV Lazarus
+    - 11.5:
+        non_striker: MK Thakur
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 11.6:
+        non_striker: MK Thakur
+        bowler: B Ito-Davis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 12.1:
+        non_striker: AV Lazarus
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 12.2:
+        non_striker: MK Thakur
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 12.3:
+        non_striker: AV Lazarus
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 12.4:
+        non_striker: MK Thakur
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 12.5:
+        non_striker: MK Thakur
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+    - 12.6:
+        non_striker: MK Thakur
+        bowler: S Ravichandran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 13.1:
+        non_striker: MK Thakur
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AV Lazarus
+    - 13.2:
+        non_striker: AV Lazarus
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 13.3:
+        non_striker: AV Lazarus
+        bowler: I Takahashi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MK Thakur
+    - 13.4:
+        non_striker: MK Thakur
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AV Lazarus
+        wicket:
+          player_out: AV Lazarus
+          fielders:
+          - S Sugaya-Slater
+          kind: caught
+    - 13.5:
+        non_striker: MK Thakur
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 13.6:
+        non_striker: MK Thakur
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 14.1:
+        non_striker: MK Thakur
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 14.2:
+        non_striker: MK Thakur
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 14.3:
+        non_striker: MK Thakur
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 14.4:
+        non_striker: P Thongsa
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MK Thakur
+    - 14.5:
+        non_striker: P Thongsa
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MK Thakur
+    - 14.6:
+        non_striker: P Thongsa
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK Thakur
+    - 15.1:
+        non_striker: P Thongsa
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 15.2:
+        non_striker: P Thongsa
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+    - 15.3:
+        non_striker: P Thongsa
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK Thakur
+        wicket:
+          player_out: MK Thakur
+          fielders:
+          - M Taniyama
+          kind: caught
+    - 15.4:
+        non_striker: P Thongsa
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 15.5:
+        non_striker: P Thongsa
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 15.6:
+        non_striker: N Senamontree
+        bowler: I Takahashi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 16.1:
+        non_striker: P Thongsa
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Senamontree
+    - 16.2:
+        non_striker: P Thongsa
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 16.3:
+        non_striker: N Senamontree
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 16.4:
+        non_striker: P Thongsa
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 16.5:
+        non_striker: N Senamontree
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+        wicket:
+          player_out: P Thongsa
+          fielders:
+          - K Kubota
+          kind: caught
+    - 16.6:
+        non_striker: N Senamontree
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 17.1:
+        non_striker: N Senamontree
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+        wicket:
+          player_out: K Senamontree
+          kind: bowled
+    - 17.2:
+        non_striker: N Senamontree
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 17.3:
+        non_striker: N Senamontree
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sarawut Maliwan
+    - 17.4:
+        non_striker: Sarawut Maliwan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 17.5:
+        non_striker: Sarawut Maliwan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 17.6:
+        non_striker: Sarawut Maliwan
+        bowler: C Hinze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 18.1:
+        non_striker: Sarawut Maliwan
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 18.2:
+        non_striker: Sarawut Maliwan
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 18.3:
+        non_striker: Sarawut Maliwan
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 18.4:
+        non_striker: N Senamontree
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 18.5:
+        non_striker: N Senamontree
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 18.6:
+        non_striker: N Senamontree
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 19.1:
+        non_striker: Sarawut Maliwan
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Senamontree
+    - 19.2:
+        non_striker: Sarawut Maliwan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 19.3:
+        non_striker: Sarawut Maliwan
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 19.4:
+        non_striker: N Senamontree
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 19.5:
+        non_striker: N Senamontree
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan
+    - 19.6:
+        non_striker: N Senamontree
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sarawut Maliwan
+    - 19.7:
+        non_striker: N Senamontree
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sarawut Maliwan

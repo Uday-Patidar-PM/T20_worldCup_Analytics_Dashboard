@@ -1,0 +1,1314 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Murcia
+  dates:
+  - '2025-12-06'
+  gender: male
+  match_type: T20
+  match_type_number: 3610
+  outcome:
+    winner: Spain
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Mohammad Atif
+  players:
+    Croatia:
+    - S Houghton
+    - A Beresford-Peirse
+    - Jaikumar Thakur
+    - Saghar Manzoor
+    - A Awasthi
+    - A Razmilic
+    - A Magdalenic
+    - A Curavic
+    - R Murugan
+    - D Svilicic
+    - Sajid Khan
+    Spain:
+    - Adnan Tahir
+    - D Doyle-Calle
+    - A Davidson Soler
+    - Hamza Dar
+    - C Munoz-Mills
+    - Yasir Ali
+    - GS Bajwa
+    - Mohammad Kamran
+    - LA Burns
+    - Mohammad Atif
+    - SJ Hughes-Pinan
+  registry:
+    people:
+      A Awasthi: 93544e69
+      A Beresford-Peirse: 4e7d882f
+      A Curavic: 8b3cf264
+      A Davidson Soler: 524943f1
+      A Magdalenic: d6a2f3a5
+      A Razmilic: d92fb332
+      Adnan Tahir: f6c411db
+      C Munoz-Mills: 17bc032c
+      D Doyle-Calle: 74be2916
+      D Svilicic: fa83d1b6
+      GS Bajwa: a2621507
+      Hamza Dar: 557550a4
+      Jaikumar Thakur: 18fcb85f
+      LA Burns: 5b616bf0
+      Mohammad Atif: 705b8c5c
+      Mohammad Kamran: 1a628a92
+      R Murugan: a2437e72
+      S Houghton: 4895df9e
+      SJ Hughes-Pinan: ca72ea31
+      Saghar Manzoor: 9d103769
+      Sajid Khan: '54909313'
+      Yasir Ali: '79209272'
+  teams:
+  - Croatia
+  - Spain
+  toss:
+    winner: Spain
+    decision: field
+  venue: La Manga Club Top Ground
+innings:
+- 1st innings:
+    team: Croatia
+    deliveries:
+    - 0.1:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Beresford-Peirse
+        batsman: S Houghton
+    - 0.2:
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Beresford-Peirse
+        batsman: S Houghton
+    - 0.3:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Houghton
+        wicket:
+          player_out: S Houghton
+          fielders:
+          - SJ Hughes-Pinan
+          kind: caught
+    - 0.4:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaikumar Thakur
+    - 0.5:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaikumar Thakur
+    - 0.6:
+        non_striker: Jaikumar Thakur
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 1.1:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaikumar Thakur
+    - 1.2:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaikumar Thakur
+    - 1.3:
+        non_striker: Jaikumar Thakur
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 1.4:
+        non_striker: Jaikumar Thakur
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 1.5:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaikumar Thakur
+    - 1.6:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaikumar Thakur
+    - 2.1:
+        non_striker: Jaikumar Thakur
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 2.2:
+        non_striker: Jaikumar Thakur
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Beresford-Peirse
+    - 2.3:
+        non_striker: Jaikumar Thakur
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 2.4:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaikumar Thakur
+    - 2.5:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaikumar Thakur
+        wicket:
+          player_out: Jaikumar Thakur
+          kind: bowled
+    - 2.6:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 3.1:
+        non_striker: Saghar Manzoor
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 3.2:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 3.3:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 3.4:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 3.5:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 3.6:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saghar Manzoor
+    - 4.1:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 4.2:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 4.3:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 4.4:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 4.5:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 4.6:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Kamran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 5.1:
+        non_striker: Saghar Manzoor
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 5.2:
+        non_striker: Saghar Manzoor
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Beresford-Peirse
+    - 5.3:
+        non_striker: Saghar Manzoor
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 5.4:
+        non_striker: Saghar Manzoor
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 5.5:
+        non_striker: Saghar Manzoor
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 5.6:
+        non_striker: Saghar Manzoor
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 6.1:
+        non_striker: Saghar Manzoor
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 6.2:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 6.3:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saghar Manzoor
+    - 6.4:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saghar Manzoor
+    - 6.5:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 6.6:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saghar Manzoor
+    - 6.7:
+        non_striker: Saghar Manzoor
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 7.1:
+        non_striker: Saghar Manzoor
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 7.2:
+        non_striker: Saghar Manzoor
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 7.3:
+        non_striker: Saghar Manzoor
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 7.4:
+        non_striker: Saghar Manzoor
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 7.5:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Saghar Manzoor
+    - 7.6:
+        non_striker: Saghar Manzoor
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Beresford-Peirse
+    - 7.7:
+        non_striker: Saghar Manzoor
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 8.1:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saghar Manzoor
+    - 8.2:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+    - 8.3:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saghar Manzoor
+        wicket:
+          player_out: Saghar Manzoor
+          fielders:
+          - D Doyle-Calle
+          kind: caught
+    - 8.4:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 8.5:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Awasthi
+    - 8.6:
+        non_striker: A Awasthi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 9.1:
+        non_striker: A Awasthi
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 9.2:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 9.3:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 9.4:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 9.5:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 9.6:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 10.1:
+        non_striker: A Awasthi
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 10.2:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 10.3:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 10.4:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 10.5:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 10.6:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 11.1:
+        non_striker: A Awasthi
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 11.2:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+    - 11.3:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Awasthi
+        wicket:
+          player_out: A Awasthi
+          kind: bowled
+    - 11.4:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Razmilic
+    - 11.5:
+        non_striker: A Razmilic
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 11.6:
+        non_striker: A Razmilic
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 12.1:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Razmilic
+    - 12.2:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Razmilic
+    - 12.3:
+        non_striker: A Razmilic
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Beresford-Peirse
+    - 12.4:
+        non_striker: A Razmilic
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 12.5:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Razmilic
+    - 12.6:
+        non_striker: A Beresford-Peirse
+        bowler: LA Burns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Razmilic
+        wicket:
+          player_out: A Razmilic
+          kind: bowled
+    - 13.1:
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Magdalenic
+        batsman: A Beresford-Peirse
+    - 13.2:
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Magdalenic
+        batsman: A Beresford-Peirse
+    - 13.3:
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Magdalenic
+        batsman: A Beresford-Peirse
+    - 13.4:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+    - 13.5:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Magdalenic
+        wicket:
+          player_out: A Magdalenic
+          fielders:
+          - Yasir Ali
+          kind: caught
+    - 13.6:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Curavic
+    - 14.1:
+        non_striker: A Curavic
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 14.2:
+        non_striker: A Curavic
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 14.3:
+        non_striker: A Curavic
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 14.4:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Curavic
+    - 14.5:
+        non_striker: A Curavic
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 14.6:
+        non_striker: A Curavic
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 15.1:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Curavic
+    - 15.2:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Curavic
+    - 15.3:
+        non_striker: A Curavic
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 15.4:
+        non_striker: A Curavic
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 15.5:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Curavic
+    - 15.6:
+        non_striker: A Beresford-Peirse
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Curavic
+    - 16.1:
+        non_striker: A Curavic
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+    - 16.2:
+        non_striker: A Curavic
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 16.3:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Curavic
+    - 16.4:
+        non_striker: A Curavic
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 16.5:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Curavic
+    - 16.6:
+        non_striker: A Beresford-Peirse
+        bowler: SJ Hughes-Pinan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Curavic
+    - 17.1:
+        non_striker: A Curavic
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Beresford-Peirse
+    - 17.2:
+        non_striker: A Curavic
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Beresford-Peirse
+    - 17.3:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Curavic
+        wicket:
+          player_out: A Curavic
+          fielders:
+          - Adnan Tahir
+          kind: caught
+    - 17.4:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Murugan
+    - 17.5:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Murugan
+    - 17.6:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Murugan
+        wicket:
+          player_out: R Murugan
+          kind: caught and bowled
+    - 17.7:
+        non_striker: A Beresford-Peirse
+        bowler: Yasir Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Svilicic
+    - 18.1:
+        non_striker: D Svilicic
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Beresford-Peirse
+        wicket:
+          player_out: A Beresford-Peirse
+          fielders:
+          - LA Burns
+          kind: caught
+    - 18.2:
+        non_striker: D Svilicic
+        bowler: Mohammad Atif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sajid Khan
+        wicket:
+          player_out: Sajid Khan
+          kind: lbw
+- 2nd innings:
+    team: Spain
+    deliveries:
+    - 0.1:
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Doyle-Calle
+        batsman: Adnan Tahir
+    - 0.2:
+        non_striker: Adnan Tahir
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 0.3:
+        non_striker: Adnan Tahir
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 0.4:
+        non_striker: Adnan Tahir
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 0.5:
+        non_striker: D Doyle-Calle
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Adnan Tahir
+    - 0.6:
+        non_striker: D Doyle-Calle
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adnan Tahir
+    - 0.7:
+        non_striker: Adnan Tahir
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Doyle-Calle
+    - 1.1:
+        non_striker: D Doyle-Calle
+        bowler: A Curavic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Adnan Tahir
+    - 1.2:
+        non_striker: D Doyle-Calle
+        bowler: A Curavic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adnan Tahir
+    - 1.3:
+        non_striker: D Doyle-Calle
+        bowler: A Curavic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adnan Tahir
+        wicket:
+          player_out: Adnan Tahir
+          fielders:
+          - A Beresford-Peirse
+          kind: caught
+    - 1.4:
+        non_striker: D Doyle-Calle
+        bowler: A Curavic
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Davidson Soler
+    - 1.5:
+        non_striker: D Doyle-Calle
+        bowler: A Curavic
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Davidson Soler
+    - 1.6:
+        non_striker: A Davidson Soler
+        bowler: A Curavic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 2.1:
+        non_striker: D Doyle-Calle
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 2.2:
+        non_striker: A Davidson Soler
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 2.3:
+        non_striker: A Davidson Soler
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Doyle-Calle
+    - 2.4:
+        non_striker: A Davidson Soler
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Doyle-Calle
+    - 2.5:
+        non_striker: A Davidson Soler
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Doyle-Calle
+    - 2.6:
+        non_striker: A Davidson Soler
+        bowler: A Beresford-Peirse
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle
+    - 3.1:
+        non_striker: D Doyle-Calle
+        bowler: A Magdalenic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Davidson Soler
+    - 3.2:
+        non_striker: D Doyle-Calle
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Davidson Soler
+    - 3.3:
+        non_striker: D Doyle-Calle
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Davidson Soler
+    - 3.4:
+        non_striker: D Doyle-Calle
+        bowler: A Magdalenic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Davidson Soler
+    - 3.5:
+        non_striker: D Doyle-Calle
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Davidson Soler
+    - 3.6:
+        non_striker: D Doyle-Calle
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 3.7:
+        non_striker: A Davidson Soler
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Doyle-Calle
+    - 3.8:
+        non_striker: D Doyle-Calle
+        bowler: A Magdalenic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 4.1:
+        non_striker: D Doyle-Calle
+        bowler: A Razmilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Davidson Soler
+    - 4.2:
+        non_striker: D Doyle-Calle
+        bowler: A Razmilic
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Davidson Soler
+    - 4.3:
+        non_striker: D Doyle-Calle
+        bowler: A Razmilic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Davidson Soler
+    - 4.4:
+        non_striker: D Doyle-Calle
+        bowler: A Razmilic
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Davidson Soler
+    - 4.5:
+        non_striker: D Doyle-Calle
+        bowler: A Razmilic
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Davidson Soler
+    - 4.6:
+        non_striker: A Davidson Soler
+        bowler: A Razmilic
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Doyle-Calle

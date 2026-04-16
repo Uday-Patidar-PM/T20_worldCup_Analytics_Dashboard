@@ -1,0 +1,2134 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  dates:
+  - '2026-02-11'
+  gender: male
+  match_type: T20
+  match_type_number: 3700
+  outcome:
+    winner: West Indies
+    by:
+      runs: 30
+  overs: 20
+  player_of_match:
+  - SE Rutherford
+  players:
+    West Indies:
+    - BA King
+    - SD Hope
+    - SO Hetmyer
+    - RL Chase
+    - SE Rutherford
+    - R Powell
+    - JO Holder
+    - R Shepherd
+    - AJ Hosein
+    - G Motie
+    - S Joseph
+    England:
+    - PD Salt
+    - JC Buttler
+    - JG Bethell
+    - T Banton
+    - HC Brook
+    - SM Curran
+    - WG Jacks
+    - J Overton
+    - JC Archer
+    - LA Dawson
+    - AU Rashid
+  registry:
+    people:
+      A Paleker: 634b11ac
+      AJ Hosein: 4d7f517e
+      AU Rashid: 249d60c9
+      BA King: 7fca84b7
+      CM Brown: 448f4f1c
+      DM Koch: 6d10c034
+      G Motie: 97bdec3d
+      HC Brook: 4ae1755b
+      J Overton: 59559bc2
+      J Srinath: bad31fac
+      JC Archer: 5574750c
+      JC Buttler: 99b75528
+      JG Bethell: 3c55c703
+      JO Holder: 0f721006
+      LA Dawson: 4a461c24
+      PD Salt: 3d284ca3
+      R Powell: 650d5e49
+      R Shepherd: c5aef772
+      RL Chase: 3feda4fa
+      S Joseph: 97290faf
+      SD Hope: 1fc6ef83
+      SE Rutherford: d014d5ac
+      SJ Nogajski: 9b3f9323
+      SM Curran: e94915e6
+      SO Hetmyer: 48a1d7b7
+      T Banton: 25f7b7d6
+      WG Jacks: 9caf69a1
+  teams:
+  - West Indies
+  - England
+  toss:
+    winner: England
+    decision: field
+  umpires:
+  - A Paleker
+  - DM Koch
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: SD Hope
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 0.2:
+        non_striker: SD Hope
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.3:
+        non_striker: SD Hope
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 0.4:
+        non_striker: BA King
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.5:
+        non_striker: BA King
+        bowler: JC Archer
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SD Hope
+    - 0.6:
+        non_striker: BA King
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SD Hope
+    - 0.7:
+        non_striker: BA King
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.8:
+        non_striker: BA King
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          fielders:
+          - T Banton
+          kind: caught
+    - 0.9:
+        non_striker: BA King
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 1.1:
+        non_striker: SO Hetmyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          fielders:
+          - PD Salt
+          kind: caught
+    - 1.2:
+        non_striker: SO Hetmyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Chase
+    - 1.3:
+        non_striker: SO Hetmyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 1.4:
+        non_striker: SO Hetmyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 1.5:
+        non_striker: SO Hetmyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 1.6:
+        non_striker: SO Hetmyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 2.1:
+        non_striker: RL Chase
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 2.2:
+        non_striker: RL Chase
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 2.3:
+        non_striker: SO Hetmyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 2.4:
+        non_striker: SO Hetmyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 2.5:
+        non_striker: SO Hetmyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 2.6:
+        non_striker: SO Hetmyer
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 3.1:
+        non_striker: RL Chase
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 3.2:
+        non_striker: RL Chase
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 3.3:
+        non_striker: RL Chase
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 3.4:
+        non_striker: RL Chase
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 3.5:
+        non_striker: RL Chase
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 3.6:
+        non_striker: SO Hetmyer
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 4.1:
+        non_striker: SO Hetmyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 4.2:
+        non_striker: SO Hetmyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 4.3:
+        non_striker: SO Hetmyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 4.4:
+        non_striker: SO Hetmyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 4.5:
+        non_striker: SO Hetmyer
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 4.6:
+        non_striker: RL Chase
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 5.1:
+        non_striker: SO Hetmyer
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 5.2:
+        non_striker: SO Hetmyer
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 5.3:
+        non_striker: RL Chase
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 5.4:
+        non_striker: RL Chase
+        bowler: J Overton
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SO Hetmyer
+    - 5.5:
+        non_striker: RL Chase
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - SM Curran
+          kind: caught
+    - 5.6:
+        non_striker: RL Chase
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 6.1:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.2:
+        non_striker: RL Chase
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 6.3:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 6.4:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 6.5:
+        non_striker: RL Chase
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 6.6:
+        non_striker: RL Chase
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 7.1:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.2:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 7.3:
+        non_striker: RL Chase
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 7.4:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 7.5:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 7.6:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+    - 8.1:
+        non_striker: RL Chase
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 8.2:
+        non_striker: RL Chase
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 8.3:
+        non_striker: RL Chase
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 8.4:
+        non_striker: SE Rutherford
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Chase
+    - 8.5:
+        non_striker: SE Rutherford
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 8.6:
+        non_striker: RL Chase
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 9.1:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Chase
+    - 9.2:
+        non_striker: RL Chase
+        bowler: AU Rashid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 9.3:
+        non_striker: RL Chase
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 9.4:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Chase
+        wicket:
+          player_out: RL Chase
+          kind: lbw
+    - 9.5:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.6:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 9.7:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Powell
+    - 10.1:
+        non_striker: R Powell
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 10.2:
+        non_striker: SE Rutherford
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.3:
+        non_striker: SE Rutherford
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 10.4:
+        non_striker: R Powell
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 10.5:
+        non_striker: SE Rutherford
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 10.6:
+        non_striker: SE Rutherford
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.1:
+        non_striker: SE Rutherford
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 11.2:
+        non_striker: R Powell
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 11.3:
+        non_striker: R Powell
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 11.4:
+        non_striker: R Powell
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 11.5:
+        non_striker: R Powell
+        bowler: WG Jacks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 11.6:
+        non_striker: R Powell
+        bowler: WG Jacks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SE Rutherford
+    - 12.1:
+        non_striker: R Powell
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 12.2:
+        non_striker: SE Rutherford
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 12.3:
+        non_striker: SE Rutherford
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 12.4:
+        non_striker: R Powell
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 12.5:
+        non_striker: R Powell
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 12.6:
+        non_striker: SE Rutherford
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 13.1:
+        non_striker: R Powell
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 13.2:
+        non_striker: R Powell
+        bowler: LA Dawson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 13.3:
+        non_striker: R Powell
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.4:
+        non_striker: R Powell
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 13.5:
+        non_striker: R Powell
+        bowler: LA Dawson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SE Rutherford
+    - 13.6:
+        non_striker: R Powell
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 13.7:
+        non_striker: R Powell
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 13.8:
+        non_striker: SE Rutherford
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 14.1:
+        non_striker: R Powell
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 14.2:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - J Overton
+          kind: caught
+    - 14.3:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 14.4:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 14.5:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 14.6:
+        non_striker: JO Holder
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.1:
+        non_striker: JO Holder
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Rutherford
+    - 15.2:
+        non_striker: JO Holder
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 15.3:
+        non_striker: JO Holder
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 15.4:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 15.5:
+        non_striker: JO Holder
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 15.6:
+        non_striker: JO Holder
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Rutherford
+    - 16.1:
+        non_striker: SE Rutherford
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 16.2:
+        non_striker: SE Rutherford
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 16.3:
+        non_striker: SE Rutherford
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 16.4:
+        non_striker: SE Rutherford
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 16.5:
+        non_striker: JO Holder
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 16.6:
+        non_striker: SE Rutherford
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 17.1:
+        non_striker: JO Holder
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 17.2:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 17.3:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 17.4:
+        non_striker: SE Rutherford
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 17.5:
+        non_striker: JO Holder
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 17.6:
+        non_striker: JO Holder
+        bowler: AU Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 18.1:
+        non_striker: JO Holder
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 18.2:
+        non_striker: SE Rutherford
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Holder
+    - 18.3:
+        non_striker: SE Rutherford
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.4:
+        non_striker: JO Holder
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+    - 18.5:
+        non_striker: JO Holder
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SE Rutherford
+    - 18.6:
+        non_striker: JO Holder
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 19.1:
+        non_striker: JO Holder
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Rutherford
+    - 19.2:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JO Holder
+    - 19.3:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 19.4:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+        wicket:
+          player_out: JO Holder
+          fielders:
+          - T Banton
+          kind: caught
+    - 19.5:
+        non_striker: SE Rutherford
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 19.6:
+        non_striker: R Shepherd
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Rutherford
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 0.2:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.3:
+        non_striker: PD Salt
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 0.4:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 0.5:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 0.6:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Salt
+    - 1.1:
+        non_striker: JC Buttler
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 1.2:
+        non_striker: JC Buttler
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 1.3:
+        non_striker: JC Buttler
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 1.4:
+        non_striker: JC Buttler
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 1.5:
+        non_striker: JC Buttler
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Salt
+    - 1.6:
+        non_striker: JC Buttler
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 2.1:
+        non_striker: PD Salt
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.2:
+        non_striker: PD Salt
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.3:
+        non_striker: PD Salt
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 2.4:
+        non_striker: PD Salt
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.5:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 2.6:
+        non_striker: PD Salt
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 3.1:
+        non_striker: JC Buttler
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 3.2:
+        non_striker: JC Buttler
+        bowler: R Shepherd
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PD Salt
+    - 3.3:
+        non_striker: JC Buttler
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - SE Rutherford
+          kind: caught
+    - 3.4:
+        non_striker: JC Buttler
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 3.5:
+        non_striker: JG Bethell
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 3.6:
+        non_striker: JC Buttler
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 3.7:
+        non_striker: JC Buttler
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 4.1:
+        non_striker: JG Bethell
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.2:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 4.3:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 4.4:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 4.5:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 4.6:
+        non_striker: JC Buttler
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 5.1:
+        non_striker: JC Buttler
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 5.2:
+        non_striker: JG Bethell
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 5.3:
+        non_striker: JC Buttler
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 5.4:
+        non_striker: JC Buttler
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 5.5:
+        non_striker: JG Bethell
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 5.6:
+        non_striker: JG Bethell
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 6.1:
+        non_striker: JC Buttler
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 6.2:
+        non_striker: JG Bethell
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 6.3:
+        non_striker: JG Bethell
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 6.4:
+        non_striker: JG Bethell
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - R Powell
+          kind: caught
+    - 6.5:
+        non_striker: JG Bethell
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 6.6:
+        non_striker: T Banton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 7.1:
+        non_striker: T Banton
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 7.2:
+        non_striker: JG Bethell
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+    - 7.3:
+        non_striker: JG Bethell
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Banton
+    - 7.4:
+        non_striker: T Banton
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 7.5:
+        non_striker: T Banton
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 7.6:
+        non_striker: JG Bethell
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          fielders:
+          - BA King
+          kind: caught
+    - 8.1:
+        non_striker: HC Brook
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 8.2:
+        non_striker: HC Brook
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 8.3:
+        non_striker: HC Brook
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 8.4:
+        non_striker: HC Brook
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 8.5:
+        non_striker: JG Bethell
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 8.6:
+        non_striker: HC Brook
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 9.1:
+        non_striker: HC Brook
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 9.2:
+        non_striker: JG Bethell
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 9.3:
+        non_striker: HC Brook
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          kind: bowled
+    - 9.4:
+        non_striker: HC Brook
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 9.5:
+        non_striker: SM Curran
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 9.6:
+        non_striker: HC Brook
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.1:
+        non_striker: HC Brook
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 10.2:
+        non_striker: HC Brook
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 10.3:
+        non_striker: SM Curran
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 10.4:
+        non_striker: HC Brook
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 10.5:
+        non_striker: HC Brook
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 10.6:
+        non_striker: HC Brook
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 11.1:
+        non_striker: SM Curran
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 11.2:
+        non_striker: SM Curran
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 11.3:
+        non_striker: HC Brook
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 11.4:
+        non_striker: SM Curran
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Brook
+    - 11.5:
+        non_striker: SM Curran
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 11.6:
+        non_striker: HC Brook
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Curran
+    - 12.1:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 12.2:
+        non_striker: HC Brook
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 12.3:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Brook
+    - 12.4:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+    - 12.5:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: HC Brook
+    - 12.6:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Brook
+    - 12.7:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 12.8:
+        non_striker: HC Brook
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 13.1:
+        non_striker: SM Curran
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Brook
+    - 13.2:
+        non_striker: HC Brook
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 13.3:
+        non_striker: HC Brook
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 13.4:
+        non_striker: HC Brook
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 13.5:
+        non_striker: SM Curran
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Brook
+        wicket:
+          player_out: HC Brook
+          kind: caught and bowled
+    - 13.6:
+        non_striker: SM Curran
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 14.1:
+        non_striker: WG Jacks
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 14.2:
+        non_striker: WG Jacks
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 14.3:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WG Jacks
+    - 14.4:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          kind: lbw
+    - 14.5:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+    - 14.6:
+        non_striker: SM Curran
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 15.1:
+        non_striker: SM Curran
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 15.2:
+        non_striker: J Overton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.3:
+        non_striker: SM Curran
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Overton
+    - 15.4:
+        non_striker: SM Curran
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Overton
+    - 15.5:
+        non_striker: J Overton
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 15.6:
+        non_striker: SM Curran
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Overton
+        wicket:
+          player_out: J Overton
+          fielders:
+          - R Powell
+          kind: caught
+    - 16.1:
+        non_striker: JC Archer
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 16.2:
+        non_striker: SM Curran
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 16.3:
+        non_striker: JC Archer
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 16.4:
+        non_striker: SM Curran
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Archer
+    - 16.5:
+        non_striker: SM Curran
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 16.6:
+        non_striker: JC Archer
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 17.1:
+        non_striker: JC Archer
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 17.2:
+        non_striker: SM Curran
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - JO Holder
+          kind: run out
+    - 17.3:
+        non_striker: LA Dawson
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 17.4:
+        non_striker: SM Curran
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 17.5:
+        non_striker: LA Dawson
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Curran
+    - 17.6:
+        non_striker: LA Dawson
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 18.1:
+        non_striker: LA Dawson
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 18.2:
+        non_striker: LA Dawson
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+    - 18.3:
+        non_striker: LA Dawson
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+        wicket:
+          player_out: LA Dawson
+          fielders:
+          - JO Holder
+          - S Joseph
+          kind: run out
+    - 18.4:
+        non_striker: AU Rashid
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 18.5:
+        non_striker: AU Rashid
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Curran
+    - 18.6:
+        non_striker: SM Curran
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AU Rashid
+        wicket:
+          player_out: AU Rashid
+          fielders:
+          - RL Chase
+          kind: caught

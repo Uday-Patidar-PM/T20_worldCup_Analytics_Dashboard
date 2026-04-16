@@ -1,0 +1,1804 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Delhi
+  dates:
+  - '2026-02-18'
+  gender: male
+  match_type: T20
+  match_type_number: 3721
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - C Bosch
+  players:
+    United Arab Emirates:
+    - A Sharma
+    - Waseem Muhammad
+    - A Sharafu
+    - Shoaib Khan
+    - Syed Haider
+    - Muhammad Arfan
+    - D Parashar
+    - Muhammad Farooq
+    - Haider Ali
+    - Junaid Siddique
+    - Muhammad Jawadullah
+    South Africa:
+    - AK Markram
+    - Q de Kock
+    - RD Rickelton
+    - D Brevis
+    - T Stubbs
+    - JF Smith
+    - GF Linde
+    - C Bosch
+    - K Rabada
+    - A Nortje
+    - KT Maphaka
+  registry:
+    people:
+      A Nortje: acdc62f5
+      A Sharafu: 06cad4f0
+      A Sharma: 5661ef90
+      AK Markram: 6a26221c
+      C Bosch: 172dff15
+      D Brevis: 844e79d1
+      D Parashar: 395179e8
+      GF Linde: e5437608
+      H Kaushik: 2bfec670
+      Haider Ali: dd572696
+      J Srinath: bad31fac
+      JF Smith: 91cd48e0
+      Junaid Siddique: 84dc72db
+      K Rabada: e62dd25d
+      KT Maphaka: 107c26fb
+      LS Reifer: 5dee559a
+      Muhammad Arfan: 1294ee6d
+      Muhammad Farooq: 8f3c6b8a
+      Muhammad Jawadullah: '098a757c'
+      PR Reiffel: c9354f29
+      Q de Kock: 372455c4
+      R Black: 156c8fb1
+      RD Rickelton: e66732f8
+      RJ Tucker: 38810cfc
+      Shoaib Khan: fdee4a01
+      Syed Haider: ab23a6a1
+      T Stubbs: 85b3fab2
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - United Arab Emirates
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - LS Reifer
+  - RJ Tucker
+  venue: Arun Jaitley Stadium, Delhi
+innings:
+- 1st innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 0.2:
+        non_striker: Waseem Muhammad
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 0.3:
+        non_striker: Waseem Muhammad
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharma
+    - 0.4:
+        non_striker: Waseem Muhammad
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 0.5:
+        non_striker: Waseem Muhammad
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 0.6:
+        non_striker: Waseem Muhammad
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 1.1:
+        non_striker: A Sharma
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 1.2:
+        non_striker: A Sharma
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: A Sharma
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 1.4:
+        non_striker: A Sharma
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 1.5:
+        non_striker: A Sharma
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 1.6:
+        non_striker: A Sharma
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.7:
+        non_striker: Waseem Muhammad
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 1.8:
+        non_striker: Waseem Muhammad
+        bowler: KT Maphaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sharma
+    - 1.9:
+        non_striker: Waseem Muhammad
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 2.1:
+        non_striker: A Sharma
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 2.2:
+        non_striker: A Sharma
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 2.3:
+        non_striker: A Sharma
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 2.4:
+        non_striker: A Sharma
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.5:
+        non_striker: A Sharma
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharma
+    - 3.1:
+        non_striker: Waseem Muhammad
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharma
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 3.4:
+        non_striker: Waseem Muhammad
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 3.5:
+        non_striker: Waseem Muhammad
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharma
+    - 3.6:
+        non_striker: A Sharma
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.1:
+        non_striker: A Sharma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.2:
+        non_striker: Waseem Muhammad
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharma
+    - 4.3:
+        non_striker: A Sharma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          kind: lbw
+    - 4.4:
+        non_striker: A Sharma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.5:
+        non_striker: A Sharma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 4.6:
+        non_striker: A Sharma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 5.1:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 5.2:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+        wicket:
+          player_out: A Sharma
+          fielders:
+          - KT Maphaka
+          kind: caught
+    - 5.3:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 5.4:
+        non_striker: Shoaib Khan
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 5.5:
+        non_striker: Shoaib Khan
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 5.6:
+        non_striker: Shoaib Khan
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 6.1:
+        non_striker: Shoaib Khan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 6.2:
+        non_striker: A Sharafu
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 6.3:
+        non_striker: Shoaib Khan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 6.4:
+        non_striker: A Sharafu
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 6.5:
+        non_striker: Shoaib Khan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 6.6:
+        non_striker: Shoaib Khan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 7.1:
+        non_striker: A Sharafu
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 7.2:
+        non_striker: A Sharafu
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 7.3:
+        non_striker: Shoaib Khan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 7.4:
+        non_striker: Shoaib Khan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharafu
+    - 7.5:
+        non_striker: Shoaib Khan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 7.6:
+        non_striker: A Sharafu
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 8.1:
+        non_striker: Shoaib Khan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 8.2:
+        non_striker: Shoaib Khan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 8.3:
+        non_striker: A Sharafu
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 8.4:
+        non_striker: A Sharafu
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 8.5:
+        non_striker: Shoaib Khan
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 8.6:
+        non_striker: A Sharafu
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 9.1:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 9.2:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+        wicket:
+          player_out: Shoaib Khan
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 9.3:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Syed Haider
+    - 9.4:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+    - 9.5:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+    - 9.6:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+    - 10.1:
+        non_striker: Syed Haider
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 10.2:
+        non_striker: A Sharafu
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Haider
+    - 10.3:
+        non_striker: Syed Haider
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 10.4:
+        non_striker: Syed Haider
+        bowler: KT Maphaka
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: A Sharafu
+    - 10.5:
+        non_striker: Syed Haider
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 10.6:
+        non_striker: A Sharafu
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+    - 11.1:
+        non_striker: Syed Haider
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 11.2:
+        non_striker: A Sharafu
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+    - 11.3:
+        non_striker: A Sharafu
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Haider
+    - 11.4:
+        non_striker: Syed Haider
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 11.5:
+        non_striker: Syed Haider
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 11.6:
+        non_striker: A Sharafu
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+    - 12.1:
+        non_striker: Syed Haider
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 12.2:
+        non_striker: A Sharafu
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+    - 12.3:
+        non_striker: A Sharafu
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+    - 12.4:
+        non_striker: A Sharafu
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+    - 12.5:
+        non_striker: A Sharafu
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Haider
+    - 12.6:
+        non_striker: Syed Haider
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.1:
+        non_striker: Syed Haider
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.2:
+        non_striker: A Sharafu
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Haider
+    - 13.3:
+        non_striker: Syed Haider
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 13.4:
+        non_striker: A Sharafu
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Haider
+        wicket:
+          player_out: Syed Haider
+          fielders:
+          - KT Maphaka
+          kind: caught
+    - 13.5:
+        non_striker: A Sharafu
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 13.6:
+        non_striker: Muhammad Arfan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 14.1:
+        non_striker: Muhammad Arfan
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 14.2:
+        non_striker: Muhammad Arfan
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 14.3:
+        non_striker: A Sharafu
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+    - 14.4:
+        non_striker: A Sharafu
+        bowler: KT Maphaka
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Muhammad Arfan
+    - 14.5:
+        non_striker: A Sharafu
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 14.6:
+        non_striker: Muhammad Arfan
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 14.7:
+        non_striker: A Sharafu
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 15.1:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+    - 15.2:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+    - 15.3:
+        non_striker: A Sharafu
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 15.4:
+        non_striker: Muhammad Arfan
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 15.5:
+        non_striker: Muhammad Arfan
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 15.6:
+        non_striker: Muhammad Arfan
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 16.1:
+        non_striker: A Sharafu
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 16.2:
+        non_striker: Muhammad Arfan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 16.3:
+        non_striker: A Sharafu
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+    - 16.4:
+        non_striker: A Sharafu
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+    - 16.5:
+        non_striker: A Sharafu
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 16.6:
+        non_striker: Muhammad Arfan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 17.1:
+        non_striker: A Sharafu
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 17.2:
+        non_striker: Muhammad Arfan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 17.3:
+        non_striker: A Sharafu
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 17.4:
+        non_striker: Muhammad Arfan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+        wicket:
+          player_out: A Sharafu
+          fielders:
+          - KT Maphaka
+          kind: caught
+    - 17.5:
+        non_striker: Muhammad Arfan
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 17.6:
+        non_striker: D Parashar
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 18.1:
+        non_striker: D Parashar
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+    - 18.2:
+        non_striker: D Parashar
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 18.3:
+        non_striker: Muhammad Arfan
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 18.4:
+        non_striker: Muhammad Arfan
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 18.5:
+        non_striker: D Parashar
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Arfan
+    - 18.6:
+        non_striker: Muhammad Arfan
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 19.1:
+        non_striker: Muhammad Arfan
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 19.2:
+        non_striker: D Parashar
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Arfan
+        wicket:
+          player_out: Muhammad Arfan
+          fielders:
+          - JF Smith
+          kind: caught
+    - 19.3:
+        non_striker: D Parashar
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Farooq
+    - 19.4:
+        non_striker: Muhammad Farooq
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 19.5:
+        non_striker: Muhammad Farooq
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 19.6:
+        non_striker: D Parashar
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Muhammad Farooq
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 0.2:
+        non_striker: AK Markram
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: AK Markram
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: AK Markram
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: AK Markram
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: AK Markram
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 1.5:
+        non_striker: AK Markram
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: AK Markram
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Markram
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          kind: bowled
+    - 3.1:
+        non_striker: RD Rickelton
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: Q de Kock
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.3:
+        non_striker: Q de Kock
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 3.4:
+        non_striker: RD Rickelton
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: Q de Kock
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.1:
+        non_striker: RD Rickelton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: RD Rickelton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: RD Rickelton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 4.4:
+        non_striker: RD Rickelton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.5:
+        non_striker: RD Rickelton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: RD Rickelton
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Rickelton
+    - 5.3:
+        non_striker: Q de Kock
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 5.4:
+        non_striker: RD Rickelton
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - Syed Haider
+          kind: caught
+    - 5.5:
+        non_striker: RD Rickelton
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 5.6:
+        non_striker: RD Rickelton
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.1:
+        non_striker: D Brevis
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.2:
+        non_striker: RD Rickelton
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 6.3:
+        non_striker: RD Rickelton
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 6.4:
+        non_striker: D Brevis
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.5:
+        non_striker: RD Rickelton
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.6:
+        non_striker: RD Rickelton
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.1:
+        non_striker: RD Rickelton
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 7.2:
+        non_striker: RD Rickelton
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.3:
+        non_striker: RD Rickelton
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.4:
+        non_striker: RD Rickelton
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 7.5:
+        non_striker: RD Rickelton
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.6:
+        non_striker: RD Rickelton
+        bowler: Muhammad Jawadullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.1:
+        non_striker: RD Rickelton
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 8.2:
+        non_striker: RD Rickelton
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 8.3:
+        non_striker: RD Rickelton
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 8.4:
+        non_striker: RD Rickelton
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 8.5:
+        non_striker: RD Rickelton
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 8.6:
+        non_striker: D Brevis
+        bowler: Haider Ali
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: RD Rickelton
+    - 9.1:
+        non_striker: RD Rickelton
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.2:
+        non_striker: D Brevis
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 9.3:
+        non_striker: RD Rickelton
+        bowler: Muhammad Arfan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 9.4:
+        non_striker: RD Rickelton
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 9.5:
+        non_striker: RD Rickelton
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 9.6:
+        non_striker: RD Rickelton
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.7:
+        non_striker: D Brevis
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 10.1:
+        non_striker: D Brevis
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 10.2:
+        non_striker: D Brevis
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 10.3:
+        non_striker: D Brevis
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 10.4:
+        non_striker: D Brevis
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - D Parashar
+          kind: caught
+    - 10.5:
+        non_striker: D Brevis
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.6:
+        non_striker: T Stubbs
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.1:
+        non_striker: T Stubbs
+        bowler: Muhammad Arfan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 11.2:
+        non_striker: T Stubbs
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 11.3:
+        non_striker: T Stubbs
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.4:
+        non_striker: D Brevis
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 11.5:
+        non_striker: T Stubbs
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - H Kaushik (sub)
+          kind: caught
+    - 11.6:
+        non_striker: T Stubbs
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 11.7:
+        non_striker: T Stubbs
+        bowler: Muhammad Arfan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 12.1:
+        non_striker: JF Smith
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 12.2:
+        non_striker: T Stubbs
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 12.3:
+        non_striker: JF Smith
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 12.4:
+        non_striker: T Stubbs
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 12.5:
+        non_striker: JF Smith
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 12.6:
+        non_striker: JF Smith
+        bowler: Muhammad Farooq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.1:
+        non_striker: JF Smith
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.2:
+        non_striker: T Stubbs
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith

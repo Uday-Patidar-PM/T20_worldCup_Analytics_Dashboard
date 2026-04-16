@@ -1,0 +1,1651 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-12-10'
+  gender: male
+  match_type: T20
+  match_type_number: 3624
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Indonesia:
+    - GA Priandana
+    - KD Kesuma
+    - Anjar Tadarus
+    - IK Gamantika
+    - Ahmad Ramdoni
+    - GD Arta
+    - IKEG Artawan
+    - F Banunaek
+    - DGAPD Wiswi
+    - DJ Hawoe
+    - A Alexander
+    Malaysia:
+    - Muhammad Haziq Aiman
+    - Zubaidi Zulkifle
+    - Ahmed Faiz
+    - Muhammad Amir
+    - Amir Khan
+    - Virandeep Singh
+    - S Muniandy
+    - Pavandeep Singh
+    - S Vijay Unni
+    - M Syahadat Ramli
+    - Syed Aziz
+  registry:
+    people:
+      A Alexander: ef6d6883
+      A Natarajan: a2b73ae0
+      AK Rana: 562d74d0
+      Ahmad Ramdoni: b5f30525
+      Ahmed Faiz: f6b4f746
+      Amir Khan: a7bc0f3d
+      Anjar Tadarus: '72275237'
+      DGAPD Wiswi: d3d096f5
+      DJ Hawoe: a62f55ba
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      IK Gamantika: 4d7c5b56
+      IKEG Artawan: 190957d2
+      KD Kesuma: 4b349dc0
+      M Syahadat Ramli: 5efa8af3
+      Muhammad Amir: 60bec5c3
+      Muhammad Haziq Aiman: 1f13eba1
+      Pavandeep Singh: 78fcc740
+      S Muniandy: 57fcfd3b
+      S Vijay Unni: f737ab44
+      Samad Akbar: f05bd21b
+      Sarika Prasad: 8ff397fa
+      Syed Aziz: 6667067e
+      V Kalidas: 42d76418
+      Virandeep Singh: 415d30b6
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Indonesia
+  - Malaysia
+  toss:
+    winner: Malaysia
+    decision: field
+  umpires:
+  - A Natarajan
+  - AK Rana
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KD Kesuma
+        batsman: GA Priandana
+    - 0.2:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 0.3:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 0.4:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 0.5:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 0.6:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 1.1:
+        non_striker: KD Kesuma
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.2:
+        non_striker: KD Kesuma
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.3:
+        non_striker: KD Kesuma
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.4:
+        non_striker: KD Kesuma
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GA Priandana
+    - 1.5:
+        non_striker: GA Priandana
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 1.6:
+        non_striker: KD Kesuma
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 2.1:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.2:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.3:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          kind: bowled
+    - 2.4:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 2.5:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 2.6:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 3.1:
+        non_striker: Anjar Tadarus
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 3.2:
+        non_striker: Anjar Tadarus
+        bowler: Syed Aziz
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: GA Priandana
+    - 3.3:
+        non_striker: GA Priandana
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anjar Tadarus
+    - 3.4:
+        non_striker: GA Priandana
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anjar Tadarus
+    - 3.5:
+        non_striker: GA Priandana
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 3.6:
+        non_striker: Anjar Tadarus
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GA Priandana
+    - 3.7:
+        non_striker: Anjar Tadarus
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 3.8:
+        non_striker: Anjar Tadarus
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 3.9:
+        non_striker: Anjar Tadarus
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 3.10:
+        non_striker: Anjar Tadarus
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 4.1:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 4.2:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 4.3:
+        non_striker: Anjar Tadarus
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 4.4:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 4.5:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anjar Tadarus
+    - 4.6:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 4.7:
+        non_striker: GA Priandana
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 5.1:
+        non_striker: GA Priandana
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 5.2:
+        non_striker: GA Priandana
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anjar Tadarus
+    - 5.3:
+        non_striker: GA Priandana
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 5.4:
+        non_striker: GA Priandana
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anjar Tadarus
+    - 5.5:
+        non_striker: GA Priandana
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 5.6:
+        non_striker: GA Priandana
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 6.1:
+        non_striker: Anjar Tadarus
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          fielders:
+          - Amir Khan
+          kind: caught
+    - 6.2:
+        non_striker: Anjar Tadarus
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+        wicket:
+          player_out: IK Gamantika
+          fielders:
+          - Muhammad Haziq Aiman
+          kind: stumped
+    - 6.3:
+        non_striker: Anjar Tadarus
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 6.4:
+        non_striker: Anjar Tadarus
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 6.5:
+        non_striker: Ahmad Ramdoni
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 6.6:
+        non_striker: Ahmad Ramdoni
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+        wicket:
+          player_out: Anjar Tadarus
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 7.1:
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GD Arta
+        batsman: Ahmad Ramdoni
+    - 7.2:
+        non_striker: Ahmad Ramdoni
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 7.3:
+        non_striker: Ahmad Ramdoni
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 7.4:
+        non_striker: Ahmad Ramdoni
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 7.5:
+        non_striker: Ahmad Ramdoni
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 7.6:
+        non_striker: GD Arta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.1:
+        non_striker: Ahmad Ramdoni
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 8.2:
+        non_striker: GD Arta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.3:
+        non_striker: GD Arta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.4:
+        non_striker: GD Arta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.5:
+        non_striker: GD Arta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.6:
+        non_striker: GD Arta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 9.1:
+        non_striker: Ahmad Ramdoni
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 9.2:
+        non_striker: Ahmad Ramdoni
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 9.3:
+        non_striker: Ahmad Ramdoni
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 9.4:
+        non_striker: Ahmad Ramdoni
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 9.5:
+        non_striker: GD Arta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 9.6:
+        non_striker: GD Arta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 10.1:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 10.2:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 10.3:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+        wicket:
+          player_out: Ahmad Ramdoni
+          fielders:
+          - Muhammad Haziq Aiman
+          kind: caught
+    - 10.4:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 10.5:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 10.6:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 11.1:
+        non_striker: IKEG Artawan
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 11.2:
+        non_striker: IKEG Artawan
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 11.3:
+        non_striker: IKEG Artawan
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 11.4:
+        non_striker: GD Arta
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+        wicket:
+          player_out: IKEG Artawan
+          fielders:
+          - Zubaidi Zulkifle
+          kind: caught
+    - 11.5:
+        non_striker: GD Arta
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Banunaek
+    - 11.6:
+        non_striker: GD Arta
+        bowler: Ahmed Faiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Banunaek
+    - 11.7:
+        non_striker: GD Arta
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Banunaek
+    - 12.1:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Banunaek
+    - 12.2:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Banunaek
+        wicket:
+          player_out: F Banunaek
+          kind: bowled
+    - 12.3:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 12.4:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DGAPD Wiswi
+    - 12.5:
+        non_striker: DGAPD Wiswi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 12.6:
+        non_striker: DGAPD Wiswi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 13.1:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 13.2:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 13.3:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 13.4:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 13.5:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 13.6:
+        non_striker: GD Arta
+        bowler: Ahmed Faiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DGAPD Wiswi
+    - 13.7:
+        non_striker: GD Arta
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DGAPD Wiswi
+    - 14.1:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 14.2:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 14.3:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DGAPD Wiswi
+    - 14.4:
+        non_striker: DGAPD Wiswi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 14.5:
+        non_striker: DGAPD Wiswi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 14.6:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DGAPD Wiswi
+    - 15.1:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 15.2:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 15.3:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 15.4:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 15.5:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 15.6:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 16.1:
+        non_striker: GD Arta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DGAPD Wiswi
+    - 16.2:
+        non_striker: GD Arta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 16.3:
+        non_striker: GD Arta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DGAPD Wiswi
+    - 16.4:
+        non_striker: DGAPD Wiswi
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 16.5:
+        non_striker: GD Arta
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DGAPD Wiswi
+    - 16.6:
+        non_striker: DGAPD Wiswi
+        bowler: Muhammad Amir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: GD Arta
+    - 17.1:
+        non_striker: GD Arta
+        bowler: Ahmed Faiz
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: DGAPD Wiswi
+    - 17.2:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 17.3:
+        non_striker: GD Arta
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DGAPD Wiswi
+    - 17.4:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Arta
+    - 17.5:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 17.6:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 17.7:
+        non_striker: DGAPD Wiswi
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 18.1:
+        non_striker: GD Arta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+        wicket:
+          player_out: DGAPD Wiswi
+          kind: bowled
+    - 18.2:
+        non_striker: GD Arta
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 18.3:
+        non_striker: DJ Hawoe
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 18.4:
+        non_striker: DJ Hawoe
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Arta
+    - 18.5:
+        non_striker: DJ Hawoe
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 18.6:
+        non_striker: DJ Hawoe
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 19.1:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Hawoe
+    - 19.2:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 19.3:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 19.4:
+        non_striker: GD Arta
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 19.5:
+        non_striker: DJ Hawoe
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+        wicket:
+          player_out: GD Arta
+          fielders:
+          - M Syahadat Ramli
+          kind: run out
+    - 19.6:
+        non_striker: DJ Hawoe
+        bowler: Virandeep Singh
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Alexander
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Zubaidi Zulkifle
+        batsman: Muhammad Haziq Aiman
+    - 0.2:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zubaidi Zulkifle
+        batsman: Muhammad Haziq Aiman
+    - 0.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 0.4:
+        non_striker: Muhammad Haziq Aiman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 0.5:
+        non_striker: Muhammad Haziq Aiman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 0.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          fielders:
+          - DJ Hawoe
+          kind: caught
+    - 1.1:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Ahmed Faiz
+        batsman: Muhammad Haziq Aiman
+    - 1.2:
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ahmed Faiz
+        batsman: Muhammad Haziq Aiman
+    - 1.3:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Ahmed Faiz
+        batsman: Muhammad Haziq Aiman
+    - 1.4:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmed Faiz
+        batsman: Muhammad Haziq Aiman
+    - 1.5:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Ahmed Faiz
+        batsman: Muhammad Haziq Aiman
+    - 1.6:
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Ahmed Faiz
+        batsman: Muhammad Haziq Aiman
+    - 1.7:
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ahmed Faiz
+        batsman: Muhammad Haziq Aiman
+    - 1.8:
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Ahmed Faiz
+        batsman: Muhammad Haziq Aiman
+    - 1.9:
+        non_striker: Ahmed Faiz
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 2.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 2.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 2.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 2.4:
+        non_striker: Ahmed Faiz
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 2.5:
+        non_striker: Ahmed Faiz
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 2.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 3.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmed Faiz
+    - 3.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 3.3:
+        non_striker: Ahmed Faiz
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 3.4:
+        non_striker: Ahmed Faiz
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 3.5:
+        non_striker: Ahmed Faiz
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 3.6:
+        non_striker: Ahmed Faiz
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 4.1:
+        non_striker: Ahmed Faiz
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 4.2:
+        non_striker: Ahmed Faiz
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+        wicket:
+          player_out: Muhammad Haziq Aiman
+          fielders:
+          - A Alexander
+          kind: caught
+    - 4.3:
+        non_striker: Ahmed Faiz
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 4.4:
+        non_striker: Ahmed Faiz
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 4.5:
+        non_striker: Ahmed Faiz
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 4.6:
+        non_striker: Muhammad Amir
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 5.1:
+        non_striker: Ahmed Faiz
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+    - 5.2:
+        non_striker: Ahmed Faiz
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 5.3:
+        non_striker: Muhammad Amir
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 5.4:
+        non_striker: Muhammad Amir
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 5.5:
+        non_striker: Muhammad Amir
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Faiz
+    - 5.6:
+        non_striker: Muhammad Amir
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 6.1:
+        non_striker: Muhammad Amir
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 6.2:
+        non_striker: Muhammad Amir
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 6.3:
+        non_striker: Muhammad Amir
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 6.4:
+        non_striker: Ahmed Faiz
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 6.5:
+        non_striker: Muhammad Amir
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 6.6:
+        non_striker: Muhammad Amir
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 7.1:
+        non_striker: Muhammad Amir
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 7.2:
+        non_striker: Muhammad Amir
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 7.3:
+        non_striker: Ahmed Faiz
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Amir
+    - 7.4:
+        non_striker: Ahmed Faiz
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 7.5:
+        non_striker: Muhammad Amir
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz
+    - 7.6:
+        non_striker: Muhammad Amir
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 8.1:
+        non_striker: Ahmed Faiz
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 8.2:
+        non_striker: Muhammad Amir
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 8.3:
+        non_striker: Ahmed Faiz
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Amir
+        wicket:
+          player_out: Muhammad Amir
+          fielders:
+          - DJ Hawoe
+          kind: caught
+    - 8.4:
+        non_striker: Ahmed Faiz
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Khan
+    - 8.5:
+        non_striker: Amir Khan
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+    - 8.6:
+        non_striker: Amir Khan
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmed Faiz

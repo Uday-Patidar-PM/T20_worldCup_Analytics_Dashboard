@@ -1,0 +1,2178 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Buenos Aires
+  dates:
+  - '2025-11-30'
+  gender: male
+  match_type: T20
+  match_type_number: 3598
+  outcome:
+    winner: Argentina
+    by:
+      runs: 44
+  overs: 20
+  player_of_match:
+  - Lucas Rossi
+  players:
+    Argentina:
+    - P Baron
+    - Lucas Rossi
+    - A Kirschbaum
+    - R Escobar
+    - T Rossi
+    - AAP Rivero
+    - H Fennell
+    - Santiago Iturbe
+    - Ian Roberts
+    - JP Cabrera
+    - Manuel Iturbe
+    Brazil:
+    - LH Rodrigues
+    - Rejaul Karim
+    - LF Muller
+    - MFI Assuncao
+    - Yasar Haroon
+    - CC Machado
+    - LG Moras
+    - FC Muniz
+    - L Maximo
+    - RV Nascimento
+    - G Oliveira
+  registry:
+    people:
+      A Kirschbaum: d953bf92
+      AAP Rivero: 1911dcbc
+      CC Machado: 5992ef03
+      FC Muniz: c9c2a7e8
+      G Oliveira: b4c52f5f
+      H Fennell: 0d38ab25
+      Ian Roberts: 9f236a73
+      JP Cabrera: b30bfd44
+      L Maximo: 58c0c30c
+      LF Muller: f6411545
+      LG Moras: d5dea4e7
+      LH Rodrigues: 57c95c3c
+      Lucas Rossi: 2064e555
+      MFI Assuncao: d8e48e1b
+      Manuel Iturbe: bddbf5ec
+      P Baron: c6d1b1e4
+      R Escobar: 9fa5496f
+      RV Nascimento: d9ba93c0
+      Rejaul Karim: c767d8ed
+      Santiago Iturbe: 851b0636
+      T Rossi: 5470418a
+      Yasar Haroon: 5a8dc41e
+  teams:
+  - Argentina
+  - Brazil
+  toss:
+    winner: Brazil
+    decision: field
+  venue: St Albans Club, Buenos Aires
+innings:
+- 1st innings:
+    team: Argentina
+    deliveries:
+    - 0.1:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Lucas Rossi
+        batsman: P Baron
+    - 0.2:
+        bowler: LG Moras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Lucas Rossi
+        batsman: P Baron
+    - 0.3:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Lucas Rossi
+        batsman: P Baron
+    - 0.4:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Lucas Rossi
+        batsman: P Baron
+    - 0.5:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Lucas Rossi
+        batsman: P Baron
+    - 0.6:
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Lucas Rossi
+        batsman: P Baron
+    - 0.7:
+        non_striker: Lucas Rossi
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Baron
+    - 1.1:
+        non_striker: Lucas Rossi
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Baron
+    - 1.2:
+        non_striker: Lucas Rossi
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Baron
+    - 1.3:
+        non_striker: Lucas Rossi
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.4:
+        non_striker: Lucas Rossi
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.5:
+        non_striker: Lucas Rossi
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+    - 1.6:
+        non_striker: Lucas Rossi
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Baron
+        wicket:
+          player_out: P Baron
+          fielders:
+          - CC Machado
+          kind: caught
+    - 1.7:
+        non_striker: Lucas Rossi
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 2.1:
+        non_striker: A Kirschbaum
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 2.2:
+        non_striker: A Kirschbaum
+        bowler: LG Moras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Lucas Rossi
+    - 2.3:
+        non_striker: A Kirschbaum
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Lucas Rossi
+    - 2.4:
+        non_striker: A Kirschbaum
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 2.5:
+        non_striker: A Kirschbaum
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 2.6:
+        non_striker: A Kirschbaum
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 2.7:
+        non_striker: Lucas Rossi
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 3.1:
+        non_striker: A Kirschbaum
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Lucas Rossi
+    - 3.2:
+        non_striker: A Kirschbaum
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 3.3:
+        non_striker: A Kirschbaum
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 3.4:
+        non_striker: Lucas Rossi
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 3.5:
+        non_striker: A Kirschbaum
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 3.6:
+        non_striker: A Kirschbaum
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 4.1:
+        non_striker: A Kirschbaum
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 4.2:
+        non_striker: Lucas Rossi
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 4.3:
+        non_striker: Lucas Rossi
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 4.4:
+        non_striker: Lucas Rossi
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 4.5:
+        non_striker: Lucas Rossi
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 4.6:
+        non_striker: Lucas Rossi
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 5.1:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kirschbaum
+    - 5.2:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 5.3:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 5.4:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 5.5:
+        non_striker: A Kirschbaum
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 5.6:
+        non_striker: A Kirschbaum
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 6.1:
+        non_striker: Lucas Rossi
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kirschbaum
+    - 6.2:
+        non_striker: Lucas Rossi
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.3:
+        non_striker: A Kirschbaum
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 6.4:
+        non_striker: Lucas Rossi
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+    - 6.5:
+        non_striker: Lucas Rossi
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kirschbaum
+    - 6.6:
+        non_striker: A Kirschbaum
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 7.1:
+        non_striker: A Kirschbaum
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 7.2:
+        non_striker: A Kirschbaum
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 7.3:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kirschbaum
+    - 7.4:
+        non_striker: A Kirschbaum
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 7.5:
+        non_striker: A Kirschbaum
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 7.6:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kirschbaum
+        wicket:
+          player_out: A Kirschbaum
+          fielders:
+          - L Maximo
+          kind: caught
+    - 8.1:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Escobar
+        batsman: Lucas Rossi
+    - 8.2:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Escobar
+        batsman: Lucas Rossi
+    - 8.3:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Escobar
+        batsman: Lucas Rossi
+    - 8.4:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Escobar
+        batsman: Lucas Rossi
+    - 8.5:
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: R Escobar
+        batsman: Lucas Rossi
+    - 8.6:
+        non_striker: R Escobar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 9.1:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 9.2:
+        non_striker: R Escobar
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 9.3:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 9.4:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 9.5:
+        non_striker: R Escobar
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 9.6:
+        non_striker: Lucas Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 10.1:
+        non_striker: Lucas Rossi
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 10.2:
+        non_striker: R Escobar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Lucas Rossi
+    - 10.3:
+        non_striker: R Escobar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Lucas Rossi
+    - 10.4:
+        non_striker: Lucas Rossi
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+        wicket:
+          player_out: Lucas Rossi
+          fielders:
+          - Rejaul Karim
+          - L Maximo
+          kind: run out
+    - 10.5:
+        non_striker: R Escobar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 10.6:
+        non_striker: R Escobar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Rossi
+    - 11.1:
+        non_striker: T Rossi
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 11.2:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 11.3:
+        non_striker: T Rossi
+        bowler: RV Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Escobar
+    - 11.4:
+        non_striker: T Rossi
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 11.5:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 11.6:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 11.7:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 12.1:
+        non_striker: T Rossi
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 12.2:
+        non_striker: T Rossi
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 12.3:
+        non_striker: R Escobar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 12.4:
+        non_striker: R Escobar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Rossi
+    - 12.5:
+        non_striker: R Escobar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 12.6:
+        non_striker: R Escobar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 13.1:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 13.2:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Rossi
+    - 13.3:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Rossi
+    - 13.4:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 13.5:
+        non_striker: T Rossi
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 13.6:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 14.1:
+        non_striker: R Escobar
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rossi
+    - 14.2:
+        non_striker: R Escobar
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 14.3:
+        non_striker: T Rossi
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 14.4:
+        non_striker: T Rossi
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 14.5:
+        non_striker: R Escobar
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rossi
+    - 14.6:
+        non_striker: R Escobar
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 15.1:
+        non_striker: R Escobar
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 15.2:
+        non_striker: T Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 15.3:
+        non_striker: T Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 15.4:
+        non_striker: R Escobar
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 15.5:
+        non_striker: T Rossi
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Escobar
+    - 15.6:
+        non_striker: R Escobar
+        bowler: FC Muniz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 16.1:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Rossi
+    - 16.2:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 16.3:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Rossi
+    - 16.4:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rossi
+    - 16.5:
+        non_striker: R Escobar
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Rossi
+    - 16.6:
+        non_striker: T Rossi
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Escobar
+    - 17.1:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Rossi
+    - 17.2:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 17.3:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+    - 17.4:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Rossi
+        wicket:
+          player_out: T Rossi
+          fielders:
+          - L Maximo
+          kind: caught
+    - 17.5:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 17.6:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 18.1:
+        non_striker: R Escobar
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 18.2:
+        non_striker: R Escobar
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 18.3:
+        non_striker: R Escobar
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AAP Rivero
+    - 18.4:
+        non_striker: R Escobar
+        bowler: LG Moras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AAP Rivero
+    - 18.5:
+        non_striker: R Escobar
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AAP Rivero
+    - 18.6:
+        non_striker: R Escobar
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 18.7:
+        non_striker: AAP Rivero
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Escobar
+    - 19.1:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AAP Rivero
+    - 19.2:
+        non_striker: AAP Rivero
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Escobar
+    - 19.3:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 19.4:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AAP Rivero
+    - 19.5:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+    - 19.6:
+        non_striker: R Escobar
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AAP Rivero
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Rejaul Karim
+        batsman: LH Rodrigues
+    - 0.2:
+        non_striker: LH Rodrigues
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rejaul Karim
+    - 0.3:
+        non_striker: LH Rodrigues
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rejaul Karim
+    - 0.4:
+        non_striker: LH Rodrigues
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rejaul Karim
+    - 0.5:
+        non_striker: LH Rodrigues
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rejaul Karim
+    - 0.6:
+        non_striker: LH Rodrigues
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rejaul Karim
+        wicket:
+          player_out: Rejaul Karim
+          fielders:
+          - AAP Rivero
+          kind: caught
+    - 1.1:
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LF Muller
+        batsman: LH Rodrigues
+    - 1.2:
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LF Muller
+        batsman: LH Rodrigues
+    - 1.3:
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LF Muller
+        batsman: LH Rodrigues
+    - 1.4:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 1.5:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 1.6:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Muller
+    - 1.7:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Muller
+    - 1.8:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 2.1:
+        non_striker: LH Rodrigues
+        bowler: T Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Muller
+    - 2.2:
+        non_striker: LH Rodrigues
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Muller
+    - 2.3:
+        non_striker: LH Rodrigues
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 2.4:
+        non_striker: LF Muller
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 2.5:
+        non_striker: LF Muller
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 2.6:
+        non_striker: LF Muller
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 2.7:
+        non_striker: LF Muller
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Rodrigues
+    - 3.1:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.2:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.3:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.4:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.5:
+        non_striker: LH Rodrigues
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 3.6:
+        non_striker: LF Muller
+        bowler: H Fennell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+        wicket:
+          player_out: LH Rodrigues
+          kind: bowled
+    - 4.1:
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MFI Assuncao
+        batsman: LF Muller
+    - 4.2:
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MFI Assuncao
+        batsman: LF Muller
+    - 4.3:
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MFI Assuncao
+        batsman: LF Muller
+    - 4.4:
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MFI Assuncao
+        batsman: LF Muller
+    - 4.5:
+        non_striker: LF Muller
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 4.6:
+        non_striker: LF Muller
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 5.1:
+        non_striker: MFI Assuncao
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 5.2:
+        non_striker: LF Muller
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MFI Assuncao
+    - 5.3:
+        non_striker: LF Muller
+        bowler: JP Cabrera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MFI Assuncao
+    - 5.4:
+        non_striker: LF Muller
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 5.5:
+        non_striker: LF Muller
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 5.6:
+        non_striker: LF Muller
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 5.7:
+        non_striker: LF Muller
+        bowler: JP Cabrera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MFI Assuncao
+    - 5.8:
+        non_striker: LF Muller
+        bowler: JP Cabrera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MFI Assuncao
+    - 5.9:
+        non_striker: LF Muller
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 6.1:
+        non_striker: MFI Assuncao
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 6.2:
+        non_striker: MFI Assuncao
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Muller
+    - 6.3:
+        non_striker: MFI Assuncao
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 6.4:
+        non_striker: LF Muller
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MFI Assuncao
+    - 6.5:
+        non_striker: LF Muller
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 6.6:
+        non_striker: MFI Assuncao
+        bowler: T Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 7.1:
+        non_striker: LF Muller
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 7.2:
+        non_striker: LF Muller
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MFI Assuncao
+    - 7.3:
+        non_striker: LF Muller
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 7.4:
+        non_striker: LF Muller
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 7.5:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 7.6:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 8.1:
+        non_striker: MFI Assuncao
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 8.2:
+        non_striker: LF Muller
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 8.3:
+        non_striker: LF Muller
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 8.4:
+        non_striker: MFI Assuncao
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 8.5:
+        non_striker: LF Muller
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 8.6:
+        non_striker: MFI Assuncao
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 9.1:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 9.2:
+        non_striker: LF Muller
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 9.3:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+        wicket:
+          player_out: LF Muller
+          fielders:
+          - P Baron
+          kind: caught
+    - 9.4:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 9.5:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 9.6:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 10.1:
+        non_striker: MFI Assuncao
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 10.2:
+        non_striker: Yasar Haroon
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 10.3:
+        non_striker: MFI Assuncao
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 10.4:
+        non_striker: MFI Assuncao
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 10.5:
+        non_striker: Yasar Haroon
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 10.6:
+        non_striker: MFI Assuncao
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 11.1:
+        non_striker: Yasar Haroon
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 11.2:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+    - 11.3:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 11.4:
+        non_striker: Yasar Haroon
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 11.5:
+        non_striker: MFI Assuncao
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 11.6:
+        non_striker: Yasar Haroon
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 12.1:
+        non_striker: MFI Assuncao
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 12.2:
+        non_striker: Yasar Haroon
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MFI Assuncao
+    - 12.3:
+        non_striker: Yasar Haroon
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+    - 12.4:
+        non_striker: Yasar Haroon
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 12.5:
+        non_striker: MFI Assuncao
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasar Haroon
+    - 12.6:
+        non_striker: Yasar Haroon
+        bowler: A Kirschbaum
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MFI Assuncao
+    - 13.1:
+        non_striker: Yasar Haroon
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MFI Assuncao
+        wicket:
+          player_out: MFI Assuncao
+          kind: lbw
+    - 13.2:
+        non_striker: Yasar Haroon
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CC Machado
+    - 13.3:
+        non_striker: CC Machado
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasar Haroon
+        wicket:
+          player_out: Yasar Haroon
+          fielders:
+          - A Kirschbaum
+          kind: caught
+    - 13.4:
+        non_striker: CC Machado
+        bowler: Lucas Rossi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LG Moras
+    - 13.5:
+        non_striker: CC Machado
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LG Moras
+    - 13.6:
+        non_striker: CC Machado
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Moras
+    - 13.7:
+        non_striker: CC Machado
+        bowler: Lucas Rossi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LG Moras
+        wicket:
+          player_out: LG Moras
+          kind: lbw
+    - 14.1:
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: FC Muniz
+        batsman: CC Machado
+    - 14.2:
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: FC Muniz
+        batsman: CC Machado
+    - 14.3:
+        non_striker: CC Machado
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Muniz
+    - 14.4:
+        non_striker: FC Muniz
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CC Machado
+    - 14.5:
+        non_striker: FC Muniz
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CC Machado
+    - 14.6:
+        non_striker: CC Machado
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Muniz
+        wicket:
+          player_out: CC Machado
+          fielders:
+          - AAP Rivero
+          - Santiago Iturbe
+          kind: run out
+    - 15.1:
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Maximo
+        batsman: FC Muniz
+    - 15.2:
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Maximo
+        batsman: FC Muniz
+    - 15.3:
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Maximo
+        batsman: FC Muniz
+    - 15.4:
+        non_striker: FC Muniz
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 15.5:
+        non_striker: FC Muniz
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 15.6:
+        non_striker: L Maximo
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Muniz
+    - 16.1:
+        non_striker: L Maximo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Muniz
+    - 16.2:
+        non_striker: L Maximo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Muniz
+    - 16.3:
+        non_striker: L Maximo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Muniz
+    - 16.4:
+        non_striker: L Maximo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Muniz
+    - 16.5:
+        non_striker: FC Muniz
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 16.6:
+        non_striker: FC Muniz
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 17.1:
+        non_striker: FC Muniz
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 17.2:
+        non_striker: L Maximo
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Muniz
+    - 17.3:
+        non_striker: L Maximo
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Muniz
+    - 17.4:
+        non_striker: FC Muniz
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 17.5:
+        non_striker: L Maximo
+        bowler: Ian Roberts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FC Muniz
+    - 17.6:
+        non_striker: FC Muniz
+        bowler: Ian Roberts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 18.1:
+        non_striker: FC Muniz
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 18.2:
+        non_striker: FC Muniz
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 18.3:
+        non_striker: FC Muniz
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 18.4:
+        non_striker: FC Muniz
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Maximo
+    - 18.5:
+        non_striker: FC Muniz
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 18.6:
+        non_striker: L Maximo
+        bowler: AAP Rivero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Muniz
+    - 19.1:
+        non_striker: FC Muniz
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 19.2:
+        non_striker: FC Muniz
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maximo
+    - 19.3:
+        non_striker: FC Muniz
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maximo
+    - 19.4:
+        non_striker: L Maximo
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Muniz
+    - 19.5:
+        non_striker: L Maximo
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FC Muniz
+    - 19.6:
+        non_striker: L Maximo
+        bowler: JP Cabrera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Muniz

@@ -1,0 +1,2103 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2026-02-27'
+  gender: male
+  match_type: T20
+  match_type_number: 3742
+  outcome:
+    winner: Japan
+    by:
+      runs: 77
+  overs: 20
+  player_of_match:
+  - D Suzuki
+  players:
+    Japan:
+    - K Kadowaki-Fleming
+    - Abhishek Anand
+    - S Ravichandran
+    - A Patmore
+    - I Takahashi
+    - W Miyauchi
+    - D Suzuki
+    - Abdul Samad
+    - S Sugaya-Slater
+    - K Kubota
+    - M Taniyama
+    Bhutan:
+    - Namgay Thinley
+    - T Jamtsho
+    - Tenjin Rabgey
+    - GK Ghalley
+    - RM Dorji
+    - N Chejay
+    - Tashi Phuntsho
+    - Tashi Dorji
+    - A Mongar
+    - K Dorji
+    - S Yeshi
+  registry:
+    people:
+      A Mongar: 940255af
+      A Patmore: '85119526'
+      AK Rana: 562d74d0
+      Abdul Samad: 21dbacff
+      Abhishek Anand: 2c12bc65
+      D Suzuki: 64c81abf
+      GK Ghalley: 2d1b6dee
+      Harminder Pal Singh: 3425a303
+      I Takahashi: c988daa1
+      J Sanjeev: 3cc94090
+      K Dorji: f9b9883f
+      K Kadowaki-Fleming: 33290a80
+      K Kubota: 42581e6d
+      M Taniyama: cbd91942
+      N Chejay: a9e63549
+      Namgay Thinley: 9c333e40
+      RM Dorji: 3d7f02d4
+      S Ravichandran: 9f2be73d
+      S Sugaya-Slater: 2d02f041
+      S Yeshi: 0c24fb7b
+      T Jamtsho: c01d1c0a
+      Tashi Dorji: 0f05655d
+      Tashi Phuntsho: 43d365ca
+      Tenjin Rabgey: 1fed517a
+      W Miyauchi: fef40097
+  teams:
+  - Japan
+  - Bhutan
+  toss:
+    winner: Japan
+    decision: bat
+  umpires:
+  - AK Rana
+  - J Sanjeev
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Japan
+    deliveries:
+    - 0.1:
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Abhishek Anand
+        batsman: K Kadowaki-Fleming
+    - 0.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 0.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 0.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 0.5:
+        non_striker: Abhishek Anand
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 0.6:
+        non_striker: Abhishek Anand
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 1.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: T Jamtsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Anand
+    - 1.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: T Jamtsho
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Abhishek Anand
+    - 1.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 1.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 1.5:
+        non_striker: Abhishek Anand
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 1.6:
+        non_striker: Abhishek Anand
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 1.7:
+        non_striker: K Kadowaki-Fleming
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Anand
+    - 1.8:
+        non_striker: Abhishek Anand
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 2.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 2.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Anand
+    - 2.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Anand
+    - 2.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 2.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+    - 2.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Anand
+        wicket:
+          player_out: Abhishek Anand
+          fielders:
+          - A Mongar
+          kind: caught
+    - 3.1:
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Ravichandran
+        batsman: K Kadowaki-Fleming
+    - 3.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 3.3:
+        non_striker: S Ravichandran
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 3.4:
+        non_striker: S Ravichandran
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 3.5:
+        non_striker: S Ravichandran
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 3.6:
+        non_striker: S Ravichandran
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Kadowaki-Fleming
+    - 4.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 4.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ravichandran
+    - 4.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 4.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 4.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+    - 4.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravichandran
+    - 4.7:
+        non_striker: S Ravichandran
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 5.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravichandran
+        wicket:
+          player_out: S Ravichandran
+          kind: bowled
+    - 5.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 5.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 5.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 5.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 5.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Dorji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Patmore
+    - 5.7:
+        non_striker: K Kadowaki-Fleming
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 6.1:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 6.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 6.3:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.4:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.5:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 6.6:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.1:
+        non_striker: A Patmore
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 7.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 7.4:
+        non_striker: A Patmore
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 7.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 7.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 8.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 8.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 8.3:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 8.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 8.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 8.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 9.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 9.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 9.3:
+        non_striker: A Patmore
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Kadowaki-Fleming
+    - 9.4:
+        non_striker: A Patmore
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 9.5:
+        non_striker: A Patmore
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 9.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 10.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 10.2:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 10.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 10.4:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Kadowaki-Fleming
+    - 10.5:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Kadowaki-Fleming
+    - 10.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 11.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 11.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 11.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 11.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 11.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 11.6:
+        non_striker: A Patmore
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+    - 12.1:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 12.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 12.3:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 12.4:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Patmore
+    - 12.5:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 12.6:
+        non_striker: K Kadowaki-Fleming
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 13.1:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Kadowaki-Fleming
+    - 13.2:
+        non_striker: K Kadowaki-Fleming
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 13.3:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Kadowaki-Fleming
+        wicket:
+          player_out: K Kadowaki-Fleming
+          fielders:
+          - GK Ghalley
+          kind: caught
+    - 13.4:
+        non_striker: A Patmore
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 13.5:
+        non_striker: I Takahashi
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Patmore
+    - 13.6:
+        non_striker: I Takahashi
+        bowler: A Mongar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 14.1:
+        non_striker: A Patmore
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 14.2:
+        non_striker: I Takahashi
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 14.3:
+        non_striker: A Patmore
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 14.4:
+        non_striker: I Takahashi
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 14.5:
+        non_striker: I Takahashi
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 14.6:
+        non_striker: A Patmore
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 15.1:
+        non_striker: A Patmore
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 15.2:
+        non_striker: A Patmore
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Takahashi
+    - 15.3:
+        non_striker: A Patmore
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 15.4:
+        non_striker: A Patmore
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Takahashi
+    - 15.5:
+        non_striker: A Patmore
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 15.6:
+        non_striker: I Takahashi
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 16.1:
+        non_striker: A Patmore
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 16.2:
+        non_striker: A Patmore
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 16.3:
+        non_striker: A Patmore
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Takahashi
+    - 16.4:
+        non_striker: A Patmore
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 16.5:
+        non_striker: I Takahashi
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Patmore
+    - 16.6:
+        non_striker: I Takahashi
+        bowler: K Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Patmore
+    - 17.1:
+        non_striker: I Takahashi
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+    - 17.2:
+        non_striker: I Takahashi
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Patmore
+        wicket:
+          player_out: A Patmore
+          kind: bowled
+    - 17.3:
+        non_striker: I Takahashi
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 17.4:
+        non_striker: I Takahashi
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Miyauchi
+    - 17.5:
+        non_striker: I Takahashi
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+    - 17.6:
+        non_striker: W Miyauchi
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 18.1:
+        non_striker: I Takahashi
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+    - 18.2:
+        non_striker: W Miyauchi
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Takahashi
+    - 18.3:
+        non_striker: W Miyauchi
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Takahashi
+    - 18.4:
+        non_striker: W Miyauchi
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+    - 18.5:
+        non_striker: I Takahashi
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Miyauchi
+    - 18.6:
+        non_striker: I Takahashi
+        bowler: T Jamtsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Miyauchi
+        wicket:
+          player_out: W Miyauchi
+          fielders:
+          - T Jamtsho
+          - Tenjin Rabgey
+          kind: run out
+    - 19.1:
+        non_striker: I Takahashi
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Suzuki
+    - 19.2:
+        non_striker: D Suzuki
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Takahashi
+    - 19.3:
+        non_striker: D Suzuki
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 19.4:
+        non_striker: D Suzuki
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Takahashi
+    - 19.5:
+        non_striker: D Suzuki
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Takahashi
+    - 19.6:
+        non_striker: D Suzuki
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Takahashi
+- 2nd innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Jamtsho
+        batsman: Namgay Thinley
+    - 0.2:
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Jamtsho
+        batsman: Namgay Thinley
+    - 0.3:
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: T Jamtsho
+        batsman: Namgay Thinley
+    - 0.4:
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Jamtsho
+        batsman: Namgay Thinley
+    - 0.5:
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: T Jamtsho
+        batsman: Namgay Thinley
+    - 0.6:
+        non_striker: Namgay Thinley
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Jamtsho
+    - 0.7:
+        non_striker: Namgay Thinley
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Jamtsho
+    - 0.8:
+        non_striker: Namgay Thinley
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Jamtsho
+    - 1.1:
+        non_striker: T Jamtsho
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 1.2:
+        non_striker: T Jamtsho
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+        wicket:
+          player_out: Namgay Thinley
+          fielders:
+          - K Kubota
+          kind: caught
+    - 1.3:
+        non_striker: T Jamtsho
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.4:
+        non_striker: T Jamtsho
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tenjin Rabgey
+    - 1.5:
+        non_striker: T Jamtsho
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.6:
+        non_striker: T Jamtsho
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+        wicket:
+          player_out: Tenjin Rabgey
+          fielders:
+          - W Miyauchi
+          kind: caught
+    - 2.1:
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GK Ghalley
+        batsman: T Jamtsho
+    - 2.2:
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GK Ghalley
+        batsman: T Jamtsho
+    - 2.3:
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GK Ghalley
+        batsman: T Jamtsho
+    - 2.4:
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GK Ghalley
+        batsman: T Jamtsho
+    - 2.5:
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GK Ghalley
+        batsman: T Jamtsho
+    - 2.6:
+        non_striker: T Jamtsho
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 3.1:
+        non_striker: GK Ghalley
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+        wicket:
+          player_out: T Jamtsho
+          kind: lbw
+    - 3.2:
+        non_striker: GK Ghalley
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 3.3:
+        non_striker: RM Dorji
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 3.4:
+        non_striker: RM Dorji
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 3.5:
+        non_striker: RM Dorji
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 3.6:
+        non_striker: RM Dorji
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Ghalley
+    - 4.1:
+        non_striker: RM Dorji
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 4.2:
+        non_striker: RM Dorji
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 4.3:
+        non_striker: RM Dorji
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Ghalley
+    - 4.4:
+        non_striker: GK Ghalley
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 4.5:
+        non_striker: RM Dorji
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 4.6:
+        non_striker: RM Dorji
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 5.1:
+        non_striker: GK Ghalley
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Dorji
+    - 5.2:
+        non_striker: GK Ghalley
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 5.3:
+        non_striker: RM Dorji
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 5.4:
+        non_striker: RM Dorji
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GK Ghalley
+    - 5.5:
+        non_striker: GK Ghalley
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Dorji
+    - 5.6:
+        non_striker: GK Ghalley
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 6.1:
+        non_striker: GK Ghalley
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 6.2:
+        non_striker: RM Dorji
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Ghalley
+    - 6.3:
+        non_striker: RM Dorji
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 6.4:
+        non_striker: RM Dorji
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 6.5:
+        non_striker: RM Dorji
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 6.6:
+        non_striker: RM Dorji
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GK Ghalley
+    - 7.1:
+        non_striker: GK Ghalley
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Dorji
+    - 7.2:
+        non_striker: GK Ghalley
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 7.3:
+        non_striker: RM Dorji
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+    - 7.4:
+        non_striker: RM Dorji
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+        wicket:
+          player_out: GK Ghalley
+          kind: bowled
+    - 7.5:
+        non_striker: RM Dorji
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 7.6:
+        non_striker: RM Dorji
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chejay
+    - 7.7:
+        non_striker: RM Dorji
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chejay
+    - 7.8:
+        non_striker: RM Dorji
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 8.1:
+        non_striker: N Chejay
+        bowler: Abhishek Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 8.2:
+        non_striker: RM Dorji
+        bowler: Abhishek Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 8.3:
+        non_striker: RM Dorji
+        bowler: Abhishek Anand
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chejay
+    - 8.4:
+        non_striker: RM Dorji
+        bowler: Abhishek Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 8.5:
+        non_striker: N Chejay
+        bowler: Abhishek Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+        wicket:
+          player_out: RM Dorji
+          kind: lbw
+    - 8.6:
+        non_striker: N Chejay
+        bowler: Abhishek Anand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Phuntsho
+    - 8.7:
+        non_striker: N Chejay
+        bowler: Abhishek Anand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Phuntsho
+    - 9.1:
+        non_striker: N Chejay
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Phuntsho
+    - 9.2:
+        non_striker: Tashi Phuntsho
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chejay
+    - 9.3:
+        non_striker: Tashi Phuntsho
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chejay
+    - 9.4:
+        non_striker: Tashi Phuntsho
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 9.5:
+        non_striker: N Chejay
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Phuntsho
+    - 9.6:
+        non_striker: N Chejay
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Phuntsho
+    - 9.7:
+        non_striker: N Chejay
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Phuntsho
+    - 10.1:
+        non_striker: Tashi Phuntsho
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 10.2:
+        non_striker: N Chejay
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Phuntsho
+    - 10.3:
+        non_striker: N Chejay
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Phuntsho
+    - 10.4:
+        non_striker: N Chejay
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Phuntsho
+    - 10.5:
+        non_striker: Tashi Phuntsho
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 10.6:
+        non_striker: Tashi Phuntsho
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 11.1:
+        non_striker: N Chejay
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Phuntsho
+    - 11.2:
+        non_striker: N Chejay
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Phuntsho
+        wicket:
+          player_out: Tashi Phuntsho
+          kind: caught and bowled
+    - 11.3:
+        non_striker: N Chejay
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 11.4:
+        non_striker: N Chejay
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+        wicket:
+          player_out: Tashi Dorji
+          kind: bowled
+    - 11.5:
+        non_striker: N Chejay
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 11.6:
+        non_striker: N Chejay
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 12.1:
+        non_striker: A Mongar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 12.2:
+        non_striker: N Chejay
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mongar
+    - 12.3:
+        non_striker: A Mongar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 12.4:
+        non_striker: A Mongar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 12.5:
+        non_striker: N Chejay
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mongar
+    - 12.6:
+        non_striker: A Mongar
+        bowler: M Taniyama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 13.1:
+        non_striker: N Chejay
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 13.2:
+        non_striker: N Chejay
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mongar
+    - 13.3:
+        non_striker: A Mongar
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 13.4:
+        non_striker: N Chejay
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mongar
+    - 13.5:
+        non_striker: A Mongar
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 13.6:
+        non_striker: A Mongar
+        bowler: Abdul Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 14.1:
+        non_striker: N Chejay
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mongar
+    - 14.2:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Chejay
+    - 14.3:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 14.4:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 14.5:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 14.6:
+        non_striker: N Chejay
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 15.1:
+        non_striker: A Mongar
+        bowler: K Kubota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Chejay
+    - 15.2:
+        non_striker: A Mongar
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Chejay
+    - 15.3:
+        non_striker: N Chejay
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 15.4:
+        non_striker: N Chejay
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 15.5:
+        non_striker: N Chejay
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 15.6:
+        non_striker: N Chejay
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 15.7:
+        non_striker: N Chejay
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 16.1:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Chejay
+    - 16.2:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+    - 16.3:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Chejay
+        wicket:
+          player_out: N Chejay
+          fielders:
+          - Abhishek Anand
+          kind: caught
+    - 16.4:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Dorji
+        wicket:
+          player_out: K Dorji
+          kind: bowled
+    - 16.5:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yeshi
+    - 16.6:
+        non_striker: A Mongar
+        bowler: D Suzuki
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Yeshi
+    - 17.1:
+        non_striker: S Yeshi
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 17.2:
+        non_striker: S Yeshi
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mongar
+    - 17.3:
+        non_striker: S Yeshi
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mongar
+    - 17.4:
+        non_striker: A Mongar
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yeshi
+    - 17.5:
+        non_striker: A Mongar
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Yeshi
+    - 17.6:
+        non_striker: S Yeshi
+        bowler: S Sugaya-Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mongar
+    - 18.1:
+        non_striker: S Yeshi
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mongar
+    - 18.2:
+        non_striker: A Mongar
+        bowler: K Kubota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Yeshi
+        wicket:
+          player_out: S Yeshi
+          fielders:
+          - Abhishek Anand
+          kind: caught

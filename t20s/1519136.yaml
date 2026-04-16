@@ -1,0 +1,2065 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2026-01-23'
+  gender: male
+  match_type: T20
+  match_type_number: 3666
+  outcome:
+    winner: Ireland
+    by:
+      wickets: 3
+  overs: 20
+  players:
+    Italy:
+    - J Mosca
+    - AJ Mosca
+    - JT Smuts
+    - WL Madsen
+    - HJ Manenti
+    - G Stewart
+    - GP Meade
+    - M Campopiano
+    - Jaspreet Singh
+    - CJPF Kalugamage
+    - TJ Draca
+    Ireland:
+    - PR Stirling
+    - GR Adair
+    - HT Tector
+    - L Tucker
+    - BF Calitz
+    - GH Dockrell
+    - GJ Delany
+    - MR Adair
+    - BJ McCarthy
+    - J Little
+    - MJ Humphreys
+  registry:
+    people:
+      AJ Mosca: 19c56e6e
+      AJ Pycroft: 685d3f80
+      Aasif Iqbal: 42c41e1a
+      Akbar Ali: e753931d
+      BF Calitz: 24ad97e7
+      BJ McCarthy: 3766056b
+      CJPF Kalugamage: 31c04b7b
+      G Stewart: a77472dc
+      GH Dockrell: 99cddc5e
+      GJ Delany: 33b3d2df
+      GP Meade: 3957a70a
+      GR Adair: 4ec96094
+      HJ Manenti: 0e56c514
+      HT Tector: 59ea70a4
+      J Little: 9061a703
+      J Mosca: 8f02f6a8
+      JT Smuts: 42172c3c
+      Jaspreet Singh: d76ab352
+      L Tucker: 3979b5e0
+      M Campopiano: 26d80a9d
+      MJ Humphreys: 2c54c49b
+      MR Adair: fc55ec67
+      PR Stirling: cf494ffe
+      Shiju Sam: 1e2f3eae
+      TJ Draca: 88fac705
+      WL Madsen: 86e0f3f0
+  teams:
+  - Italy
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - Akbar Ali
+  - Shiju Sam
+  venue: 7he Sevens Stadium, Dubai
+innings:
+- 1st innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AJ Mosca
+        batsman: J Mosca
+    - 0.2:
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AJ Mosca
+        batsman: J Mosca
+    - 0.3:
+        non_striker: J Mosca
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 0.4:
+        non_striker: J Mosca
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 0.5:
+        non_striker: J Mosca
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 0.6:
+        non_striker: J Mosca
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 1.1:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AJ Mosca
+    - 1.2:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 1.3:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.4:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.5:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 1.6:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.7:
+        non_striker: J Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 2.1:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.2:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+        wicket:
+          player_out: J Mosca
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 2.3:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 2.4:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 2.5:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 2.6:
+        non_striker: JT Smuts
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 3.1:
+        non_striker: AJ Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 3.2:
+        non_striker: JT Smuts
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 3.3:
+        non_striker: AJ Mosca
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JT Smuts
+    - 3.4:
+        non_striker: AJ Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 3.5:
+        non_striker: AJ Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 3.6:
+        non_striker: AJ Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 3.7:
+        non_striker: AJ Mosca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 4.1:
+        non_striker: AJ Mosca
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 4.2:
+        non_striker: JT Smuts
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 4.3:
+        non_striker: JT Smuts
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 4.4:
+        non_striker: JT Smuts
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 4.5:
+        non_striker: JT Smuts
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 4.6:
+        non_striker: JT Smuts
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 5.1:
+        non_striker: JT Smuts
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 5.2:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 5.3:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 5.4:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          kind: bowled
+    - 5.5:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 5.6:
+        non_striker: AJ Mosca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WL Madsen
+    - 6.1:
+        non_striker: WL Madsen
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 6.2:
+        non_striker: WL Madsen
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 6.3:
+        non_striker: AJ Mosca
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 6.4:
+        non_striker: WL Madsen
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+        wicket:
+          player_out: AJ Mosca
+          kind: lbw
+    - 6.5:
+        non_striker: WL Madsen
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 6.6:
+        non_striker: HJ Manenti
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 7.1:
+        non_striker: WL Madsen
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.2:
+        non_striker: HJ Manenti
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 7.3:
+        non_striker: WL Madsen
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.4:
+        non_striker: HJ Manenti
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 7.5:
+        non_striker: HJ Manenti
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 7.6:
+        non_striker: HJ Manenti
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 8.1:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 8.2:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 8.3:
+        non_striker: WL Madsen
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Manenti
+    - 8.4:
+        non_striker: WL Madsen
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 8.5:
+        non_striker: WL Madsen
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 8.6:
+        non_striker: WL Madsen
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.1:
+        non_striker: WL Madsen
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.2:
+        non_striker: HJ Manenti
+        bowler: GJ Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WL Madsen
+    - 9.3:
+        non_striker: WL Madsen
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 9.4:
+        non_striker: WL Madsen
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.5:
+        non_striker: HJ Manenti
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+        wicket:
+          player_out: WL Madsen
+          fielders:
+          - HT Tector
+          kind: caught
+    - 9.6:
+        non_striker: HJ Manenti
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 10.1:
+        non_striker: G Stewart
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Manenti
+    - 10.2:
+        non_striker: G Stewart
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 10.3:
+        non_striker: G Stewart
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 10.4:
+        non_striker: G Stewart
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 10.5:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 10.6:
+        non_striker: HJ Manenti
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 11.1:
+        non_striker: G Stewart
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 11.2:
+        non_striker: G Stewart
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 11.3:
+        non_striker: HJ Manenti
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 11.4:
+        non_striker: HJ Manenti
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+        wicket:
+          player_out: G Stewart
+          kind: bowled
+    - 11.5:
+        non_striker: HJ Manenti
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 11.6:
+        non_striker: HJ Manenti
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 12.1:
+        non_striker: GP Meade
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 12.2:
+        non_striker: GP Meade
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 12.3:
+        non_striker: GP Meade
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 12.4:
+        non_striker: GP Meade
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 12.5:
+        non_striker: M Campopiano
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 12.6:
+        non_striker: GP Meade
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 13.1:
+        non_striker: GP Meade
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 13.2:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 13.3:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 13.4:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GP Meade
+    - 13.5:
+        non_striker: M Campopiano
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 13.6:
+        non_striker: GP Meade
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Campopiano
+    - 14.1:
+        non_striker: GP Meade
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+    - 14.2:
+        non_striker: GP Meade
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Campopiano
+        wicket:
+          player_out: M Campopiano
+          fielders:
+          - L Tucker
+          kind: caught
+    - 14.3:
+        non_striker: GP Meade
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaspreet Singh
+        wicket:
+          player_out: Jaspreet Singh
+          kind: bowled
+    - 14.4:
+        non_striker: GP Meade
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 14.5:
+        non_striker: CJPF Kalugamage
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Meade
+    - 14.6:
+        non_striker: CJPF Kalugamage
+        bowler: MJ Humphreys
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 15.1:
+        non_striker: CJPF Kalugamage
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 15.2:
+        non_striker: GP Meade
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJPF Kalugamage
+    - 15.3:
+        non_striker: GP Meade
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 15.4:
+        non_striker: CJPF Kalugamage
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Meade
+    - 15.5:
+        non_striker: GP Meade
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJPF Kalugamage
+    - 15.6:
+        non_striker: GP Meade
+        bowler: GJ Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 16.1:
+        non_striker: GP Meade
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 16.2:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GP Meade
+    - 16.3:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+        wicket:
+          player_out: GP Meade
+          fielders:
+          - GR Adair
+          kind: caught
+    - 16.4:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Draca
+    - 16.5:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Draca
+    - 16.6:
+        non_striker: CJPF Kalugamage
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Draca
+    - 16.7:
+        non_striker: TJ Draca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJPF Kalugamage
+    - 17.1:
+        non_striker: CJPF Kalugamage
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Draca
+    - 17.2:
+        non_striker: TJ Draca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 17.3:
+        non_striker: CJPF Kalugamage
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Draca
+    - 17.4:
+        non_striker: TJ Draca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 17.5:
+        non_striker: CJPF Kalugamage
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Draca
+    - 17.6:
+        non_striker: TJ Draca
+        bowler: BJ McCarthy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 18.1:
+        non_striker: TJ Draca
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJPF Kalugamage
+        wicket:
+          player_out: CJPF Kalugamage
+          fielders:
+          - BJ McCarthy
+          kind: caught
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GR Adair
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: GR Adair
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          kind: bowled
+    - 0.3:
+        non_striker: GR Adair
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 0.4:
+        non_striker: GR Adair
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 0.5:
+        non_striker: GR Adair
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 0.6:
+        non_striker: HT Tector
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 1.1:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.2:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.3:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.4:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 1.5:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GR Adair
+    - 1.6:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adair
+    - 2.1:
+        non_striker: GR Adair
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 2.2:
+        non_striker: HT Tector
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adair
+    - 2.3:
+        non_striker: GR Adair
+        bowler: TJ Draca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 2.4:
+        non_striker: GR Adair
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 2.5:
+        non_striker: GR Adair
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 2.6:
+        non_striker: HT Tector
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 2.7:
+        non_striker: HT Tector
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.1:
+        non_striker: GR Adair
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 3.2:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.3:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+    - 3.4:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GR Adair
+    - 3.5:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adair
+        wicket:
+          player_out: GR Adair
+          fielders:
+          - " (sub)"
+          kind: caught
+    - 3.6:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 3.7:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.1:
+        non_striker: L Tucker
+        bowler: TJ Draca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 4.2:
+        non_striker: L Tucker
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 4.3:
+        non_striker: HT Tector
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.4:
+        non_striker: HT Tector
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.5:
+        non_striker: HT Tector
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 4.6:
+        non_striker: HT Tector
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 4.7:
+        non_striker: HT Tector
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 5.1:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 5.2:
+        non_striker: L Tucker
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 5.3:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 5.4:
+        non_striker: L Tucker
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HT Tector
+    - 5.5:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: L Tucker
+    - 5.6:
+        non_striker: L Tucker
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 5.7:
+        non_striker: L Tucker
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HT Tector
+    - 5.8:
+        non_striker: HT Tector
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 6.1:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 6.2:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HT Tector
+    - 6.3:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HT Tector
+    - 6.4:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 6.5:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 6.6:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 6.7:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 7.1:
+        non_striker: HT Tector
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.2:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.3:
+        non_striker: HT Tector
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.4:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.5:
+        non_striker: HT Tector
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 7.6:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.1:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 8.2:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.3:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 8.4:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 8.5:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.6:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.1:
+        non_striker: HT Tector
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 9.2:
+        non_striker: HT Tector
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 9.3:
+        non_striker: L Tucker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 9.4:
+        non_striker: L Tucker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.5:
+        non_striker: L Tucker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.6:
+        non_striker: L Tucker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.1:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 10.2:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 10.3:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.4:
+        non_striker: HT Tector
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 10.5:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 10.6:
+        non_striker: L Tucker
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.1:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.2:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.3:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.4:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 11.5:
+        non_striker: L Tucker
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.6:
+        non_striker: HT Tector
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.1:
+        non_striker: HT Tector
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.2:
+        non_striker: L Tucker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.3:
+        non_striker: HT Tector
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.4:
+        non_striker: L Tucker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.5:
+        non_striker: HT Tector
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 12.6:
+        non_striker: L Tucker
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 13.1:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 13.2:
+        non_striker: L Tucker
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.3:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 13.4:
+        non_striker: HT Tector
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 13.5:
+        non_striker: L Tucker
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - AJ Mosca
+          kind: caught
+    - 13.6:
+        non_striker: L Tucker
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+    - 14.1:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 14.2:
+        non_striker: L Tucker
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 14.3:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 14.4:
+        non_striker: L Tucker
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 14.5:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - Jaspreet Singh
+          kind: caught
+    - 14.6:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 15.1:
+        non_striker: GH Dockrell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 15.2:
+        non_striker: BF Calitz
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Dockrell
+    - 15.3:
+        non_striker: BF Calitz
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+    - 15.4:
+        non_striker: BF Calitz
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 15.5:
+        non_striker: BF Calitz
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 15.6:
+        non_striker: GH Dockrell
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+    - 16.1:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          kind: bowled
+    - 16.2:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 16.3:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 16.4:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Delany
+    - 16.5:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 16.6:
+        non_striker: BF Calitz
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+    - 17.1:
+        non_striker: GJ Delany
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 17.2:
+        non_striker: BF Calitz
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Delany
+        wicket:
+          player_out: GJ Delany
+          fielders:
+          - GP Meade
+          kind: caught
+    - 17.3:
+        non_striker: BF Calitz
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 17.4:
+        non_striker: BF Calitz
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          fielders:
+          - WL Madsen
+          kind: caught
+    - 17.5:
+        non_striker: BF Calitz
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+    - 17.6:
+        non_striker: BF Calitz
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+    - 18.1:
+        non_striker: BJ McCarthy
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+    - 18.2:
+        non_striker: BJ McCarthy
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Calitz
+    - 18.3:
+        non_striker: BJ McCarthy
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 18.4:
+        non_striker: BF Calitz
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McCarthy
+    - 18.5:
+        non_striker: BJ McCarthy
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 18.6:
+        non_striker: BF Calitz
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McCarthy
+    - 19.1:
+        non_striker: BJ McCarthy
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Calitz
+    - 19.2:
+        non_striker: BF Calitz
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McCarthy
+    - 19.3:
+        non_striker: BJ McCarthy
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Calitz

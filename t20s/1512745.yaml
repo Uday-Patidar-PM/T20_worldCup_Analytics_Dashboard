@@ -1,0 +1,2035 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  dates:
+  - '2026-02-15'
+  gender: male
+  match_type: T20
+  match_type_number: 3715
+  outcome:
+    winner: India
+    by:
+      runs: 61
+  overs: 20
+  player_of_match:
+  - Ishan Kishan
+  players:
+    India:
+    - Ishan Kishan
+    - Abhishek Sharma
+    - Tilak Varma
+    - SA Yadav
+    - HH Pandya
+    - S Dube
+    - RK Singh
+    - AR Patel
+    - Kuldeep Yadav
+    - CV Varun
+    - JJ Bumrah
+    Pakistan:
+    - Sahibzada Farhan
+    - Saim Ayub
+    - Agha Salman
+    - Babar Azam
+    - Usman Khan
+    - Shadab Khan
+    - Mohammad Nawaz
+    - Faheem Ashraf
+    - Shaheen Shah Afridi
+    - Abrar Ahmed
+    - Usman Tariq
+  registry:
+    people:
+      AR Patel: 2e171977
+      Abhishek Sharma: f29185a1
+      Abrar Ahmed: abb7c76c
+      Agha Salman: 89c16049
+      Babar Azam: 8a75e999
+      CB Gaffaney: d5ac41d8
+      CV Varun: 5b7ab5a9
+      Faheem Ashraf: bd4ea627
+      HDPK Dharmasena: 323e4c16
+      HH Pandya: dbe50b21
+      Ishan Kishan: 752f7486
+      JJ Bumrah: 462411b3
+      Kuldeep Yadav: 8d2c70ad
+      Mohammad Nawaz: 3086f7a4
+      RB Richardson: 410e2f12
+      RK Illingworth: '20672246'
+      RK Singh: 0a509d6b
+      RR Wimalasiri: 4950c8db
+      S Dube: a4e37e47
+      SA Yadav: 271f83cd
+      Sahibzada Farhan: 1aba45cd
+      Saim Ayub: 33609a8c
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      Tilak Varma: b0482a1d
+      Usman Khan: bafb9238
+      Usman Tariq: e94d1dcd
+  teams:
+  - India
+  - Pakistan
+  toss:
+    winner: Pakistan
+    decision: field
+  umpires:
+  - HDPK Dharmasena
+  - RK Illingworth
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Abhishek Sharma
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.2:
+        non_striker: Abhishek Sharma
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 0.3:
+        non_striker: Ishan Kishan
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 0.4:
+        non_striker: Ishan Kishan
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 0.5:
+        non_striker: Ishan Kishan
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 0.6:
+        non_striker: Ishan Kishan
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - Shaheen Shah Afridi
+          kind: caught
+    - 1.1:
+        non_striker: Tilak Varma
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 1.2:
+        non_striker: Tilak Varma
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 1.3:
+        non_striker: Tilak Varma
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 1.4:
+        non_striker: Ishan Kishan
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 1.5:
+        non_striker: Ishan Kishan
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 1.6:
+        non_striker: Ishan Kishan
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 2.1:
+        non_striker: Tilak Varma
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 2.2:
+        non_striker: Tilak Varma
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.3:
+        non_striker: Tilak Varma
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 2.4:
+        non_striker: Tilak Varma
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 2.5:
+        non_striker: Ishan Kishan
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 2.6:
+        non_striker: Tilak Varma
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 3.1:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.2:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.3:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 3.4:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.5:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 3.6:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 4.1:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 4.2:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.3:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.4:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 4.5:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 4.6:
+        non_striker: Ishan Kishan
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 5.1:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 5.2:
+        non_striker: Ishan Kishan
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 5.3:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 5.4:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 5.5:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 5.6:
+        non_striker: Ishan Kishan
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 6.1:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 6.2:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 6.3:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 6.4:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 6.5:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 6.6:
+        non_striker: Tilak Varma
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 7.1:
+        non_striker: Tilak Varma
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 7.2:
+        non_striker: Tilak Varma
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 7.3:
+        non_striker: Tilak Varma
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 7.4:
+        non_striker: Tilak Varma
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 7.5:
+        non_striker: Tilak Varma
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 7.6:
+        non_striker: Tilak Varma
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.1:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.2:
+        non_striker: Ishan Kishan
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 8.3:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 8.4:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          kind: bowled
+    - 8.5:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.6:
+        non_striker: SA Yadav
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 9.1:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.2:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.3:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 9.4:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.5:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.1:
+        non_striker: Tilak Varma
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 10.2:
+        non_striker: Tilak Varma
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.3:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.4:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.5:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.6:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.1:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tilak Varma
+    - 11.2:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.3:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.4:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.6:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Yadav
+    - 12.1:
+        non_striker: Tilak Varma
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SA Yadav
+    - 12.2:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 12.3:
+        non_striker: Tilak Varma
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.4:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 12.5:
+        non_striker: Tilak Varma
+        bowler: Usman Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 12.6:
+        non_striker: Tilak Varma
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.7:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 13.1:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Yadav
+    - 13.2:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 13.3:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 13.4:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 13.5:
+        non_striker: Tilak Varma
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 13.6:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 14.1:
+        non_striker: Tilak Varma
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 14.2:
+        non_striker: SA Yadav
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          kind: lbw
+    - 14.3:
+        non_striker: SA Yadav
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 14.4:
+        non_striker: SA Yadav
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 14.5:
+        non_striker: SA Yadav
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 14.6:
+        non_striker: SA Yadav
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 15.1:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 15.2:
+        non_striker: S Dube
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 15.3:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 15.4:
+        non_striker: S Dube
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 15.5:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 15.6:
+        non_striker: SA Yadav
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.1:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.2:
+        non_striker: S Dube
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 16.3:
+        non_striker: S Dube
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 16.4:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.5:
+        non_striker: S Dube
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 16.6:
+        non_striker: S Dube
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 17.1:
+        non_striker: S Dube
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 17.2:
+        non_striker: S Dube
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 17.3:
+        non_striker: SA Yadav
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 17.4:
+        non_striker: S Dube
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 17.5:
+        non_striker: SA Yadav
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 17.6:
+        non_striker: SA Yadav
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 18.1:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 18.2:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 18.3:
+        non_striker: SA Yadav
+        bowler: Usman Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Dube
+    - 18.4:
+        non_striker: S Dube
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 18.5:
+        non_striker: S Dube
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - Saim Ayub
+          kind: caught
+    - 18.6:
+        non_striker: S Dube
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 19.1:
+        non_striker: RK Singh
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 19.2:
+        non_striker: RK Singh
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 19.3:
+        non_striker: S Dube
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 19.4:
+        non_striker: S Dube
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 19.5:
+        non_striker: S Dube
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+        wicket:
+          player_out: S Dube
+          fielders:
+          - Usman Khan
+          - Mohammad Nawaz
+          kind: run out
+    - 19.6:
+        non_striker: RK Singh
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - Saim Ayub
+          kind: caught
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Saim Ayub
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.2:
+        non_striker: Saim Ayub
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.3:
+        non_striker: Saim Ayub
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.4:
+        non_striker: Saim Ayub
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+        wicket:
+          player_out: Sahibzada Farhan
+          fielders:
+          - RK Singh
+          kind: caught
+    - 0.5:
+        non_striker: Saim Ayub
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 0.6:
+        non_striker: Saim Ayub
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 1.1:
+        non_striker: Agha Salman
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 1.2:
+        non_striker: Agha Salman
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          kind: lbw
+    - 1.3:
+        non_striker: Agha Salman
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 1.4:
+        non_striker: Agha Salman
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 1.5:
+        non_striker: Babar Azam
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 1.6:
+        non_striker: Babar Azam
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - HH Pandya
+          kind: caught
+    - 2.1:
+        non_striker: Usman Khan
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 2.2:
+        non_striker: Babar Azam
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 2.3:
+        non_striker: Babar Azam
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 2.4:
+        non_striker: Babar Azam
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Usman Khan
+    - 2.5:
+        non_striker: Babar Azam
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 2.6:
+        non_striker: Babar Azam
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 3.1:
+        non_striker: Babar Azam
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 3.2:
+        non_striker: Babar Azam
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 3.3:
+        non_striker: Usman Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 3.4:
+        non_striker: Usman Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 3.5:
+        non_striker: Babar Azam
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 3.6:
+        non_striker: Usman Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 3.7:
+        non_striker: Usman Khan
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.1:
+        non_striker: Babar Azam
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 4.2:
+        non_striker: Babar Azam
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 4.3:
+        non_striker: Babar Azam
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 4.4:
+        non_striker: Babar Azam
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 4.5:
+        non_striker: Usman Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          kind: bowled
+    - 4.6:
+        non_striker: Usman Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 5.1:
+        non_striker: Shadab Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 5.2:
+        non_striker: Shadab Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+    - 5.3:
+        non_striker: Shadab Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 5.4:
+        non_striker: Usman Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 5.5:
+        non_striker: Shadab Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 5.6:
+        non_striker: Shadab Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 6.1:
+        non_striker: Usman Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 6.2:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 6.3:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 6.4:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 6.5:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 6.6:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 7.1:
+        non_striker: Usman Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shadab Khan
+    - 7.2:
+        non_striker: Shadab Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 7.3:
+        non_striker: Usman Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 7.4:
+        non_striker: Usman Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 7.5:
+        non_striker: Shadab Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 7.6:
+        non_striker: Usman Khan
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 8.1:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 8.2:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 8.3:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 8.4:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 8.5:
+        non_striker: Usman Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 8.6:
+        non_striker: Usman Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 9.1:
+        non_striker: Shadab Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 9.2:
+        non_striker: Usman Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 9.3:
+        non_striker: Shadab Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 9.4:
+        non_striker: Usman Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 9.5:
+        non_striker: Usman Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 9.6:
+        non_striker: Shadab Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 10.1:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 10.2:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Usman Khan
+    - 10.3:
+        non_striker: Usman Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 10.4:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          fielders:
+          - Ishan Kishan
+          kind: stumped
+    - 10.5:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+    - 10.6:
+        non_striker: Shadab Khan
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+    - 11.1:
+        non_striker: Mohammad Nawaz
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 11.2:
+        non_striker: Shadab Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nawaz
+    - 11.3:
+        non_striker: Shadab Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+    - 11.4:
+        non_striker: Shadab Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+        wicket:
+          player_out: Mohammad Nawaz
+          fielders:
+          - S Dube
+          kind: caught
+    - 11.5:
+        non_striker: Shadab Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+    - 11.6:
+        non_striker: Shadab Khan
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+    - 12.1:
+        non_striker: Faheem Ashraf
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - S Dube
+          kind: caught
+    - 12.2:
+        non_striker: Faheem Ashraf
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 12.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+    - 12.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Ashraf
+    - 12.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+    - 12.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 13.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 13.2:
+        non_striker: Faheem Ashraf
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shaheen Shah Afridi
+    - 13.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Faheem Ashraf
+    - 13.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+    - 13.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 13.6:
+        non_striker: Faheem Ashraf
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 13.7:
+        non_striker: Shaheen Shah Afridi
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+    - 14.1:
+        non_striker: Faheem Ashraf
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 14.2:
+        non_striker: Faheem Ashraf
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 14.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 14.4:
+        non_striker: Faheem Ashraf
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheen Shah Afridi
+    - 14.5:
+        non_striker: Faheem Ashraf
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 14.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: Tilak Varma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+    - 15.1:
+        non_striker: Faheem Ashraf
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 15.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faheem Ashraf
+    - 15.3:
+        non_striker: Shaheen Shah Afridi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+        wicket:
+          player_out: Faheem Ashraf
+          fielders:
+          - RK Singh
+          kind: caught
+    - 15.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abrar Ahmed
+        wicket:
+          player_out: Abrar Ahmed
+          kind: lbw
+    - 15.5:
+        non_striker: Shaheen Shah Afridi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Tariq
+    - 15.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Tariq
+    - 16.1:
+        non_striker: Usman Tariq
+        bowler: RK Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 16.2:
+        non_striker: Usman Tariq
+        bowler: RK Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 16.3:
+        non_striker: Usman Tariq
+        bowler: RK Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 16.4:
+        non_striker: Usman Tariq
+        bowler: RK Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 16.5:
+        non_striker: Usman Tariq
+        bowler: RK Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 16.6:
+        non_striker: Usman Tariq
+        bowler: RK Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 17.1:
+        non_striker: Usman Tariq
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shaheen Shah Afridi
+    - 17.2:
+        non_striker: Usman Tariq
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 17.3:
+        non_striker: Usman Tariq
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shaheen Shah Afridi
+    - 17.4:
+        non_striker: Usman Tariq
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 17.5:
+        non_striker: Usman Tariq
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 17.6:
+        non_striker: Usman Tariq
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 17.7:
+        non_striker: Shaheen Shah Afridi
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Tariq
+        wicket:
+          player_out: Usman Tariq
+          kind: bowled

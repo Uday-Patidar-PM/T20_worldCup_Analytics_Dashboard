@@ -1,0 +1,1774 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  dates:
+  - '2026-02-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3691
+  outcome:
+    winner: Zimbabwe
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - B Muzarabani
+  players:
+    Oman:
+    - Aamir Kaleem
+    - Jatinder Singh
+    - Hammad Mirza
+    - K Sonavale
+    - Wasim Ali
+    - Sufyan Mehmood
+    - V Shukla
+    - J Ramanandi
+    - Nadeem Khan
+    - Shakeel Ahmed
+    - Shah Faisal
+    Zimbabwe:
+    - BJ Bennett
+    - T Marumani
+    - D Myers
+    - BRM Taylor
+    - Sikandar Raza
+    - RP Burl
+    - T Musekiwa
+    - B Evans
+    - WP Masakadza
+    - R Ngarava
+    - B Muzarabani
+  registry:
+    people:
+      Aamir Kaleem: 7ecb9a14
+      Ahsan Raza: e0e5b209
+      Asif Yaqoob: 6b35790c
+      B Evans: e7e86505
+      B Muzarabani: 449f4e3c
+      BJ Bennett: eaa36b2a
+      BRM Taylor: 53597be1
+      D Myers: d96165b5
+      Hammad Mirza: 0b7b78c6
+      J Ramanandi: f7ce2ff9
+      Jatinder Singh: b80dd12c
+      K Sonavale: 10c158cc
+      Nadeem Khan: 8a28c5d4
+      R Ngarava: 6e3f5a5c
+      RA Kettleborough: 4017868f
+      RB Richardson: 410e2f12
+      RP Burl: b08252b8
+      Shah Faisal: 4fe6be0c
+      Shakeel Ahmed: e29e9c12
+      Sikandar Raza: 26d041c4
+      Sufyan Mehmood: bf172ae6
+      T Marumani: 3d5d51a5
+      T Musekiwa: 06fc82b8
+      V Shukla: 101b1180
+      WP Masakadza: 4bc0a378
+      WR Knights: 63cbf8d8
+      Wasim Ali: ea59139a
+  teams:
+  - Oman
+  - Zimbabwe
+  toss:
+    winner: Zimbabwe
+    decision: field
+  umpires:
+  - Asif Yaqoob
+  - WR Knights
+  venue: Sinhalese Sports Club Ground, Colombo
+innings:
+- 1st innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aamir Kaleem
+    - 0.2:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aamir Kaleem
+    - 0.3:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 0.4:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 0.5:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jatinder Singh
+    - 0.6:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 0.7:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+    - 1.1:
+        non_striker: Aamir Kaleem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+        wicket:
+          player_out: Jatinder Singh
+          kind: bowled
+    - 1.2:
+        non_striker: Aamir Kaleem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 1.3:
+        non_striker: Aamir Kaleem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 1.4:
+        non_striker: Aamir Kaleem
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Hammad Mirza
+    - 1.5:
+        non_striker: Hammad Mirza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+    - 1.6:
+        non_striker: Hammad Mirza
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+    - 2.1:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 2.2:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+        wicket:
+          player_out: Hammad Mirza
+          fielders:
+          - BRM Taylor
+          kind: caught
+    - 2.3:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sonavale
+    - 2.4:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sonavale
+    - 2.5:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sonavale
+    - 2.6:
+        non_striker: Aamir Kaleem
+        bowler: R Ngarava
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: K Sonavale
+    - 3.1:
+        non_striker: K Sonavale
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aamir Kaleem
+    - 3.2:
+        non_striker: K Sonavale
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+    - 3.3:
+        non_striker: K Sonavale
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aamir Kaleem
+        wicket:
+          player_out: Aamir Kaleem
+          fielders:
+          - D Myers
+          kind: caught
+    - 3.4:
+        non_striker: K Sonavale
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 3.5:
+        non_striker: Wasim Ali
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sonavale
+    - 3.6:
+        non_striker: Wasim Ali
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sonavale
+        wicket:
+          player_out: K Sonavale
+          fielders:
+          - BRM Taylor
+          kind: caught
+    - 4.1:
+        non_striker: Sufyan Mehmood
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 4.2:
+        non_striker: Sufyan Mehmood
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 4.3:
+        non_striker: Wasim Ali
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 4.4:
+        non_striker: Wasim Ali
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 4.5:
+        non_striker: Sufyan Mehmood
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 4.6:
+        non_striker: Sufyan Mehmood
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 5.1:
+        non_striker: Wasim Ali
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 5.2:
+        non_striker: Wasim Ali
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 5.3:
+        non_striker: Wasim Ali
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sufyan Mehmood
+    - 5.4:
+        non_striker: Wasim Ali
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 5.5:
+        non_striker: Wasim Ali
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 5.6:
+        non_striker: Wasim Ali
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 6.1:
+        non_striker: Wasim Ali
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 6.2:
+        non_striker: Wasim Ali
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 6.3:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+    - 6.4:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Ali
+    - 6.5:
+        non_striker: Wasim Ali
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 6.6:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Ali
+        wicket:
+          player_out: Wasim Ali
+          kind: bowled
+    - 7.1:
+        non_striker: V Shukla
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 7.2:
+        non_striker: V Shukla
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 7.3:
+        non_striker: V Shukla
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 7.4:
+        non_striker: V Shukla
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 7.5:
+        non_striker: V Shukla
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 7.6:
+        non_striker: V Shukla
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 8.1:
+        non_striker: V Shukla
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 8.2:
+        non_striker: Sufyan Mehmood
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shukla
+    - 8.3:
+        non_striker: Sufyan Mehmood
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 8.4:
+        non_striker: V Shukla
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 8.5:
+        non_striker: V Shukla
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 8.6:
+        non_striker: V Shukla
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 9.1:
+        non_striker: Sufyan Mehmood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shukla
+    - 9.2:
+        non_striker: Sufyan Mehmood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shukla
+    - 9.3:
+        non_striker: Sufyan Mehmood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shukla
+    - 9.4:
+        non_striker: Sufyan Mehmood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shukla
+    - 9.5:
+        non_striker: Sufyan Mehmood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shukla
+    - 9.6:
+        non_striker: Sufyan Mehmood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shukla
+    - 10.1:
+        non_striker: V Shukla
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 10.2:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 10.3:
+        non_striker: V Shukla
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 10.4:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shukla
+    - 10.5:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 10.6:
+        non_striker: V Shukla
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 11.1:
+        non_striker: V Shukla
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sufyan Mehmood
+    - 11.2:
+        non_striker: V Shukla
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 11.3:
+        non_striker: Sufyan Mehmood
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shukla
+    - 11.4:
+        non_striker: Sufyan Mehmood
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shukla
+    - 11.5:
+        non_striker: Sufyan Mehmood
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shukla
+    - 11.6:
+        non_striker: Sufyan Mehmood
+        bowler: BJ Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shukla
+    - 12.1:
+        non_striker: V Shukla
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 12.2:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shukla
+    - 12.3:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 12.4:
+        non_striker: V Shukla
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 12.5:
+        non_striker: V Shukla
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 12.6:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shukla
+    - 13.1:
+        non_striker: V Shukla
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 13.2:
+        non_striker: V Shukla
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 13.3:
+        non_striker: V Shukla
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 13.4:
+        non_striker: Sufyan Mehmood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 13.5:
+        non_striker: V Shukla
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 13.6:
+        non_striker: Sufyan Mehmood
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 14.1:
+        non_striker: Sufyan Mehmood
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shukla
+        wicket:
+          player_out: V Shukla
+          fielders:
+          - BRM Taylor
+          kind: caught
+    - 14.2:
+        non_striker: Sufyan Mehmood
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ramanandi
+    - 14.3:
+        non_striker: J Ramanandi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 14.4:
+        non_striker: J Ramanandi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 14.5:
+        non_striker: Sufyan Mehmood
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ramanandi
+    - 14.6:
+        non_striker: Sufyan Mehmood
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ramanandi
+        wicket:
+          player_out: J Ramanandi
+          fielders:
+          - D Myers
+          kind: caught
+    - 15.1:
+        non_striker: Nadeem Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 15.2:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 15.3:
+        non_striker: Nadeem Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sufyan Mehmood
+    - 15.4:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 15.5:
+        non_striker: Sufyan Mehmood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 15.6:
+        non_striker: Nadeem Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+    - 16.1:
+        non_striker: Sufyan Mehmood
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 16.2:
+        non_striker: Nadeem Khan
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sufyan Mehmood
+        wicket:
+          player_out: Sufyan Mehmood
+          fielders:
+          - T Musekiwa
+          kind: caught
+    - 16.3:
+        non_striker: Nadeem Khan
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 16.4:
+        non_striker: Shakeel Ahmed
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 16.5:
+        non_striker: Shakeel Ahmed
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nadeem Khan
+    - 16.6:
+        non_striker: Shakeel Ahmed
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 17.1:
+        non_striker: Shakeel Ahmed
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 17.2:
+        non_striker: Nadeem Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 17.3:
+        non_striker: Shakeel Ahmed
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 17.4:
+        non_striker: Shakeel Ahmed
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nadeem Khan
+    - 17.5:
+        non_striker: Shakeel Ahmed
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 17.6:
+        non_striker: Nadeem Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 17.7:
+        non_striker: Shakeel Ahmed
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 18.1:
+        non_striker: Shakeel Ahmed
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 18.2:
+        non_striker: Shakeel Ahmed
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nadeem Khan
+    - 18.3:
+        non_striker: Shakeel Ahmed
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 18.4:
+        non_striker: Nadeem Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakeel Ahmed
+    - 18.5:
+        non_striker: Shakeel Ahmed
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 18.6:
+        non_striker: Shakeel Ahmed
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 19.1:
+        non_striker: Nadeem Khan
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakeel Ahmed
+        wicket:
+          player_out: Shakeel Ahmed
+          kind: bowled
+    - 19.2:
+        non_striker: Nadeem Khan
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shah Faisal
+    - 19.3:
+        non_striker: Nadeem Khan
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Faisal
+    - 19.4:
+        non_striker: Shah Faisal
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nadeem Khan
+    - 19.5:
+        non_striker: Shah Faisal
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+        wicket:
+          player_out: Nadeem Khan
+          fielders:
+          - BJ Bennett
+          kind: caught
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: T Marumani
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 0.2:
+        non_striker: T Marumani
+        bowler: Shah Faisal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Bennett
+    - 0.3:
+        non_striker: BJ Bennett
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 0.4:
+        non_striker: BJ Bennett
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 0.5:
+        non_striker: BJ Bennett
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 0.6:
+        non_striker: BJ Bennett
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Marumani
+    - 1.1:
+        non_striker: BJ Bennett
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 1.2:
+        non_striker: BJ Bennett
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+    - 1.3:
+        non_striker: BJ Bennett
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 1.4:
+        non_striker: BJ Bennett
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 1.5:
+        non_striker: BJ Bennett
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 1.6:
+        non_striker: BJ Bennett
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Marumani
+    - 2.1:
+        non_striker: T Marumani
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 2.2:
+        non_striker: T Marumani
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 2.3:
+        non_striker: T Marumani
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 2.4:
+        non_striker: T Marumani
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 2.5:
+        non_striker: T Marumani
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 2.6:
+        non_striker: T Marumani
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 3.1:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Marumani
+        wicket:
+          player_out: T Marumani
+          fielders:
+          - Wasim Ali
+          kind: caught
+    - 3.2:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+    - 3.3:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Myers
+        wicket:
+          player_out: D Myers
+          fielders:
+          - V Shukla
+          kind: caught
+    - 3.4:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 3.5:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 3.6:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 4.1:
+        non_striker: BJ Bennett
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 4.2:
+        non_striker: BJ Bennett
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 4.3:
+        non_striker: BJ Bennett
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 4.4:
+        non_striker: BJ Bennett
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 4.5:
+        non_striker: BJ Bennett
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 4.6:
+        non_striker: BRM Taylor
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 5.1:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 5.2:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 5.3:
+        non_striker: BRM Taylor
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 5.4:
+        non_striker: BRM Taylor
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 5.5:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 5.6:
+        non_striker: BRM Taylor
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 6.1:
+        non_striker: BJ Bennett
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 6.2:
+        non_striker: BJ Bennett
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 6.3:
+        non_striker: BRM Taylor
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 6.4:
+        non_striker: BRM Taylor
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 6.5:
+        non_striker: BRM Taylor
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 6.6:
+        non_striker: BRM Taylor
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 7.1:
+        non_striker: BRM Taylor
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 7.2:
+        non_striker: BJ Bennett
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 7.3:
+        non_striker: BRM Taylor
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 7.4:
+        non_striker: BRM Taylor
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 7.5:
+        non_striker: BJ Bennett
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 7.6:
+        non_striker: BRM Taylor
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 8.1:
+        non_striker: BRM Taylor
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 8.2:
+        non_striker: BJ Bennett
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 8.3:
+        non_striker: BRM Taylor
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 8.4:
+        non_striker: BJ Bennett
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 8.5:
+        non_striker: BRM Taylor
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 8.6:
+        non_striker: BJ Bennett
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 9.1:
+        non_striker: BRM Taylor
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 9.2:
+        non_striker: BJ Bennett
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 9.3:
+        non_striker: BRM Taylor
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 9.4:
+        non_striker: BJ Bennett
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 9.5:
+        non_striker: BJ Bennett
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 9.6:
+        non_striker: BRM Taylor
+        bowler: Wasim Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 10.1:
+        non_striker: BRM Taylor
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Bennett
+    - 10.2:
+        non_striker: BRM Taylor
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 10.3:
+        non_striker: BRM Taylor
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+    - 10.4:
+        non_striker: BRM Taylor
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 10.5:
+        non_striker: BJ Bennett
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 10.6:
+        non_striker: BJ Bennett
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 11.1:
+        non_striker: BRM Taylor
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 11.2:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 11.3:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 11.4:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 11.5:
+        non_striker: BRM Taylor
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 11.6:
+        non_striker: BJ Bennett
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 12.1:
+        non_striker: BJ Bennett
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 12.2:
+        non_striker: BRM Taylor
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 12.3:
+        non_striker: BJ Bennett
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 12.4:
+        non_striker: BJ Bennett
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 12.5:
+        non_striker: BRM Taylor
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Bennett
+        wicket:
+          player_out: BRM Taylor
+          kind: retired hurt
+    - 12.6:
+        non_striker: Sikandar Raza
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Bennett
+    - 13.1:
+        non_striker: BJ Bennett
+        bowler: K Sonavale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.2:
+        non_striker: Sikandar Raza
+        bowler: K Sonavale
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Bennett
+    - 13.3:
+        non_striker: BJ Bennett
+        bowler: K Sonavale
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza

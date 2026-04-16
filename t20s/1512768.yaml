@@ -1,0 +1,2170 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kandy
+  dates:
+  - '2026-02-28'
+  gender: male
+  match_type: T20
+  match_type_number: 3747
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 5
+  overs: 20
+  player_of_match:
+  - Sahibzada Farhan
+  players:
+    Pakistan:
+    - Sahibzada Farhan
+    - Fakhar Zaman
+    - Khawaja Nafay
+    - Shadab Khan
+    - Mohammad Nawaz
+    - Agha Salman
+    - Usman Khan
+    - Shaheen Shah Afridi
+    - Naseem Shah
+    - Abrar Ahmed
+    - Usman Tariq
+    Sri Lanka:
+    - P Nissanka
+    - K Mishara
+    - KIC Asalanka
+    - P Rathnayake
+    - PHKD Mendis
+    - J Liyanage
+    - MD Shanaka
+    - DN Wellalage
+    - M Theekshana
+    - PVD Chameera
+    - D Madushanka
+  registry:
+    people:
+      A Paleker: 634b11ac
+      AJ Pycroft: 685d3f80
+      Abrar Ahmed: abb7c76c
+      Agha Salman: 89c16049
+      D Madushanka: de7d833e
+      DN Wellalage: 736123bb
+      Fakhar Zaman: 1777c020
+      J Liyanage: 84212ffb
+      K Mishara: 65cebd5d
+      KIC Asalanka: 732c038e
+      Khawaja Nafay: 3cf54e77
+      M Theekshana: f24c6701
+      MD Shanaka: 3ff033bb
+      Mohammad Nawaz: 3086f7a4
+      Naseem Shah: 9c9af282
+      P Nissanka: 8ee36b18
+      P Rathnayake: c1fdfb46
+      PHKD Mendis: '08548b13'
+      PR Reiffel: c9354f29
+      PVD Chameera: 327b58d3
+      RJ Tucker: 38810cfc
+      SJ Nogajski: 9b3f9323
+      Sahibzada Farhan: 1aba45cd
+      Saim Ayub: 33609a8c
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      Usman Khan: bafb9238
+      Usman Tariq: e94d1dcd
+  teams:
+  - Pakistan
+  - Sri Lanka
+  toss:
+    winner: Sri Lanka
+    decision: field
+  umpires:
+  - RJ Tucker
+  - SJ Nogajski
+  venue: Pallekele International Cricket Stadium
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Fakhar Zaman
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.2:
+        non_striker: Fakhar Zaman
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.3:
+        non_striker: Fakhar Zaman
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 0.4:
+        non_striker: Sahibzada Farhan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fakhar Zaman
+    - 0.5:
+        non_striker: Sahibzada Farhan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 0.6:
+        non_striker: Sahibzada Farhan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 1.1:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 1.2:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 1.3:
+        non_striker: Sahibzada Farhan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 1.4:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.5:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 1.6:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 2.1:
+        non_striker: Fakhar Zaman
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 2.2:
+        non_striker: Fakhar Zaman
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 2.3:
+        non_striker: Fakhar Zaman
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 2.4:
+        non_striker: Fakhar Zaman
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 2.5:
+        non_striker: Fakhar Zaman
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 2.6:
+        non_striker: Fakhar Zaman
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 3.1:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 3.2:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 3.3:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 3.4:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 3.5:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 3.6:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 4.1:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 4.2:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 4.3:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 4.4:
+        non_striker: Sahibzada Farhan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 4.5:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 4.6:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 5.1:
+        non_striker: Fakhar Zaman
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 5.2:
+        non_striker: Fakhar Zaman
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 5.3:
+        non_striker: Fakhar Zaman
+        bowler: MD Shanaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sahibzada Farhan
+    - 5.4:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 5.5:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 5.6:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 6.1:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 6.2:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 6.3:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 6.4:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 6.5:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 6.6:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 7.1:
+        non_striker: Fakhar Zaman
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 7.2:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 7.3:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 7.4:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 7.5:
+        non_striker: Fakhar Zaman
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 7.6:
+        non_striker: Fakhar Zaman
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 8.1:
+        non_striker: Fakhar Zaman
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 8.2:
+        non_striker: Fakhar Zaman
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sahibzada Farhan
+    - 8.3:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 8.4:
+        non_striker: Fakhar Zaman
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 8.5:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 8.6:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 9.1:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fakhar Zaman
+    - 9.2:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fakhar Zaman
+    - 9.3:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 9.4:
+        non_striker: Fakhar Zaman
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 9.5:
+        non_striker: Fakhar Zaman
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 9.6:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 9.7:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fakhar Zaman
+    - 9.8:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fakhar Zaman
+    - 10.1:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 10.2:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 10.3:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 10.4:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 10.5:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fakhar Zaman
+    - 10.6:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 11.1:
+        non_striker: Fakhar Zaman
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 11.2:
+        non_striker: Fakhar Zaman
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 11.3:
+        non_striker: Fakhar Zaman
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 11.4:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 11.5:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 11.6:
+        non_striker: Sahibzada Farhan
+        bowler: DN Wellalage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 12.1:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fakhar Zaman
+    - 12.2:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 12.3:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 12.4:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 12.5:
+        non_striker: Fakhar Zaman
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 12.6:
+        non_striker: Sahibzada Farhan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 13.1:
+        non_striker: Sahibzada Farhan
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 13.2:
+        non_striker: Sahibzada Farhan
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 13.3:
+        non_striker: Sahibzada Farhan
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 13.4:
+        non_striker: Fakhar Zaman
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 13.5:
+        non_striker: Sahibzada Farhan
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 13.6:
+        non_striker: Fakhar Zaman
+        bowler: J Liyanage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 14.1:
+        non_striker: Fakhar Zaman
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 14.2:
+        non_striker: Fakhar Zaman
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 14.3:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 14.4:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 14.5:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 14.6:
+        non_striker: Fakhar Zaman
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 15.1:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 15.2:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 15.3:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 15.4:
+        non_striker: Fakhar Zaman
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 15.5:
+        non_striker: Sahibzada Farhan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Fakhar Zaman
+          kind: bowled
+    - 15.6:
+        non_striker: Sahibzada Farhan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawaja Nafay
+    - 16.1:
+        non_striker: Sahibzada Farhan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawaja Nafay
+    - 16.2:
+        non_striker: Khawaja Nafay
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 16.3:
+        non_striker: Sahibzada Farhan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+        wicket:
+          player_out: Khawaja Nafay
+          fielders:
+          - KIC Asalanka
+          kind: caught
+    - 16.4:
+        non_striker: Sahibzada Farhan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 16.5:
+        non_striker: Shadab Khan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 16.6:
+        non_striker: Shadab Khan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 17.1:
+        non_striker: Sahibzada Farhan
+        bowler: PVD Chameera
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Shadab Khan
+    - 17.2:
+        non_striker: Sahibzada Farhan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 17.3:
+        non_striker: Sahibzada Farhan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 17.4:
+        non_striker: Shadab Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sahibzada Farhan
+    - 17.5:
+        non_striker: Shadab Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 17.6:
+        non_striker: Shadab Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 17.7:
+        non_striker: Sahibzada Farhan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - K Mishara
+          - D Madushanka
+          kind: run out
+    - 18.1:
+        non_striker: Mohammad Nawaz
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 18.2:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+        wicket:
+          player_out: Mohammad Nawaz
+          fielders:
+          - M Theekshana
+          kind: caught
+    - 18.3:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 18.4:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - M Theekshana
+          kind: caught
+    - 18.5:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Usman Khan
+    - 18.6:
+        non_striker: Sahibzada Farhan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+    - 19.1:
+        non_striker: Usman Khan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+        wicket:
+          player_out: Sahibzada Farhan
+          fielders:
+          - J Liyanage
+          kind: caught
+    - 19.2:
+        non_striker: Usman Khan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 19.3:
+        non_striker: Usman Khan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+        wicket:
+          player_out: Shaheen Shah Afridi
+          kind: lbw
+    - 19.4:
+        non_striker: Usman Khan
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naseem Shah
+    - 19.5:
+        non_striker: Naseem Shah
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+        wicket:
+          player_out: Naseem Shah
+          fielders:
+          - PHKD Mendis
+          - D Madushanka
+          kind: run out
+    - 19.6:
+        non_striker: Abrar Ahmed
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Usman Khan
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: K Mishara
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: K Mishara
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: K Mishara
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.4:
+        non_striker: K Mishara
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: P Nissanka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 0.6:
+        non_striker: P Nissanka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 1.1:
+        non_striker: K Mishara
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.2:
+        non_striker: K Mishara
+        bowler: Naseem Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Nissanka
+    - 1.3:
+        non_striker: K Mishara
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 1.4:
+        non_striker: K Mishara
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - Mohammad Nawaz
+          kind: caught
+    - 1.5:
+        non_striker: K Mishara
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 1.6:
+        non_striker: K Mishara
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 1.7:
+        non_striker: KIC Asalanka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 2.1:
+        non_striker: KIC Asalanka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 2.2:
+        non_striker: KIC Asalanka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Mishara
+    - 2.3:
+        non_striker: KIC Asalanka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 2.4:
+        non_striker: KIC Asalanka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 2.5:
+        non_striker: KIC Asalanka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 2.6:
+        non_striker: KIC Asalanka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 3.1:
+        non_striker: KIC Asalanka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 3.2:
+        non_striker: K Mishara
+        bowler: Naseem Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KIC Asalanka
+    - 3.3:
+        non_striker: K Mishara
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 3.4:
+        non_striker: KIC Asalanka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 3.5:
+        non_striker: KIC Asalanka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 3.6:
+        non_striker: KIC Asalanka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 3.7:
+        non_striker: KIC Asalanka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 4.1:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+        wicket:
+          player_out: K Mishara
+          kind: bowled
+    - 4.2:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 4.3:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 4.4:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: P Rathnayake
+    - 4.5:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 4.6:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 5.1:
+        non_striker: P Rathnayake
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 5.2:
+        non_striker: KIC Asalanka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 5.3:
+        non_striker: KIC Asalanka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 5.4:
+        non_striker: P Rathnayake
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 5.5:
+        non_striker: P Rathnayake
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 5.6:
+        non_striker: P Rathnayake
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 6.1:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 6.2:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Rathnayake
+    - 6.3:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 6.4:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 6.5:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 6.6:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 6.7:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 7.1:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 7.2:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 7.3:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 7.4:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 7.5:
+        non_striker: KIC Asalanka
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 7.6:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 8.1:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 8.2:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 8.3:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 8.4:
+        non_striker: KIC Asalanka
+        bowler: Abrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Rathnayake
+    - 8.5:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          kind: bowled
+    - 8.6:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 9.1:
+        non_striker: PHKD Mendis
+        bowler: Usman Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Rathnayake
+    - 9.2:
+        non_striker: PHKD Mendis
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 9.3:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 9.4:
+        non_striker: PHKD Mendis
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 9.5:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 9.6:
+        non_striker: PHKD Mendis
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 9.7:
+        non_striker: PHKD Mendis
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 10.1:
+        non_striker: PHKD Mendis
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 10.2:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 10.3:
+        non_striker: PHKD Mendis
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Rathnayake
+    - 10.4:
+        non_striker: PHKD Mendis
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 10.5:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 10.6:
+        non_striker: P Rathnayake
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+        wicket:
+          player_out: PHKD Mendis
+          kind: bowled
+    - 11.1:
+        non_striker: J Liyanage
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 11.2:
+        non_striker: J Liyanage
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 11.3:
+        non_striker: P Rathnayake
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Liyanage
+    - 11.4:
+        non_striker: P Rathnayake
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 11.5:
+        non_striker: J Liyanage
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 11.6:
+        non_striker: P Rathnayake
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+        wicket:
+          player_out: J Liyanage
+          kind: bowled
+    - 12.1:
+        non_striker: MD Shanaka
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 12.2:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 12.3:
+        non_striker: MD Shanaka
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 12.4:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 12.5:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 12.6:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 13.1:
+        non_striker: MD Shanaka
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 13.2:
+        non_striker: P Rathnayake
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.3:
+        non_striker: MD Shanaka
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 13.4:
+        non_striker: P Rathnayake
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 13.5:
+        non_striker: P Rathnayake
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.6:
+        non_striker: MD Shanaka
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Rathnayake
+    - 14.1:
+        non_striker: P Rathnayake
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.2:
+        non_striker: MD Shanaka
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 14.3:
+        non_striker: P Rathnayake
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 14.4:
+        non_striker: MD Shanaka
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Rathnayake
+    - 14.5:
+        non_striker: MD Shanaka
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 14.6:
+        non_striker: MD Shanaka
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Rathnayake
+    - 15.1:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 15.2:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 15.3:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 15.4:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 15.5:
+        non_striker: P Rathnayake
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.6:
+        non_striker: MD Shanaka
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 16.1:
+        non_striker: P Rathnayake
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 16.2:
+        non_striker: P Rathnayake
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 16.3:
+        non_striker: MD Shanaka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Rathnayake
+    - 16.4:
+        non_striker: MD Shanaka
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Rathnayake
+    - 16.5:
+        non_striker: P Rathnayake
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 16.6:
+        non_striker: P Rathnayake
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.1:
+        non_striker: P Rathnayake
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 17.2:
+        non_striker: MD Shanaka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+    - 17.3:
+        non_striker: MD Shanaka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Rathnayake
+        wicket:
+          player_out: P Rathnayake
+          fielders:
+          - Saim Ayub (sub)
+          kind: caught
+    - 17.4:
+        non_striker: MD Shanaka
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 17.5:
+        non_striker: DN Wellalage
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 17.6:
+        non_striker: DN Wellalage
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 18.1:
+        non_striker: MD Shanaka
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wellalage
+    - 18.2:
+        non_striker: MD Shanaka
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wellalage
+    - 18.3:
+        non_striker: DN Wellalage
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 18.4:
+        non_striker: DN Wellalage
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 18.5:
+        non_striker: DN Wellalage
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Shanaka
+    - 18.6:
+        non_striker: DN Wellalage
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 18.7:
+        non_striker: DN Wellalage
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 18.8:
+        non_striker: MD Shanaka
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wellalage
+    - 19.1:
+        non_striker: DN Wellalage
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 19.2:
+        non_striker: DN Wellalage
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 19.3:
+        non_striker: DN Wellalage
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 19.4:
+        non_striker: DN Wellalage
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Shanaka
+    - 19.5:
+        non_striker: DN Wellalage
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 19.6:
+        non_striker: DN Wellalage
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka

@@ -1,0 +1,2185 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gaborone
+  dates:
+  - '2026-03-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3765
+  outcome:
+    winner: Botswana
+    by:
+      runs: 6
+  overs: 20
+  player_of_match:
+  - D Maisuria
+  players:
+    Botswana:
+    - L Perera
+    - V Balakrishnan
+    - L Maphane
+    - DA Senthil
+    - P Silas
+    - B van Zyl
+    - T Tshose
+    - D Maisuria
+    - B Khumalo
+    - M Mooketsi
+    - B Kgosiemang
+    Lesotho:
+    - LM Gabriel
+    - Ajaz Patel
+    - Mohammed Jamadar
+    - Maaz Khan
+    - Waseem Yaqoob
+    - Abraar Khan
+    - Azim Patel
+    - Inshaf Farook
+    - C Tlali
+    - TD Chaoana
+    - B Mejaro
+  registry:
+    people:
+      Abraar Khan: 0e1baf3d
+      Ajaz Patel: 29b6bcd4
+      Azim Patel: 83b6c5fb
+      B Kgosiemang: '059ec7a5'
+      B Khumalo: 33ab1f1c
+      B Mejaro: 6bd0d89e
+      B van Zyl: e0a2f58e
+      C Tlali: 70841eab
+      D Maisuria: a96b36af
+      DA Senthil: 8fa4d4af
+      Imran Zakir: 0071171d
+      Inshaf Farook: 17a4ff00
+      L Maphane: b3092fc4
+      L Mophakedi: c8cdbb92
+      L Perera: 9a4972ab
+      LM Gabriel: 88a5adcf
+      M Mooketsi: '008a024c'
+      Maaz Khan: 6f14ddcb
+      Mohammed Jamadar: '09f0aba1'
+      O Musiyamanje: b74c5754
+      P Silas: 9f2e1944
+      T Tshose: 18ae55e4
+      TD Chaoana: 16ddd36b
+      V Balakrishnan: 0c1da0c4
+      Waseem Yaqoob: 06b387f1
+  teams:
+  - Botswana
+  - Lesotho
+  toss:
+    winner: Botswana
+    decision: bat
+  umpires:
+  - Imran Zakir
+  - O Musiyamanje
+  venue: Botswana Cricket Association Oval 1, Gaborone
+innings:
+- 1st innings:
+    team: Botswana
+    deliveries:
+    - 0.1:
+        bowler: Inshaf Farook
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: V Balakrishnan
+        batsman: L Perera
+    - 0.2:
+        non_striker: L Perera
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 0.3:
+        non_striker: L Perera
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Balakrishnan
+    - 0.4:
+        non_striker: L Perera
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Balakrishnan
+    - 0.5:
+        non_striker: L Perera
+        bowler: Inshaf Farook
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Balakrishnan
+    - 0.6:
+        non_striker: L Perera
+        bowler: Inshaf Farook
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Balakrishnan
+    - 0.7:
+        non_striker: L Perera
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Balakrishnan
+    - 0.8:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Perera
+    - 0.9:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Perera
+    - 1.1:
+        non_striker: V Balakrishnan
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Perera
+    - 1.2:
+        non_striker: V Balakrishnan
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Perera
+    - 1.3:
+        non_striker: V Balakrishnan
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Perera
+    - 1.4:
+        non_striker: L Perera
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 1.5:
+        non_striker: L Perera
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 1.6:
+        non_striker: L Perera
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 2.1:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Perera
+    - 2.2:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Perera
+    - 2.3:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Perera
+    - 2.4:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Perera
+        wicket:
+          player_out: L Perera
+          kind: caught and bowled
+    - 2.5:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maphane
+    - 2.6:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maphane
+    - 3.1:
+        non_striker: L Maphane
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 3.2:
+        non_striker: L Maphane
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 3.3:
+        non_striker: L Maphane
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Balakrishnan
+    - 3.4:
+        non_striker: L Maphane
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 3.5:
+        non_striker: L Maphane
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Balakrishnan
+    - 3.6:
+        non_striker: L Maphane
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Balakrishnan
+    - 4.1:
+        non_striker: L Maphane
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Balakrishnan
+    - 4.2:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maphane
+    - 4.3:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maphane
+    - 4.4:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Maphane
+    - 4.5:
+        non_striker: V Balakrishnan
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maphane
+    - 4.6:
+        non_striker: L Maphane
+        bowler: Inshaf Farook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 5.1:
+        non_striker: V Balakrishnan
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maphane
+    - 5.2:
+        non_striker: L Maphane
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Balakrishnan
+    - 5.3:
+        non_striker: L Maphane
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Balakrishnan
+    - 5.4:
+        non_striker: L Maphane
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Balakrishnan
+    - 5.5:
+        non_striker: L Maphane
+        bowler: TD Chaoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Balakrishnan
+    - 5.6:
+        non_striker: L Maphane
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Balakrishnan
+    - 5.7:
+        non_striker: V Balakrishnan
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maphane
+    - 6.1:
+        non_striker: L Maphane
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Balakrishnan
+    - 6.2:
+        non_striker: V Balakrishnan
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maphane
+    - 6.3:
+        non_striker: V Balakrishnan
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Maphane
+    - 6.4:
+        non_striker: L Maphane
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Balakrishnan
+    - 6.5:
+        non_striker: L Maphane
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: V Balakrishnan
+    - 6.6:
+        non_striker: V Balakrishnan
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maphane
+    - 7.1:
+        non_striker: L Maphane
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 7.2:
+        non_striker: L Maphane
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Balakrishnan
+    - 7.3:
+        non_striker: V Balakrishnan
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Maphane
+        wicket:
+          player_out: L Maphane
+          fielders:
+          - C Tlali
+          kind: stumped
+    - 7.4:
+        non_striker: V Balakrishnan
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Senthil
+    - 7.5:
+        non_striker: V Balakrishnan
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Senthil
+    - 7.6:
+        non_striker: DA Senthil
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Balakrishnan
+    - 8.1:
+        non_striker: DA Senthil
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 8.2:
+        non_striker: DA Senthil
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: V Balakrishnan
+    - 8.3:
+        non_striker: V Balakrishnan
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Senthil
+    - 8.4:
+        non_striker: V Balakrishnan
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Senthil
+    - 8.5:
+        non_striker: V Balakrishnan
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Senthil
+    - 8.6:
+        non_striker: V Balakrishnan
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Senthil
+    - 8.7:
+        non_striker: V Balakrishnan
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Senthil
+    - 9.1:
+        non_striker: V Balakrishnan
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Senthil
+    - 9.2:
+        non_striker: DA Senthil
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Balakrishnan
+    - 9.3:
+        non_striker: V Balakrishnan
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Senthil
+    - 9.4:
+        non_striker: V Balakrishnan
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Senthil
+    - 9.5:
+        non_striker: V Balakrishnan
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Senthil
+    - 9.6:
+        non_striker: DA Senthil
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Balakrishnan
+    - 10.1:
+        non_striker: DA Senthil
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+    - 10.2:
+        non_striker: DA Senthil
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Balakrishnan
+        wicket:
+          player_out: V Balakrishnan
+          kind: lbw
+    - 10.3:
+        non_striker: DA Senthil
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+    - 10.4:
+        non_striker: P Silas
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Senthil
+    - 10.5:
+        non_striker: P Silas
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Senthil
+    - 10.6:
+        non_striker: P Silas
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Senthil
+    - 11.1:
+        non_striker: DA Senthil
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Silas
+    - 11.2:
+        non_striker: P Silas
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Senthil
+        wicket:
+          player_out: DA Senthil
+          fielders:
+          - Inshaf Farook
+          kind: caught
+    - 11.3:
+        non_striker: P Silas
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B van Zyl
+    - 11.4:
+        non_striker: P Silas
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B van Zyl
+    - 11.5:
+        non_striker: P Silas
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B van Zyl
+    - 11.6:
+        non_striker: P Silas
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B van Zyl
+    - 12.1:
+        non_striker: B van Zyl
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Silas
+        wicket:
+          player_out: P Silas
+          kind: bowled
+    - 12.2:
+        non_striker: B van Zyl
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 12.3:
+        non_striker: T Tshose
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B van Zyl
+    - 12.4:
+        non_striker: B van Zyl
+        bowler: TD Chaoana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Tshose
+    - 12.5:
+        non_striker: B van Zyl
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Tshose
+    - 12.6:
+        non_striker: B van Zyl
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 12.7:
+        non_striker: T Tshose
+        bowler: TD Chaoana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B van Zyl
+    - 13.1:
+        non_striker: B van Zyl
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 13.2:
+        non_striker: T Tshose
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B van Zyl
+    - 13.3:
+        non_striker: B van Zyl
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 13.4:
+        non_striker: T Tshose
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B van Zyl
+    - 13.5:
+        non_striker: T Tshose
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B van Zyl
+    - 13.6:
+        non_striker: T Tshose
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B van Zyl
+    - 14.1:
+        non_striker: T Tshose
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B van Zyl
+    - 14.2:
+        non_striker: B van Zyl
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 14.3:
+        non_striker: T Tshose
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B van Zyl
+    - 14.4:
+        non_striker: T Tshose
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B van Zyl
+    - 14.5:
+        non_striker: T Tshose
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B van Zyl
+    - 14.6:
+        non_striker: T Tshose
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B van Zyl
+    - 15.1:
+        non_striker: T Tshose
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B van Zyl
+    - 15.2:
+        non_striker: T Tshose
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B van Zyl
+    - 15.3:
+        non_striker: B van Zyl
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tshose
+    - 15.4:
+        non_striker: B van Zyl
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 15.5:
+        non_striker: T Tshose
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B van Zyl
+        wicket:
+          player_out: B van Zyl
+          fielders:
+          - Mohammed Jamadar
+          kind: caught
+    - 15.6:
+        non_striker: T Tshose
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Maisuria
+    - 16.1:
+        non_striker: D Maisuria
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tshose
+    - 16.2:
+        non_striker: D Maisuria
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Tshose
+    - 16.3:
+        non_striker: D Maisuria
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tshose
+    - 16.4:
+        non_striker: D Maisuria
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 16.5:
+        non_striker: T Tshose
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Maisuria
+    - 16.6:
+        non_striker: D Maisuria
+        bowler: Mohammed Jamadar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tshose
+    - 17.1:
+        non_striker: T Tshose
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Maisuria
+    - 17.2:
+        non_striker: D Maisuria
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Tshose
+    - 17.3:
+        non_striker: T Tshose
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Maisuria
+    - 17.4:
+        non_striker: T Tshose
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Maisuria
+    - 17.5:
+        non_striker: D Maisuria
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Tshose
+        wicket:
+          player_out: T Tshose
+          fielders:
+          - LM Gabriel
+          kind: caught
+    - 17.6:
+        non_striker: D Maisuria
+        bowler: B Mejaro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Khumalo
+    - 18.1:
+        non_striker: B Khumalo
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Maisuria
+    - 18.2:
+        non_striker: D Maisuria
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Khumalo
+    - 18.3:
+        non_striker: B Khumalo
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Maisuria
+    - 18.4:
+        non_striker: B Khumalo
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Maisuria
+    - 18.5:
+        non_striker: D Maisuria
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Khumalo
+    - 18.6:
+        non_striker: B Khumalo
+        bowler: Ajaz Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Maisuria
+    - 19.1:
+        non_striker: D Maisuria
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Khumalo
+    - 19.2:
+        non_striker: D Maisuria
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Khumalo
+    - 19.3:
+        non_striker: B Khumalo
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Maisuria
+        wicket:
+          player_out: D Maisuria
+          fielders:
+          - C Tlali
+          - B Mejaro
+          kind: run out
+    - 19.4:
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Mooketsi
+        batsman: B Khumalo
+    - 19.5:
+        non_striker: M Mooketsi
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Khumalo
+        wicket:
+          player_out: B Khumalo
+          fielders:
+          - Inshaf Farook
+          kind: caught
+    - 19.6:
+        non_striker: M Mooketsi
+        bowler: Waseem Yaqoob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Kgosiemang
+- 2nd innings:
+    team: Lesotho
+    deliveries:
+    - 0.1:
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ajaz Patel
+        batsman: LM Gabriel
+    - 0.2:
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ajaz Patel
+        batsman: LM Gabriel
+    - 0.3:
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ajaz Patel
+        batsman: LM Gabriel
+    - 0.4:
+        non_striker: LM Gabriel
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ajaz Patel
+    - 0.5:
+        non_striker: LM Gabriel
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ajaz Patel
+    - 0.6:
+        non_striker: LM Gabriel
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ajaz Patel
+    - 1.1:
+        non_striker: Ajaz Patel
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Gabriel
+        wicket:
+          player_out: LM Gabriel
+          fielders:
+          - B Kgosiemang
+          kind: caught
+    - 1.2:
+        non_striker: Ajaz Patel
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 1.3:
+        non_striker: Ajaz Patel
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 1.4:
+        non_striker: Ajaz Patel
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 1.5:
+        non_striker: Ajaz Patel
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 1.6:
+        non_striker: Ajaz Patel
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 2.1:
+        non_striker: Mohammed Jamadar
+        bowler: B van Zyl
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ajaz Patel
+    - 2.2:
+        non_striker: Mohammed Jamadar
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ajaz Patel
+    - 2.3:
+        non_striker: Ajaz Patel
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 2.4:
+        non_striker: Ajaz Patel
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 2.5:
+        non_striker: Ajaz Patel
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 2.6:
+        non_striker: Ajaz Patel
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 2.7:
+        non_striker: Ajaz Patel
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 3.1:
+        non_striker: Mohammed Jamadar
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ajaz Patel
+    - 3.2:
+        non_striker: Mohammed Jamadar
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ajaz Patel
+    - 3.3:
+        non_striker: Mohammed Jamadar
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ajaz Patel
+    - 3.4:
+        non_striker: Ajaz Patel
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 3.5:
+        non_striker: Ajaz Patel
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 3.6:
+        non_striker: Ajaz Patel
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammed Jamadar
+    - 4.1:
+        non_striker: Mohammed Jamadar
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ajaz Patel
+    - 4.2:
+        non_striker: Mohammed Jamadar
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ajaz Patel
+        wicket:
+          player_out: Ajaz Patel
+          kind: bowled
+    - 4.3:
+        non_striker: Mohammed Jamadar
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+    - 4.4:
+        non_striker: Mohammed Jamadar
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+    - 4.5:
+        non_striker: Mohammed Jamadar
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+    - 4.6:
+        non_striker: Mohammed Jamadar
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maaz Khan
+    - 5.1:
+        non_striker: Mohammed Jamadar
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+    - 5.2:
+        non_striker: Mohammed Jamadar
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maaz Khan
+    - 5.3:
+        non_striker: Maaz Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 5.4:
+        non_striker: Maaz Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Jamadar
+    - 5.5:
+        non_striker: Mohammed Jamadar
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+    - 5.6:
+        non_striker: Mohammed Jamadar
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Maaz Khan
+    - 6.1:
+        non_striker: Maaz Khan
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 6.2:
+        non_striker: Maaz Khan
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Jamadar
+    - 6.3:
+        non_striker: Maaz Khan
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammed Jamadar
+    - 6.4:
+        non_striker: Maaz Khan
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Jamadar
+    - 6.5:
+        non_striker: Mohammed Jamadar
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+    - 6.6:
+        non_striker: Mohammed Jamadar
+        bowler: B Kgosiemang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Maaz Khan
+    - 6.7:
+        non_striker: Mohammed Jamadar
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+    - 7.1:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 7.2:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+    - 7.3:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Jamadar
+        wicket:
+          player_out: Mohammed Jamadar
+          fielders:
+          - L Perera
+          kind: stumped
+    - 7.4:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 7.5:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 7.6:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 8.1:
+        non_striker: Waseem Yaqoob
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maaz Khan
+    - 8.2:
+        non_striker: Maaz Khan
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Yaqoob
+    - 8.3:
+        non_striker: Waseem Yaqoob
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+    - 8.4:
+        non_striker: Waseem Yaqoob
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Maaz Khan
+    - 8.5:
+        non_striker: Maaz Khan
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 8.6:
+        non_striker: Maaz Khan
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Yaqoob
+    - 9.1:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 9.2:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 9.3:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 9.4:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 9.5:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Yaqoob
+    - 9.6:
+        non_striker: Maaz Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Yaqoob
+    - 10.1:
+        non_striker: Maaz Khan
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 10.2:
+        non_striker: Maaz Khan
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 10.3:
+        non_striker: Maaz Khan
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 10.4:
+        non_striker: Maaz Khan
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Yaqoob
+    - 10.5:
+        non_striker: Maaz Khan
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Yaqoob
+    - 10.6:
+        non_striker: Maaz Khan
+        bowler: M Mooketsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 11.1:
+        non_striker: Waseem Yaqoob
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+    - 11.2:
+        non_striker: Waseem Yaqoob
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Maaz Khan
+        wicket:
+          player_out: Maaz Khan
+          kind: bowled
+    - 11.3:
+        non_striker: Waseem Yaqoob
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abraar Khan
+    - 11.4:
+        non_striker: Waseem Yaqoob
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abraar Khan
+    - 11.5:
+        non_striker: Waseem Yaqoob
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 11.6:
+        non_striker: Abraar Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 12.1:
+        non_striker: Waseem Yaqoob
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abraar Khan
+    - 12.2:
+        non_striker: Waseem Yaqoob
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abraar Khan
+    - 12.3:
+        non_striker: Waseem Yaqoob
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 12.4:
+        non_striker: Abraar Khan
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 12.5:
+        non_striker: Abraar Khan
+        bowler: V Balakrishnan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Yaqoob
+    - 12.6:
+        non_striker: Abraar Khan
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Yaqoob
+    - 12.7:
+        non_striker: Abraar Khan
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Yaqoob
+    - 13.1:
+        non_striker: Waseem Yaqoob
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 13.2:
+        non_striker: Abraar Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Yaqoob
+    - 13.3:
+        non_striker: Abraar Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+    - 13.4:
+        non_striker: Abraar Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Yaqoob
+        wicket:
+          player_out: Waseem Yaqoob
+          kind: caught and bowled
+    - 13.5:
+        non_striker: Abraar Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azim Patel
+    - 13.6:
+        non_striker: Abraar Khan
+        bowler: D Maisuria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azim Patel
+    - 14.1:
+        non_striker: Azim Patel
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 14.2:
+        non_striker: Abraar Khan
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azim Patel
+    - 14.3:
+        non_striker: Abraar Khan
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azim Patel
+    - 14.4:
+        non_striker: Azim Patel
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 14.5:
+        non_striker: Abraar Khan
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azim Patel
+    - 14.6:
+        non_striker: Abraar Khan
+        bowler: V Balakrishnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azim Patel
+    - 15.1:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azim Patel
+    - 15.2:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azim Patel
+    - 15.3:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azim Patel
+    - 15.4:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azim Patel
+    - 15.5:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azim Patel
+        wicket:
+          player_out: Azim Patel
+          fielders:
+          - B van Zyl
+          kind: caught
+    - 15.6:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inshaf Farook
+    - 16.1:
+        non_striker: Abraar Khan
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inshaf Farook
+    - 16.2:
+        non_striker: Inshaf Farook
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 16.3:
+        non_striker: Abraar Khan
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inshaf Farook
+    - 16.4:
+        non_striker: Abraar Khan
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Inshaf Farook
+    - 16.5:
+        non_striker: Abraar Khan
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Inshaf Farook
+    - 16.6:
+        non_striker: Abraar Khan
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Inshaf Farook
+    - 17.1:
+        non_striker: Inshaf Farook
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abraar Khan
+    - 17.2:
+        non_striker: Inshaf Farook
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 17.3:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inshaf Farook
+    - 17.4:
+        non_striker: Inshaf Farook
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 17.5:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Inshaf Farook
+    - 17.6:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inshaf Farook
+    - 17.7:
+        non_striker: Abraar Khan
+        bowler: B Khumalo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Inshaf Farook
+    - 18.1:
+        non_striker: Inshaf Farook
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abraar Khan
+    - 18.2:
+        non_striker: Inshaf Farook
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 18.3:
+        non_striker: Abraar Khan
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inshaf Farook
+    - 18.4:
+        non_striker: Inshaf Farook
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abraar Khan
+    - 18.5:
+        non_striker: Abraar Khan
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inshaf Farook
+        wicket:
+          player_out: Inshaf Farook
+          kind: bowled
+    - 18.6:
+        non_striker: Abraar Khan
+        bowler: B van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 19.1:
+        non_striker: C Tlali
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abraar Khan
+        wicket:
+          player_out: Abraar Khan
+          fielders:
+          - B Khumalo
+          kind: caught
+    - 19.2:
+        non_striker: C Tlali
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Chaoana
+    - 19.3:
+        non_striker: TD Chaoana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 19.4:
+        non_striker: TD Chaoana
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tlali
+    - 19.5:
+        non_striker: TD Chaoana
+        bowler: B Kgosiemang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Tlali
+    - 19.6:
+        non_striker: C Tlali
+        bowler: B Kgosiemang
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TD Chaoana

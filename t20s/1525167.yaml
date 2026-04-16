@@ -1,0 +1,2220 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: George Town
+  dates:
+  - '2026-03-08'
+  gender: male
+  match_type: T20
+  match_type_number: 3757
+  outcome:
+    winner: Mexico
+    by:
+      runs: 9
+  overs: 20
+  player_of_match:
+  - Gurpreet Singh
+  players:
+    Mexico:
+    - R Galgalikar
+    - Kaushal Kumar
+    - Gurpreet Singh
+    - S Kochar
+    - Amir Butt
+    - KB Patil
+    - J Byrappa
+    - D Panda
+    - Shoaib Rafiq
+    - Shantanu Kaveri
+    - Pratik Singh Bais
+    Suriname:
+    - S Bharratt
+    - V Hirlal
+    - TA Dudnath
+    - G Singh
+    - AK Gokoel
+    - J Perry
+    - XSD Smith
+    - V Shaw
+    - YP Dayal
+    - K Jaikaran
+    - KN Singh
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      AK Gokoel: 2fff8b43
+      AR Maddela: 5c861579
+      Amir Butt: 5bdf2343
+      D Panda: bad1af65
+      Denavon Hayles: 5cbeeb02
+      G Singh: e93b6c95
+      Gurpreet Singh: f43dcdc1
+      J Byrappa: 860f7b67
+      J Perry: f5c73a14
+      K Jaikaran: 420431c9
+      KB Patil: 0474fd64
+      KN Singh: 74bff7ca
+      Kaushal Kumar: 8cc37805
+      Pratik Singh Bais: 5b351aff
+      R Galgalikar: 3f951265
+      R Shah: 3424e050
+      S Bharratt: 1335107b
+      S Kochar: da2eeb97
+      Shantanu Kaveri: '091880f7'
+      Shoaib Rafiq: 27df03d2
+      TA Dudnath: 15322a7b
+      V Hirlal: 3eb2a27b
+      V Shaw: e05dd44b
+      XSD Smith: f4f892a3
+      YP Dayal: 990f1424
+  teams:
+  - Mexico
+  - Suriname
+  toss:
+    winner: Suriname
+    decision: field
+  umpires:
+  - A Gajjar
+  - R Shah
+  venue: Jimmy Powell Oval, Cayman Islands
+innings:
+- 1st innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Kaushal Kumar
+        batsman: R Galgalikar
+    - 0.2:
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Kaushal Kumar
+        batsman: R Galgalikar
+    - 0.3:
+        non_striker: R Galgalikar
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 0.4:
+        non_striker: R Galgalikar
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 0.5:
+        non_striker: R Galgalikar
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 0.6:
+        non_striker: Kaushal Kumar
+        bowler: TA Dudnath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Galgalikar
+    - 0.7:
+        non_striker: Kaushal Kumar
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+    - 1.1:
+        non_striker: R Galgalikar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kaushal Kumar
+    - 1.2:
+        non_striker: R Galgalikar
+        bowler: G Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kaushal Kumar
+    - 1.3:
+        non_striker: R Galgalikar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 1.4:
+        non_striker: R Galgalikar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 1.5:
+        non_striker: Kaushal Kumar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Galgalikar
+        wicket:
+          player_out: R Galgalikar
+          fielders:
+          - AK Gokoel
+          kind: caught
+    - 1.6:
+        non_striker: Kaushal Kumar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 1.7:
+        non_striker: Kaushal Kumar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 2.1:
+        non_striker: Gurpreet Singh
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 2.2:
+        non_striker: Gurpreet Singh
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+    - 2.3:
+        non_striker: Gurpreet Singh
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaushal Kumar
+    - 2.4:
+        non_striker: Kaushal Kumar
+        bowler: TA Dudnath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Gurpreet Singh
+    - 2.5:
+        non_striker: Gurpreet Singh
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaushal Kumar
+        wicket:
+          player_out: Kaushal Kumar
+          fielders:
+          - XSD Smith
+          kind: caught
+    - 2.6:
+        non_striker: Gurpreet Singh
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kochar
+    - 3.1:
+        non_striker: S Kochar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 3.2:
+        non_striker: S Kochar
+        bowler: G Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Gurpreet Singh
+    - 3.3:
+        non_striker: S Kochar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 3.4:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kochar
+    - 3.5:
+        non_striker: S Kochar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 3.6:
+        non_striker: S Kochar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gurpreet Singh
+    - 3.7:
+        non_striker: S Kochar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 4.1:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Kochar
+    - 4.2:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kochar
+    - 4.3:
+        non_striker: S Kochar
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 4.4:
+        non_striker: S Kochar
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Gurpreet Singh
+    - 4.5:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kochar
+    - 4.6:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kochar
+    - 5.1:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kochar
+    - 5.2:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kochar
+    - 5.3:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kochar
+    - 5.4:
+        non_striker: S Kochar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 5.5:
+        non_striker: S Kochar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 5.6:
+        non_striker: S Kochar
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gurpreet Singh
+    - 6.1:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kochar
+        wicket:
+          player_out: S Kochar
+          kind: bowled
+    - 6.2:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 6.3:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 6.4:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 6.5:
+        non_striker: Amir Butt
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 6.6:
+        non_striker: Amir Butt
+        bowler: KN Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Gurpreet Singh
+    - 6.7:
+        non_striker: Amir Butt
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 7.1:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 7.2:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 7.3:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 7.4:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 7.5:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 7.6:
+        non_striker: Gurpreet Singh
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 8.1:
+        non_striker: Amir Butt
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 8.2:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Butt
+    - 8.3:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 8.4:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 8.5:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 8.6:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 9.1:
+        non_striker: Gurpreet Singh
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 9.2:
+        non_striker: Gurpreet Singh
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 9.3:
+        non_striker: Gurpreet Singh
+        bowler: AK Gokoel
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Amir Butt
+    - 9.4:
+        non_striker: Amir Butt
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gurpreet Singh
+    - 9.5:
+        non_striker: Amir Butt
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 9.6:
+        non_striker: Gurpreet Singh
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 9.7:
+        non_striker: Amir Butt
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 10.1:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 10.2:
+        non_striker: Amir Butt
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 10.3:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amir Butt
+    - 10.4:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 10.5:
+        non_striker: Amir Butt
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 10.6:
+        non_striker: Gurpreet Singh
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 10.7:
+        non_striker: Amir Butt
+        bowler: KN Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gurpreet Singh
+    - 11.1:
+        non_striker: Gurpreet Singh
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+        wicket:
+          player_out: Amir Butt
+          fielders:
+          - S Bharratt
+          kind: caught
+    - 11.2:
+        non_striker: Gurpreet Singh
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 11.3:
+        non_striker: Gurpreet Singh
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 11.4:
+        non_striker: Gurpreet Singh
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 11.5:
+        non_striker: KB Patil
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 11.6:
+        non_striker: Gurpreet Singh
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 12.1:
+        non_striker: KB Patil
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gurpreet Singh
+    - 12.2:
+        non_striker: KB Patil
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gurpreet Singh
+    - 12.3:
+        non_striker: KB Patil
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 12.4:
+        non_striker: Gurpreet Singh
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KB Patil
+    - 12.5:
+        non_striker: Gurpreet Singh
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 12.6:
+        non_striker: Gurpreet Singh
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 13.1:
+        non_striker: KB Patil
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+    - 13.2:
+        non_striker: Gurpreet Singh
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 13.3:
+        non_striker: Gurpreet Singh
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 13.4:
+        non_striker: Gurpreet Singh
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 13.5:
+        non_striker: Gurpreet Singh
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 13.6:
+        non_striker: KB Patil
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gurpreet Singh
+        wicket:
+          player_out: Gurpreet Singh
+          fielders:
+          - J Perry
+          - XSD Smith
+          kind: run out
+    - 14.1:
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: J Byrappa
+        batsman: KB Patil
+    - 14.2:
+        non_striker: KB Patil
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa
+    - 14.3:
+        non_striker: J Byrappa
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 14.4:
+        non_striker: KB Patil
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Byrappa
+    - 14.5:
+        non_striker: KB Patil
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Byrappa
+    - 14.6:
+        non_striker: KB Patil
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Byrappa
+    - 15.1:
+        non_striker: KB Patil
+        bowler: XSD Smith
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: J Byrappa
+    - 15.2:
+        non_striker: J Byrappa
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 15.3:
+        non_striker: J Byrappa
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 15.4:
+        non_striker: J Byrappa
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+        wicket:
+          player_out: KB Patil
+          fielders:
+          - J Perry
+          kind: stumped
+    - 15.5:
+        non_striker: J Byrappa
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 15.6:
+        non_striker: D Panda
+        bowler: XSD Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Byrappa
+    - 15.7:
+        non_striker: D Panda
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Byrappa
+        wicket:
+          player_out: J Byrappa
+          fielders:
+          - YP Dayal
+          kind: caught
+    - 15.8:
+        non_striker: D Panda
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 16.1:
+        non_striker: Shoaib Rafiq
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 16.2:
+        non_striker: Shoaib Rafiq
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 16.3:
+        non_striker: D Panda
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 16.4:
+        non_striker: D Panda
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 16.5:
+        non_striker: D Panda
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+    - 16.6:
+        non_striker: D Panda
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Rafiq
+        wicket:
+          player_out: Shoaib Rafiq
+          kind: bowled
+    - 17.1:
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shantanu Kaveri
+        batsman: D Panda
+    - 17.2:
+        non_striker: D Panda
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 17.3:
+        non_striker: Shantanu Kaveri
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 17.4:
+        non_striker: Shantanu Kaveri
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+        wicket:
+          player_out: D Panda
+          fielders:
+          - S Bharratt
+          kind: caught
+    - 17.5:
+        non_striker: Shantanu Kaveri
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+    - 17.6:
+        non_striker: Shantanu Kaveri
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 18.1:
+        non_striker: Shantanu Kaveri
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+    - 18.2:
+        non_striker: Shantanu Kaveri
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 18.3:
+        non_striker: Pratik Singh Bais
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 18.4:
+        non_striker: Pratik Singh Bais
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 18.5:
+        non_striker: Pratik Singh Bais
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 18.6:
+        non_striker: Shantanu Kaveri
+        bowler: TA Dudnath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratik Singh Bais
+    - 18.7:
+        non_striker: Shantanu Kaveri
+        bowler: TA Dudnath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 19.1:
+        non_striker: Shantanu Kaveri
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 19.2:
+        non_striker: Pratik Singh Bais
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 19.3:
+        non_striker: Shantanu Kaveri
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratik Singh Bais
+    - 19.4:
+        non_striker: Pratik Singh Bais
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 19.5:
+        non_striker: Shantanu Kaveri
+        bowler: AK Gokoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratik Singh Bais
+        wicket:
+          player_out: Pratik Singh Bais
+          kind: bowled
+- 2nd innings:
+    team: Suriname
+    deliveries:
+    - 0.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Hirlal
+        batsman: S Bharratt
+    - 0.2:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+        wicket:
+          player_out: S Bharratt
+          fielders:
+          - D Panda
+          kind: caught
+    - 0.3:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 0.4:
+        non_striker: TA Dudnath
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Hirlal
+    - 0.5:
+        non_striker: TA Dudnath
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 0.6:
+        non_striker: TA Dudnath
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 0.7:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 1.1:
+        non_striker: V Hirlal
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 1.2:
+        non_striker: V Hirlal
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 1.3:
+        non_striker: TA Dudnath
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 1.4:
+        non_striker: TA Dudnath
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 1.5:
+        non_striker: TA Dudnath
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Hirlal
+    - 1.6:
+        non_striker: TA Dudnath
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Hirlal
+    - 2.1:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 2.2:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 2.3:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 2.4:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 2.5:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 2.6:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Dudnath
+    - 3.1:
+        non_striker: TA Dudnath
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 3.2:
+        non_striker: TA Dudnath
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 3.3:
+        non_striker: TA Dudnath
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 3.4:
+        non_striker: TA Dudnath
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 3.5:
+        non_striker: V Hirlal
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 3.6:
+        non_striker: TA Dudnath
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 4.1:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 4.2:
+        non_striker: TA Dudnath
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 4.3:
+        non_striker: TA Dudnath
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 4.4:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 4.5:
+        non_striker: TA Dudnath
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 4.6:
+        non_striker: TA Dudnath
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 5.1:
+        non_striker: V Hirlal
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 5.2:
+        non_striker: V Hirlal
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 5.3:
+        non_striker: V Hirlal
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 5.4:
+        non_striker: V Hirlal
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 5.5:
+        non_striker: TA Dudnath
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 5.6:
+        non_striker: TA Dudnath
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 6.1:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Dudnath
+    - 6.2:
+        non_striker: TA Dudnath
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 6.3:
+        non_striker: TA Dudnath
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 6.4:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 6.5:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Dudnath
+    - 6.6:
+        non_striker: V Hirlal
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+    - 7.1:
+        non_striker: TA Dudnath
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 7.2:
+        non_striker: TA Dudnath
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 7.3:
+        non_striker: TA Dudnath
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 7.4:
+        non_striker: V Hirlal
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+        wicket:
+          player_out: V Hirlal
+          fielders:
+          - Gurpreet Singh
+          - D Panda
+          kind: run out
+    - 7.5:
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: G Singh
+        batsman: TA Dudnath
+    - 7.6:
+        non_striker: G Singh
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Dudnath
+        wicket:
+          player_out: TA Dudnath
+          fielders:
+          - Amir Butt
+          kind: caught
+    - 8.1:
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AK Gokoel
+        batsman: G Singh
+    - 8.2:
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AK Gokoel
+        batsman: G Singh
+    - 8.3:
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AK Gokoel
+        batsman: G Singh
+    - 8.4:
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AK Gokoel
+        batsman: G Singh
+    - 8.5:
+        non_striker: G Singh
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Gokoel
+    - 8.6:
+        non_striker: G Singh
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gokoel
+    - 9.1:
+        non_striker: G Singh
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Gokoel
+    - 9.2:
+        non_striker: AK Gokoel
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 9.3:
+        non_striker: AK Gokoel
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 9.4:
+        non_striker: AK Gokoel
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 9.5:
+        non_striker: AK Gokoel
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 9.6:
+        non_striker: G Singh
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gokoel
+    - 10.1:
+        non_striker: AK Gokoel
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 10.2:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gokoel
+    - 10.3:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Gokoel
+        wicket:
+          player_out: AK Gokoel
+          fielders:
+          - Kaushal Kumar
+          kind: caught
+    - 10.4:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+    - 10.5:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Perry
+    - 10.6:
+        non_striker: J Perry
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 11.1:
+        non_striker: J Perry
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 11.2:
+        non_striker: J Perry
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 11.3:
+        non_striker: G Singh
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Perry
+        wicket:
+          player_out: J Perry
+          kind: bowled
+    - 11.4:
+        non_striker: G Singh
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 11.5:
+        non_striker: G Singh
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 11.6:
+        non_striker: XSD Smith
+        bowler: Gurpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 12.1:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Singh
+    - 12.2:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 12.3:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: XSD Smith
+    - 12.4:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 12.5:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 12.6:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 12.7:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 13.1:
+        non_striker: G Singh
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 13.2:
+        non_striker: G Singh
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 13.3:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 13.4:
+        non_striker: G Singh
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 13.5:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 13.6:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 14.1:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 14.2:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 14.3:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 14.4:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 14.5:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: XSD Smith
+    - 14.6:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 14.7:
+        non_striker: G Singh
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 15.1:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+        wicket:
+          player_out: G Singh
+          kind: bowled
+    - 15.2:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shaw
+    - 15.3:
+        non_striker: V Shaw
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 15.4:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 15.5:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 15.6:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shaw
+    - 16.1:
+        non_striker: V Shaw
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 16.2:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Shaw
+    - 16.3:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shaw
+    - 16.4:
+        non_striker: V Shaw
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 16.5:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 16.6:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 16.7:
+        non_striker: XSD Smith
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 17.1:
+        non_striker: V Shaw
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 17.2:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+        wicket:
+          player_out: V Shaw
+          fielders:
+          - Shoaib Rafiq
+          kind: caught
+    - 17.3:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 17.4:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 17.5:
+        non_striker: YP Dayal
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+    - 17.6:
+        non_striker: YP Dayal
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+    - 18.1:
+        non_striker: XSD Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 18.2:
+        non_striker: XSD Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+        wicket:
+          player_out: YP Dayal
+          fielders:
+          - R Galgalikar
+          kind: caught
+    - 18.3:
+        non_striker: XSD Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 18.4:
+        non_striker: XSD Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Jaikaran
+    - 18.5:
+        non_striker: XSD Smith
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 18.6:
+        non_striker: K Jaikaran
+        bowler: Shoaib Rafiq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: XSD Smith
+    - 19.1:
+        non_striker: K Jaikaran
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 19.2:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Jaikaran
+    - 19.3:
+        non_striker: K Jaikaran
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+    - 19.4:
+        non_striker: K Jaikaran
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XSD Smith
+    - 19.5:
+        non_striker: K Jaikaran
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 19.6:
+        non_striker: XSD Smith
+        bowler: Amir Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran

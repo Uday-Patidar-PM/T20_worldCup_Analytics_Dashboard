@@ -1,0 +1,2233 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ahmedabad
+  dates:
+  - '2025-12-19'
+  gender: male
+  match_type: T20
+  match_type_number: 3645
+  outcome:
+    winner: India
+    by:
+      runs: 30
+  overs: 20
+  player_of_match:
+  - HH Pandya
+  players:
+    India:
+    - SV Samson
+    - Abhishek Sharma
+    - Tilak Varma
+    - SA Yadav
+    - HH Pandya
+    - S Dube
+    - JM Sharma
+    - Washington Sundar
+    - CV Varun
+    - Arshdeep Singh
+    - JJ Bumrah
+    South Africa:
+    - Q de Kock
+    - RR Hendricks
+    - D Brevis
+    - DA Miller
+    - AK Markram
+    - D Ferreira
+    - GF Linde
+    - M Jansen
+    - C Bosch
+    - L Ngidi
+    - OEG Baartman
+  registry:
+    people:
+      AK Markram: 6a26221c
+      Abhishek Sharma: f29185a1
+      Arshdeep Singh: 244048f6
+      C Bosch: 172dff15
+      CV Varun: 5b7ab5a9
+      D Brevis: 844e79d1
+      D Ferreira: f0af99a7
+      DA Miller: d67d5f00
+      GF Linde: e5437608
+      HH Pandya: dbe50b21
+      J Madanagopal: 8275b04a
+      JJ Bumrah: 462411b3
+      JM Sharma: 800d2d97
+      KN Ananthapadmanabhan: 3144063a
+      L Ngidi: f834dcfc
+      M Jansen: 81c36ee9
+      OEG Baartman: 6b9eb501
+      Q de Kock: 372455c4
+      R Pandit: 8a604384
+      RB Richardson: 410e2f12
+      RR Hendricks: b8cc58c9
+      S Dube: a4e37e47
+      SA Yadav: 271f83cd
+      SV Samson: a4cc73aa
+      Tilak Varma: b0482a1d
+      VK Sharma: a7a49df4
+      Washington Sundar: f19ccfad
+  teams:
+  - India
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - R Pandit
+  - VK Sharma
+  venue: Narendra Modi Stadium, Ahmedabad
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Abhishek Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.2:
+        non_striker: Abhishek Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.3:
+        non_striker: Abhishek Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 0.4:
+        non_striker: SV Samson
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 0.5:
+        non_striker: SV Samson
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 0.6:
+        non_striker: SV Samson
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 1.1:
+        non_striker: SV Samson
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 1.2:
+        non_striker: SV Samson
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 1.3:
+        non_striker: SV Samson
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 1.4:
+        non_striker: SV Samson
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.5:
+        non_striker: SV Samson
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 1.6:
+        non_striker: Abhishek Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 2.1:
+        non_striker: SV Samson
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 2.2:
+        non_striker: Abhishek Sharma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 2.3:
+        non_striker: SV Samson
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.4:
+        non_striker: SV Samson
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.5:
+        non_striker: SV Samson
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.6:
+        non_striker: SV Samson
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 3.1:
+        non_striker: Abhishek Sharma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 3.2:
+        non_striker: Abhishek Sharma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 3.3:
+        non_striker: Abhishek Sharma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 3.4:
+        non_striker: Abhishek Sharma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Samson
+    - 3.5:
+        non_striker: Abhishek Sharma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 3.6:
+        non_striker: Abhishek Sharma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 4.1:
+        non_striker: SV Samson
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Abhishek Sharma
+    - 4.2:
+        non_striker: Abhishek Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 4.3:
+        non_striker: Abhishek Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 4.4:
+        non_striker: SV Samson
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.5:
+        non_striker: SV Samson
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.6:
+        non_striker: SV Samson
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 5.1:
+        non_striker: SV Samson
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 5.2:
+        non_striker: SV Samson
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 5.3:
+        non_striker: SV Samson
+        bowler: C Bosch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 5.4:
+        non_striker: SV Samson
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 5.5:
+        non_striker: SV Samson
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 5.6:
+        non_striker: SV Samson
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 5.7:
+        non_striker: SV Samson
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 6.1:
+        non_striker: Tilak Varma
+        bowler: D Ferreira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SV Samson
+    - 6.2:
+        non_striker: SV Samson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 6.3:
+        non_striker: SV Samson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 6.4:
+        non_striker: SV Samson
+        bowler: D Ferreira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tilak Varma
+    - 6.5:
+        non_striker: SV Samson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 6.6:
+        non_striker: Tilak Varma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 6.7:
+        non_striker: SV Samson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 7.1:
+        non_striker: SV Samson
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 7.2:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 7.3:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 7.4:
+        non_striker: SV Samson
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 7.5:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 7.6:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 8.1:
+        non_striker: SV Samson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 8.2:
+        non_striker: SV Samson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 8.3:
+        non_striker: SV Samson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 8.4:
+        non_striker: Tilak Varma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 8.5:
+        non_striker: SV Samson
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 8.6:
+        non_striker: Tilak Varma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 9.1:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          kind: bowled
+    - 9.2:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.3:
+        non_striker: SA Yadav
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 9.4:
+        non_striker: SA Yadav
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 9.5:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: SA Yadav
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.1:
+        non_striker: SA Yadav
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 10.2:
+        non_striker: SA Yadav
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.3:
+        non_striker: SA Yadav
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.4:
+        non_striker: Tilak Varma
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Yadav
+    - 10.5:
+        non_striker: Tilak Varma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.6:
+        non_striker: Tilak Varma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 10.7:
+        non_striker: SA Yadav
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.1:
+        non_striker: SA Yadav
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.2:
+        non_striker: SA Yadav
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.3:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 11.4:
+        non_striker: SA Yadav
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 11.5:
+        non_striker: SA Yadav
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.6:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 12.1:
+        non_striker: Tilak Varma
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - DA Miller
+          kind: caught
+    - 12.2:
+        non_striker: Tilak Varma
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 12.3:
+        non_striker: Tilak Varma
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 12.4:
+        non_striker: HH Pandya
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 12.5:
+        non_striker: HH Pandya
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 12.6:
+        non_striker: Tilak Varma
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 13.1:
+        non_striker: HH Pandya
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tilak Varma
+    - 13.2:
+        non_striker: HH Pandya
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 13.3:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 13.4:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 13.5:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 13.6:
+        non_striker: Tilak Varma
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 14.1:
+        non_striker: HH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 14.2:
+        non_striker: Tilak Varma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.3:
+        non_striker: HH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 14.4:
+        non_striker: HH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 14.5:
+        non_striker: HH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 14.6:
+        non_striker: HH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 15.1:
+        non_striker: Tilak Varma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 15.2:
+        non_striker: Tilak Varma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.3:
+        non_striker: HH Pandya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 15.4:
+        non_striker: Tilak Varma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.5:
+        non_striker: HH Pandya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 15.6:
+        non_striker: Tilak Varma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 16.1:
+        non_striker: HH Pandya
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 16.2:
+        non_striker: Tilak Varma
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 16.3:
+        non_striker: Tilak Varma
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 16.4:
+        non_striker: Tilak Varma
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 16.5:
+        non_striker: Tilak Varma
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HH Pandya
+    - 16.6:
+        non_striker: Tilak Varma
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.1:
+        non_striker: HH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 17.2:
+        non_striker: HH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Tilak Varma
+    - 17.3:
+        non_striker: Tilak Varma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.4:
+        non_striker: Tilak Varma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 17.5:
+        non_striker: Tilak Varma
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Pandya
+    - 17.6:
+        non_striker: Tilak Varma
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 17.7:
+        non_striker: HH Pandya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 18.1:
+        non_striker: HH Pandya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 18.2:
+        non_striker: HH Pandya
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 18.3:
+        non_striker: Tilak Varma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 18.4:
+        non_striker: Tilak Varma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 18.5:
+        non_striker: Tilak Varma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 18.6:
+        non_striker: Tilak Varma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 19.1:
+        non_striker: HH Pandya
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tilak Varma
+    - 19.2:
+        non_striker: HH Pandya
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 19.3:
+        non_striker: HH Pandya
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 19.4:
+        non_striker: Tilak Varma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - RR Hendricks
+          kind: caught
+    - 19.5:
+        non_striker: Tilak Varma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 19.6:
+        non_striker: Tilak Varma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 19.7:
+        non_striker: Tilak Varma
+        bowler: OEG Baartman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+        wicket:
+          player_out: Tilak Varma
+          fielders:
+          - Q de Kock
+          - OEG Baartman
+          kind: run out
+    - 19.8:
+        non_striker: JM Sharma
+        bowler: OEG Baartman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.2:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.2:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.5:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.1:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.4:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 2.7:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 2.8:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.9:
+        non_striker: RR Hendricks
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 3.1:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.2:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.5:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 4.1:
+        non_striker: Q de Kock
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 4.2:
+        non_striker: RR Hendricks
+        bowler: JJ Bumrah
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: RR Hendricks
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.4:
+        non_striker: RR Hendricks
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.5:
+        non_striker: RR Hendricks
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: RR Hendricks
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.7:
+        non_striker: Q de Kock
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.2:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 5.3:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 5.4:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 5.5:
+        non_striker: RR Hendricks
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 5.6:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.1:
+        non_striker: Q de Kock
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.2:
+        non_striker: RR Hendricks
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 6.3:
+        non_striker: Q de Kock
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          fielders:
+          - S Dube
+          kind: caught
+    - 6.4:
+        non_striker: Q de Kock
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.5:
+        non_striker: Q de Kock
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 6.6:
+        non_striker: Q de Kock
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.1:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.2:
+        non_striker: D Brevis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 7.4:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 7.5:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Brevis
+    - 7.6:
+        non_striker: Q de Kock
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 7.7:
+        non_striker: D Brevis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 7.8:
+        non_striker: D Brevis
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.1:
+        non_striker: D Brevis
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 8.2:
+        non_striker: D Brevis
+        bowler: CV Varun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 8.3:
+        non_striker: D Brevis
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 8.4:
+        non_striker: D Brevis
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.5:
+        non_striker: Q de Kock
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 8.6:
+        non_striker: Q de Kock
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 8.7:
+        non_striker: Q de Kock
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.1:
+        non_striker: Q de Kock
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 9.2:
+        non_striker: Q de Kock
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 9.3:
+        non_striker: Q de Kock
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 9.4:
+        non_striker: Q de Kock
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 9.5:
+        non_striker: Q de Kock
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 9.6:
+        non_striker: D Brevis
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 10.1:
+        non_striker: Q de Kock
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 10.2:
+        non_striker: D Brevis
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 10.3:
+        non_striker: D Brevis
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          kind: caught and bowled
+    - 10.4:
+        non_striker: D Brevis
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 10.5:
+        non_striker: D Brevis
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 10.6:
+        non_striker: D Brevis
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.7:
+        non_striker: DA Miller
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 11.1:
+        non_striker: DA Miller
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - Washington Sundar
+          kind: caught
+    - 11.2:
+        non_striker: DA Miller
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.3:
+        non_striker: AK Markram
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.4:
+        non_striker: DA Miller
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.5:
+        non_striker: AK Markram
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 11.6:
+        non_striker: AK Markram
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.1:
+        non_striker: AK Markram
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.2:
+        non_striker: DA Miller
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 12.3:
+        non_striker: DA Miller
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          kind: lbw
+    - 12.4:
+        non_striker: DA Miller
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          kind: bowled
+    - 12.5:
+        non_striker: DA Miller
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 12.6:
+        non_striker: DA Miller
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 13.1:
+        non_striker: DA Miller
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 13.2:
+        non_striker: DA Miller
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 13.3:
+        non_striker: GF Linde
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 13.4:
+        non_striker: GF Linde
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 13.5:
+        non_striker: GF Linde
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 13.6:
+        non_striker: GF Linde
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.1:
+        non_striker: GF Linde
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.2:
+        non_striker: DA Miller
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 14.3:
+        non_striker: GF Linde
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 14.4:
+        non_striker: GF Linde
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - SV Samson
+          kind: caught
+    - 14.5:
+        non_striker: GF Linde
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 14.6:
+        non_striker: M Jansen
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 15.1:
+        non_striker: M Jansen
+        bowler: CV Varun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GF Linde
+    - 15.2:
+        non_striker: M Jansen
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 15.3:
+        non_striker: M Jansen
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+        wicket:
+          player_out: GF Linde
+          kind: bowled
+    - 15.4:
+        non_striker: M Jansen
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 15.5:
+        non_striker: C Bosch
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 15.6:
+        non_striker: C Bosch
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 15.7:
+        non_striker: C Bosch
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 16.1:
+        non_striker: C Bosch
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+        wicket:
+          player_out: M Jansen
+          fielders:
+          - SV Samson
+          kind: caught
+    - 16.2:
+        non_striker: C Bosch
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 16.3:
+        non_striker: C Bosch
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 16.4:
+        non_striker: C Bosch
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 16.5:
+        non_striker: C Bosch
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 16.6:
+        non_striker: C Bosch
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ngidi
+    - 17.1:
+        non_striker: L Ngidi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 17.2:
+        non_striker: L Ngidi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Bosch
+    - 17.3:
+        non_striker: L Ngidi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 17.4:
+        non_striker: L Ngidi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 17.5:
+        non_striker: L Ngidi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Bosch
+    - 17.6:
+        non_striker: L Ngidi
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 17.7:
+        non_striker: C Bosch
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 18.1:
+        non_striker: L Ngidi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 18.2:
+        non_striker: L Ngidi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 18.3:
+        non_striker: L Ngidi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 18.4:
+        non_striker: L Ngidi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Bosch
+    - 18.5:
+        non_striker: L Ngidi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Bosch
+    - 18.6:
+        non_striker: L Ngidi
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 19.1:
+        non_striker: L Ngidi
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 19.2:
+        non_striker: C Bosch
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Ngidi
+    - 19.3:
+        non_striker: C Bosch
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ngidi
+    - 19.4:
+        non_striker: C Bosch
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Ngidi
+    - 19.5:
+        non_striker: L Ngidi
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Bosch
+    - 19.6:
+        non_striker: L Ngidi
+        bowler: Abhishek Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch

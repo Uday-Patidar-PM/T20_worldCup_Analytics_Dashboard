@@ -1,0 +1,2158 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Accra
+  dates:
+  - '2026-03-25'
+  gender: male
+  match_type: T20
+  match_type_number: 3786
+  outcome:
+    winner: Ghana
+    by:
+      wickets: 2
+  overs: 20
+  player_of_match:
+  - Nitesh Hooda
+  players:
+    Malawi:
+    - M Choamba
+    - G Kansonkho
+    - D Kansonkho
+    - Sami Sohail
+    - Kazim Somani
+    - A Limdawala
+    - D Jakiel
+    - SZ Vayani
+    - B Balala
+    - B Pondani
+    - K Thuchila
+    Ghana:
+    - J Guatam
+    - R Baaleri
+    - OH Agbomadzie
+    - BK Majji
+    - Devender Singh
+    - F Baleri
+    - IKO Aboagye
+    - P Yevugah
+    - Nitesh Hooda
+    - L Nyarko
+    - V Ateak
+  registry:
+    people:
+      A Jacobs: 70d117de
+      A Limdawala: 2bcbcac3
+      B Balala: a2f8e873
+      B Pondani: e5117568
+      BK Majji: d864f752
+      Claus Schumacher: 85645e62
+      D Jakiel: 8b7ce771
+      D Kansonkho: 45ca12a7
+      Devender Singh: 68e21fb1
+      F Baleri: 6efdad14
+      G Kansonkho: f3ca5af8
+      IKO Aboagye: '98614193'
+      J Guatam: 5992c2ba
+      K Thuchila: af42d9f2
+      Kazim Somani: d2ebebbe
+      L Nyarko: c391d077
+      M Choamba: 5570c4c1
+      Nitesh Hooda: d424d06a
+      O Chirombe: 6345307f
+      OH Agbomadzie: b38a9f73
+      P Yevugah: 5c842df4
+      R Baaleri: 26c9b5be
+      R D'Mello: f3c22863
+      SZ Vayani: a4afc486
+      Sami Sohail: 602ebd4c
+      V Ateak: 65a60be7
+  teams:
+  - Malawi
+  - Ghana
+  toss:
+    winner: Ghana
+    decision: field
+  umpires:
+  - A Jacobs
+  - R D'Mello
+  venue: Achimota Senior Secondary School A Field, Accra
+innings:
+- 1st innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Kansonkho
+        batsman: M Choamba
+    - 0.2:
+        bowler: L Nyarko
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: G Kansonkho
+        batsman: M Choamba
+    - 0.3:
+        non_striker: M Choamba
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 0.4:
+        non_striker: G Kansonkho
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 0.5:
+        non_striker: G Kansonkho
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 0.6:
+        non_striker: G Kansonkho
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 1.1:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 1.2:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 1.3:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 1.4:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 1.5:
+        non_striker: M Choamba
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 1.6:
+        non_striker: M Choamba
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 2.1:
+        non_striker: M Choamba
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 2.2:
+        non_striker: G Kansonkho
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 2.3:
+        non_striker: G Kansonkho
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 2.4:
+        non_striker: M Choamba
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 2.5:
+        non_striker: G Kansonkho
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 2.6:
+        non_striker: M Choamba
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 3.1:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 3.2:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 3.3:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 3.4:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+        wicket:
+          player_out: M Choamba
+          fielders:
+          - IKO Aboagye
+          kind: caught
+    - 3.5:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 3.6:
+        non_striker: G Kansonkho
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 4.1:
+        non_striker: G Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 4.2:
+        non_striker: D Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 4.3:
+        non_striker: G Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 4.4:
+        non_striker: D Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 4.5:
+        non_striker: D Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 4.6:
+        non_striker: D Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kansonkho
+    - 5.1:
+        non_striker: G Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 5.2:
+        non_striker: G Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 5.3:
+        non_striker: D Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 5.4:
+        non_striker: D Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 5.5:
+        non_striker: G Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 5.6:
+        non_striker: D Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 6.1:
+        non_striker: G Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+    - 6.2:
+        non_striker: G Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Kansonkho
+    - 6.3:
+        non_striker: G Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Kansonkho
+    - 6.4:
+        non_striker: G Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Kansonkho
+    - 6.5:
+        non_striker: D Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+        wicket:
+          player_out: D Kansonkho
+          fielders:
+          - F Baleri
+          - P Yevugah
+          kind: run out
+    - 6.6:
+        non_striker: G Kansonkho
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 7.1:
+        non_striker: Sami Sohail
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 7.2:
+        non_striker: G Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sami Sohail
+    - 7.3:
+        non_striker: Sami Sohail
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 7.4:
+        non_striker: G Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 7.5:
+        non_striker: Sami Sohail
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 7.6:
+        non_striker: G Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 8.1:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 8.2:
+        non_striker: G Kansonkho
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 8.3:
+        non_striker: G Kansonkho
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 8.4:
+        non_striker: G Kansonkho
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 8.5:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 8.6:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 9.1:
+        non_striker: Sami Sohail
+        bowler: IKO Aboagye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Kansonkho
+    - 9.2:
+        non_striker: G Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 9.3:
+        non_striker: G Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 9.4:
+        non_striker: Sami Sohail
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 9.5:
+        non_striker: Sami Sohail
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 9.6:
+        non_striker: G Kansonkho
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 10.1:
+        non_striker: G Kansonkho
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 10.2:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kansonkho
+    - 10.3:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 10.4:
+        non_striker: G Kansonkho
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 10.5:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+        wicket:
+          player_out: G Kansonkho
+          kind: bowled
+    - 10.6:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 11.1:
+        non_striker: Kazim Somani
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 11.2:
+        non_striker: Kazim Somani
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 11.3:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 11.4:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 11.5:
+        non_striker: Kazim Somani
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 11.6:
+        non_striker: Sami Sohail
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 12.1:
+        non_striker: Kazim Somani
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sami Sohail
+    - 12.2:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 12.3:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 12.4:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 12.5:
+        non_striker: Kazim Somani
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sami Sohail
+    - 12.6:
+        non_striker: Sami Sohail
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 13.1:
+        non_striker: Kazim Somani
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+        wicket:
+          player_out: Sami Sohail
+          kind: bowled
+    - 13.2:
+        non_striker: Kazim Somani
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Limdawala
+    - 13.3:
+        non_striker: A Limdawala
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 13.4:
+        non_striker: Kazim Somani
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Limdawala
+        wicket:
+          player_out: A Limdawala
+          kind: caught and bowled
+    - 13.5:
+        non_striker: Kazim Somani
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 13.6:
+        non_striker: Kazim Somani
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 14.1:
+        non_striker: D Jakiel
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 14.2:
+        non_striker: D Jakiel
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 14.3:
+        non_striker: D Jakiel
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 14.4:
+        non_striker: Kazim Somani
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 14.5:
+        non_striker: D Jakiel
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kazim Somani
+    - 14.6:
+        non_striker: D Jakiel
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 15.1:
+        non_striker: D Jakiel
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 15.2:
+        non_striker: Kazim Somani
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 15.3:
+        non_striker: Kazim Somani
+        bowler: Nitesh Hooda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: D Jakiel
+    - 15.4:
+        non_striker: D Jakiel
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kazim Somani
+    - 15.5:
+        non_striker: D Jakiel
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 15.6:
+        non_striker: Kazim Somani
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 16.1:
+        non_striker: Kazim Somani
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 16.2:
+        non_striker: D Jakiel
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 16.3:
+        non_striker: Kazim Somani
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 16.4:
+        non_striker: D Jakiel
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kazim Somani
+    - 16.5:
+        non_striker: Kazim Somani
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+        wicket:
+          player_out: Kazim Somani
+          fielders:
+          - IKO Aboagye
+          - L Nyarko
+          kind: run out
+    - 16.6:
+        non_striker: SZ Vayani
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 17.1:
+        non_striker: SZ Vayani
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Jakiel
+    - 17.2:
+        non_striker: D Jakiel
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 17.3:
+        non_striker: D Jakiel
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 17.4:
+        non_striker: D Jakiel
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Vayani
+    - 17.5:
+        non_striker: SZ Vayani
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 17.6:
+        non_striker: SZ Vayani
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 18.1:
+        non_striker: SZ Vayani
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 18.2:
+        non_striker: D Jakiel
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+    - 18.3:
+        non_striker: D Jakiel
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Vayani
+    - 18.4:
+        non_striker: SZ Vayani
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Jakiel
+    - 18.5:
+        non_striker: SZ Vayani
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+    - 18.6:
+        non_striker: D Jakiel
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Vayani
+    - 19.1:
+        non_striker: D Jakiel
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Vayani
+        wicket:
+          player_out: SZ Vayani
+          kind: bowled
+    - 19.2:
+        non_striker: D Jakiel
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Balala
+    - 19.3:
+        non_striker: D Jakiel
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Balala
+        wicket:
+          player_out: B Balala
+          fielders:
+          - F Baleri
+          kind: stumped
+    - 19.4:
+        non_striker: D Jakiel
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Pondani
+    - 19.5:
+        non_striker: B Pondani
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Jakiel
+    - 19.6:
+        non_striker: B Pondani
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Jakiel
+- 2nd innings:
+    team: Ghana
+    deliveries:
+    - 0.1:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Baaleri
+        batsman: J Guatam
+    - 0.2:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Baaleri
+        batsman: J Guatam
+    - 0.3:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Baaleri
+    - 0.4:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 0.5:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 0.6:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 0.7:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Baaleri
+    - 1.1:
+        non_striker: R Baaleri
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Guatam
+    - 1.2:
+        non_striker: J Guatam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 1.3:
+        non_striker: J Guatam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 1.4:
+        non_striker: J Guatam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Baaleri
+    - 1.5:
+        non_striker: R Baaleri
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 1.6:
+        non_striker: R Baaleri
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 2.1:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Baaleri
+    - 2.2:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+    - 2.3:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Baaleri
+        wicket:
+          player_out: R Baaleri
+          fielders:
+          - M Choamba
+          kind: caught
+    - 2.4:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: OH Agbomadzie
+    - 2.5:
+        non_striker: OH Agbomadzie
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Guatam
+    - 2.6:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+    - 2.7:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OH Agbomadzie
+        wicket:
+          player_out: OH Agbomadzie
+          kind: bowled
+    - 2.8:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 3.1:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Guatam
+    - 3.2:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 3.3:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 3.4:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 3.5:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 3.6:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 3.7:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 4.1:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BK Majji
+    - 4.2:
+        non_striker: BK Majji
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Guatam
+    - 4.3:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 4.4:
+        non_striker: J Guatam
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 4.5:
+        non_striker: BK Majji
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Guatam
+    - 4.6:
+        non_striker: BK Majji
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 5.1:
+        non_striker: J Guatam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 5.2:
+        non_striker: J Guatam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 5.3:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam
+    - 5.4:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 5.5:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Guatam
+    - 5.6:
+        non_striker: J Guatam
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 6.1:
+        non_striker: J Guatam
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 6.2:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 6.3:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Guatam
+    - 6.4:
+        non_striker: J Guatam
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 6.5:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Guatam
+    - 6.6:
+        non_striker: J Guatam
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 7.1:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+        wicket:
+          player_out: J Guatam
+          fielders:
+          - Kazim Somani
+          kind: caught
+    - 7.2:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 7.3:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 7.4:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 7.5:
+        non_striker: Devender Singh
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 7.6:
+        non_striker: Devender Singh
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 8.1:
+        non_striker: Devender Singh
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 8.2:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 8.3:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 8.4:
+        non_striker: Devender Singh
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 8.5:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 8.6:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 9.1:
+        non_striker: Devender Singh
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 9.2:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 9.3:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+        wicket:
+          player_out: Devender Singh
+          fielders:
+          - A Limdawala
+          kind: caught
+    - 9.4:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Baleri
+    - 9.5:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 9.6:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 10.1:
+        non_striker: BK Majji
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 10.2:
+        non_striker: BK Majji
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 10.3:
+        non_striker: BK Majji
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 10.4:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BK Majji
+    - 10.5:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 10.6:
+        non_striker: BK Majji
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 10.7:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 11.1:
+        non_striker: F Baleri
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 11.2:
+        non_striker: F Baleri
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 11.3:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 11.4:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 11.5:
+        non_striker: BK Majji
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 11.6:
+        non_striker: F Baleri
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 12.1:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 12.2:
+        non_striker: BK Majji
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 12.3:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BK Majji
+    - 12.4:
+        non_striker: BK Majji
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 12.5:
+        non_striker: BK Majji
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 12.6:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 13.1:
+        non_striker: F Baleri
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 13.2:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 13.3:
+        non_striker: F Baleri
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 13.4:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 13.5:
+        non_striker: BK Majji
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 13.6:
+        non_striker: F Baleri
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 14.1:
+        non_striker: F Baleri
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 14.2:
+        non_striker: BK Majji
+        bowler: B Balala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Baleri
+    - 14.3:
+        non_striker: BK Majji
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 14.4:
+        non_striker: BK Majji
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 14.5:
+        non_striker: F Baleri
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 14.6:
+        non_striker: BK Majji
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 14.7:
+        non_striker: F Baleri
+        bowler: B Balala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 15.1:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 15.2:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 15.3:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 15.4:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 15.5:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 15.6:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 16.1:
+        non_striker: BK Majji
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 16.2:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BK Majji
+    - 16.3:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BK Majji
+    - 16.4:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BK Majji
+    - 16.5:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 16.6:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 16.7:
+        non_striker: F Baleri
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 17.1:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+    - 17.2:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Baleri
+    - 17.3:
+        non_striker: BK Majji
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Baleri
+    - 17.4:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 17.5:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BK Majji
+    - 17.6:
+        non_striker: F Baleri
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+        wicket:
+          player_out: BK Majji
+          kind: retired out
+    - 18.1:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKO Aboagye
+        wicket:
+          player_out: IKO Aboagye
+          fielders:
+          - Sami Sohail
+          kind: caught
+    - 18.2:
+        non_striker: F Baleri
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Yevugah
+    - 18.3:
+        non_striker: P Yevugah
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Baleri
+        wicket:
+          player_out: F Baleri
+          kind: bowled
+    - 18.4:
+        non_striker: P Yevugah
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nitesh Hooda
+    - 18.5:
+        non_striker: P Yevugah
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nitesh Hooda
+    - 18.6:
+        non_striker: P Yevugah
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nitesh Hooda
+    - 19.1:
+        non_striker: Nitesh Hooda
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Yevugah
+    - 19.2:
+        non_striker: P Yevugah
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nitesh Hooda
+    - 19.3:
+        non_striker: P Yevugah
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nitesh Hooda
+    - 19.4:
+        non_striker: Nitesh Hooda
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Yevugah
+    - 19.5:
+        non_striker: Nitesh Hooda
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Yevugah
+        wicket:
+          player_out: P Yevugah
+          kind: caught and bowled
+    - 19.6:
+        non_striker: Nitesh Hooda
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Nyarko

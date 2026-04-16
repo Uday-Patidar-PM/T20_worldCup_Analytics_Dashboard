@@ -1,0 +1,1107 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  dates:
+  - '2026-01-31'
+  gender: male
+  match_type: T20
+  match_type_number: 3680
+  outcome:
+    winner: West Indies
+    by:
+      runs: 6
+    method: D/L
+  overs: 20
+  player_of_match:
+  - G Motie
+  players:
+    West Indies:
+    - SD Hope
+    - J Charles
+    - SO Hetmyer
+    - R Powell
+    - R Shepherd
+    - RL Chase
+    - MW Forde
+    - JO Holder
+    - S Joseph
+    - G Motie
+    - AJ Hosein
+    South Africa:
+    - AK Markram
+    - Q de Kock
+    - D Brevis
+    - RD Rickelton
+    - GF Linde
+    - JF Smith
+    - T Stubbs
+    - C Bosch
+    - KA Maharaj
+    - KT Maphaka
+    - L Ngidi
+  registry:
+    people:
+      A Jacobs: 70d117de
+      AJ Hosein: 4d7f517e
+      AK Markram: 6a26221c
+      BP Jele: 7bb1331e
+      C Bosch: 172dff15
+      D Brevis: 844e79d1
+      G Motie: 97bdec3d
+      GF Linde: e5437608
+      J Charles: '09a9d073'
+      JF Smith: 91cd48e0
+      JO Holder: 0f721006
+      KA Maharaj: 0b60eb09
+      KT Maphaka: 107c26fb
+      L Ngidi: f834dcfc
+      Lauren Agenbag: 40849abd
+      MW Forde: 83d17bbc
+      Q de Kock: 372455c4
+      R Powell: 650d5e49
+      R Shepherd: c5aef772
+      RD Rickelton: e66732f8
+      RL Chase: 3feda4fa
+      S Joseph: 97290faf
+      S Wadvalla: c1a1acf3
+      SD Hope: 1fc6ef83
+      SO Hetmyer: 48a1d7b7
+      Stephen Harris: fdcfd4aa
+      T Stubbs: 85b3fab2
+  teams:
+  - West Indies
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - A Jacobs
+  - BP Jele
+  venue: The Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: J Charles
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 0.2:
+        non_striker: J Charles
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 0.3:
+        non_striker: J Charles
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 0.4:
+        non_striker: SD Hope
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.5:
+        non_striker: SD Hope
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+    - 0.6:
+        non_striker: SD Hope
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Charles
+        wicket:
+          player_out: J Charles
+          fielders:
+          - JF Smith
+          kind: caught
+    - 1.1:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 1.2:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.3:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.4:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.5:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 1.6:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.1:
+        non_striker: SO Hetmyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.2:
+        non_striker: SD Hope
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 2.3:
+        non_striker: SD Hope
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 2.4:
+        non_striker: SD Hope
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 2.5:
+        non_striker: SO Hetmyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 2.6:
+        non_striker: SD Hope
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 3.1:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 3.2:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 3.3:
+        non_striker: SD Hope
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 3.4:
+        non_striker: SD Hope
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 3.5:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 3.6:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 4.1:
+        non_striker: SD Hope
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 4.2:
+        non_striker: SD Hope
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 4.3:
+        non_striker: SO Hetmyer
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 4.4:
+        non_striker: SD Hope
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 4.5:
+        non_striker: SD Hope
+        bowler: AK Markram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SO Hetmyer
+    - 4.6:
+        non_striker: SO Hetmyer
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 5.1:
+        non_striker: SD Hope
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 5.2:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 5.3:
+        non_striker: SD Hope
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 5.4:
+        non_striker: SD Hope
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 5.5:
+        non_striker: SD Hope
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 5.6:
+        non_striker: SO Hetmyer
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.1:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.2:
+        non_striker: SD Hope
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 6.3:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 6.4:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 6.5:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 6.6:
+        non_striker: SD Hope
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 7.1:
+        non_striker: SD Hope
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 7.2:
+        non_striker: SD Hope
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+    - 7.3:
+        non_striker: SD Hope
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 7.4:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 7.5:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          fielders:
+          - C Bosch
+          kind: caught
+    - 7.6:
+        non_striker: SO Hetmyer
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Powell
+    - 8.1:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 8.2:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 8.3:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 8.4:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 8.5:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Powell
+    - 8.6:
+        non_striker: SO Hetmyer
+        bowler: KT Maphaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - D Brevis
+          kind: caught
+    - 9.1:
+        non_striker: R Shepherd
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 9.2:
+        non_striker: R Shepherd
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 9.3:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 9.4:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Shepherd
+    - 9.5:
+        non_striker: SO Hetmyer
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Shepherd
+    - 9.6:
+        non_striker: R Shepherd
+        bowler: C Bosch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SO Hetmyer
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: Q de Kock
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 0.2:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: AK Markram
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 1.2:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.5:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          kind: caught and bowled
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 2.1:
+        non_striker: D Brevis
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: D Brevis
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 2.4:
+        non_striker: D Brevis
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 2.6:
+        non_striker: D Brevis
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.1:
+        non_striker: Q de Kock
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 3.2:
+        non_striker: D Brevis
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: D Brevis
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 3.5:
+        non_striker: D Brevis
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - R Powell
+          kind: caught
+    - 3.6:
+        non_striker: D Brevis
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 4.1:
+        non_striker: D Brevis
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 4.2:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 4.3:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 4.4:
+        non_striker: D Brevis
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 4.5:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 4.6:
+        non_striker: RD Rickelton
+        bowler: RL Chase
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Brevis
+    - 5.1:
+        non_striker: D Brevis
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 5.2:
+        non_striker: D Brevis
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 5.3:
+        non_striker: D Brevis
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 5.4:
+        non_striker: D Brevis
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - JO Holder
+          kind: caught
+    - 5.5:
+        non_striker: D Brevis
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 5.6:
+        non_striker: GF Linde
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          fielders:
+          - JO Holder
+          kind: caught
+    - 6.1:
+        non_striker: JF Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+    - 6.2:
+        non_striker: JF Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GF Linde
+    - 6.3:
+        non_striker: JF Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+    - 6.4:
+        non_striker: JF Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 6.5:
+        non_striker: GF Linde
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 6.6:
+        non_striker: JF Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GF Linde
+    - 7.1:
+        non_striker: GF Linde
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Smith
+    - 7.2:
+        non_striker: GF Linde
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+    - 7.3:
+        non_striker: GF Linde
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Smith
+    - 7.4:
+        non_striker: GF Linde
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Smith
+    - 7.5:
+        non_striker: GF Linde
+        bowler: AJ Hosein
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: JF Smith
+    - 7.6:
+        non_striker: GF Linde
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Smith
+    - 7.7:
+        non_striker: JF Smith
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Linde
+    - 8.1:
+        non_striker: JF Smith
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Linde
+    - 8.2:
+        non_striker: JF Smith
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Linde
+        wicket:
+          player_out: GF Linde
+          fielders:
+          - RL Chase
+          kind: caught
+    - 8.3:
+        non_striker: JF Smith
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 8.4:
+        non_striker: JF Smith
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Stubbs
+    - 8.5:
+        non_striker: JF Smith
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 8.6:
+        non_striker: JF Smith
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 9.1:
+        non_striker: JF Smith
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 9.2:
+        non_striker: T Stubbs
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Smith
+    - 9.3:
+        non_striker: T Stubbs
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JF Smith
+    - 9.4:
+        non_striker: T Stubbs
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Smith
+        wicket:
+          player_out: JF Smith
+          kind: bowled
+    - 9.5:
+        non_striker: T Stubbs
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch
+    - 9.6:
+        non_striker: T Stubbs
+        bowler: S Joseph
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Bosch

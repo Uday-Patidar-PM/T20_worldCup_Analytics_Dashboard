@@ -1,0 +1,1623 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Accra
+  dates:
+  - '2026-03-24'
+  gender: male
+  match_type: T20
+  match_type_number: 3782
+  outcome:
+    winner: Ghana
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - IKO Aboagye
+  players:
+    Seychelles:
+    - STRA de Silva
+    - M Mariyappan
+    - TKP Rajapaksha
+    - Mazharul Islam
+    - SR Mohan
+    - Mohomed Saddam
+    - D Kalvin
+    - Jobayer Hossen
+    - SR Rocket
+    - Thilina Silva
+    - S Rukmal
+    Ghana:
+    - J Guatam
+    - J Solomon
+    - OH Agbomadzie
+    - BK Majji
+    - Devender Singh
+    - IKO Aboagye
+    - F Baleri
+    - L Nyarko
+    - Nitesh Hooda
+    - P Yevugah
+    - V Ateak
+  registry:
+    people:
+      BK Majji: d864f752
+      D Kalvin: 895ae8b6
+      Devender Singh: 68e21fb1
+      F Baleri: 6efdad14
+      IKO Aboagye: '98614193'
+      J Guatam: 5992c2ba
+      J Solomon: c66dfb30
+      Jobayer Hossen: 656fc15b
+      L Nyarko: c391d077
+      M Mariyappan: 69cbd850
+      Mazharul Islam: 30564b3e
+      Mohomed Saddam: e1043e7b
+      Nitesh Hooda: d424d06a
+      O Chirombe: 6345307f
+      OH Agbomadzie: b38a9f73
+      P Sizara: 5d45bb7f
+      P Yevugah: 5c842df4
+      Patric Makumbi: e4c69c16
+      R D'Mello: f3c22863
+      S Rukmal: f5be7b08
+      SR Mohan: '58533699'
+      SR Rocket: ee3bfb9b
+      STRA de Silva: 21fe743b
+      TKP Rajapaksha: b5dcec37
+      Thilina Silva: f0ad7a75
+      V Ateak: 65a60be7
+  teams:
+  - Seychelles
+  - Ghana
+  toss:
+    winner: Ghana
+    decision: field
+  umpires:
+  - P Sizara
+  - R D'Mello
+  venue: Achimota Senior Secondary School B Field, Accra
+innings:
+- 1st innings:
+    team: Seychelles
+    deliveries:
+    - 0.1:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mariyappan
+        batsman: STRA de Silva
+    - 0.2:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mariyappan
+        batsman: STRA de Silva
+    - 0.3:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: M Mariyappan
+        batsman: STRA de Silva
+    - 0.4:
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mariyappan
+        batsman: STRA de Silva
+    - 0.5:
+        non_striker: M Mariyappan
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: STRA de Silva
+        wicket:
+          player_out: STRA de Silva
+          kind: lbw
+    - 0.6:
+        non_striker: M Mariyappan
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 1.1:
+        non_striker: TKP Rajapaksha
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 1.2:
+        non_striker: M Mariyappan
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 1.3:
+        non_striker: TKP Rajapaksha
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 1.4:
+        non_striker: M Mariyappan
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 1.5:
+        non_striker: TKP Rajapaksha
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 1.6:
+        non_striker: TKP Rajapaksha
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mariyappan
+    - 2.1:
+        non_striker: TKP Rajapaksha
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+    - 2.2:
+        non_striker: TKP Rajapaksha
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mariyappan
+        wicket:
+          player_out: M Mariyappan
+          kind: lbw
+    - 2.3:
+        non_striker: TKP Rajapaksha
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 2.4:
+        non_striker: TKP Rajapaksha
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 2.5:
+        non_striker: Mazharul Islam
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 2.6:
+        non_striker: Mazharul Islam
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 3.1:
+        non_striker: TKP Rajapaksha
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mazharul Islam
+    - 3.2:
+        non_striker: Mazharul Islam
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 3.3:
+        non_striker: Mazharul Islam
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 3.4:
+        non_striker: Mazharul Islam
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 3.5:
+        non_striker: Mazharul Islam
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TKP Rajapaksha
+    - 3.6:
+        non_striker: Mazharul Islam
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+    - 4.1:
+        non_striker: TKP Rajapaksha
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mazharul Islam
+    - 4.2:
+        non_striker: TKP Rajapaksha
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+    - 4.3:
+        non_striker: TKP Rajapaksha
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mazharul Islam
+        wicket:
+          player_out: Mazharul Islam
+          fielders:
+          - F Baleri
+          kind: caught
+    - 4.4:
+        non_striker: TKP Rajapaksha
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 4.5:
+        non_striker: TKP Rajapaksha
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 4.6:
+        non_striker: TKP Rajapaksha
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mohan
+    - 5.1:
+        non_striker: SR Mohan
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TKP Rajapaksha
+    - 5.2:
+        non_striker: TKP Rajapaksha
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mohan
+    - 5.3:
+        non_striker: SR Mohan
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TKP Rajapaksha
+        wicket:
+          player_out: TKP Rajapaksha
+          kind: bowled
+    - 5.4:
+        non_striker: SR Mohan
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohomed Saddam
+    - 5.5:
+        non_striker: SR Mohan
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohomed Saddam
+    - 5.6:
+        non_striker: Mohomed Saddam
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mohan
+    - 6.1:
+        non_striker: SR Mohan
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohomed Saddam
+    - 6.2:
+        non_striker: SR Mohan
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohomed Saddam
+        wicket:
+          player_out: SR Mohan
+          fielders:
+          - OH Agbomadzie
+          - F Baleri
+          kind: run out
+    - 6.3:
+        non_striker: Mohomed Saddam
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 6.4:
+        non_striker: Mohomed Saddam
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 6.5:
+        non_striker: Mohomed Saddam
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+    - 6.6:
+        non_striker: Mohomed Saddam
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kalvin
+        wicket:
+          player_out: D Kalvin
+          kind: bowled
+    - 7.1:
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jobayer Hossen
+        batsman: Mohomed Saddam
+    - 7.2:
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jobayer Hossen
+        batsman: Mohomed Saddam
+    - 7.3:
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jobayer Hossen
+        batsman: Mohomed Saddam
+    - 7.4:
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jobayer Hossen
+        batsman: Mohomed Saddam
+    - 7.5:
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Jobayer Hossen
+        batsman: Mohomed Saddam
+    - 7.6:
+        non_striker: Mohomed Saddam
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 8.1:
+        non_striker: Mohomed Saddam
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 8.2:
+        non_striker: Mohomed Saddam
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 8.3:
+        non_striker: Jobayer Hossen
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohomed Saddam
+        wicket:
+          player_out: Mohomed Saddam
+          fielders:
+          - F Baleri
+          kind: run out
+    - 8.4:
+        non_striker: Jobayer Hossen
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+    - 8.5:
+        non_striker: Jobayer Hossen
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Rocket
+        wicket:
+          player_out: SR Rocket
+          kind: lbw
+    - 8.6:
+        non_striker: Jobayer Hossen
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 9.1:
+        non_striker: Thilina Silva
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 9.2:
+        non_striker: Thilina Silva
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 9.3:
+        non_striker: Thilina Silva
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 9.4:
+        non_striker: Thilina Silva
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 9.5:
+        non_striker: Thilina Silva
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 9.6:
+        non_striker: Jobayer Hossen
+        bowler: V Ateak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 10.1:
+        non_striker: Thilina Silva
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 10.2:
+        non_striker: Thilina Silva
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 10.3:
+        non_striker: Thilina Silva
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 10.4:
+        non_striker: Jobayer Hossen
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 10.5:
+        non_striker: Jobayer Hossen
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 10.6:
+        non_striker: Jobayer Hossen
+        bowler: IKO Aboagye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Thilina Silva
+    - 11.1:
+        non_striker: Thilina Silva
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 11.2:
+        non_striker: Thilina Silva
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jobayer Hossen
+    - 11.3:
+        non_striker: Thilina Silva
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 11.4:
+        non_striker: Thilina Silva
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 11.5:
+        non_striker: Thilina Silva
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 11.6:
+        non_striker: Thilina Silva
+        bowler: BK Majji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jobayer Hossen
+    - 12.1:
+        non_striker: Jobayer Hossen
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 12.2:
+        non_striker: Jobayer Hossen
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thilina Silva
+    - 12.3:
+        non_striker: Thilina Silva
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 12.4:
+        non_striker: Thilina Silva
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 12.5:
+        non_striker: Thilina Silva
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 12.6:
+        non_striker: Thilina Silva
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jobayer Hossen
+    - 13.1:
+        non_striker: Jobayer Hossen
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 13.2:
+        non_striker: Jobayer Hossen
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 13.3:
+        non_striker: Jobayer Hossen
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 13.4:
+        non_striker: Jobayer Hossen
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 13.5:
+        non_striker: Jobayer Hossen
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 13.6:
+        non_striker: Jobayer Hossen
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 14.1:
+        non_striker: Thilina Silva
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 14.2:
+        non_striker: Thilina Silva
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 14.3:
+        non_striker: Jobayer Hossen
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thilina Silva
+    - 14.4:
+        non_striker: Thilina Silva
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 14.5:
+        non_striker: Thilina Silva
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jobayer Hossen
+    - 14.6:
+        non_striker: Jobayer Hossen
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 15.1:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.2:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.3:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.4:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jobayer Hossen
+    - 15.5:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 15.6:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 16.1:
+        non_striker: Jobayer Hossen
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 16.2:
+        non_striker: Jobayer Hossen
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 16.3:
+        non_striker: Jobayer Hossen
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 16.4:
+        non_striker: Jobayer Hossen
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Thilina Silva
+    - 16.5:
+        non_striker: Jobayer Hossen
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thilina Silva
+    - 16.6:
+        non_striker: Thilina Silva
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+    - 17.1:
+        non_striker: Jobayer Hossen
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 17.2:
+        non_striker: Jobayer Hossen
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thilina Silva
+    - 17.3:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jobayer Hossen
+        wicket:
+          player_out: Jobayer Hossen
+          kind: lbw
+    - 17.4:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rukmal
+    - 17.5:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rukmal
+    - 17.6:
+        non_striker: Thilina Silva
+        bowler: Nitesh Hooda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Rukmal
+    - 18.1:
+        non_striker: S Rukmal
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 18.2:
+        non_striker: S Rukmal
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 18.3:
+        non_striker: S Rukmal
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thilina Silva
+    - 18.4:
+        non_striker: Thilina Silva
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rukmal
+    - 18.5:
+        non_striker: Thilina Silva
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rukmal
+    - 18.6:
+        non_striker: Thilina Silva
+        bowler: OH Agbomadzie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rukmal
+    - 19.1:
+        non_striker: S Rukmal
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+    - 19.2:
+        non_striker: S Rukmal
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thilina Silva
+    - 19.3:
+        non_striker: Thilina Silva
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Rukmal
+    - 19.4:
+        non_striker: S Rukmal
+        bowler: L Nyarko
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thilina Silva
+        wicket:
+          player_out: Thilina Silva
+          fielders:
+          - F Baleri
+          kind: caught
+- 2nd innings:
+    team: Ghana
+    deliveries:
+    - 0.1:
+        bowler: S Rukmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Solomon
+        batsman: J Guatam
+    - 0.2:
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Solomon
+        batsman: J Guatam
+    - 0.3:
+        bowler: S Rukmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: J Solomon
+        batsman: J Guatam
+    - 0.4:
+        non_striker: J Guatam
+        bowler: S Rukmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Solomon
+    - 0.5:
+        non_striker: J Solomon
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+    - 0.6:
+        non_striker: J Solomon
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam
+    - 0.7:
+        non_striker: J Solomon
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam
+    - 1.1:
+        non_striker: J Guatam
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Solomon
+        wicket:
+          player_out: J Solomon
+          kind: lbw
+    - 1.2:
+        non_striker: J Guatam
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OH Agbomadzie
+    - 1.3:
+        non_striker: J Guatam
+        bowler: SR Rocket
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: OH Agbomadzie
+    - 1.4:
+        non_striker: OH Agbomadzie
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+        wicket:
+          player_out: OH Agbomadzie
+          fielders:
+          - S Rukmal
+          kind: run out
+    - 1.5:
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BK Majji
+        batsman: J Guatam
+    - 1.6:
+        non_striker: J Guatam
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 1.7:
+        non_striker: BK Majji
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Guatam
+    - 2.1:
+        non_striker: J Guatam
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BK Majji
+    - 2.2:
+        non_striker: J Guatam
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BK Majji
+    - 2.3:
+        non_striker: J Guatam
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 2.4:
+        non_striker: J Guatam
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 2.5:
+        non_striker: J Guatam
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 2.6:
+        non_striker: J Guatam
+        bowler: Jobayer Hossen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 3.1:
+        non_striker: J Guatam
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 3.2:
+        non_striker: J Guatam
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 3.3:
+        non_striker: BK Majji
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Guatam
+    - 3.4:
+        non_striker: BK Majji
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Guatam
+    - 3.5:
+        non_striker: BK Majji
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Guatam
+        wicket:
+          player_out: J Guatam
+          fielders:
+          - Mazharul Islam
+          kind: caught
+    - 3.6:
+        non_striker: BK Majji
+        bowler: TKP Rajapaksha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 4.1:
+        non_striker: Devender Singh
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 4.2:
+        non_striker: Devender Singh
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 4.3:
+        non_striker: BK Majji
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 4.4:
+        non_striker: Devender Singh
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 4.5:
+        non_striker: Devender Singh
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 4.6:
+        non_striker: Devender Singh
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BK Majji
+    - 5.1:
+        non_striker: BK Majji
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 5.2:
+        non_striker: BK Majji
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Devender Singh
+    - 5.3:
+        non_striker: BK Majji
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 5.4:
+        non_striker: BK Majji
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 5.5:
+        non_striker: Devender Singh
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BK Majji
+    - 5.6:
+        non_striker: Devender Singh
+        bowler: SR Rocket
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 6.1:
+        non_striker: BK Majji
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 6.2:
+        non_striker: Devender Singh
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 6.3:
+        non_striker: Devender Singh
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 6.4:
+        non_striker: Devender Singh
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 6.5:
+        non_striker: BK Majji
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 6.6:
+        non_striker: Devender Singh
+        bowler: S Rukmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 7.1:
+        non_striker: BK Majji
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 7.2:
+        non_striker: BK Majji
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 7.3:
+        non_striker: BK Majji
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Devender Singh
+    - 7.4:
+        non_striker: BK Majji
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 7.5:
+        non_striker: Devender Singh
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 7.6:
+        non_striker: BK Majji
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 8.1:
+        non_striker: Devender Singh
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 8.2:
+        non_striker: BK Majji
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 8.3:
+        non_striker: Devender Singh
+        bowler: D Kalvin
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: BK Majji
+    - 8.4:
+        non_striker: BK Majji
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 8.5:
+        non_striker: BK Majji
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 8.6:
+        non_striker: Devender Singh
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BK Majji
+    - 8.7:
+        non_striker: BK Majji
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 9.1:
+        non_striker: Devender Singh
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+    - 9.2:
+        non_striker: Devender Singh
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BK Majji
+        wicket:
+          player_out: BK Majji
+          fielders:
+          - Mazharul Islam
+          kind: caught
+    - 9.3:
+        non_striker: Devender Singh
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKO Aboagye
+    - 9.4:
+        non_striker: Devender Singh
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKO Aboagye
+    - 9.5:
+        non_striker: IKO Aboagye
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Devender Singh
+    - 9.6:
+        non_striker: IKO Aboagye
+        bowler: Thilina Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Devender Singh
+    - 10.1:
+        non_striker: IKO Aboagye
+        bowler: D Kalvin
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Devender Singh
+    - 10.2:
+        non_striker: IKO Aboagye
+        bowler: D Kalvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Devender Singh

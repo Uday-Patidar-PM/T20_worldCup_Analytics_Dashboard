@@ -1,0 +1,2152 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-12-11'
+  gender: male
+  match_type: T20
+  match_type_number: 3628
+  outcome:
+    winner: Philippines
+    by:
+      runs: 78
+  overs: 20
+  players:
+    Philippines:
+    - ASF Sirah
+    - DC Smith
+    - M Podosky
+    - A Donovan
+    - N Tanner
+    - J Tuffin
+    - HER Tyler
+    - KDA Lukies
+    - GR Russ
+    - JEA Doctora
+    - CJ Stamp
+    Indonesia:
+    - GA Priandana
+    - KD Kesuma
+    - GD Arta
+    - IK Gamantika
+    - IKEG Artawan
+    - Ahmad Ramdoni
+    - Anjar Tadarus
+    - DJ Hawoe
+    - DGAPD Wiswi
+    - F Banunaek
+    - RM Koda
+  registry:
+    people:
+      A Donovan: '02888f23'
+      ASF Sirah: 06bcade5
+      Ahmad Ramdoni: b5f30525
+      Anjar Tadarus: '72275237'
+      Anwesh Bose: 3bdae121
+      CJ Stamp: abca6c23
+      D Sevakumaran: b235cb97
+      DC Smith: a968d39b
+      DGAPD Wiswi: d3d096f5
+      DJ Hawoe: a62f55ba
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      GR Russ: 1f28fdfd
+      HER Tyler: 0ba9de33
+      IK Gamantika: 4d7c5b56
+      IKEG Artawan: 190957d2
+      J Tuffin: 8069f81f
+      JEA Doctora: 43449b1e
+      KD Kesuma: 4b349dc0
+      KDA Lukies: 14af45c4
+      L Poobalan: 93cc9718
+      M Podosky: c46999c7
+      N Tanner: 5f5efae1
+      RM Koda: f0a45427
+      Sarika Prasad: 8ff397fa
+      T Senthil Kumar: 961ddfac
+  teams:
+  - Philippines
+  - Indonesia
+  toss:
+    winner: Philippines
+    decision: bat
+  umpires:
+  - L Poobalan
+  - T Senthil Kumar
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Philippines
+    deliveries:
+    - 0.1:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.2:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.3:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.4:
+        non_striker: DC Smith
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+        wicket:
+          player_out: ASF Sirah
+          fielders:
+          - DJ Hawoe
+          kind: caught
+    - 0.5:
+        non_striker: DC Smith
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 0.6:
+        non_striker: DC Smith
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 1.1:
+        non_striker: M Podosky
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 1.2:
+        non_striker: DC Smith
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 1.3:
+        non_striker: DC Smith
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Podosky
+    - 1.4:
+        non_striker: M Podosky
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 1.5:
+        non_striker: M Podosky
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 1.6:
+        non_striker: DC Smith
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Podosky
+    - 2.1:
+        non_striker: M Podosky
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 2.2:
+        non_striker: M Podosky
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 2.3:
+        non_striker: DC Smith
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 2.4:
+        non_striker: DC Smith
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 2.5:
+        non_striker: DC Smith
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Podosky
+    - 2.6:
+        non_striker: DC Smith
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 2.7:
+        non_striker: DC Smith
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 3.1:
+        non_striker: M Podosky
+        bowler: RM Koda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DC Smith
+    - 3.2:
+        non_striker: M Podosky
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 3.3:
+        non_striker: M Podosky
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 3.4:
+        non_striker: M Podosky
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 3.5:
+        non_striker: DC Smith
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 3.6:
+        non_striker: DC Smith
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Podosky
+    - 3.7:
+        non_striker: DC Smith
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Podosky
+    - 4.1:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 4.2:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Podosky
+    - 4.3:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 4.4:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 4.5:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Podosky
+    - 4.6:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 5.1:
+        non_striker: M Podosky
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 5.2:
+        non_striker: M Podosky
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 5.3:
+        non_striker: M Podosky
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 5.4:
+        non_striker: M Podosky
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 5.5:
+        non_striker: M Podosky
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DC Smith
+    - 5.6:
+        non_striker: M Podosky
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 5.7:
+        non_striker: M Podosky
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DC Smith
+    - 5.8:
+        non_striker: M Podosky
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 6.1:
+        non_striker: DC Smith
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 6.2:
+        non_striker: DC Smith
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 6.3:
+        non_striker: DC Smith
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 6.4:
+        non_striker: DC Smith
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Podosky
+    - 6.5:
+        non_striker: DC Smith
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Podosky
+    - 6.6:
+        non_striker: M Podosky
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 7.1:
+        non_striker: DC Smith
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+        wicket:
+          player_out: M Podosky
+          fielders:
+          - DJ Hawoe
+          kind: caught
+    - 7.2:
+        non_striker: DC Smith
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 7.3:
+        non_striker: A Donovan
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 7.4:
+        non_striker: A Donovan
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 7.5:
+        non_striker: A Donovan
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 7.6:
+        non_striker: A Donovan
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 8.1:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 8.2:
+        non_striker: A Donovan
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 8.3:
+        non_striker: A Donovan
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Smith
+    - 8.4:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 8.5:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 8.6:
+        non_striker: DC Smith
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 9.1:
+        non_striker: A Donovan
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Smith
+    - 9.2:
+        non_striker: A Donovan
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+        wicket:
+          player_out: DC Smith
+          fielders:
+          - GA Priandana
+          kind: caught
+    - 9.3:
+        non_striker: A Donovan
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 9.4:
+        non_striker: A Donovan
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Tanner
+    - 9.5:
+        non_striker: A Donovan
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Tanner
+    - 9.6:
+        non_striker: A Donovan
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 10.1:
+        non_striker: N Tanner
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 10.2:
+        non_striker: A Donovan
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 10.3:
+        non_striker: A Donovan
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 10.4:
+        non_striker: A Donovan
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 10.5:
+        non_striker: A Donovan
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 10.6:
+        non_striker: N Tanner
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Donovan
+    - 11.1:
+        non_striker: A Donovan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 11.2:
+        non_striker: N Tanner
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 11.3:
+        non_striker: N Tanner
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 11.4:
+        non_striker: A Donovan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Tanner
+    - 11.5:
+        non_striker: A Donovan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 11.6:
+        non_striker: A Donovan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 12.1:
+        non_striker: N Tanner
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 12.2:
+        non_striker: A Donovan
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+    - 12.3:
+        non_striker: A Donovan
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Tanner
+    - 12.4:
+        non_striker: N Tanner
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Donovan
+    - 12.5:
+        non_striker: N Tanner
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 12.6:
+        non_striker: A Donovan
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+        wicket:
+          player_out: N Tanner
+          kind: bowled
+    - 13.1:
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Tuffin
+        batsman: A Donovan
+    - 13.2:
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Tuffin
+        batsman: A Donovan
+    - 13.3:
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Tuffin
+        batsman: A Donovan
+    - 13.4:
+        non_striker: A Donovan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Tuffin
+    - 13.5:
+        non_striker: A Donovan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 13.6:
+        non_striker: A Donovan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 13.7:
+        non_striker: A Donovan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 14.1:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 14.2:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 14.3:
+        non_striker: J Tuffin
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 14.4:
+        non_striker: J Tuffin
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 14.5:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 14.6:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 15.1:
+        non_striker: J Tuffin
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 15.2:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tuffin
+    - 15.3:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Tuffin
+    - 15.4:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 15.5:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Tuffin
+    - 15.6:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 15.7:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Tuffin
+    - 15.8:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 16.1:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 16.2:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 16.3:
+        non_striker: J Tuffin
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 16.4:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 16.5:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 16.6:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 17.1:
+        non_striker: A Donovan
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tuffin
+    - 17.2:
+        non_striker: A Donovan
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+        wicket:
+          player_out: J Tuffin
+          fielders:
+          - Ahmad Ramdoni
+          kind: caught
+    - 17.3:
+        non_striker: A Donovan
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 17.4:
+        non_striker: HER Tyler
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 17.5:
+        non_striker: HER Tyler
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 17.6:
+        non_striker: A Donovan
+        bowler: RM Koda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HER Tyler
+    - 18.1:
+        non_striker: HER Tyler
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 18.2:
+        non_striker: HER Tyler
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 18.3:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HER Tyler
+    - 18.4:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 18.5:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HER Tyler
+    - 18.6:
+        non_striker: A Donovan
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HER Tyler
+    - 19.1:
+        non_striker: HER Tyler
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 19.2:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HER Tyler
+    - 19.3:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HER Tyler
+    - 19.4:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 19.5:
+        non_striker: HER Tyler
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 19.6:
+        non_striker: HER Tyler
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Donovan
+    - 19.7:
+        non_striker: A Donovan
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 19.8:
+        non_striker: HER Tyler
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Donovan
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KD Kesuma
+        batsman: GA Priandana
+    - 0.2:
+        non_striker: GA Priandana
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 0.3:
+        non_striker: GA Priandana
+        bowler: JEA Doctora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Kesuma
+    - 0.4:
+        non_striker: GA Priandana
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 0.5:
+        non_striker: GA Priandana
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 0.6:
+        non_striker: GA Priandana
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 0.7:
+        non_striker: KD Kesuma
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.1:
+        non_striker: GA Priandana
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 1.2:
+        non_striker: GA Priandana
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 1.3:
+        non_striker: KD Kesuma
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GA Priandana
+    - 1.4:
+        non_striker: GA Priandana
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 1.5:
+        non_striker: KD Kesuma
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.6:
+        non_striker: KD Kesuma
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 2.1:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.2:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.3:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.4:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.5:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 2.6:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          kind: lbw
+    - 3.1:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GD Arta
+        batsman: GA Priandana
+    - 3.2:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Arta
+        batsman: GA Priandana
+    - 3.3:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GD Arta
+        batsman: GA Priandana
+    - 3.4:
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GD Arta
+        batsman: GA Priandana
+    - 3.5:
+        non_striker: GA Priandana
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+        wicket:
+          player_out: GD Arta
+          fielders:
+          - GR Russ
+          kind: caught
+    - 3.6:
+        non_striker: GA Priandana
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 4.1:
+        non_striker: IK Gamantika
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 4.2:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 4.3:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 4.4:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IK Gamantika
+    - 4.5:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 4.6:
+        non_striker: GA Priandana
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 5.1:
+        non_striker: GA Priandana
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Gamantika
+    - 5.2:
+        non_striker: IK Gamantika
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          kind: bowled
+    - 5.3:
+        non_striker: IK Gamantika
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 5.4:
+        non_striker: IKEG Artawan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 5.5:
+        non_striker: IKEG Artawan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+    - 5.6:
+        non_striker: IKEG Artawan
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Gamantika
+        wicket:
+          player_out: IK Gamantika
+          kind: caught and bowled
+    - 6.1:
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmad Ramdoni
+        batsman: IKEG Artawan
+    - 6.2:
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ahmad Ramdoni
+        batsman: IKEG Artawan
+    - 6.3:
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ahmad Ramdoni
+        batsman: IKEG Artawan
+    - 6.4:
+        non_striker: IKEG Artawan
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 6.5:
+        non_striker: IKEG Artawan
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 6.6:
+        non_striker: Ahmad Ramdoni
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IKEG Artawan
+    - 7.1:
+        non_striker: IKEG Artawan
+        bowler: J Tuffin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ahmad Ramdoni
+    - 7.2:
+        non_striker: Ahmad Ramdoni
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.3:
+        non_striker: Ahmad Ramdoni
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.4:
+        non_striker: Ahmad Ramdoni
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IKEG Artawan
+    - 7.5:
+        non_striker: Ahmad Ramdoni
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 7.6:
+        non_striker: Ahmad Ramdoni
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 8.1:
+        non_striker: IKEG Artawan
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 8.2:
+        non_striker: Ahmad Ramdoni
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 8.3:
+        non_striker: IKEG Artawan
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmad Ramdoni
+    - 8.4:
+        non_striker: IKEG Artawan
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 8.5:
+        non_striker: IKEG Artawan
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 8.6:
+        non_striker: Ahmad Ramdoni
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 9.1:
+        non_striker: IKEG Artawan
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 9.2:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+        wicket:
+          player_out: IKEG Artawan
+          fielders:
+          - N Tanner
+          kind: caught
+    - 9.3:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 9.4:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 9.5:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 9.6:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Anjar Tadarus
+    - 9.7:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 10.1:
+        non_striker: Ahmad Ramdoni
+        bowler: N Tanner
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Anjar Tadarus
+    - 10.2:
+        non_striker: Anjar Tadarus
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 10.3:
+        non_striker: Anjar Tadarus
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 10.4:
+        non_striker: Anjar Tadarus
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 10.5:
+        non_striker: Ahmad Ramdoni
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 10.6:
+        non_striker: Ahmad Ramdoni
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 10.7:
+        non_striker: Ahmad Ramdoni
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 11.1:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anjar Tadarus
+    - 11.2:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 11.3:
+        non_striker: Anjar Tadarus
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 11.4:
+        non_striker: Anjar Tadarus
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 11.5:
+        non_striker: Anjar Tadarus
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 11.6:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 12.1:
+        non_striker: Anjar Tadarus
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmad Ramdoni
+    - 12.2:
+        non_striker: Anjar Tadarus
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ahmad Ramdoni
+    - 12.3:
+        non_striker: Anjar Tadarus
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 12.4:
+        non_striker: Ahmad Ramdoni
+        bowler: HER Tyler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anjar Tadarus
+    - 12.5:
+        non_striker: Ahmad Ramdoni
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+        wicket:
+          player_out: Anjar Tadarus
+          kind: bowled
+    - 12.6:
+        non_striker: Ahmad Ramdoni
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          kind: caught and bowled
+    - 12.7:
+        non_striker: Ahmad Ramdoni
+        bowler: HER Tyler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DGAPD Wiswi
+    - 12.8:
+        non_striker: Ahmad Ramdoni
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 13.1:
+        non_striker: DGAPD Wiswi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.2:
+        non_striker: DGAPD Wiswi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.3:
+        non_striker: DGAPD Wiswi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.4:
+        non_striker: DGAPD Wiswi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.5:
+        non_striker: DGAPD Wiswi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 13.6:
+        non_striker: DGAPD Wiswi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ahmad Ramdoni
+    - 14.1:
+        non_striker: Ahmad Ramdoni
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DGAPD Wiswi
+    - 14.2:
+        non_striker: DGAPD Wiswi
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 14.3:
+        non_striker: DGAPD Wiswi
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 14.4:
+        non_striker: DGAPD Wiswi
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 14.5:
+        non_striker: Ahmad Ramdoni
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 14.6:
+        non_striker: Ahmad Ramdoni
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DGAPD Wiswi
+    - 15.1:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DGAPD Wiswi
+    - 15.2:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 15.3:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 15.4:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DGAPD Wiswi
+    - 15.5:
+        non_striker: DGAPD Wiswi
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 15.6:
+        non_striker: Ahmad Ramdoni
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 16.1:
+        non_striker: DGAPD Wiswi
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+    - 16.2:
+        non_striker: DGAPD Wiswi
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmad Ramdoni
+    - 16.3:
+        non_striker: Ahmad Ramdoni
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 16.4:
+        non_striker: Ahmad Ramdoni
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+    - 16.5:
+        non_striker: Ahmad Ramdoni
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DGAPD Wiswi
+    - 16.6:
+        non_striker: Ahmad Ramdoni
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DGAPD Wiswi
+        wicket:
+          player_out: DGAPD Wiswi
+          kind: bowled
+    - 17.1:
+        non_striker: F Banunaek
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmad Ramdoni
+        wicket:
+          player_out: Ahmad Ramdoni
+          kind: lbw
+    - 17.2:
+        non_striker: F Banunaek
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Koda
+    - 17.3:
+        non_striker: F Banunaek
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Koda
+    - 17.4:
+        non_striker: F Banunaek
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Koda
+    - 17.5:
+        non_striker: RM Koda
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Banunaek
+    - 17.6:
+        non_striker: F Banunaek
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Koda
+    - 18.1:
+        non_striker: F Banunaek
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Koda
+    - 18.2:
+        non_striker: F Banunaek
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Koda
+    - 18.3:
+        non_striker: F Banunaek
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Koda
+    - 18.4:
+        non_striker: F Banunaek
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Koda
+    - 18.5:
+        non_striker: F Banunaek
+        bowler: KDA Lukies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Koda
+        wicket:
+          player_out: RM Koda
+          kind: bowled

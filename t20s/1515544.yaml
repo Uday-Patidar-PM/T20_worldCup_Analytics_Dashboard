@@ -1,0 +1,1998 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2025-12-24'
+  gender: male
+  match_type: T20
+  match_type_number: 3649
+  outcome:
+    winner: Indonesia
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Anjar Tadarus
+  players:
+    Cambodia:
+    - Shah Abrar Hussain
+    - Marcelle Hanekom
+    - Luqman Butt
+    - E Beukes
+    - Muhammad Naeem
+    - GC Murtaza
+    - Nirmaljit Singh
+    - NT Gireesh
+    - Pel Vannak
+    - Mongdara Sok
+    - C Rathanak
+    Indonesia:
+    - GA Priandana
+    - KD Kesuma
+    - Anjar Tadarus
+    - GD Arta
+    - F Banunaek
+    - DGAPD Wiswi
+    - DJ Hawoe
+    - AA Rahayu
+    - D Nanda
+    - IGTP Wiguna
+    - Komang Putra
+  registry:
+    people:
+      AA Rahayu: 2327fdc7
+      Anjar Tadarus: '72275237'
+      C Rathanak: 91633ba5
+      D Nanda: '22651574'
+      DGAPD Wiswi: d3d096f5
+      DJ Hawoe: a62f55ba
+      E Beukes: fbb8cf87
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GC Murtaza: 6cc4d322
+      GD Arta: e969e580
+      IGTP Wiguna: 95f0262b
+      IKAW Kusuma: 7ae108a8
+      KD Kesuma: 4b349dc0
+      Komang Putra: '083ffc5d'
+      Luqman Butt: 7a6decc8
+      Marcelle Hanekom: dd26ae6e
+      Mongdara Sok: 9c5c3408
+      Muhammad Naeem: 993281c2
+      NT Gireesh: '32190239'
+      Nirmaljit Singh: cf719840
+      Pel Vannak: 4a6dbc50
+      Riaz Ur Rahman: 476a220a
+      Shah Abrar Hussain: 6ec13131
+      Yousuf Wadu: cf41005c
+  teams:
+  - Cambodia
+  - Indonesia
+  toss:
+    winner: Indonesia
+    decision: field
+  umpires:
+  - Riaz Ur Rahman
+  - Yousuf Wadu
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Cambodia
+    deliveries:
+    - 0.1:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Marcelle Hanekom
+        batsman: Shah Abrar Hussain
+    - 0.2:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Marcelle Hanekom
+        batsman: Shah Abrar Hussain
+    - 0.3:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 0.4:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 0.5:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 0.6:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Marcelle Hanekom
+    - 1.1:
+        non_striker: Shah Abrar Hussain
+        bowler: IGTP Wiguna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Marcelle Hanekom
+    - 1.2:
+        non_striker: Shah Abrar Hussain
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Marcelle Hanekom
+    - 1.3:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 1.4:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 1.5:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 1.6:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 1.7:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Abrar Hussain
+    - 2.1:
+        non_striker: Marcelle Hanekom
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 2.2:
+        non_striker: Marcelle Hanekom
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Abrar Hussain
+    - 2.3:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 2.4:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Marcelle Hanekom
+    - 2.5:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 2.6:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 2.7:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Marcelle Hanekom
+    - 2.8:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 3.1:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 3.2:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shah Abrar Hussain
+    - 3.3:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Abrar Hussain
+    - 3.4:
+        non_striker: Shah Abrar Hussain
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Marcelle Hanekom
+    - 3.5:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Abrar Hussain
+    - 3.6:
+        non_striker: Shah Abrar Hussain
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 4.1:
+        non_striker: Marcelle Hanekom
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Abrar Hussain
+    - 4.2:
+        non_striker: Shah Abrar Hussain
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Marcelle Hanekom
+    - 4.3:
+        non_striker: Marcelle Hanekom
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 4.4:
+        non_striker: Marcelle Hanekom
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shah Abrar Hussain
+    - 4.5:
+        non_striker: Marcelle Hanekom
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shah Abrar Hussain
+    - 4.6:
+        non_striker: Marcelle Hanekom
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 5.1:
+        non_striker: Shah Abrar Hussain
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Marcelle Hanekom
+    - 5.2:
+        non_striker: Shah Abrar Hussain
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Marcelle Hanekom
+    - 5.3:
+        non_striker: Marcelle Hanekom
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Abrar Hussain
+    - 5.4:
+        non_striker: Shah Abrar Hussain
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 5.5:
+        non_striker: Shah Abrar Hussain
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+    - 5.6:
+        non_striker: Shah Abrar Hussain
+        bowler: IGTP Wiguna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marcelle Hanekom
+        wicket:
+          player_out: Marcelle Hanekom
+          fielders:
+          - Anjar Tadarus
+          kind: caught
+    - 6.1:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luqman Butt
+        batsman: Shah Abrar Hussain
+    - 6.2:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luqman Butt
+        batsman: Shah Abrar Hussain
+    - 6.3:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Luqman Butt
+        batsman: Shah Abrar Hussain
+    - 6.4:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Luqman Butt
+        batsman: Shah Abrar Hussain
+    - 6.5:
+        non_striker: Shah Abrar Hussain
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luqman Butt
+    - 6.6:
+        non_striker: Shah Abrar Hussain
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luqman Butt
+    - 7.1:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Luqman Butt
+    - 7.2:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luqman Butt
+    - 7.3:
+        non_striker: Luqman Butt
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shah Abrar Hussain
+    - 7.4:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luqman Butt
+    - 7.5:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Luqman Butt
+    - 7.6:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luqman Butt
+    - 7.7:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Luqman Butt
+    - 7.8:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luqman Butt
+        wicket:
+          player_out: Luqman Butt
+          fielders:
+          - KD Kesuma
+          kind: caught
+    - 8.1:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Beukes
+        batsman: Shah Abrar Hussain
+    - 8.2:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Beukes
+        batsman: Shah Abrar Hussain
+    - 8.3:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Beukes
+        batsman: Shah Abrar Hussain
+    - 8.4:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Beukes
+        batsman: Shah Abrar Hussain
+    - 8.5:
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: E Beukes
+        batsman: Shah Abrar Hussain
+    - 8.6:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 9.1:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Beukes
+    - 9.2:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 9.3:
+        non_striker: E Beukes
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Abrar Hussain
+    - 9.4:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Beukes
+    - 9.5:
+        non_striker: Shah Abrar Hussain
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 9.6:
+        non_striker: E Beukes
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Abrar Hussain
+    - 10.1:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+    - 10.2:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shah Abrar Hussain
+    - 10.3:
+        non_striker: Shah Abrar Hussain
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 10.4:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Abrar Hussain
+        wicket:
+          player_out: Shah Abrar Hussain
+          kind: bowled
+    - 10.5:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Naeem
+    - 10.6:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Naeem
+    - 10.7:
+        non_striker: Muhammad Naeem
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Beukes
+    - 11.1:
+        non_striker: E Beukes
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Naeem
+        wicket:
+          player_out: Muhammad Naeem
+          fielders:
+          - DJ Hawoe
+          kind: caught
+    - 11.2:
+        non_striker: E Beukes
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 11.3:
+        non_striker: GC Murtaza
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Beukes
+    - 11.4:
+        non_striker: GC Murtaza
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 11.5:
+        non_striker: E Beukes
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 11.6:
+        non_striker: E Beukes
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 12.1:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 12.2:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 12.3:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 12.4:
+        non_striker: E Beukes
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 12.5:
+        non_striker: GC Murtaza
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Beukes
+    - 12.6:
+        non_striker: GC Murtaza
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 13.1:
+        non_striker: GC Murtaza
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 13.2:
+        non_striker: E Beukes
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 13.3:
+        non_striker: E Beukes
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 13.4:
+        non_striker: GC Murtaza
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Beukes
+    - 13.5:
+        non_striker: GC Murtaza
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 13.6:
+        non_striker: E Beukes
+        bowler: AA Rahayu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 14.1:
+        non_striker: GC Murtaza
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 14.2:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 14.3:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 14.4:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 14.5:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 14.6:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 15.1:
+        non_striker: E Beukes
+        bowler: Komang Putra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 15.2:
+        non_striker: E Beukes
+        bowler: Komang Putra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 15.3:
+        non_striker: E Beukes
+        bowler: Komang Putra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Murtaza
+    - 15.4:
+        non_striker: E Beukes
+        bowler: Komang Putra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 15.5:
+        non_striker: GC Murtaza
+        bowler: Komang Putra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Beukes
+    - 15.6:
+        non_striker: GC Murtaza
+        bowler: Komang Putra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 15.7:
+        non_striker: E Beukes
+        bowler: Komang Putra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 16.1:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Murtaza
+    - 16.2:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 16.3:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 16.4:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: GC Murtaza
+    - 16.5:
+        non_striker: GC Murtaza
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 16.6:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 16.7:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Murtaza
+    - 17.1:
+        non_striker: GC Murtaza
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 17.2:
+        non_striker: E Beukes
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 17.3:
+        non_striker: E Beukes
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+    - 17.4:
+        non_striker: E Beukes
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Murtaza
+    - 17.5:
+        non_striker: E Beukes
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 17.6:
+        non_striker: GC Murtaza
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Beukes
+    - 18.1:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 18.2:
+        non_striker: GC Murtaza
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 18.3:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 18.4:
+        non_striker: GC Murtaza
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 18.5:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Murtaza
+    - 18.6:
+        non_striker: E Beukes
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Murtaza
+    - 19.1:
+        non_striker: E Beukes
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Murtaza
+        wicket:
+          player_out: GC Murtaza
+          fielders:
+          - Anjar Tadarus
+          kind: caught
+    - 19.2:
+        non_striker: E Beukes
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nirmaljit Singh
+    - 19.3:
+        non_striker: Nirmaljit Singh
+        bowler: F Banunaek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Beukes
+    - 19.4:
+        non_striker: Nirmaljit Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Beukes
+    - 19.5:
+        non_striker: Nirmaljit Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+    - 19.6:
+        non_striker: E Beukes
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nirmaljit Singh
+    - 19.7:
+        non_striker: Nirmaljit Singh
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Beukes
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KD Kesuma
+        batsman: GA Priandana
+    - 0.2:
+        non_striker: GA Priandana
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Kesuma
+    - 0.3:
+        non_striker: GA Priandana
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 0.4:
+        non_striker: KD Kesuma
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 0.5:
+        non_striker: KD Kesuma
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 0.6:
+        non_striker: GA Priandana
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Kesuma
+    - 0.7:
+        non_striker: GA Priandana
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 1.1:
+        non_striker: KD Kesuma
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.2:
+        non_striker: KD Kesuma
+        bowler: Luqman Butt
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: GA Priandana
+    - 1.3:
+        non_striker: KD Kesuma
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.4:
+        non_striker: KD Kesuma
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.5:
+        non_striker: KD Kesuma
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 1.6:
+        non_striker: GA Priandana
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 2.1:
+        non_striker: KD Kesuma
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GA Priandana
+    - 2.2:
+        non_striker: KD Kesuma
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 2.3:
+        non_striker: KD Kesuma
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 2.4:
+        non_striker: KD Kesuma
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 2.5:
+        non_striker: GA Priandana
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Kesuma
+    - 2.6:
+        non_striker: KD Kesuma
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 2.7:
+        non_striker: KD Kesuma
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: GA Priandana
+    - 3.1:
+        non_striker: KD Kesuma
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 3.2:
+        non_striker: KD Kesuma
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 3.3:
+        non_striker: KD Kesuma
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 3.4:
+        non_striker: GA Priandana
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+    - 3.5:
+        non_striker: GA Priandana
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Kesuma
+        wicket:
+          player_out: KD Kesuma
+          fielders:
+          - E Beukes
+          kind: caught
+    - 3.6:
+        non_striker: GA Priandana
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 4.1:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 4.2:
+        non_striker: GA Priandana
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 4.3:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 4.4:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 4.5:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 4.6:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 5.1:
+        non_striker: Anjar Tadarus
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 5.2:
+        non_striker: Anjar Tadarus
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 5.3:
+        non_striker: GA Priandana
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 5.4:
+        non_striker: Anjar Tadarus
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 5.5:
+        non_striker: Anjar Tadarus
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 5.6:
+        non_striker: Anjar Tadarus
+        bowler: Luqman Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 6.1:
+        non_striker: GA Priandana
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 6.2:
+        non_striker: GA Priandana
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 6.3:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 6.4:
+        non_striker: GA Priandana
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 6.5:
+        non_striker: GA Priandana
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anjar Tadarus
+    - 6.6:
+        non_striker: GA Priandana
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 7.1:
+        non_striker: GA Priandana
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anjar Tadarus
+    - 7.2:
+        non_striker: GA Priandana
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 7.3:
+        non_striker: Anjar Tadarus
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GA Priandana
+    - 7.4:
+        non_striker: GA Priandana
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 7.5:
+        non_striker: Anjar Tadarus
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 7.6:
+        non_striker: Anjar Tadarus
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 8.1:
+        non_striker: GA Priandana
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 8.2:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 8.3:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 8.4:
+        non_striker: GA Priandana
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 8.5:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 8.6:
+        non_striker: GA Priandana
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 9.1:
+        non_striker: GA Priandana
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 9.2:
+        non_striker: Anjar Tadarus
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 9.3:
+        non_striker: Anjar Tadarus
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 9.4:
+        non_striker: GA Priandana
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anjar Tadarus
+    - 9.5:
+        non_striker: GA Priandana
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anjar Tadarus
+    - 9.6:
+        non_striker: GA Priandana
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 10.1:
+        non_striker: Anjar Tadarus
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 10.2:
+        non_striker: Anjar Tadarus
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          kind: lbw
+    - 10.3:
+        non_striker: Anjar Tadarus
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 10.4:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 10.5:
+        non_striker: Anjar Tadarus
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 10.6:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anjar Tadarus
+    - 11.1:
+        non_striker: Anjar Tadarus
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Arta
+    - 11.2:
+        non_striker: Anjar Tadarus
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GD Arta
+    - 11.3:
+        non_striker: GD Arta
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anjar Tadarus
+    - 11.4:
+        non_striker: GD Arta
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anjar Tadarus
+    - 11.5:
+        non_striker: GD Arta
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 11.6:
+        non_striker: GD Arta
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anjar Tadarus
+    - 11.7:
+        non_striker: GD Arta
+        bowler: Marcelle Hanekom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 12.1:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Anjar Tadarus
+    - 12.2:
+        non_striker: Anjar Tadarus
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 12.3:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anjar Tadarus
+    - 12.4:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 12.5:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 12.6:
+        non_striker: Anjar Tadarus
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 12.7:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 13.1:
+        non_striker: Anjar Tadarus
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 13.2:
+        non_striker: Anjar Tadarus
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 13.3:
+        non_striker: Anjar Tadarus
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Arta
+    - 13.4:
+        non_striker: Anjar Tadarus
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 13.5:
+        non_striker: GD Arta
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 13.6:
+        non_striker: Anjar Tadarus
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 13.7:
+        non_striker: Anjar Tadarus
+        bowler: GC Murtaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Arta
+    - 13.8:
+        non_striker: Anjar Tadarus
+        bowler: GC Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 14.1:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 14.2:
+        non_striker: Anjar Tadarus
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Arta
+    - 14.3:
+        non_striker: Anjar Tadarus
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 14.4:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 14.5:
+        non_striker: Anjar Tadarus
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 14.6:
+        non_striker: GD Arta
+        bowler: E Beukes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anjar Tadarus
+    - 15.1:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 15.2:
+        non_striker: GD Arta
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 15.3:
+        non_striker: Anjar Tadarus
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 15.4:
+        non_striker: GD Arta
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anjar Tadarus
+    - 15.5:
+        non_striker: GD Arta
+        bowler: Shah Abrar Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anjar Tadarus

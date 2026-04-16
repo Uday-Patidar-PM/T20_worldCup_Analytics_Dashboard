@@ -1,0 +1,1240 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Accra
+  dates:
+  - '2026-03-27'
+  gender: male
+  match_type: T20
+  match_type_number: 3788
+  outcome:
+    winner: Malawi
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - K Thuchila
+  players:
+    Eswatini:
+    - Adil Butt
+    - Umair Qasim
+    - Eric Phiri
+    - H Jangariya
+    - M Khojbariya
+    - Mohammed Alamgir
+    - M Magagula
+    - R Sandeep
+    - S Jele
+    - Saqib Anwar
+    - M Jele
+    Malawi:
+    - D Kansonkho
+    - Sami Sohail
+    - M Choamba
+    - G Kansonkho
+    - A Limdawala
+    - Kazim Somani
+    - SZ Vayani
+    - D Jakiel
+    - B Balala
+    - B Pondani
+    - K Thuchila
+  registry:
+    people:
+      A Kassam: 7d13b388
+      A Limdawala: 2bcbcac3
+      Adil Butt: fde53ec1
+      B Balala: a2f8e873
+      B Pondani: e5117568
+      Claus Schumacher: 85645e62
+      D Jakiel: 8b7ce771
+      D Kansonkho: 45ca12a7
+      Eric Phiri: b6355062
+      G Kansonkho: f3ca5af8
+      H Jangariya: 0ec2277a
+      Habib Enesi: fb35ab1f
+      K Thuchila: af42d9f2
+      Kazim Somani: d2ebebbe
+      M Choamba: 5570c4c1
+      M Jele: 1a8cedc8
+      M Khojbariya: e1631e47
+      M Magagula: 7a787b98
+      Mohammed Alamgir: e0f12392
+      O Chirombe: 6345307f
+      R Sandeep: 175937f6
+      S Jele: 1c5c65d6
+      SZ Vayani: a4afc486
+      Sami Sohail: 602ebd4c
+      Saqib Anwar: 3847f098
+      Umair Qasim: e086735b
+  teams:
+  - Eswatini
+  - Malawi
+  toss:
+    winner: Eswatini
+    decision: bat
+  umpires:
+  - A Kassam
+  - Claus Schumacher
+  venue: Achimota Senior Secondary School B Field, Accra
+innings:
+- 1st innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Umair Qasim
+        batsman: Adil Butt
+    - 0.2:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Umair Qasim
+        batsman: Adil Butt
+    - 0.3:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Umair Qasim
+        batsman: Adil Butt
+    - 0.4:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Umair Qasim
+        batsman: Adil Butt
+    - 0.5:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Umair Qasim
+        batsman: Adil Butt
+    - 0.6:
+        non_striker: Umair Qasim
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 1.1:
+        non_striker: Adil Butt
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 1.2:
+        non_striker: Adil Butt
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 1.3:
+        non_striker: Umair Qasim
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 1.4:
+        non_striker: Umair Qasim
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 1.5:
+        non_striker: Umair Qasim
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 1.6:
+        non_striker: Umair Qasim
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 2.1:
+        non_striker: Adil Butt
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+    - 2.2:
+        non_striker: Adil Butt
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+        wicket:
+          player_out: Umair Qasim
+          kind: bowled
+    - 2.3:
+        non_striker: Adil Butt
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+        wicket:
+          player_out: Eric Phiri
+          kind: bowled
+    - 2.4:
+        non_striker: Adil Butt
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 2.5:
+        non_striker: Adil Butt
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 2.6:
+        non_striker: Adil Butt
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 3.1:
+        non_striker: H Jangariya
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Adil Butt
+    - 3.2:
+        non_striker: Adil Butt
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 3.3:
+        non_striker: H Jangariya
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 3.4:
+        non_striker: H Jangariya
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 3.5:
+        non_striker: H Jangariya
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Adil Butt
+    - 3.6:
+        non_striker: H Jangariya
+        bowler: B Pondani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+    - 4.1:
+        non_striker: Adil Butt
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 4.2:
+        non_striker: Adil Butt
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 4.3:
+        non_striker: H Jangariya
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+        wicket:
+          player_out: Adil Butt
+          fielders:
+          - D Kansonkho
+          kind: caught
+    - 4.4:
+        non_striker: H Jangariya
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 4.5:
+        non_striker: H Jangariya
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+        wicket:
+          player_out: M Khojbariya
+          kind: lbw
+    - 4.6:
+        non_striker: H Jangariya
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Alamgir
+        wicket:
+          player_out: Mohammed Alamgir
+          kind: bowled
+    - 5.1:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Magagula
+        batsman: H Jangariya
+    - 5.2:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Magagula
+        batsman: H Jangariya
+    - 5.3:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Magagula
+        batsman: H Jangariya
+    - 5.4:
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Magagula
+        batsman: H Jangariya
+    - 5.5:
+        non_striker: H Jangariya
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 5.6:
+        non_striker: H Jangariya
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Magagula
+    - 5.7:
+        non_striker: H Jangariya
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Magagula
+    - 6.1:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 6.2:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 6.3:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+        wicket:
+          player_out: H Jangariya
+          fielders:
+          - B Pondani
+          kind: caught
+    - 6.4:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 6.5:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandeep
+    - 6.6:
+        non_striker: R Sandeep
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 7.1:
+        non_striker: R Sandeep
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 7.2:
+        non_striker: R Sandeep
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Magagula
+    - 7.3:
+        non_striker: R Sandeep
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 7.4:
+        non_striker: R Sandeep
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Magagula
+    - 7.5:
+        non_striker: R Sandeep
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 7.6:
+        non_striker: R Sandeep
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 8.1:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 8.2:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 8.3:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 8.4:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 8.5:
+        non_striker: M Magagula
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandeep
+    - 8.6:
+        non_striker: R Sandeep
+        bowler: K Thuchila
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 9.1:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandeep
+    - 9.2:
+        non_striker: R Sandeep
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 9.3:
+        non_striker: R Sandeep
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 9.4:
+        non_striker: R Sandeep
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 9.5:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 9.6:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+        wicket:
+          player_out: R Sandeep
+          fielders:
+          - Kazim Somani
+          kind: caught
+    - 10.1:
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jele
+        batsman: M Magagula
+    - 10.2:
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jele
+        batsman: M Magagula
+    - 10.3:
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jele
+        batsman: M Magagula
+    - 10.4:
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Jele
+        batsman: M Magagula
+    - 10.5:
+        non_striker: M Magagula
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+    - 10.6:
+        non_striker: S Jele
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 11.1:
+        non_striker: S Jele
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 11.2:
+        non_striker: S Jele
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 11.3:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: S Jele
+    - 11.4:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+    - 11.5:
+        non_striker: S Jele
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 11.6:
+        non_striker: S Jele
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 12.1:
+        non_striker: M Magagula
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+    - 12.2:
+        non_striker: M Magagula
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+    - 12.3:
+        non_striker: M Magagula
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+    - 12.4:
+        non_striker: M Magagula
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+    - 12.5:
+        non_striker: S Jele
+        bowler: M Choamba
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Magagula
+    - 12.6:
+        non_striker: M Magagula
+        bowler: M Choamba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jele
+    - 13.1:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jele
+    - 13.2:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jele
+    - 13.3:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jele
+        wicket:
+          player_out: S Jele
+          fielders:
+          - A Limdawala
+          kind: caught
+    - 13.4:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 13.5:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 13.6:
+        non_striker: M Magagula
+        bowler: SZ Vayani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 14.1:
+        non_striker: Saqib Anwar
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+        wicket:
+          player_out: M Magagula
+          kind: bowled
+    - 14.2:
+        non_striker: Saqib Anwar
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jele
+    - 14.3:
+        non_striker: Saqib Anwar
+        bowler: D Jakiel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Jele
+    - 14.4:
+        non_striker: M Jele
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Anwar
+    - 14.5:
+        non_striker: Saqib Anwar
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jele
+    - 14.6:
+        non_striker: M Jele
+        bowler: D Jakiel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+    - 15.1:
+        non_striker: Saqib Anwar
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jele
+    - 15.2:
+        non_striker: M Jele
+        bowler: Sami Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Anwar
+        wicket:
+          player_out: Saqib Anwar
+          kind: lbw
+- 2nd innings:
+    team: Malawi
+    deliveries:
+    - 0.1:
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sami Sohail
+        batsman: D Kansonkho
+    - 0.2:
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sami Sohail
+        batsman: D Kansonkho
+    - 0.3:
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sami Sohail
+        batsman: D Kansonkho
+    - 0.4:
+        non_striker: Sami Sohail
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Kansonkho
+        wicket:
+          player_out: D Kansonkho
+          fielders:
+          - H Jangariya
+          kind: caught
+    - 0.5:
+        non_striker: Sami Sohail
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 0.6:
+        non_striker: Sami Sohail
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 1.1:
+        non_striker: M Choamba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 1.2:
+        non_striker: M Choamba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 1.3:
+        non_striker: M Choamba
+        bowler: M Magagula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sami Sohail
+    - 1.4:
+        non_striker: M Choamba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 1.5:
+        non_striker: M Choamba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 1.6:
+        non_striker: M Choamba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 1.7:
+        non_striker: M Choamba
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 2.1:
+        non_striker: Sami Sohail
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 2.2:
+        non_striker: Sami Sohail
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 2.3:
+        non_striker: Sami Sohail
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 2.4:
+        non_striker: M Choamba
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 2.5:
+        non_striker: M Choamba
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 2.6:
+        non_striker: M Choamba
+        bowler: Saqib Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 3.1:
+        non_striker: Sami Sohail
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 3.2:
+        non_striker: Sami Sohail
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Choamba
+    - 3.3:
+        non_striker: Sami Sohail
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 3.4:
+        non_striker: Sami Sohail
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Choamba
+    - 3.5:
+        non_striker: M Choamba
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 3.6:
+        non_striker: M Choamba
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 4.1:
+        non_striker: Sami Sohail
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+    - 4.2:
+        non_striker: Sami Sohail
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Choamba
+    - 4.3:
+        non_striker: Sami Sohail
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Choamba
+        wicket:
+          player_out: M Choamba
+          fielders:
+          - M Jele
+          kind: caught
+    - 4.4:
+        non_striker: Sami Sohail
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 4.5:
+        non_striker: G Kansonkho
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 4.6:
+        non_striker: G Kansonkho
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sami Sohail
+    - 5.1:
+        non_striker: Sami Sohail
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 5.2:
+        non_striker: Sami Sohail
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kansonkho
+    - 5.3:
+        non_striker: Sami Sohail
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Kansonkho
+    - 5.4:
+        non_striker: Sami Sohail
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kansonkho
+    - 5.5:
+        non_striker: Sami Sohail
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 5.6:
+        non_striker: G Kansonkho
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sami Sohail
+    - 5.7:
+        non_striker: G Kansonkho
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 6.1:
+        non_striker: Sami Sohail
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kansonkho
+    - 6.2:
+        non_striker: G Kansonkho
+        bowler: Umair Qasim
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Sami Sohail
+    - 6.3:
+        non_striker: G Kansonkho
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sami Sohail
+    - 6.4:
+        non_striker: G Kansonkho
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sami Sohail
+    - 6.5:
+        non_striker: G Kansonkho
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sami Sohail

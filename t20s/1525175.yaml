@@ -1,0 +1,1574 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-03-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: George Town
+  dates:
+  - '2026-03-14'
+  gender: male
+  match_type: T20
+  match_type_number: 3771
+  outcome:
+    winner: Cayman Islands
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - YSD Seneveratne
+  players:
+    Suriname:
+    - V Hirlal
+    - K Jaikaran
+    - G Singh
+    - V Shaw
+    - XSD Smith
+    - YP Dayal
+    - S Bharratt
+    - KN Singh
+    - AAH Bhikari
+    - J Perry
+    - SA Amirullah
+    Cayman Islands:
+    - J Baker
+    - YSD Seneveratne
+    - S Foster
+    - Davion Codner
+    - RA Sealy
+    - V Dhaniram
+    - R Edwards
+    - J Buchanan
+    - A Wright
+    - D Johnson
+    - C Wright
+  registry:
+    people:
+      A Gajjar: 37db06ef
+      A Wright: 4bb7f51e
+      AAH Bhikari: 9dba7a41
+      AR Maddela: 5c861579
+      C Wright: d465c6d7
+      D Johnson: d406e303
+      Davion Codner: 6a84b40e
+      Denavon Hayles: 5cbeeb02
+      G Singh: e93b6c95
+      J Baker: a12672e0
+      J Buchanan: 01127aa9
+      J Perry: f5c73a14
+      K Jaikaran: 420431c9
+      KN Singh: 74bff7ca
+      R Edwards: 4c5a72e2
+      R Shah: 3424e050
+      RA Sealy: 1e98804a
+      S Bharratt: 1335107b
+      S Foster: 3595ad3b
+      SA Amirullah: 2e78ffac
+      V Dhaniram: '10885753'
+      V Hirlal: 3eb2a27b
+      V Shaw: e05dd44b
+      XSD Smith: f4f892a3
+      YP Dayal: 990f1424
+      YSD Seneveratne: 0f71478c
+  teams:
+  - Suriname
+  - Cayman Islands
+  toss:
+    winner: Suriname
+    decision: bat
+  umpires:
+  - A Gajjar
+  - R Shah
+  venue: Jimmy Powell Oval, Cayman Islands
+innings:
+- 1st innings:
+    team: Suriname
+    deliveries:
+    - 0.1:
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Jaikaran
+        batsman: V Hirlal
+    - 0.2:
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Jaikaran
+        batsman: V Hirlal
+    - 0.3:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 0.4:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 0.5:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 0.6:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+    - 1.1:
+        non_striker: K Jaikaran
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 1.2:
+        non_striker: K Jaikaran
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Hirlal
+    - 1.3:
+        non_striker: K Jaikaran
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 1.4:
+        non_striker: K Jaikaran
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 1.5:
+        non_striker: K Jaikaran
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 1.6:
+        non_striker: K Jaikaran
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 2.1:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Jaikaran
+        wicket:
+          player_out: K Jaikaran
+          fielders:
+          - R Edwards
+          kind: caught
+    - 2.2:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 2.3:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 2.4:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 2.5:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 2.6:
+        non_striker: G Singh
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 3.1:
+        non_striker: V Hirlal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 3.2:
+        non_striker: V Hirlal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+        wicket:
+          player_out: G Singh
+          fielders:
+          - YSD Seneveratne
+          kind: caught
+    - 3.3:
+        non_striker: V Hirlal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+    - 3.4:
+        non_striker: V Hirlal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shaw
+    - 3.5:
+        non_striker: V Shaw
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 3.6:
+        non_striker: V Shaw
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 4.1:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Shaw
+        wicket:
+          player_out: V Shaw
+          fielders:
+          - D Johnson
+          kind: caught
+    - 4.2:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 4.3:
+        non_striker: XSD Smith
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 4.4:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+    - 4.5:
+        non_striker: V Hirlal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 4.6:
+        non_striker: XSD Smith
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 5.1:
+        non_striker: V Hirlal
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 5.2:
+        non_striker: XSD Smith
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 5.3:
+        non_striker: XSD Smith
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 5.4:
+        non_striker: XSD Smith
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 5.5:
+        non_striker: XSD Smith
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 5.6:
+        non_striker: XSD Smith
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 6.1:
+        non_striker: XSD Smith
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 6.2:
+        non_striker: XSD Smith
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 6.3:
+        non_striker: XSD Smith
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 6.4:
+        non_striker: V Hirlal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XSD Smith
+    - 6.5:
+        non_striker: XSD Smith
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 6.6:
+        non_striker: V Hirlal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XSD Smith
+        wicket:
+          player_out: XSD Smith
+          fielders:
+          - V Dhaniram
+          kind: caught
+    - 7.1:
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YP Dayal
+        batsman: V Hirlal
+    - 7.2:
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: YP Dayal
+        batsman: V Hirlal
+    - 7.3:
+        non_striker: V Hirlal
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 7.4:
+        non_striker: V Hirlal
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 7.5:
+        non_striker: YP Dayal
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 7.6:
+        non_striker: YP Dayal
+        bowler: D Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 8.1:
+        non_striker: V Hirlal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 8.2:
+        non_striker: V Hirlal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 8.3:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 8.4:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 8.5:
+        non_striker: V Hirlal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 8.6:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 9.1:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Hirlal
+    - 9.2:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 9.3:
+        non_striker: V Hirlal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 9.4:
+        non_striker: V Hirlal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 9.5:
+        non_striker: V Hirlal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YP Dayal
+    - 9.6:
+        non_striker: V Hirlal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 10.1:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: V Hirlal
+    - 10.2:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 10.3:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 10.4:
+        non_striker: V Hirlal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 10.5:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 10.6:
+        non_striker: V Hirlal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 11.1:
+        non_striker: V Hirlal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 11.2:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 11.3:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 11.4:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Hirlal
+    - 11.5:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Hirlal
+    - 11.6:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Hirlal
+    - 12.1:
+        non_striker: YP Dayal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 12.2:
+        non_striker: YP Dayal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 12.3:
+        non_striker: YP Dayal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Hirlal
+    - 12.4:
+        non_striker: YP Dayal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 12.5:
+        non_striker: YP Dayal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 12.6:
+        non_striker: YP Dayal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+    - 13.1:
+        non_striker: V Hirlal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 13.2:
+        non_striker: V Hirlal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YP Dayal
+    - 13.3:
+        non_striker: V Hirlal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 13.4:
+        non_striker: YP Dayal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Hirlal
+        wicket:
+          player_out: V Hirlal
+          fielders:
+          - YSD Seneveratne
+          kind: caught
+    - 13.5:
+        non_striker: YP Dayal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 13.6:
+        non_striker: YP Dayal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Bharratt
+    - 14.1:
+        non_striker: S Bharratt
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 14.2:
+        non_striker: YP Dayal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 14.3:
+        non_striker: YP Dayal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 14.4:
+        non_striker: YP Dayal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 14.5:
+        non_striker: YP Dayal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 14.6:
+        non_striker: YP Dayal
+        bowler: A Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 15.1:
+        non_striker: S Bharratt
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 15.2:
+        non_striker: YP Dayal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 15.3:
+        non_striker: S Bharratt
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 15.4:
+        non_striker: YP Dayal
+        bowler: C Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Bharratt
+    - 15.5:
+        non_striker: YP Dayal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Bharratt
+    - 15.6:
+        non_striker: YP Dayal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 15.7:
+        non_striker: YP Dayal
+        bowler: C Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 16.1:
+        non_striker: S Bharratt
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 16.2:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 16.3:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 16.4:
+        non_striker: S Bharratt
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 16.5:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 16.6:
+        non_striker: YP Dayal
+        bowler: J Buchanan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 17.1:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Bharratt
+    - 17.2:
+        non_striker: S Bharratt
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 17.3:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 17.4:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 17.5:
+        non_striker: S Bharratt
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 17.6:
+        non_striker: S Bharratt
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YP Dayal
+    - 18.1:
+        non_striker: YP Dayal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 18.2:
+        non_striker: YP Dayal
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 18.3:
+        non_striker: S Bharratt
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 18.4:
+        non_striker: S Bharratt
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YP Dayal
+    - 18.5:
+        non_striker: S Bharratt
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YP Dayal
+    - 18.6:
+        non_striker: S Bharratt
+        bowler: V Dhaniram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YP Dayal
+    - 19.1:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 19.2:
+        non_striker: S Bharratt
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+    - 19.3:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Bharratt
+    - 19.4:
+        non_striker: YP Dayal
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Bharratt
+    - 19.5:
+        non_striker: S Bharratt
+        bowler: R Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YP Dayal
+    - 19.6:
+        non_striker: S Bharratt
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YP Dayal
+    - 19.7:
+        non_striker: S Bharratt
+        bowler: R Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YP Dayal
+- 2nd innings:
+    team: Cayman Islands
+    deliveries:
+    - 0.1:
+        bowler: J Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.2:
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.3:
+        bowler: J Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.4:
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.5:
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: YSD Seneveratne
+        batsman: J Baker
+    - 0.6:
+        non_striker: J Baker
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 0.7:
+        non_striker: J Baker
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YSD Seneveratne
+    - 0.8:
+        non_striker: J Baker
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 1.1:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 1.2:
+        non_striker: J Baker
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 1.3:
+        non_striker: J Baker
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 1.4:
+        non_striker: J Baker
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 1.5:
+        non_striker: J Baker
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 1.6:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 2.1:
+        non_striker: J Baker
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 2.2:
+        non_striker: YSD Seneveratne
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 2.3:
+        non_striker: J Baker
+        bowler: J Perry
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: YSD Seneveratne
+    - 2.4:
+        non_striker: J Baker
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 2.5:
+        non_striker: YSD Seneveratne
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 2.6:
+        non_striker: YSD Seneveratne
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 2.7:
+        non_striker: YSD Seneveratne
+        bowler: J Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 3.1:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 3.2:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 3.3:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 3.4:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 3.5:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Baker
+    - 3.6:
+        non_striker: J Baker
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 4.1:
+        non_striker: J Baker
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 4.2:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 4.3:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Baker
+    - 4.4:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Baker
+    - 4.5:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 4.6:
+        non_striker: YSD Seneveratne
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 5.1:
+        non_striker: J Baker
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YSD Seneveratne
+    - 5.2:
+        non_striker: J Baker
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 5.3:
+        non_striker: J Baker
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 5.4:
+        non_striker: J Baker
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 5.5:
+        non_striker: J Baker
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 5.6:
+        non_striker: YSD Seneveratne
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 6.1:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+    - 6.2:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Baker
+    - 6.3:
+        non_striker: J Baker
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 6.4:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Baker
+        wicket:
+          player_out: J Baker
+          fielders:
+          - V Hirlal
+          kind: caught
+    - 6.5:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 6.6:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Foster
+    - 7.1:
+        non_striker: S Foster
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 7.2:
+        non_striker: S Foster
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 7.3:
+        non_striker: S Foster
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 7.4:
+        non_striker: S Foster
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YSD Seneveratne
+    - 7.5:
+        non_striker: S Foster
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 7.6:
+        non_striker: S Foster
+        bowler: YP Dayal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne
+    - 8.1:
+        non_striker: S Foster
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 8.2:
+        non_striker: S Foster
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YSD Seneveratne
+    - 8.3:
+        non_striker: S Foster
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YSD Seneveratne
+    - 8.4:
+        non_striker: S Foster
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: YSD Seneveratne
+    - 8.5:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Foster
+    - 8.6:
+        non_striker: YSD Seneveratne
+        bowler: XSD Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Foster
+    - 9.1:
+        non_striker: S Foster
+        bowler: AAH Bhikari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YSD Seneveratne

@@ -1,0 +1,2039 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  dates:
+  - '2026-02-18'
+  gender: male
+  match_type: T20
+  match_type_number: 3722
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 102
+  overs: 20
+  player_of_match:
+  - Sahibzada Farhan
+  players:
+    Pakistan:
+    - Sahibzada Farhan
+    - Saim Ayub
+    - Agha Salman
+    - Khawaja Nafay
+    - Shadab Khan
+    - Babar Azam
+    - Usman Khan
+    - Mohammad Nawaz
+    - Faheem Ashraf
+    - Salman Mirza
+    - Usman Tariq
+    Namibia:
+    - L Steenkamp
+    - JN Frylinck
+    - JN Loftie-Eaton
+    - MG Erasmus
+    - A Busing-Volschenk
+    - JJ Smit
+    - ZE Green
+    - R Trumpelmann
+    - WP Myburgh
+    - BM Scholtz
+    - JT Brassell
+  registry:
+    people:
+      A Busing-Volschenk: e9e37173
+      Agha Salman: 89c16049
+      BM Scholtz: e85d03d6
+      Babar Azam: 8a75e999
+      CB Gaffaney: d5ac41d8
+      Faheem Ashraf: bd4ea627
+      HDPK Dharmasena: 323e4c16
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      JT Brassell: 537021f5
+      Khawaja Nafay: 3cf54e77
+      L Steenkamp: 8bd9fd13
+      MG Erasmus: 95a5e066
+      Mohammad Nawaz: 3086f7a4
+      R Trumpelmann: ff6a7ab5
+      RB Richardson: 410e2f12
+      RK Illingworth: '20672246'
+      RR Wimalasiri: 4950c8db
+      Sahibzada Farhan: 1aba45cd
+      Saim Ayub: 33609a8c
+      Salman Mirza: 7ab1eab7
+      Shadab Khan: 9de62878
+      Usman Khan: bafb9238
+      Usman Tariq: e94d1dcd
+      WP Myburgh: f1a042e5
+      ZE Green: 8716233e
+  teams:
+  - Pakistan
+  - Namibia
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - CB Gaffaney
+  - RK Illingworth
+  venue: Sinhalese Sports Club Ground, Colombo
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Saim Ayub
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 0.2:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.3:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.4:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.5:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 0.6:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.1:
+        non_striker: Saim Ayub
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 1.2:
+        non_striker: Saim Ayub
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.3:
+        non_striker: Saim Ayub
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 1.4:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 1.5:
+        non_striker: Saim Ayub
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.6:
+        non_striker: Saim Ayub
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 2.1:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 2.2:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 2.3:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 2.4:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Saim Ayub
+    - 2.5:
+        non_striker: Saim Ayub
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 2.6:
+        non_striker: Saim Ayub
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 3.1:
+        non_striker: Saim Ayub
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 3.2:
+        non_striker: Saim Ayub
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 3.3:
+        non_striker: Saim Ayub
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 3.4:
+        non_striker: Saim Ayub
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 3.5:
+        non_striker: Saim Ayub
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 3.6:
+        non_striker: Saim Ayub
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 4.1:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 4.2:
+        non_striker: Saim Ayub
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 4.3:
+        non_striker: Saim Ayub
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 4.4:
+        non_striker: Saim Ayub
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 4.5:
+        non_striker: Saim Ayub
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 4.6:
+        non_striker: Saim Ayub
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 5.1:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          fielders:
+          - ZE Green
+          kind: caught
+    - 5.2:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 5.3:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 5.4:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 5.5:
+        non_striker: Agha Salman
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 5.6:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 6.1:
+        non_striker: Sahibzada Farhan
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 6.2:
+        non_striker: Agha Salman
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 6.3:
+        non_striker: Agha Salman
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 6.4:
+        non_striker: Sahibzada Farhan
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 6.5:
+        non_striker: Agha Salman
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 6.6:
+        non_striker: Agha Salman
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 7.1:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 7.2:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 7.3:
+        non_striker: Agha Salman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 7.4:
+        non_striker: Agha Salman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 7.5:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 7.6:
+        non_striker: Agha Salman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 8.1:
+        non_striker: Sahibzada Farhan
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Agha Salman
+    - 8.2:
+        non_striker: Sahibzada Farhan
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Agha Salman
+    - 8.3:
+        non_striker: Sahibzada Farhan
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 8.4:
+        non_striker: Agha Salman
+        bowler: WP Myburgh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sahibzada Farhan
+    - 8.5:
+        non_striker: Agha Salman
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 8.6:
+        non_striker: Agha Salman
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 8.7:
+        non_striker: Agha Salman
+        bowler: WP Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 9.1:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 9.2:
+        non_striker: Agha Salman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 9.3:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Agha Salman
+    - 9.4:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 9.5:
+        non_striker: Agha Salman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 9.6:
+        non_striker: Agha Salman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 9.7:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Agha Salman
+    - 10.1:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 10.2:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 10.3:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 10.4:
+        non_striker: Agha Salman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 10.5:
+        non_striker: Agha Salman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 10.6:
+        non_striker: Agha Salman
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 11.1:
+        non_striker: Agha Salman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 11.2:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 11.3:
+        non_striker: Agha Salman
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 11.4:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 11.5:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Agha Salman
+    - 11.6:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 12.1:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 12.2:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khawaja Nafay
+    - 12.3:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 12.4:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawaja Nafay
+    - 12.5:
+        non_striker: Khawaja Nafay
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 12.6:
+        non_striker: Khawaja Nafay
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 13.1:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 13.2:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+        wicket:
+          player_out: Khawaja Nafay
+          kind: caught and bowled
+    - 13.3:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 13.4:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 13.5:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 13.6:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 14.1:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 14.2:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 14.3:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 14.4:
+        non_striker: Shadab Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 14.5:
+        non_striker: Shadab Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 14.6:
+        non_striker: Shadab Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 15.1:
+        non_striker: Shadab Khan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 15.2:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 15.3:
+        non_striker: Shadab Khan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 15.4:
+        non_striker: Sahibzada Farhan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 15.5:
+        non_striker: Shadab Khan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 15.6:
+        non_striker: Shadab Khan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 16.1:
+        non_striker: Shadab Khan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 16.2:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 16.3:
+        non_striker: Shadab Khan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 16.4:
+        non_striker: Shadab Khan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 16.5:
+        non_striker: Shadab Khan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 16.6:
+        non_striker: Sahibzada Farhan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 17.1:
+        non_striker: Shadab Khan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 17.2:
+        non_striker: Shadab Khan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 17.3:
+        non_striker: Shadab Khan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 17.4:
+        non_striker: Shadab Khan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 17.5:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 17.6:
+        non_striker: Sahibzada Farhan
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 18.1:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 18.2:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 18.3:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 18.4:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 18.5:
+        non_striker: Shadab Khan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 18.6:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shadab Khan
+    - 18.7:
+        non_striker: Sahibzada Farhan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 19.1:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 19.2:
+        non_striker: Shadab Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 19.3:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shadab Khan
+    - 19.4:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 19.5:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 19.6:
+        non_striker: Sahibzada Farhan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 19.7:
+        non_striker: Shadab Khan
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        non_striker: JN Frylinck
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 0.2:
+        non_striker: JN Frylinck
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 0.3:
+        non_striker: JN Frylinck
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Steenkamp
+    - 0.4:
+        non_striker: JN Frylinck
+        bowler: Faheem Ashraf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Steenkamp
+    - 0.5:
+        non_striker: L Steenkamp
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 0.6:
+        non_striker: L Steenkamp
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 1.1:
+        non_striker: JN Frylinck
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 1.2:
+        non_striker: JN Frylinck
+        bowler: Salman Mirza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Steenkamp
+    - 1.3:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 1.4:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 1.5:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 1.6:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Frylinck
+    - 1.7:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 2.1:
+        non_striker: JN Frylinck
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 2.2:
+        non_striker: JN Frylinck
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 2.3:
+        non_striker: L Steenkamp
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 2.4:
+        non_striker: JN Frylinck
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 2.5:
+        non_striker: JN Frylinck
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 2.6:
+        non_striker: L Steenkamp
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 3.1:
+        non_striker: L Steenkamp
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 3.2:
+        non_striker: L Steenkamp
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 3.3:
+        non_striker: JN Frylinck
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 3.4:
+        non_striker: JN Frylinck
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 3.5:
+        non_striker: JN Frylinck
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 3.6:
+        non_striker: JN Frylinck
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Steenkamp
+    - 4.1:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          kind: bowled
+    - 4.2:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 4.3:
+        non_striker: JN Loftie-Eaton
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 4.4:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 4.5:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 4.6:
+        non_striker: L Steenkamp
+        bowler: Salman Mirza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 5.1:
+        non_striker: JN Loftie-Eaton
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 5.2:
+        non_striker: L Steenkamp
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - Saim Ayub
+          - Agha Salman
+          kind: run out
+    - 5.3:
+        non_striker: MG Erasmus
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 5.4:
+        non_striker: MG Erasmus
+        bowler: Saim Ayub
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Steenkamp
+    - 5.5:
+        non_striker: L Steenkamp
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 5.6:
+        non_striker: L Steenkamp
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.1:
+        non_striker: MG Erasmus
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 6.2:
+        non_striker: MG Erasmus
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 6.3:
+        non_striker: L Steenkamp
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Erasmus
+    - 6.4:
+        non_striker: L Steenkamp
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 6.5:
+        non_striker: MG Erasmus
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 6.6:
+        non_striker: MG Erasmus
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+        wicket:
+          player_out: L Steenkamp
+          fielders:
+          - Usman Khan
+          kind: caught
+    - 6.7:
+        non_striker: MG Erasmus
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Busing-Volschenk
+    - 7.1:
+        non_striker: A Busing-Volschenk
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 7.2:
+        non_striker: A Busing-Volschenk
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 7.3:
+        non_striker: A Busing-Volschenk
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - Usman Khan
+          kind: caught
+    - 7.4:
+        non_striker: A Busing-Volschenk
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 7.5:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Busing-Volschenk
+    - 7.6:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Busing-Volschenk
+    - 8.1:
+        non_striker: JJ Smit
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Busing-Volschenk
+    - 8.2:
+        non_striker: JJ Smit
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Busing-Volschenk
+    - 8.3:
+        non_striker: JJ Smit
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Busing-Volschenk
+    - 8.4:
+        non_striker: A Busing-Volschenk
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 8.5:
+        non_striker: A Busing-Volschenk
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 8.6:
+        non_striker: A Busing-Volschenk
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 9.1:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Busing-Volschenk
+    - 9.2:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Busing-Volschenk
+    - 9.3:
+        non_striker: A Busing-Volschenk
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 9.4:
+        non_striker: A Busing-Volschenk
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 9.5:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Busing-Volschenk
+    - 9.6:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Busing-Volschenk
+    - 9.7:
+        non_striker: A Busing-Volschenk
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 10.1:
+        non_striker: JJ Smit
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Busing-Volschenk
+    - 10.2:
+        non_striker: A Busing-Volschenk
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 10.3:
+        non_striker: JJ Smit
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Busing-Volschenk
+    - 10.4:
+        non_striker: JJ Smit
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Busing-Volschenk
+    - 10.5:
+        non_striker: JJ Smit
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Busing-Volschenk
+    - 10.6:
+        non_striker: JJ Smit
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Busing-Volschenk
+    - 10.7:
+        non_striker: JJ Smit
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Busing-Volschenk
+    - 11.1:
+        non_striker: JJ Smit
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Busing-Volschenk
+    - 11.2:
+        non_striker: JJ Smit
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Busing-Volschenk
+    - 11.3:
+        non_striker: A Busing-Volschenk
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 11.4:
+        non_striker: JJ Smit
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Busing-Volschenk
+    - 11.5:
+        non_striker: A Busing-Volschenk
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 11.6:
+        non_striker: JJ Smit
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Busing-Volschenk
+    - 12.1:
+        non_striker: A Busing-Volschenk
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 12.2:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Busing-Volschenk
+    - 12.3:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Busing-Volschenk
+        wicket:
+          player_out: A Busing-Volschenk
+          fielders:
+          - Usman Khan
+          kind: stumped
+    - 12.4:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 12.5:
+        non_striker: JJ Smit
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 12.6:
+        non_striker: ZE Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.1:
+        non_striker: ZE Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+        wicket:
+          player_out: JJ Smit
+          fielders:
+          - Shadab Khan
+          kind: caught
+    - 13.2:
+        non_striker: ZE Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 13.3:
+        non_striker: ZE Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+        wicket:
+          player_out: R Trumpelmann
+          kind: bowled
+    - 13.4:
+        non_striker: ZE Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+    - 13.5:
+        non_striker: ZE Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+    - 13.6:
+        non_striker: ZE Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+    - 14.1:
+        non_striker: WP Myburgh
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 14.2:
+        non_striker: WP Myburgh
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 14.3:
+        non_striker: ZE Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+    - 14.4:
+        non_striker: ZE Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+    - 14.5:
+        non_striker: ZE Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Myburgh
+    - 14.6:
+        non_striker: WP Myburgh
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 15.1:
+        non_striker: ZE Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WP Myburgh
+    - 15.2:
+        non_striker: WP Myburgh
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 15.3:
+        non_striker: WP Myburgh
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZE Green
+    - 15.4:
+        non_striker: WP Myburgh
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ZE Green
+    - 15.5:
+        non_striker: ZE Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+    - 15.6:
+        non_striker: ZE Green
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WP Myburgh
+    - 16.1:
+        non_striker: ZE Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Myburgh
+    - 16.2:
+        non_striker: WP Myburgh
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+        wicket:
+          player_out: ZE Green
+          fielders:
+          - Saim Ayub
+          kind: caught
+    - 16.3:
+        non_striker: WP Myburgh
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Scholtz
+    - 16.4:
+        non_striker: BM Scholtz
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+    - 16.5:
+        non_striker: BM Scholtz
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+    - 16.6:
+        non_striker: BM Scholtz
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+    - 17.1:
+        non_striker: WP Myburgh
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Scholtz
+        wicket:
+          player_out: BM Scholtz
+          kind: bowled
+    - 17.2:
+        non_striker: WP Myburgh
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Brassell
+    - 17.3:
+        non_striker: JT Brassell
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Myburgh
+        wicket:
+          player_out: WP Myburgh
+          fielders:
+          - Usman Khan
+          kind: caught

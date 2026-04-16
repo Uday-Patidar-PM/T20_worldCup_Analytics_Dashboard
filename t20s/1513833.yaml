@@ -1,0 +1,1791 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-12-13'
+  gender: male
+  match_type: T20
+  match_type_number: 3639
+  outcome:
+    winner: Malaysia
+    by:
+      wickets: 6
+  overs: 20
+  players:
+    Singapore:
+    - Aman Desai
+    - K Sathish
+    - Aslan Jafri
+    - G Gune
+    - IP Swaney
+    - SH Venugopal
+    - R Sharma
+    - NA Karnik
+    - DPS Tyagi
+    - PSRK Sudarshan
+    - V Nagpaul
+    Malaysia:
+    - Muhammad Haziq Aiman
+    - Zubaidi Zulkifle
+    - S Muniandy
+    - Virandeep Singh
+    - Syed Aziz
+    - S Vijay Unni
+    - Amir Khan
+    - Muhammad Amir
+    - Pavandeep Singh
+    - M Syahadat Ramli
+    - Ahmed Faiz
+  registry:
+    people:
+      AK Rana: 562d74d0
+      Ahmed Faiz: f6b4f746
+      Aman Desai: c10fd8f9
+      Amir Khan: a7bc0f3d
+      Anwesh Bose: 3bdae121
+      Aslan Jafri: a14b5f3c
+      DPS Tyagi: d5f96736
+      G Gune: 5491a9ff
+      IP Swaney: 430b7399
+      K Sathish: 1cad1601
+      M Syahadat Ramli: 5efa8af3
+      Muhammad Amir: 60bec5c3
+      Muhammad Haziq Aiman: 1f13eba1
+      NA Karnik: 835a58da
+      PSRK Sudarshan: 3a44a4e4
+      Pavandeep Singh: 78fcc740
+      R Sharma: 2278c4ca
+      S Muniandy: 57fcfd3b
+      S Vijay Unni: f737ab44
+      SH Venugopal: 9f542219
+      Samad Akbar: f05bd21b
+      Suresh Singh: 073de6f9
+      Syed Aziz: 6667067e
+      T Senthil Kumar: 961ddfac
+      V Nagpaul: 6d1db278
+      Virandeep Singh: 415d30b6
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Singapore
+  - Malaysia
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - AK Rana
+  - Samad Akbar
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Sathish
+        batsman: Aman Desai
+    - 0.2:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Sathish
+        batsman: Aman Desai
+    - 0.3:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Sathish
+        batsman: Aman Desai
+    - 0.4:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Sathish
+        batsman: Aman Desai
+    - 0.5:
+        non_striker: Aman Desai
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 0.6:
+        non_striker: Aman Desai
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Sathish
+    - 1.1:
+        non_striker: K Sathish
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 1.2:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Sathish
+    - 1.3:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+        wicket:
+          player_out: K Sathish
+          kind: lbw
+    - 1.4:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 1.5:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aslan Jafri
+    - 1.6:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslan Jafri
+    - 1.7:
+        non_striker: Aslan Jafri
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 2.1:
+        non_striker: Aslan Jafri
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 2.2:
+        non_striker: Aslan Jafri
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 2.3:
+        non_striker: Aslan Jafri
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 2.4:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 2.5:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslan Jafri
+    - 2.6:
+        non_striker: Aslan Jafri
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 3.1:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aslan Jafri
+    - 3.2:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 3.3:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 3.4:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 3.5:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aslan Jafri
+    - 3.6:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aslan Jafri
+    - 3.7:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 3.8:
+        non_striker: Aman Desai
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslan Jafri
+    - 4.1:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 4.2:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+    - 4.3:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslan Jafri
+        wicket:
+          player_out: Aslan Jafri
+          fielders:
+          - Muhammad Amir
+          kind: caught
+    - 4.4:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 4.5:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 4.6:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Gune
+    - 5.1:
+        non_striker: G Gune
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aman Desai
+    - 5.2:
+        non_striker: G Gune
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 5.3:
+        non_striker: Aman Desai
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 5.4:
+        non_striker: Aman Desai
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 5.5:
+        non_striker: Aman Desai
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 5.6:
+        non_striker: Aman Desai
+        bowler: S Muniandy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gune
+    - 5.7:
+        non_striker: Aman Desai
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 5.8:
+        non_striker: Aman Desai
+        bowler: S Muniandy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 6.1:
+        non_striker: Aman Desai
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 6.2:
+        non_striker: G Gune
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 6.3:
+        non_striker: G Gune
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 6.4:
+        non_striker: Aman Desai
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 6.5:
+        non_striker: Aman Desai
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 6.6:
+        non_striker: Aman Desai
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+        wicket:
+          player_out: G Gune
+          fielders:
+          - Muhammad Amir
+          kind: caught
+    - 7.1:
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IP Swaney
+        batsman: Aman Desai
+    - 7.2:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IP Swaney
+    - 7.3:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 7.4:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 7.5:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 7.6:
+        non_striker: Aman Desai
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IP Swaney
+    - 8.1:
+        non_striker: IP Swaney
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: Aman Desai
+          fielders:
+          - S Vijay Unni
+          kind: caught
+    - 8.2:
+        non_striker: IP Swaney
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 8.3:
+        non_striker: SH Venugopal
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IP Swaney
+    - 8.4:
+        non_striker: SH Venugopal
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IP Swaney
+        wicket:
+          player_out: IP Swaney
+          fielders:
+          - Muhammad Haziq Aiman
+          kind: stumped
+    - 8.5:
+        non_striker: SH Venugopal
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 8.6:
+        non_striker: SH Venugopal
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sharma
+    - 8.7:
+        non_striker: SH Venugopal
+        bowler: M Syahadat Ramli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 9.1:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 9.2:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 9.3:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 9.4:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 9.5:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 9.6:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 10.1:
+        non_striker: SH Venugopal
+        bowler: Muhammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Sharma
+    - 10.2:
+        non_striker: SH Venugopal
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 10.3:
+        non_striker: SH Venugopal
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 10.4:
+        non_striker: SH Venugopal
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 10.5:
+        non_striker: SH Venugopal
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 10.6:
+        non_striker: SH Venugopal
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 10.7:
+        non_striker: R Sharma
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 11.1:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 11.2:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 11.3:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 11.4:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 11.5:
+        non_striker: SH Venugopal
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 11.6:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 12.1:
+        non_striker: SH Venugopal
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 12.2:
+        non_striker: R Sharma
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 12.3:
+        non_striker: SH Venugopal
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 12.4:
+        non_striker: R Sharma
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+        wicket:
+          player_out: SH Venugopal
+          fielders:
+          - Muhammad Haziq Aiman
+          kind: stumped
+    - 12.5:
+        non_striker: R Sharma
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+    - 12.6:
+        non_striker: R Sharma
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+    - 13.1:
+        non_striker: NA Karnik
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 13.2:
+        non_striker: NA Karnik
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sharma
+    - 13.3:
+        non_striker: NA Karnik
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Sharma
+    - 13.4:
+        non_striker: NA Karnik
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 13.5:
+        non_striker: R Sharma
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Karnik
+    - 13.6:
+        non_striker: NA Karnik
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 14.1:
+        non_striker: NA Karnik
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 14.2:
+        non_striker: NA Karnik
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sharma
+    - 14.3:
+        non_striker: NA Karnik
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 14.4:
+        non_striker: R Sharma
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+    - 14.5:
+        non_striker: R Sharma
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+    - 14.6:
+        non_striker: R Sharma
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+    - 15.1:
+        non_striker: NA Karnik
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+    - 15.2:
+        non_striker: NA Karnik
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sharma
+    - 15.3:
+        non_striker: R Sharma
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NA Karnik
+    - 15.4:
+        non_striker: NA Karnik
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Sharma
+    - 15.5:
+        non_striker: NA Karnik
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Sharma
+    - 15.6:
+        non_striker: NA Karnik
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sharma
+        wicket:
+          player_out: R Sharma
+          fielders:
+          - Muhammad Amir
+          kind: caught
+    - 15.7:
+        non_striker: NA Karnik
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 16.1:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Karnik
+    - 16.2:
+        non_striker: NA Karnik
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Tyagi
+    - 16.3:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+    - 16.4:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+    - 16.5:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+    - 16.6:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Karnik
+    - 17.1:
+        non_striker: DPS Tyagi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Karnik
+    - 17.2:
+        non_striker: NA Karnik
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DPS Tyagi
+    - 17.3:
+        non_striker: NA Karnik
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPS Tyagi
+    - 17.4:
+        non_striker: DPS Tyagi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+    - 17.5:
+        non_striker: DPS Tyagi
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Karnik
+    - 17.6:
+        non_striker: NA Karnik
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+    - 18.1:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Karnik
+    - 18.2:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Karnik
+        wicket:
+          player_out: NA Karnik
+          kind: bowled
+    - 18.3:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSRK Sudarshan
+    - 18.4:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PSRK Sudarshan
+        wicket:
+          player_out: PSRK Sudarshan
+          fielders:
+          - S Muniandy
+          kind: caught
+    - 18.5:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Nagpaul
+    - 18.6:
+        non_striker: DPS Tyagi
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nagpaul
+    - 19.1:
+        non_striker: DPS Tyagi
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Nagpaul
+    - 19.2:
+        non_striker: V Nagpaul
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DPS Tyagi
+    - 19.3:
+        non_striker: V Nagpaul
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPS Tyagi
+        wicket:
+          player_out: DPS Tyagi
+          kind: caught and bowled
+- 2nd innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Zubaidi Zulkifle
+        batsman: Muhammad Haziq Aiman
+    - 0.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+        wicket:
+          player_out: Muhammad Haziq Aiman
+          fielders:
+          - G Gune
+          kind: caught
+    - 0.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Muniandy
+    - 0.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+        wicket:
+          player_out: S Muniandy
+          fielders:
+          - SH Venugopal
+          kind: caught
+    - 0.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 0.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 0.7:
+        non_striker: Virandeep Singh
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 1.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 1.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Virandeep Singh
+    - 1.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 1.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 1.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 2.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 2.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 2.3:
+        non_striker: Virandeep Singh
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 2.4:
+        non_striker: Virandeep Singh
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 2.5:
+        non_striker: Virandeep Singh
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 2.6:
+        non_striker: Virandeep Singh
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zubaidi Zulkifle
+    - 2.7:
+        non_striker: Virandeep Singh
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 3.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 3.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 3.3:
+        non_striker: Virandeep Singh
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 3.4:
+        non_striker: Virandeep Singh
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 3.5:
+        non_striker: Virandeep Singh
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 3.6:
+        non_striker: Virandeep Singh
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          fielders:
+          - DPS Tyagi
+          kind: caught
+    - 4.1:
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Syed Aziz
+        batsman: Virandeep Singh
+    - 4.2:
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Syed Aziz
+        batsman: Virandeep Singh
+    - 4.3:
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Syed Aziz
+        batsman: Virandeep Singh
+    - 4.4:
+        bowler: DPS Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Syed Aziz
+        batsman: Virandeep Singh
+    - 4.5:
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Syed Aziz
+        batsman: Virandeep Singh
+    - 4.6:
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Syed Aziz
+        batsman: Virandeep Singh
+    - 4.7:
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Syed Aziz
+        batsman: Virandeep Singh
+    - 4.8:
+        non_striker: Syed Aziz
+        bowler: DPS Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 5.1:
+        non_striker: Virandeep Singh
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 5.2:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 5.3:
+        non_striker: Virandeep Singh
+        bowler: V Nagpaul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 5.4:
+        non_striker: Virandeep Singh
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 5.5:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 5.6:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 5.7:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 6.1:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 6.2:
+        non_striker: Syed Aziz
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 6.3:
+        non_striker: Syed Aziz
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 6.4:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 6.5:
+        non_striker: Syed Aziz
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 6.6:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 7.1:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 7.2:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 7.3:
+        non_striker: Virandeep Singh
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 7.4:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+    - 7.5:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 7.6:
+        non_striker: Virandeep Singh
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 8.1:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 8.2:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 8.3:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 8.4:
+        non_striker: Syed Aziz
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 8.5:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 8.6:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 9.1:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 9.2:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 9.3:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 9.4:
+        non_striker: Virandeep Singh
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 9.5:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 9.6:
+        non_striker: Syed Aziz
+        bowler: V Nagpaul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 10.1:
+        non_striker: Syed Aziz
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Virandeep Singh
+    - 10.2:
+        non_striker: Syed Aziz
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Virandeep Singh
+    - 10.3:
+        non_striker: Syed Aziz
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 10.4:
+        non_striker: Virandeep Singh
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 10.5:
+        non_striker: Virandeep Singh
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 10.6:
+        non_striker: Syed Aziz
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 11.1:
+        non_striker: Syed Aziz
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Virandeep Singh
+    - 11.2:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 11.3:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+        wicket:
+          player_out: Syed Aziz
+          fielders:
+          - SH Venugopal
+          kind: caught
+    - 11.4:
+        non_striker: Virandeep Singh
+        bowler: NA Karnik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vijay Unni
+    - 11.5:
+        non_striker: S Vijay Unni
+        bowler: NA Karnik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Virandeep Singh

@@ -1,0 +1,2186 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bangkok
+  dates:
+  - '2025-12-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3620
+  outcome:
+    winner: Malaysia
+    by:
+      runs: 114
+  overs: 20
+  players:
+    Malaysia:
+    - Muhammad Haziq Aiman
+    - Zubaidi Zulkifle
+    - Syed Aziz
+    - S Muniandy
+    - Virandeep Singh
+    - M Syahadat Ramli
+    - Ahmed Faiz
+    - Amir Khan
+    - S Vijay Unni
+    - Muhammad Amir
+    - Pavandeep Singh
+    Philippines:
+    - ASF Sirah
+    - DC Smith
+    - M Podosky
+    - A Donovan
+    - N Tanner
+    - J Tuffin
+    - HER Tyler
+    - Rhys Burinaga
+    - JEA Doctora
+    - GR Russ
+    - CJ Stamp
+  registry:
+    people:
+      A Donovan: '02888f23'
+      A Natarajan: a2b73ae0
+      AK Rana: 562d74d0
+      ASF Sirah: 06bcade5
+      Ahmed Faiz: f6b4f746
+      Amir Khan: a7bc0f3d
+      CJ Stamp: abca6c23
+      DC Smith: a968d39b
+      GR Russ: 1f28fdfd
+      HER Tyler: 0ba9de33
+      Hardeep Jadeja: 552cf5a2
+      J Tuffin: 8069f81f
+      JEA Doctora: 43449b1e
+      M Podosky: c46999c7
+      M Syahadat Ramli: 5efa8af3
+      Muhammad Amir: 60bec5c3
+      Muhammad Haziq Aiman: 1f13eba1
+      N Tanner: 5f5efae1
+      Pavandeep Singh: 78fcc740
+      Rhys Burinaga: a6cbe67b
+      S Muniandy: 57fcfd3b
+      S Vijay Unni: f737ab44
+      Suresh Singh: 073de6f9
+      Syed Aziz: 6667067e
+      V Kalidas: 42d76418
+      Virandeep Singh: 415d30b6
+      Zubaidi Zulkifle: dca8273d
+  teams:
+  - Malaysia
+  - Philippines
+  toss:
+    winner: Philippines
+    decision: field
+  umpires:
+  - AK Rana
+  - Hardeep Jadeja
+  venue: Terdthai Cricket Ground, Bangkok
+innings:
+- 1st innings:
+    team: Malaysia
+    deliveries:
+    - 0.1:
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zubaidi Zulkifle
+        batsman: Muhammad Haziq Aiman
+    - 0.2:
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zubaidi Zulkifle
+        batsman: Muhammad Haziq Aiman
+    - 0.3:
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zubaidi Zulkifle
+        batsman: Muhammad Haziq Aiman
+    - 0.4:
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zubaidi Zulkifle
+        batsman: Muhammad Haziq Aiman
+    - 0.5:
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Zubaidi Zulkifle
+        batsman: Muhammad Haziq Aiman
+    - 0.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 1.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 1.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 1.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 1.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 1.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 1.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Haziq Aiman
+    - 2.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 2.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 2.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 2.4:
+        non_striker: Muhammad Haziq Aiman
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 2.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 2.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: A Donovan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 3.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 3.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 3.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 3.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 3.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 3.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Haziq Aiman
+    - 3.7:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 4.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 4.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 4.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 4.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 4.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 4.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubaidi Zulkifle
+    - 5.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 5.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 5.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 5.4:
+        non_striker: Muhammad Haziq Aiman
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 5.5:
+        non_striker: Muhammad Haziq Aiman
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 5.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: J Tuffin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 6.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: DC Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zubaidi Zulkifle
+    - 6.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 6.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 6.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 6.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 6.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 6.7:
+        non_striker: Muhammad Haziq Aiman
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zubaidi Zulkifle
+    - 7.1:
+        non_striker: Zubaidi Zulkifle
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 7.2:
+        non_striker: Zubaidi Zulkifle
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 7.3:
+        non_striker: Zubaidi Zulkifle
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Haziq Aiman
+    - 7.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 7.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 7.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 8.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 8.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 8.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 8.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 8.5:
+        non_striker: Zubaidi Zulkifle
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 8.6:
+        non_striker: Zubaidi Zulkifle
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 9.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+    - 9.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubaidi Zulkifle
+    - 9.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubaidi Zulkifle
+    - 9.4:
+        non_striker: Zubaidi Zulkifle
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 9.5:
+        non_striker: Muhammad Haziq Aiman
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubaidi Zulkifle
+        wicket:
+          player_out: Zubaidi Zulkifle
+          fielders:
+          - GR Russ
+          kind: stumped
+    - 9.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 10.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 10.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 10.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: N Tanner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Syed Aziz
+    - 10.4:
+        non_striker: Muhammad Haziq Aiman
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 10.5:
+        non_striker: Muhammad Haziq Aiman
+        bowler: N Tanner
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Syed Aziz
+    - 10.6:
+        non_striker: Syed Aziz
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 10.7:
+        non_striker: Syed Aziz
+        bowler: N Tanner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Haziq Aiman
+    - 10.8:
+        non_striker: Syed Aziz
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 10.9:
+        non_striker: Muhammad Haziq Aiman
+        bowler: N Tanner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 11.1:
+        non_striker: Syed Aziz
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 11.2:
+        non_striker: Syed Aziz
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 11.3:
+        non_striker: Syed Aziz
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 11.4:
+        non_striker: Syed Aziz
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 11.5:
+        non_striker: Syed Aziz
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 11.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: HER Tyler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 12.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 12.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 12.3:
+        non_striker: Syed Aziz
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 12.4:
+        non_striker: Syed Aziz
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 12.5:
+        non_striker: Syed Aziz
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 12.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: DC Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Syed Aziz
+    - 13.1:
+        non_striker: Syed Aziz
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Haziq Aiman
+    - 13.2:
+        non_striker: Syed Aziz
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 13.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+    - 13.4:
+        non_striker: Muhammad Haziq Aiman
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 13.5:
+        non_striker: Syed Aziz
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 13.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Syed Aziz
+    - 14.1:
+        non_striker: Syed Aziz
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Haziq Aiman
+    - 14.2:
+        non_striker: Syed Aziz
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 14.3:
+        non_striker: Muhammad Haziq Aiman
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Syed Aziz
+    - 14.4:
+        non_striker: Syed Aziz
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Haziq Aiman
+    - 14.5:
+        non_striker: Syed Aziz
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 14.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Syed Aziz
+        wicket:
+          player_out: Syed Aziz
+          fielders:
+          - DC Smith
+          kind: caught
+    - 15.1:
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Muniandy
+        batsman: Muhammad Haziq Aiman
+    - 15.2:
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Muniandy
+        batsman: Muhammad Haziq Aiman
+    - 15.3:
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Muniandy
+        batsman: Muhammad Haziq Aiman
+    - 15.4:
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Muniandy
+        batsman: Muhammad Haziq Aiman
+    - 15.5:
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Muniandy
+        batsman: Muhammad Haziq Aiman
+    - 15.6:
+        non_striker: Muhammad Haziq Aiman
+        bowler: ASF Sirah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 16.1:
+        non_striker: Muhammad Haziq Aiman
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 16.2:
+        non_striker: Muhammad Haziq Aiman
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 16.3:
+        non_striker: S Muniandy
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Haziq Aiman
+    - 16.4:
+        non_striker: Muhammad Haziq Aiman
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+        wicket:
+          player_out: Muhammad Haziq Aiman
+          fielders:
+          - M Podosky
+          - JEA Doctora
+          kind: run out
+    - 16.5:
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Virandeep Singh
+        batsman: S Muniandy
+    - 16.6:
+        non_striker: S Muniandy
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Virandeep Singh
+        wicket:
+          player_out: Virandeep Singh
+          fielders:
+          - ASF Sirah
+          kind: caught
+    - 17.1:
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Syahadat Ramli
+        batsman: S Muniandy
+    - 17.2:
+        non_striker: S Muniandy
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Syahadat Ramli
+    - 17.3:
+        non_striker: M Syahadat Ramli
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 17.4:
+        non_striker: S Muniandy
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Syahadat Ramli
+        wicket:
+          player_out: M Syahadat Ramli
+          fielders:
+          - J Tuffin
+          kind: caught
+    - 17.5:
+        non_striker: S Muniandy
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 17.6:
+        non_striker: Ahmed Faiz
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 18.1:
+        non_striker: Ahmed Faiz
+        bowler: JEA Doctora
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: S Muniandy
+    - 18.2:
+        non_striker: S Muniandy
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Faiz
+    - 18.3:
+        non_striker: S Muniandy
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Faiz
+    - 18.4:
+        non_striker: Ahmed Faiz
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+    - 18.5:
+        non_striker: Ahmed Faiz
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Muniandy
+    - 18.6:
+        non_striker: Ahmed Faiz
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Muniandy
+    - 18.7:
+        non_striker: S Muniandy
+        bowler: JEA Doctora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Faiz
+        wicket:
+          player_out: Ahmed Faiz
+          kind: bowled
+    - 19.1:
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Amir Khan
+        batsman: S Muniandy
+    - 19.2:
+        non_striker: Amir Khan
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Muniandy
+        wicket:
+          player_out: S Muniandy
+          fielders:
+          - J Tuffin
+          kind: caught
+    - 19.3:
+        non_striker: Amir Khan
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Vijay Unni
+    - 19.4:
+        non_striker: Amir Khan
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vijay Unni
+        wicket:
+          player_out: S Vijay Unni
+          fielders:
+          - J Tuffin
+          kind: caught
+    - 19.5:
+        non_striker: Amir Khan
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Amir
+    - 19.6:
+        non_striker: Muhammad Amir
+        bowler: Rhys Burinaga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Khan
+        wicket:
+          player_out: Amir Khan
+          fielders:
+          - GR Russ
+          kind: stumped
+- 2nd innings:
+    team: Philippines
+    deliveries:
+    - 0.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.2:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.3:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.4:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.5:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DC Smith
+        batsman: ASF Sirah
+    - 0.6:
+        non_striker: DC Smith
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASF Sirah
+    - 1.1:
+        non_striker: DC Smith
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 1.2:
+        non_striker: DC Smith
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+    - 1.3:
+        non_striker: DC Smith
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASF Sirah
+        wicket:
+          player_out: ASF Sirah
+          fielders:
+          - Zubaidi Zulkifle
+          kind: caught
+    - 1.4:
+        non_striker: DC Smith
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Podosky
+    - 1.5:
+        non_striker: DC Smith
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 1.6:
+        non_striker: DC Smith
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 2.1:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 2.2:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 2.3:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+    - 2.4:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Smith
+    - 2.5:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Smith
+        wicket:
+          player_out: DC Smith
+          kind: bowled
+    - 2.6:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 3.1:
+        non_striker: A Donovan
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 3.2:
+        non_striker: A Donovan
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Podosky
+    - 3.3:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 3.4:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+    - 3.5:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Donovan
+    - 3.6:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Donovan
+        wicket:
+          player_out: A Donovan
+          kind: bowled
+    - 3.7:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Tanner
+    - 3.8:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Tanner
+        wicket:
+          player_out: N Tanner
+          kind: lbw
+    - 4.1:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Tuffin
+        batsman: M Podosky
+    - 4.2:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Tuffin
+        batsman: M Podosky
+    - 4.3:
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Tuffin
+        batsman: M Podosky
+    - 4.4:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 4.5:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Tuffin
+    - 4.6:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 5.1:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 5.2:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 5.3:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 5.4:
+        non_striker: J Tuffin
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Podosky
+    - 5.5:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Tuffin
+    - 5.6:
+        non_striker: M Podosky
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 6.1:
+        non_striker: J Tuffin
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 6.2:
+        non_striker: J Tuffin
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Podosky
+    - 6.3:
+        non_striker: J Tuffin
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Podosky
+    - 6.4:
+        non_striker: M Podosky
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 6.5:
+        non_striker: J Tuffin
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 6.6:
+        non_striker: J Tuffin
+        bowler: Pavandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Podosky
+    - 7.1:
+        non_striker: J Tuffin
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 7.2:
+        non_striker: J Tuffin
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Podosky
+    - 7.3:
+        non_striker: M Podosky
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+    - 7.4:
+        non_striker: M Podosky
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Tuffin
+    - 7.5:
+        non_striker: J Tuffin
+        bowler: Muhammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Podosky
+    - 7.6:
+        non_striker: J Tuffin
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Podosky
+    - 7.7:
+        non_striker: M Podosky
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Tuffin
+        wicket:
+          player_out: J Tuffin
+          fielders:
+          - S Vijay Unni
+          kind: caught
+    - 8.1:
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HER Tyler
+        batsman: M Podosky
+    - 8.2:
+        non_striker: M Podosky
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 8.3:
+        non_striker: M Podosky
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 8.4:
+        non_striker: M Podosky
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 8.5:
+        non_striker: M Podosky
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 8.6:
+        non_striker: HER Tyler
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 9.1:
+        non_striker: M Podosky
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 9.2:
+        non_striker: M Podosky
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 9.3:
+        non_striker: HER Tyler
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Podosky
+    - 9.4:
+        non_striker: M Podosky
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HER Tyler
+    - 9.5:
+        non_striker: M Podosky
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HER Tyler
+    - 9.6:
+        non_striker: M Podosky
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 10.1:
+        non_striker: HER Tyler
+        bowler: Virandeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: M Podosky
+    - 10.2:
+        non_striker: HER Tyler
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+    - 10.3:
+        non_striker: HER Tyler
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Podosky
+        wicket:
+          player_out: M Podosky
+          fielders:
+          - Zubaidi Zulkifle
+          kind: caught
+    - 10.4:
+        non_striker: HER Tyler
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 10.5:
+        non_striker: HER Tyler
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 10.6:
+        non_striker: HER Tyler
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 11.1:
+        non_striker: Rhys Burinaga
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 11.2:
+        non_striker: HER Tyler
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 11.3:
+        non_striker: HER Tyler
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 11.4:
+        non_striker: HER Tyler
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 11.5:
+        non_striker: HER Tyler
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rhys Burinaga
+    - 11.6:
+        non_striker: Rhys Burinaga
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HER Tyler
+    - 12.1:
+        non_striker: HER Tyler
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 12.2:
+        non_striker: HER Tyler
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rhys Burinaga
+    - 12.3:
+        non_striker: Rhys Burinaga
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 12.4:
+        non_striker: HER Tyler
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rhys Burinaga
+    - 12.5:
+        non_striker: Rhys Burinaga
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 12.6:
+        non_striker: Rhys Burinaga
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 13.1:
+        non_striker: Rhys Burinaga
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+    - 13.2:
+        non_striker: Rhys Burinaga
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HER Tyler
+    - 13.3:
+        non_striker: HER Tyler
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 13.4:
+        non_striker: HER Tyler
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rhys Burinaga
+    - 13.5:
+        non_striker: Rhys Burinaga
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HER Tyler
+        wicket:
+          player_out: HER Tyler
+          fielders:
+          - Syed Aziz
+          kind: caught
+    - 13.6:
+        non_striker: Rhys Burinaga
+        bowler: Muhammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEA Doctora
+    - 14.1:
+        non_striker: JEA Doctora
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rhys Burinaga
+    - 14.2:
+        non_striker: Rhys Burinaga
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEA Doctora
+    - 14.3:
+        non_striker: JEA Doctora
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+    - 14.4:
+        non_striker: JEA Doctora
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rhys Burinaga
+        wicket:
+          player_out: Rhys Burinaga
+          fielders:
+          - Muhammad Amir
+          kind: caught
+    - 14.5:
+        non_striker: JEA Doctora
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 14.6:
+        non_striker: GR Russ
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEA Doctora
+    - 15.1:
+        non_striker: JEA Doctora
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 15.2:
+        non_striker: GR Russ
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JEA Doctora
+    - 15.3:
+        non_striker: JEA Doctora
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Russ
+    - 15.4:
+        non_striker: JEA Doctora
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Russ
+    - 15.5:
+        non_striker: JEA Doctora
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 15.6:
+        non_striker: GR Russ
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEA Doctora
+        wicket:
+          player_out: JEA Doctora
+          fielders:
+          - Muhammad Haziq Aiman
+          kind: stumped
+    - 16.1:
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Stamp
+        batsman: GR Russ
+    - 16.2:
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Stamp
+        batsman: GR Russ
+    - 16.3:
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Stamp
+        batsman: GR Russ
+    - 16.4:
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CJ Stamp
+        batsman: GR Russ
+    - 16.5:
+        non_striker: GR Russ
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Stamp
+    - 16.6:
+        non_striker: GR Russ
+        bowler: Syed Aziz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Stamp
+    - 17.1:
+        non_striker: CJ Stamp
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 17.2:
+        non_striker: GR Russ
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Stamp
+    - 17.3:
+        non_striker: CJ Stamp
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Russ
+    - 17.4:
+        non_striker: CJ Stamp
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Russ
+    - 17.5:
+        non_striker: CJ Stamp
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 17.6:
+        non_striker: GR Russ
+        bowler: S Vijay Unni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Stamp
+    - 18.1:
+        non_striker: CJ Stamp
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Russ
+    - 18.2:
+        non_striker: CJ Stamp
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Russ
+    - 18.3:
+        non_striker: CJ Stamp
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 18.4:
+        non_striker: GR Russ
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Stamp
+    - 18.5:
+        non_striker: GR Russ
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Stamp
+    - 18.6:
+        non_striker: CJ Stamp
+        bowler: Virandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Russ
+    - 19.1:
+        non_striker: GR Russ
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Stamp
+    - 19.2:
+        non_striker: GR Russ
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Stamp
+    - 19.3:
+        non_striker: CJ Stamp
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ
+    - 19.4:
+        non_striker: GR Russ
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Stamp
+    - 19.5:
+        non_striker: CJ Stamp
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GR Russ
+    - 19.6:
+        non_striker: CJ Stamp
+        bowler: Ahmed Faiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Russ

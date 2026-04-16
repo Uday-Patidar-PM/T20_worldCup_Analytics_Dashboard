@@ -1,0 +1,2245 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Gelephu
+  dates:
+  - '2025-12-24'
+  gender: male
+  match_type: T20
+  match_type_number: 3650
+  outcome:
+    winner: Bhutan
+    by:
+      runs: 120
+  overs: 20
+  player_of_match:
+  - Namgay Thinley
+  players:
+    Bhutan:
+    - Namgay Thinley
+    - Tenjin Rabgey
+    - RM Dorji
+    - Tashi Dorji
+    - T Jamtsho
+    - GK Ghalley
+    - T Wangchuk
+    - Tshering Tashi
+    - Tashi Phuntsho
+    - Karma Dorji
+    - S Yeshi
+    Myanmar:
+    - Pyae Phyo Wai
+    - H Lin Oo
+    - KK Lin Thu
+    - H Lin Aung
+    - Khin Aye
+    - Myat Thu Aung
+    - Thuya Aung
+    - Nyeing Cham Soe
+    - Y Naing Tun
+    - Nay Lin Htun
+    - Kaung Htet Kyaw
+  registry:
+    people:
+      AK Rai: 1d70834a
+      GK Ghalley: 2d1b6dee
+      H Lin Aung: c343a8c6
+      H Lin Oo: 2e005bfd
+      KK Lin Thu: 6cf75582
+      Karma Dorji: '80058153'
+      Kaung Htet Kyaw: e1bd3e2e
+      Khin Aye: ad2efd29
+      Myat Thu Aung: cebbf3c9
+      Namgay Thinley: 9c333e40
+      Nay Lin Htun: 5319f95b
+      Nyeing Cham Soe: 45b5ce8d
+      ON Pradhan: d41a08d6
+      Pyae Phyo Wai: '09e86895'
+      RM Dorji: 3d7f02d4
+      S Yeshi: 0c24fb7b
+      Subas Lama: 0a0c48dc
+      T Jamtsho: c01d1c0a
+      T Wangchuk: 39799e49
+      Tashi Dorji: 0f05655d
+      Tashi Phuntsho: 43d365ca
+      Tenjin Rabgey: 1fed517a
+      Thuya Aung: 2e092d2c
+      Tshering Tashi: 596c60cf
+      U Dorji: 12bba2d4
+      Ugyen Dorji: ffb65f46
+      Y Naing Tun: 97b109d2
+  teams:
+  - Bhutan
+  - Myanmar
+  toss:
+    winner: Myanmar
+    decision: field
+  umpires:
+  - ON Pradhan
+  - U Dorji
+  venue: Gelephu International Cricket Ground
+innings:
+- 1st innings:
+    team: Bhutan
+    deliveries:
+    - 0.1:
+        bowler: H Lin Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.2:
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.3:
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.4:
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.5:
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.6:
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tenjin Rabgey
+        batsman: Namgay Thinley
+    - 0.7:
+        non_striker: Tenjin Rabgey
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 1.1:
+        non_striker: Namgay Thinley
+        bowler: KK Lin Thu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Tenjin Rabgey
+    - 1.2:
+        non_striker: Tenjin Rabgey
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 1.3:
+        non_striker: Namgay Thinley
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 1.4:
+        non_striker: Namgay Thinley
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 1.5:
+        non_striker: Tenjin Rabgey
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 1.6:
+        non_striker: Tenjin Rabgey
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 2.1:
+        non_striker: Namgay Thinley
+        bowler: H Lin Oo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tenjin Rabgey
+    - 2.2:
+        non_striker: Namgay Thinley
+        bowler: H Lin Oo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tenjin Rabgey
+    - 2.3:
+        non_striker: Namgay Thinley
+        bowler: H Lin Oo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 2.4:
+        non_striker: Namgay Thinley
+        bowler: H Lin Oo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tenjin Rabgey
+    - 2.5:
+        non_striker: Namgay Thinley
+        bowler: H Lin Oo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 2.6:
+        non_striker: Tenjin Rabgey
+        bowler: H Lin Oo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 2.7:
+        non_striker: Tenjin Rabgey
+        bowler: H Lin Oo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 3.1:
+        non_striker: Namgay Thinley
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 3.2:
+        non_striker: Tenjin Rabgey
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 3.3:
+        non_striker: Tenjin Rabgey
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 3.4:
+        non_striker: Tenjin Rabgey
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 3.5:
+        non_striker: Namgay Thinley
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 3.6:
+        non_striker: Namgay Thinley
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tenjin Rabgey
+    - 4.1:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tenjin Rabgey
+    - 4.2:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.3:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+    - 4.4:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tenjin Rabgey
+        wicket:
+          player_out: Tenjin Rabgey
+          fielders:
+          - H Lin Oo
+          kind: caught
+    - 4.5:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 4.6:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 5.1:
+        non_striker: RM Dorji
+        bowler: KK Lin Thu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Namgay Thinley
+    - 5.2:
+        non_striker: RM Dorji
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 5.3:
+        non_striker: Namgay Thinley
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 5.4:
+        non_striker: RM Dorji
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 5.5:
+        non_striker: RM Dorji
+        bowler: KK Lin Thu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Namgay Thinley
+    - 5.6:
+        non_striker: RM Dorji
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 5.7:
+        non_striker: RM Dorji
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Namgay Thinley
+    - 5.8:
+        non_striker: RM Dorji
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 6.1:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 6.2:
+        non_striker: RM Dorji
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 6.3:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 6.4:
+        non_striker: RM Dorji
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 6.5:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 6.6:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 7.1:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 7.2:
+        non_striker: RM Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 7.3:
+        non_striker: RM Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+    - 7.4:
+        non_striker: RM Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 7.5:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 7.6:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Dorji
+    - 7.7:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 8.1:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 8.2:
+        non_striker: RM Dorji
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 8.3:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 8.4:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Dorji
+    - 8.5:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 8.6:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 9.1:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Dorji
+    - 9.2:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 9.3:
+        non_striker: RM Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Namgay Thinley
+    - 9.4:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 9.5:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Dorji
+    - 9.6:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 9.7:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 10.1:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 10.2:
+        non_striker: RM Dorji
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Namgay Thinley
+    - 10.3:
+        non_striker: RM Dorji
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 10.4:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 10.5:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+    - 10.6:
+        non_striker: Namgay Thinley
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Dorji
+    - 11.1:
+        non_striker: RM Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 11.2:
+        non_striker: RM Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Namgay Thinley
+    - 11.3:
+        non_striker: RM Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Namgay Thinley
+    - 11.4:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 11.5:
+        non_striker: RM Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 11.6:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RM Dorji
+    - 11.7:
+        non_striker: RM Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 12.1:
+        non_striker: RM Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Namgay Thinley
+    - 12.2:
+        non_striker: RM Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 12.3:
+        non_striker: Namgay Thinley
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Dorji
+    - 12.4:
+        non_striker: RM Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 12.5:
+        non_striker: Namgay Thinley
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Dorji
+        wicket:
+          player_out: RM Dorji
+          fielders:
+          - H Lin Aung
+          kind: caught
+    - 12.6:
+        non_striker: Namgay Thinley
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 12.7:
+        non_striker: Namgay Thinley
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tashi Dorji
+    - 13.1:
+        non_striker: Tashi Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Namgay Thinley
+    - 13.2:
+        non_striker: Tashi Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Namgay Thinley
+    - 13.3:
+        non_striker: Tashi Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 13.4:
+        non_striker: Tashi Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Namgay Thinley
+    - 13.5:
+        non_striker: Tashi Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Namgay Thinley
+    - 13.6:
+        non_striker: Tashi Dorji
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 13.7:
+        non_striker: Namgay Thinley
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tashi Dorji
+    - 14.1:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 14.2:
+        non_striker: Namgay Thinley
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tashi Dorji
+    - 14.3:
+        non_striker: Namgay Thinley
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 14.4:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Namgay Thinley
+    - 14.5:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Namgay Thinley
+    - 14.6:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 15.1:
+        non_striker: Tashi Dorji
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Namgay Thinley
+    - 15.2:
+        non_striker: Tashi Dorji
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Namgay Thinley
+    - 15.3:
+        non_striker: Namgay Thinley
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tashi Dorji
+    - 15.4:
+        non_striker: Namgay Thinley
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tashi Dorji
+    - 15.5:
+        non_striker: Namgay Thinley
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tashi Dorji
+    - 15.6:
+        non_striker: Namgay Thinley
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tashi Dorji
+    - 16.1:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Namgay Thinley
+        wicket:
+          player_out: Namgay Thinley
+          fielders:
+          - H Lin Oo
+          kind: caught
+    - 16.2:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Jamtsho
+    - 16.3:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+    - 16.4:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Jamtsho
+    - 16.5:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 16.6:
+        non_striker: T Jamtsho
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+    - 17.1:
+        non_striker: Tashi Dorji
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Jamtsho
+    - 17.2:
+        non_striker: Tashi Dorji
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Jamtsho
+    - 17.3:
+        non_striker: T Jamtsho
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 17.4:
+        non_striker: Tashi Dorji
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Jamtsho
+        wicket:
+          player_out: T Jamtsho
+          fielders:
+          - Khin Aye
+          kind: caught
+    - 17.5:
+        non_striker: Tashi Dorji
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Ghalley
+        wicket:
+          player_out: GK Ghalley
+          fielders:
+          - Khin Aye
+          kind: caught
+    - 17.6:
+        non_striker: Tashi Dorji
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wangchuk
+    - 18.1:
+        non_striker: T Wangchuk
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Dorji
+    - 18.2:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wangchuk
+    - 18.3:
+        non_striker: Tashi Dorji
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Wangchuk
+    - 18.4:
+        non_striker: T Wangchuk
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tashi Dorji
+        wicket:
+          player_out: Tashi Dorji
+          fielders:
+          - Nyeing Cham Soe
+          kind: caught
+    - 18.5:
+        non_striker: T Wangchuk
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tshering Tashi
+    - 18.6:
+        non_striker: T Wangchuk
+        bowler: Thuya Aung
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tshering Tashi
+    - 19.1:
+        non_striker: Tshering Tashi
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Wangchuk
+        wicket:
+          player_out: T Wangchuk
+          kind: lbw
+    - 19.2:
+        non_striker: Tshering Tashi
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Phuntsho
+    - 19.3:
+        non_striker: Tashi Phuntsho
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tshering Tashi
+    - 19.4:
+        non_striker: Tshering Tashi
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tashi Phuntsho
+    - 19.5:
+        non_striker: Tashi Phuntsho
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tshering Tashi
+    - 19.6:
+        non_striker: Tashi Phuntsho
+        bowler: H Lin Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tshering Tashi
+    - 19.7:
+        non_striker: Tashi Phuntsho
+        bowler: H Lin Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tshering Tashi
+        wicket:
+          player_out: Tshering Tashi
+          fielders:
+          - H Lin Aung
+          kind: run out
+- 2nd innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Lin Oo
+        batsman: Pyae Phyo Wai
+    - 0.2:
+        non_striker: Pyae Phyo Wai
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Oo
+    - 0.3:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 0.4:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 0.5:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+    - 0.6:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 1.1:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pyae Phyo Wai
+    - 1.2:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pyae Phyo Wai
+    - 1.3:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+        wicket:
+          player_out: Pyae Phyo Wai
+          fielders:
+          - RM Dorji
+          kind: caught
+    - 1.4:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Lin Thu
+    - 1.5:
+        non_striker: KK Lin Thu
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 1.6:
+        non_striker: KK Lin Thu
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 1.7:
+        non_striker: KK Lin Thu
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 2.1:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 2.2:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 2.3:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KK Lin Thu
+    - 2.4:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 2.5:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+        wicket:
+          player_out: KK Lin Thu
+          kind: lbw
+    - 2.6:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 3.1:
+        non_striker: H Lin Aung
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Oo
+    - 3.2:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 3.3:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 3.4:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 3.5:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Lin Aung
+    - 3.6:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lin Aung
+    - 3.7:
+        non_striker: H Lin Oo
+        bowler: Tashi Phuntsho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 4.1:
+        non_striker: H Lin Aung
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 4.2:
+        non_striker: H Lin Aung
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 4.3:
+        non_striker: H Lin Aung
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 4.4:
+        non_striker: H Lin Aung
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Oo
+    - 4.5:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 4.6:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Lin Aung
+    - 4.7:
+        non_striker: H Lin Oo
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 5.1:
+        non_striker: H Lin Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 5.2:
+        non_striker: H Lin Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Lin Oo
+    - 5.3:
+        non_striker: H Lin Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Lin Oo
+    - 5.4:
+        non_striker: H Lin Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Oo
+    - 5.5:
+        non_striker: H Lin Oo
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 5.6:
+        non_striker: H Lin Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+    - 6.1:
+        non_striker: H Lin Oo
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 6.2:
+        non_striker: H Lin Oo
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 6.3:
+        non_striker: H Lin Oo
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 6.4:
+        non_striker: H Lin Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: H Lin Oo
+    - 6.5:
+        non_striker: H Lin Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Oo
+        wicket:
+          player_out: H Lin Oo
+          fielders:
+          - Tshering Tashi
+          kind: stumped
+    - 6.6:
+        non_striker: H Lin Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 7.1:
+        non_striker: Khin Aye
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 7.2:
+        non_striker: Khin Aye
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 7.3:
+        non_striker: Khin Aye
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Lin Aung
+    - 7.4:
+        non_striker: Khin Aye
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 7.5:
+        non_striker: Khin Aye
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Lin Aung
+    - 7.6:
+        non_striker: Khin Aye
+        bowler: S Yeshi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: H Lin Aung
+    - 7.7:
+        non_striker: Khin Aye
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Lin Aung
+    - 8.1:
+        non_striker: Khin Aye
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+    - 8.2:
+        non_striker: Khin Aye
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Lin Aung
+        wicket:
+          player_out: H Lin Aung
+          kind: caught and bowled
+    - 8.3:
+        non_striker: Khin Aye
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 8.4:
+        non_striker: Khin Aye
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 8.5:
+        non_striker: Khin Aye
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 8.6:
+        non_striker: Myat Thu Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 9.1:
+        non_striker: Khin Aye
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 9.2:
+        non_striker: Myat Thu Aung
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+    - 9.3:
+        non_striker: Myat Thu Aung
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khin Aye
+    - 9.4:
+        non_striker: Khin Aye
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Myat Thu Aung
+    - 9.5:
+        non_striker: Khin Aye
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 9.6:
+        non_striker: Khin Aye
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 10.1:
+        non_striker: Khin Aye
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 10.2:
+        non_striker: Khin Aye
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 10.3:
+        non_striker: Myat Thu Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khin Aye
+        wicket:
+          player_out: Khin Aye
+          fielders:
+          - GK Ghalley
+          kind: caught
+    - 10.4:
+        non_striker: Myat Thu Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 10.5:
+        non_striker: Myat Thu Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 10.6:
+        non_striker: Myat Thu Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 11.1:
+        non_striker: Thuya Aung
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 11.2:
+        non_striker: Myat Thu Aung
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 11.3:
+        non_striker: Myat Thu Aung
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 11.4:
+        non_striker: Thuya Aung
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 11.5:
+        non_striker: Myat Thu Aung
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 11.6:
+        non_striker: Thuya Aung
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 12.1:
+        non_striker: Thuya Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 12.2:
+        non_striker: Thuya Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 12.3:
+        non_striker: Thuya Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 12.4:
+        non_striker: Thuya Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 12.5:
+        non_striker: Thuya Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 12.6:
+        non_striker: Thuya Aung
+        bowler: Tashi Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 13.1:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 13.2:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 13.3:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 13.4:
+        non_striker: Thuya Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 13.5:
+        non_striker: Thuya Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 13.6:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 14.1:
+        non_striker: Thuya Aung
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 14.2:
+        non_striker: Myat Thu Aung
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Thuya Aung
+    - 14.3:
+        non_striker: Thuya Aung
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 14.4:
+        non_striker: Myat Thu Aung
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 14.5:
+        non_striker: Thuya Aung
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 14.6:
+        non_striker: Thuya Aung
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Myat Thu Aung
+    - 14.7:
+        non_striker: Thuya Aung
+        bowler: Tenjin Rabgey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 15.1:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 15.2:
+        non_striker: Thuya Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 15.3:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 15.4:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 15.5:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 15.6:
+        non_striker: Thuya Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+    - 16.1:
+        non_striker: Myat Thu Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+    - 16.2:
+        non_striker: Myat Thu Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 16.3:
+        non_striker: Thuya Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 16.4:
+        non_striker: Myat Thu Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 16.5:
+        non_striker: Thuya Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 16.6:
+        non_striker: Myat Thu Aung
+        bowler: S Yeshi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 17.1:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+        wicket:
+          player_out: Thuya Aung
+          fielders:
+          - Ugyen Dorji (sub)
+          kind: caught
+    - 17.2:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nyeing Cham Soe
+    - 17.3:
+        non_striker: Nyeing Cham Soe
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Myat Thu Aung
+    - 17.4:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 17.5:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nyeing Cham Soe
+    - 17.6:
+        non_striker: Myat Thu Aung
+        bowler: Namgay Thinley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nyeing Cham Soe
+    - 18.1:
+        non_striker: Nyeing Cham Soe
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Myat Thu Aung
+        wicket:
+          player_out: Myat Thu Aung
+          fielders:
+          - Tashi Dorji
+          kind: caught
+    - 18.2:
+        non_striker: Nyeing Cham Soe
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Naing Tun
+    - 18.3:
+        non_striker: Nyeing Cham Soe
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Naing Tun
+    - 18.4:
+        non_striker: Nyeing Cham Soe
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Naing Tun
+    - 18.5:
+        non_striker: Y Naing Tun
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nyeing Cham Soe
+    - 18.6:
+        non_striker: Nyeing Cham Soe
+        bowler: T Wangchuk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Naing Tun
+    - 19.1:
+        non_striker: Y Naing Tun
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nyeing Cham Soe
+    - 19.2:
+        non_striker: Nyeing Cham Soe
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Y Naing Tun
+    - 19.3:
+        non_striker: Nyeing Cham Soe
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Naing Tun
+        wicket:
+          player_out: Y Naing Tun
+          fielders:
+          - Tashi Phuntsho
+          kind: caught
+    - 19.4:
+        non_striker: Nyeing Cham Soe
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nay Lin Htun
+    - 19.5:
+        non_striker: Nay Lin Htun
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nyeing Cham Soe
+    - 19.6:
+        non_striker: Nay Lin Htun
+        bowler: Karma Dorji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nyeing Cham Soe

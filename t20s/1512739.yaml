@@ -1,0 +1,1947 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chennai
+  dates:
+  - '2026-02-13'
+  gender: male
+  match_type: T20
+  match_type_number: 3707
+  outcome:
+    winner: United States of America
+    by:
+      runs: 93
+  overs: 20
+  player_of_match:
+  - Harmeet Singh
+  players:
+    United States of America:
+    - MD Patel
+    - Shayan Jahangir
+    - SR Mukkamalla
+    - SP Krishnamurthi
+    - Shubham Ranjane
+    - Milind Kumar
+    - Harmeet Singh
+    - Mohammad Mohsin
+    - SC van Schalkwyk
+    - NP Kenjige
+    - Ali Khan
+    Netherlands:
+    - M Levitt
+    - MP O'Dowd
+    - BFW de Leede
+    - CN Ackermann
+    - SA Edwards
+    - ZB Lion-Cachet
+    - RE van der Merwe
+    - LV van Beek
+    - A Dutt
+    - K Klein
+    - FJ Klaassen
+  registry:
+    people:
+      A Dutt: 803dbf1d
+      Ali Khan: b0eaaac6
+      BFW de Leede: fc4375ef
+      CN Ackermann: e734d090
+      Dave Gilbert: aa782370
+      FJ Klaassen: c042b412
+      Harmeet Singh: 0bf15e52
+      J Madanagopal: 8275b04a
+      K Klein: 374bb5e7
+      KN Ananthapadmanabhan: 3144063a
+      LV van Beek: 782fb776
+      M Levitt: 6a71ba3a
+      MD Patel: 25d7f1ac
+      MP O'Dowd: b699df47
+      Milind Kumar: b4296080
+      Mohammad Mohsin: 79f8472d
+      NP Kenjige: f7d267f7
+      Nitin Menon: e1d41d9e
+      RE van der Merwe: 05c2ca46
+      SA Edwards: b59db04f
+      SC van Schalkwyk: 97b0e4ff
+      SP Krishnamurthi: 3b8e7647
+      SR Mukkamalla: 156d0ea2
+      Sharfuddoula: 63896abb
+      Shayan Jahangir: 571e1d2a
+      Shubham Ranjane: 6c7a68d0
+      ZB Lion-Cachet: d99de998
+  teams:
+  - United States of America
+  - Netherlands
+  toss:
+    winner: Netherlands
+    decision: field
+  umpires:
+  - KN Ananthapadmanabhan
+  - Nitin Menon
+  venue: MA Chidambaram Stadium, Chepauk, Chennai
+innings:
+- 1st innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        non_striker: Shayan Jahangir
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 0.2:
+        non_striker: MD Patel
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 0.3:
+        non_striker: MD Patel
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 0.4:
+        non_striker: MD Patel
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shayan Jahangir
+    - 0.5:
+        non_striker: MD Patel
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shayan Jahangir
+    - 0.6:
+        non_striker: Shayan Jahangir
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 1.1:
+        non_striker: MD Patel
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shayan Jahangir
+    - 1.2:
+        non_striker: MD Patel
+        bowler: LV van Beek
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Shayan Jahangir
+    - 1.3:
+        non_striker: MD Patel
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 1.4:
+        non_striker: MD Patel
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 1.5:
+        non_striker: MD Patel
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 1.6:
+        non_striker: Shayan Jahangir
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 2.1:
+        non_striker: MD Patel
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.2:
+        non_striker: MD Patel
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.3:
+        non_striker: MD Patel
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.4:
+        non_striker: MD Patel
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 2.5:
+        non_striker: MD Patel
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: Shayan Jahangir
+          kind: bowled
+    - 2.6:
+        non_striker: MD Patel
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 3.1:
+        non_striker: SR Mukkamalla
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 3.2:
+        non_striker: SR Mukkamalla
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 3.3:
+        non_striker: SR Mukkamalla
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 3.4:
+        non_striker: MD Patel
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 3.5:
+        non_striker: SR Mukkamalla
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 3.6:
+        non_striker: MD Patel
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 4.1:
+        non_striker: SR Mukkamalla
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 4.2:
+        non_striker: SR Mukkamalla
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 4.3:
+        non_striker: SR Mukkamalla
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 4.4:
+        non_striker: SR Mukkamalla
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 4.5:
+        non_striker: MD Patel
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 4.6:
+        non_striker: SR Mukkamalla
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 5.1:
+        non_striker: MD Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Mukkamalla
+    - 5.2:
+        non_striker: MD Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 5.3:
+        non_striker: MD Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 5.4:
+        non_striker: MD Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 5.5:
+        non_striker: MD Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 5.6:
+        non_striker: MD Patel
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 6.1:
+        non_striker: MD Patel
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 6.2:
+        non_striker: SR Mukkamalla
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 6.3:
+        non_striker: MD Patel
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 6.4:
+        non_striker: SR Mukkamalla
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 6.5:
+        non_striker: SR Mukkamalla
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Patel
+    - 6.6:
+        non_striker: SR Mukkamalla
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 7.1:
+        non_striker: SR Mukkamalla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 7.2:
+        non_striker: SR Mukkamalla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 7.3:
+        non_striker: MD Patel
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 7.4:
+        non_striker: SR Mukkamalla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 7.5:
+        non_striker: MD Patel
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 7.6:
+        non_striker: MD Patel
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 8.1:
+        non_striker: MD Patel
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 8.2:
+        non_striker: MD Patel
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 8.3:
+        non_striker: MD Patel
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 8.4:
+        non_striker: SR Mukkamalla
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 8.5:
+        non_striker: SR Mukkamalla
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 8.6:
+        non_striker: SR Mukkamalla
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 9.1:
+        non_striker: SP Krishnamurthi
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 9.2:
+        non_striker: SR Mukkamalla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Krishnamurthi
+    - 9.3:
+        non_striker: SP Krishnamurthi
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 9.4:
+        non_striker: SP Krishnamurthi
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 9.5:
+        non_striker: SP Krishnamurthi
+        bowler: RE van der Merwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Mukkamalla
+    - 9.6:
+        non_striker: SP Krishnamurthi
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 9.7:
+        non_striker: SP Krishnamurthi
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 10.1:
+        non_striker: SP Krishnamurthi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 10.2:
+        non_striker: SP Krishnamurthi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 10.3:
+        non_striker: SP Krishnamurthi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 10.4:
+        non_striker: SP Krishnamurthi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 10.5:
+        non_striker: SP Krishnamurthi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 10.6:
+        non_striker: SR Mukkamalla
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+        wicket:
+          player_out: SP Krishnamurthi
+          kind: bowled
+    - 11.1:
+        non_striker: Shubham Ranjane
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 11.2:
+        non_striker: SR Mukkamalla
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.3:
+        non_striker: Shubham Ranjane
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Mukkamalla
+    - 11.4:
+        non_striker: Shubham Ranjane
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 11.5:
+        non_striker: Shubham Ranjane
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 11.6:
+        non_striker: Shubham Ranjane
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 12.1:
+        non_striker: Shubham Ranjane
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 12.2:
+        non_striker: Shubham Ranjane
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 12.3:
+        non_striker: Shubham Ranjane
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 12.4:
+        non_striker: SR Mukkamalla
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 12.5:
+        non_striker: SR Mukkamalla
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 12.6:
+        non_striker: SR Mukkamalla
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.1:
+        non_striker: SR Mukkamalla
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.2:
+        non_striker: Shubham Ranjane
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Mukkamalla
+    - 13.3:
+        non_striker: Shubham Ranjane
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 13.4:
+        non_striker: Shubham Ranjane
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 13.5:
+        non_striker: Shubham Ranjane
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 13.6:
+        non_striker: Shubham Ranjane
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 14.1:
+        non_striker: Shubham Ranjane
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 14.2:
+        non_striker: SR Mukkamalla
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 14.3:
+        non_striker: SR Mukkamalla
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.4:
+        non_striker: Shubham Ranjane
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 14.5:
+        non_striker: Shubham Ranjane
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 14.6:
+        non_striker: Shubham Ranjane
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Mukkamalla
+    - 15.1:
+        non_striker: SR Mukkamalla
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.2:
+        non_striker: Shubham Ranjane
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 15.3:
+        non_striker: SR Mukkamalla
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 15.4:
+        non_striker: SR Mukkamalla
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.5:
+        non_striker: Shubham Ranjane
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Mukkamalla
+    - 15.6:
+        non_striker: Shubham Ranjane
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 15.7:
+        non_striker: Shubham Ranjane
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 16.1:
+        non_striker: Shubham Ranjane
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 16.2:
+        non_striker: SR Mukkamalla
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 16.3:
+        non_striker: SR Mukkamalla
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 16.4:
+        non_striker: Shubham Ranjane
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 16.5:
+        non_striker: Shubham Ranjane
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+        wicket:
+          player_out: SR Mukkamalla
+          fielders:
+          - CN Ackermann
+          kind: caught
+    - 16.6:
+        non_striker: Shubham Ranjane
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 17.1:
+        non_striker: Shubham Ranjane
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 17.2:
+        non_striker: Milind Kumar
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 17.3:
+        non_striker: Milind Kumar
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 17.4:
+        non_striker: Shubham Ranjane
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 17.5:
+        non_striker: Milind Kumar
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 17.6:
+        non_striker: Milind Kumar
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.1:
+        non_striker: Milind Kumar
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 18.2:
+        non_striker: Milind Kumar
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 18.3:
+        non_striker: Milind Kumar
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.4:
+        non_striker: Shubham Ranjane
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+        wicket:
+          player_out: Milind Kumar
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 18.5:
+        non_striker: Shubham Ranjane
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 18.6:
+        non_striker: Harmeet Singh
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 19.1:
+        non_striker: Harmeet Singh
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 19.2:
+        non_striker: Shubham Ranjane
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+        wicket:
+          player_out: Harmeet Singh
+          fielders:
+          - RE van der Merwe
+          kind: caught
+    - 19.3:
+        non_striker: Shubham Ranjane
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mohsin
+    - 19.4:
+        non_striker: Mohammad Mohsin
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 19.5:
+        non_striker: Mohammad Mohsin
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 19.6:
+        non_striker: Mohammad Mohsin
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 19.7:
+        non_striker: Mohammad Mohsin
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Levitt
+    - 0.2:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Levitt
+    - 0.3:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Levitt
+    - 0.4:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Levitt
+    - 0.5:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Levitt
+    - 0.6:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: M Levitt
+    - 0.7:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Levitt
+    - 0.8:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Levitt
+    - 1.1:
+        non_striker: MP O'Dowd
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Levitt
+        wicket:
+          player_out: M Levitt
+          kind: bowled
+    - 1.2:
+        non_striker: MP O'Dowd
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 1.3:
+        non_striker: BFW de Leede
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.4:
+        non_striker: MP O'Dowd
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 1.5:
+        non_striker: BFW de Leede
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.6:
+        non_striker: MP O'Dowd
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 2.1:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 2.2:
+        non_striker: MP O'Dowd
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 2.3:
+        non_striker: BFW de Leede
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 2.4:
+        non_striker: BFW de Leede
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 2.5:
+        non_striker: BFW de Leede
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 2.6:
+        non_striker: BFW de Leede
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 3.1:
+        non_striker: MP O'Dowd
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BFW de Leede
+    - 3.2:
+        non_striker: MP O'Dowd
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 3.3:
+        non_striker: MP O'Dowd
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 3.4:
+        non_striker: MP O'Dowd
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 3.5:
+        non_striker: BFW de Leede
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 3.6:
+        non_striker: MP O'Dowd
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 4.1:
+        non_striker: BFW de Leede
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 4.2:
+        non_striker: MP O'Dowd
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 4.3:
+        non_striker: BFW de Leede
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 4.4:
+        non_striker: MP O'Dowd
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BFW de Leede
+    - 4.5:
+        non_striker: BFW de Leede
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 4.6:
+        non_striker: BFW de Leede
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          fielders:
+          - Milind Kumar
+          kind: caught
+    - 5.1:
+        non_striker: CN Ackermann
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 5.2:
+        non_striker: CN Ackermann
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BFW de Leede
+    - 5.3:
+        non_striker: CN Ackermann
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 5.4:
+        non_striker: CN Ackermann
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 5.5:
+        non_striker: BFW de Leede
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+        wicket:
+          player_out: CN Ackermann
+          fielders:
+          - Shubham Ranjane
+          kind: caught
+    - 5.6:
+        non_striker: BFW de Leede
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 5.7:
+        non_striker: BFW de Leede
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 6.1:
+        non_striker: SA Edwards
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 6.2:
+        non_striker: BFW de Leede
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 6.3:
+        non_striker: SA Edwards
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+        wicket:
+          player_out: BFW de Leede
+          fielders:
+          - MD Patel
+          kind: caught
+    - 6.4:
+        non_striker: SA Edwards
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 6.5:
+        non_striker: SA Edwards
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 6.6:
+        non_striker: ZB Lion-Cachet
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 7.1:
+        non_striker: SA Edwards
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 7.2:
+        non_striker: ZB Lion-Cachet
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 7.3:
+        non_striker: ZB Lion-Cachet
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 7.4:
+        non_striker: ZB Lion-Cachet
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 7.5:
+        non_striker: SA Edwards
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZB Lion-Cachet
+    - 7.6:
+        non_striker: SA Edwards
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+        wicket:
+          player_out: ZB Lion-Cachet
+          kind: bowled
+    - 8.1:
+        non_striker: RE van der Merwe
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 8.2:
+        non_striker: SA Edwards
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 8.3:
+        non_striker: RE van der Merwe
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 8.4:
+        non_striker: SA Edwards
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 8.5:
+        non_striker: RE van der Merwe
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 8.6:
+        non_striker: RE van der Merwe
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 9.1:
+        non_striker: SA Edwards
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 9.2:
+        non_striker: SA Edwards
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 9.3:
+        non_striker: SA Edwards
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 9.4:
+        non_striker: RE van der Merwe
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 9.5:
+        non_striker: RE van der Merwe
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 9.6:
+        non_striker: RE van der Merwe
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+        wicket:
+          player_out: SA Edwards
+          kind: bowled
+    - 10.1:
+        non_striker: LV van Beek
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 10.2:
+        non_striker: LV van Beek
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 10.3:
+        non_striker: RE van der Merwe
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 10.4:
+        non_striker: RE van der Merwe
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 10.5:
+        non_striker: LV van Beek
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 10.6:
+        non_striker: RE van der Merwe
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 11.1:
+        non_striker: LV van Beek
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 11.2:
+        non_striker: LV van Beek
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 11.3:
+        non_striker: RE van der Merwe
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 11.4:
+        non_striker: LV van Beek
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+        wicket:
+          player_out: RE van der Merwe
+          kind: lbw
+    - 11.5:
+        non_striker: LV van Beek
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dutt
+    - 11.6:
+        non_striker: LV van Beek
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dutt
+    - 12.1:
+        non_striker: LV van Beek
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dutt
+    - 12.2:
+        non_striker: LV van Beek
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dutt
+    - 12.3:
+        non_striker: A Dutt
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+        wicket:
+          player_out: LV van Beek
+          kind: bowled
+    - 12.4:
+        non_striker: A Dutt
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Klein
+    - 12.5:
+        non_striker: K Klein
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dutt
+    - 12.6:
+        non_striker: A Dutt
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Klein
+    - 13.1:
+        non_striker: A Dutt
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Klein
+    - 13.2:
+        non_striker: A Dutt
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Klein
+    - 13.3:
+        non_striker: K Klein
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Dutt
+    - 13.4:
+        non_striker: K Klein
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dutt
+        wicket:
+          player_out: A Dutt
+          kind: bowled
+    - 13.5:
+        non_striker: K Klein
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJ Klaassen
+    - 13.6:
+        non_striker: FJ Klaassen
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Klein
+    - 14.1:
+        non_striker: FJ Klaassen
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Klein
+    - 14.2:
+        non_striker: FJ Klaassen
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Klein
+    - 14.3:
+        non_striker: FJ Klaassen
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Klein
+    - 14.4:
+        non_striker: K Klein
+        bowler: NP Kenjige
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FJ Klaassen
+    - 14.5:
+        non_striker: K Klein
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJ Klaassen
+    - 14.6:
+        non_striker: FJ Klaassen
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Klein
+    - 14.7:
+        non_striker: FJ Klaassen
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Klein
+    - 15.1:
+        non_striker: K Klein
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FJ Klaassen
+    - 15.2:
+        non_striker: K Klein
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJ Klaassen
+    - 15.3:
+        non_striker: FJ Klaassen
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Klein
+    - 15.4:
+        non_striker: K Klein
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FJ Klaassen
+    - 15.5:
+        non_striker: K Klein
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FJ Klaassen
+        wicket:
+          player_out: FJ Klaassen
+          fielders:
+          - Milind Kumar
+          kind: caught

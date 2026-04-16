@@ -1,0 +1,2174 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  dates:
+  - '2026-02-10'
+  gender: male
+  match_type: T20
+  match_type_number: 3696
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 32
+  overs: 20
+  player_of_match:
+  - Sahibzada Farhan
+  players:
+    Pakistan:
+    - Saim Ayub
+    - Sahibzada Farhan
+    - Agha Salman
+    - Babar Azam
+    - Mohammad Nawaz
+    - Shadab Khan
+    - Faheem Ashraf
+    - Usman Khan
+    - Shaheen Shah Afridi
+    - Abrar Ahmed
+    - Usman Tariq
+    United States of America:
+    - AGS Gous
+    - Shayan Jahangir
+    - MD Patel
+    - Milind Kumar
+    - Shubham Ranjane
+    - SP Krishnamurthi
+    - Harmeet Singh
+    - Mohammad Mohsin
+    - SC van Schalkwyk
+    - Ehsan Adil
+    - SN Netravalkar
+  registry:
+    people:
+      AGS Gous: d1305df0
+      Abrar Ahmed: abb7c76c
+      Agha Salman: 89c16049
+      Babar Azam: 8a75e999
+      CB Gaffaney: d5ac41d8
+      DA Cosker: aac9f784
+      Ehsan Adil: 210b05cb
+      Faheem Ashraf: bd4ea627
+      HDPK Dharmasena: 323e4c16
+      Harmeet Singh: 0bf15e52
+      MD Patel: 25d7f1ac
+      Milind Kumar: b4296080
+      Mohammad Mohsin: 79f8472d
+      Mohammad Nawaz: 3086f7a4
+      RK Illingworth: '20672246'
+      RR Wimalasiri: 4950c8db
+      SC van Schalkwyk: 97b0e4ff
+      SN Netravalkar: c8a3f688
+      SP Krishnamurthi: 3b8e7647
+      Sahibzada Farhan: 1aba45cd
+      Saim Ayub: 33609a8c
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      Shayan Jahangir: 571e1d2a
+      Shubham Ranjane: 6c7a68d0
+      Usman Khan: bafb9238
+      Usman Tariq: e94d1dcd
+  teams:
+  - Pakistan
+  - United States of America
+  toss:
+    winner: United States of America
+    decision: field
+  umpires:
+  - RR Wimalasiri
+  - RK Illingworth
+  venue: Sinhalese Sports Club Ground, Colombo
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.2:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.3:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 0.4:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.5:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.6:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.1:
+        non_striker: Saim Ayub
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.2:
+        non_striker: Saim Ayub
+        bowler: Ehsan Adil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sahibzada Farhan
+    - 1.3:
+        non_striker: Saim Ayub
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.4:
+        non_striker: Saim Ayub
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 1.5:
+        non_striker: Saim Ayub
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 1.6:
+        non_striker: Saim Ayub
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.7:
+        non_striker: Saim Ayub
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 2.1:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 2.2:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 2.3:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 2.4:
+        non_striker: Sahibzada Farhan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 2.5:
+        non_striker: Saim Ayub
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 2.6:
+        non_striker: Saim Ayub
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 3.1:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 3.2:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 3.3:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 3.4:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 3.5:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 3.6:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 4.1:
+        non_striker: Saim Ayub
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 4.2:
+        non_striker: Saim Ayub
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 4.3:
+        non_striker: Saim Ayub
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 4.4:
+        non_striker: Saim Ayub
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 4.5:
+        non_striker: Saim Ayub
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 4.6:
+        non_striker: Saim Ayub
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 5.1:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          fielders:
+          - SN Netravalkar
+          kind: caught
+    - 5.2:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 5.3:
+        non_striker: Agha Salman
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 5.4:
+        non_striker: Agha Salman
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 5.5:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 5.6:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - Shayan Jahangir
+          kind: caught
+    - 6.1:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 6.2:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 6.3:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 6.4:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.5:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.6:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 7.1:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.2:
+        non_striker: Babar Azam
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 7.3:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.4:
+        non_striker: Babar Azam
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 7.5:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 7.6:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 8.1:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 8.2:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 8.3:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.4:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 8.5:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 8.6:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 9.1:
+        non_striker: Babar Azam
+        bowler: Ehsan Adil
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Sahibzada Farhan
+    - 9.2:
+        non_striker: Sahibzada Farhan
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.3:
+        non_striker: Babar Azam
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 9.4:
+        non_striker: Babar Azam
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 9.5:
+        non_striker: Sahibzada Farhan
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 9.6:
+        non_striker: Sahibzada Farhan
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 9.7:
+        non_striker: Sahibzada Farhan
+        bowler: Ehsan Adil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 9.8:
+        non_striker: Sahibzada Farhan
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.1:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.2:
+        non_striker: Babar Azam
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 10.3:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.4:
+        non_striker: Babar Azam
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 10.5:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.6:
+        non_striker: Babar Azam
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 11.1:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sahibzada Farhan
+    - 11.2:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 11.3:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 11.4:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 11.5:
+        non_striker: Babar Azam
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 11.6:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.1:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Azam
+    - 12.2:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 12.3:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 12.4:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 12.5:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.6:
+        non_striker: Babar Azam
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 13.1:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 13.2:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.3:
+        non_striker: Babar Azam
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 13.4:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 13.5:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 13.6:
+        non_striker: Sahibzada Farhan
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 14.1:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 14.2:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 14.3:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 14.4:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - Milind Kumar
+          kind: caught
+    - 14.5:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+    - 14.6:
+        non_striker: Sahibzada Farhan
+        bowler: Mohammad Mohsin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+    - 15.1:
+        non_striker: Mohammad Nawaz
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sahibzada Farhan
+    - 15.2:
+        non_striker: Mohammad Nawaz
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 15.3:
+        non_striker: Mohammad Nawaz
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sahibzada Farhan
+    - 15.4:
+        non_striker: Sahibzada Farhan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 15.5:
+        non_striker: Mohammad Nawaz
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+        wicket:
+          player_out: Sahibzada Farhan
+          fielders:
+          - SP Krishnamurthi
+          kind: caught
+    - 15.6:
+        non_striker: Mohammad Nawaz
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 16.1:
+        non_striker: Shadab Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mohammad Nawaz
+    - 16.2:
+        non_striker: Shadab Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+    - 16.3:
+        non_striker: Shadab Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 16.4:
+        non_striker: Mohammad Nawaz
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 16.5:
+        non_striker: Shadab Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 16.6:
+        non_striker: Mohammad Nawaz
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 16.7:
+        non_striker: Mohammad Nawaz
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 17.1:
+        non_striker: Shadab Khan
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 17.2:
+        non_striker: Mohammad Nawaz
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 17.3:
+        non_striker: Mohammad Nawaz
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 17.4:
+        non_striker: Mohammad Nawaz
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 17.5:
+        non_striker: Mohammad Nawaz
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 17.6:
+        non_striker: Mohammad Nawaz
+        bowler: Ehsan Adil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 18.1:
+        non_striker: Mohammad Nawaz
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 18.2:
+        non_striker: Mohammad Nawaz
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 18.3:
+        non_striker: Mohammad Nawaz
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - AGS Gous
+          kind: caught
+    - 18.4:
+        non_striker: Mohammad Nawaz
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 18.5:
+        non_striker: Faheem Ashraf
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 18.6:
+        non_striker: Mohammad Nawaz
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faheem Ashraf
+        wicket:
+          player_out: Faheem Ashraf
+          fielders:
+          - SN Netravalkar
+          kind: caught
+    - 19.1:
+        non_striker: Usman Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+        wicket:
+          player_out: Mohammad Nawaz
+          fielders:
+          - Shayan Jahangir
+          kind: caught
+    - 19.2:
+        non_striker: Usman Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Shaheen Shah Afridi
+    - 19.3:
+        non_striker: Usman Khan
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 19.4:
+        non_striker: Shaheen Shah Afridi
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Khan
+        wicket:
+          player_out: Usman Khan
+          fielders:
+          - AGS Gous
+          - SN Netravalkar
+          kind: run out
+    - 19.5:
+        non_striker: Abrar Ahmed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shaheen Shah Afridi
+    - 19.6:
+        non_striker: Abrar Ahmed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheen Shah Afridi
+        wicket:
+          player_out: Abrar Ahmed
+          fielders:
+          - AGS Gous
+          - Shayan Jahangir
+          kind: run out
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        non_striker: Shayan Jahangir
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.2:
+        non_striker: Shayan Jahangir
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.3:
+        non_striker: Shayan Jahangir
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 0.4:
+        non_striker: Shayan Jahangir
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 0.5:
+        non_striker: Shayan Jahangir
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 0.6:
+        non_striker: AGS Gous
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 1.1:
+        non_striker: Shayan Jahangir
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 1.2:
+        non_striker: AGS Gous
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 1.3:
+        non_striker: AGS Gous
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 1.4:
+        non_striker: AGS Gous
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shayan Jahangir
+    - 1.5:
+        non_striker: AGS Gous
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 1.6:
+        non_striker: AGS Gous
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 2.1:
+        non_striker: Shayan Jahangir
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 2.2:
+        non_striker: AGS Gous
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.3:
+        non_striker: AGS Gous
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shayan Jahangir
+    - 2.4:
+        non_striker: AGS Gous
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 2.5:
+        non_striker: AGS Gous
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 2.6:
+        non_striker: AGS Gous
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 3.1:
+        non_striker: AGS Gous
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shayan Jahangir
+    - 3.2:
+        non_striker: AGS Gous
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 3.3:
+        non_striker: AGS Gous
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 3.4:
+        non_striker: Shayan Jahangir
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 3.5:
+        non_striker: Shayan Jahangir
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 3.6:
+        non_striker: Shayan Jahangir
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 4.1:
+        non_striker: Shayan Jahangir
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 4.2:
+        non_striker: AGS Gous
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 4.3:
+        non_striker: AGS Gous
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 4.4:
+        non_striker: Shayan Jahangir
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 4.5:
+        non_striker: Shayan Jahangir
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          fielders:
+          - Agha Salman
+          kind: caught
+    - 4.6:
+        non_striker: Shayan Jahangir
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 5.1:
+        non_striker: MD Patel
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shayan Jahangir
+    - 5.2:
+        non_striker: MD Patel
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 5.3:
+        non_striker: Shayan Jahangir
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 5.4:
+        non_striker: Shayan Jahangir
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 5.5:
+        non_striker: Shayan Jahangir
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 5.6:
+        non_striker: MD Patel
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 6.1:
+        non_striker: Shayan Jahangir
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 6.2:
+        non_striker: MD Patel
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 6.3:
+        non_striker: Shayan Jahangir
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 6.4:
+        non_striker: MD Patel
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 6.5:
+        non_striker: MD Patel
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 6.6:
+        non_striker: Shayan Jahangir
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 7.1:
+        non_striker: MD Patel
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shayan Jahangir
+    - 7.2:
+        non_striker: MD Patel
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 7.3:
+        non_striker: MD Patel
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 7.4:
+        non_striker: MD Patel
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 7.5:
+        non_striker: Shayan Jahangir
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 7.6:
+        non_striker: Shayan Jahangir
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 8.1:
+        non_striker: MD Patel
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 8.2:
+        non_striker: MD Patel
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 8.3:
+        non_striker: Shayan Jahangir
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          kind: caught and bowled
+    - 8.4:
+        non_striker: Shayan Jahangir
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 8.5:
+        non_striker: Milind Kumar
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 8.6:
+        non_striker: Shayan Jahangir
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 9.1:
+        non_striker: Milind Kumar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 9.2:
+        non_striker: Shayan Jahangir
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 9.3:
+        non_striker: Milind Kumar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 9.4:
+        non_striker: Milind Kumar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 9.5:
+        non_striker: Shayan Jahangir
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 9.6:
+        non_striker: Milind Kumar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 10.1:
+        non_striker: Shayan Jahangir
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 10.2:
+        non_striker: Milind Kumar
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: Shayan Jahangir
+          fielders:
+          - Shaheen Shah Afridi
+          kind: caught
+    - 10.3:
+        non_striker: Milind Kumar
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 10.4:
+        non_striker: Milind Kumar
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 10.5:
+        non_striker: Shubham Ranjane
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 10.6:
+        non_striker: Milind Kumar
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.1:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 11.2:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 11.3:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.4:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 11.5:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Milind Kumar
+    - 11.6:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 11.7:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 11.8:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 12.1:
+        non_striker: Milind Kumar
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 12.2:
+        non_striker: Milind Kumar
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 12.3:
+        non_striker: Shubham Ranjane
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Milind Kumar
+    - 12.4:
+        non_striker: Shubham Ranjane
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 12.5:
+        non_striker: Milind Kumar
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 12.6:
+        non_striker: Milind Kumar
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 12.7:
+        non_striker: Shubham Ranjane
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 13.1:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 13.2:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 13.3:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 13.4:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 13.5:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 13.6:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 14.1:
+        non_striker: Shubham Ranjane
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 14.2:
+        non_striker: Milind Kumar
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.3:
+        non_striker: Shubham Ranjane
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 14.4:
+        non_striker: Shubham Ranjane
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 14.5:
+        non_striker: Milind Kumar
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 14.6:
+        non_striker: Shubham Ranjane
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 15.1:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubham Ranjane
+    - 15.2:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.3:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 15.4:
+        non_striker: Milind Kumar
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 15.5:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Milind Kumar
+    - 15.6:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 15.7:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+        wicket:
+          player_out: Milind Kumar
+          fielders:
+          - Shaheen Shah Afridi
+          kind: caught
+    - 16.1:
+        non_striker: SP Krishnamurthi
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 16.2:
+        non_striker: Shubham Ranjane
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+    - 16.3:
+        non_striker: Shubham Ranjane
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Krishnamurthi
+        wicket:
+          player_out: SP Krishnamurthi
+          kind: bowled
+    - 16.4:
+        non_striker: Shubham Ranjane
+        bowler: Abrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Harmeet Singh
+    - 16.5:
+        non_striker: Harmeet Singh
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 16.6:
+        non_striker: Harmeet Singh
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 17.1:
+        non_striker: Harmeet Singh
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 17.2:
+        non_striker: Harmeet Singh
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubham Ranjane
+    - 17.3:
+        non_striker: Harmeet Singh
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 17.4:
+        non_striker: Shubham Ranjane
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 17.5:
+        non_striker: Harmeet Singh
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 17.6:
+        non_striker: Shubham Ranjane
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harmeet Singh
+    - 18.1:
+        non_striker: Harmeet Singh
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.2:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 18.3:
+        non_striker: Harmeet Singh
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 18.4:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+        wicket:
+          player_out: Harmeet Singh
+          fielders:
+          - Mohammad Nawaz
+          kind: caught
+    - 18.5:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mohsin
+        wicket:
+          player_out: Mohammad Mohsin
+          kind: bowled
+    - 18.6:
+        non_striker: Shubham Ranjane
+        bowler: Usman Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 19.1:
+        non_striker: SC van Schalkwyk
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 19.2:
+        non_striker: SC van Schalkwyk
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 19.3:
+        non_striker: SC van Schalkwyk
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+        wicket:
+          player_out: Shubham Ranjane
+          kind: lbw
+    - 19.4:
+        non_striker: SC van Schalkwyk
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ehsan Adil
+    - 19.5:
+        non_striker: Ehsan Adil
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 19.6:
+        non_striker: SC van Schalkwyk
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ehsan Adil

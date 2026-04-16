@@ -1,0 +1,2018 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  dates:
+  - '2026-02-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3690
+  outcome:
+    winner: Scotland
+    by:
+      runs: 73
+  overs: 20
+  player_of_match:
+  - MA Leask
+  players:
+    Scotland:
+    - HG Munsey
+    - MA Jones
+    - BJ McMullen
+    - RD Berrington
+    - TC Bruce
+    - MA Leask
+    - MH Cross
+    - MRJ Watt
+    - O Davidson
+    - BTJ Wheal
+    - BJ Currie
+    Italy:
+    - J Mosca
+    - AJ Mosca
+    - JT Smuts
+    - HJ Manenti
+    - BAD Manenti
+    - G Stewart
+    - GP Meade
+    - CJPF Kalugamage
+    - TJ Draca
+    - Ali Hasan
+    - WL Madsen
+  registry:
+    people:
+      A Paleker: 634b11ac
+      AJ Mosca: 19c56e6e
+      Ali Hasan: cae17490
+      BAD Manenti: ab21795b
+      BJ Currie: 2ecd844a
+      BJ McMullen: 436c763a
+      BTJ Wheal: 3f61a062
+      CJPF Kalugamage: 31c04b7b
+      CM Brown: 448f4f1c
+      DM Koch: 6d10c034
+      G Stewart: a77472dc
+      GP Meade: 3957a70a
+      HG Munsey: ff014c34
+      HJ Manenti: 0e56c514
+      J Mosca: 8f02f6a8
+      J Srinath: bad31fac
+      JT Smuts: 42172c3c
+      MA Jones: 05f96194
+      MA Leask: '28131839'
+      MH Cross: 8b261d84
+      MRJ Watt: 1252f71a
+      O Davidson: '63249474'
+      RD Berrington: e21bc7f3
+      SJ Nogajski: 9b3f9323
+      TC Bruce: f92c9151
+      TJ Draca: 88fac705
+      WL Madsen: 86e0f3f0
+  teams:
+  - Scotland
+  - Italy
+  toss:
+    winner: Italy
+    decision: field
+  umpires:
+  - A Paleker
+  - CM Brown
+  venue: Eden Gardens, Kolkata
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.2:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.3:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.4:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 0.5:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 0.6:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 1.1:
+        non_striker: HG Munsey
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 1.2:
+        non_striker: HG Munsey
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 1.3:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 1.4:
+        non_striker: HG Munsey
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 1.5:
+        non_striker: HG Munsey
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 1.6:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 2.1:
+        non_striker: HG Munsey
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 2.2:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.3:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.4:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.5:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 2.6:
+        non_striker: HG Munsey
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 3.1:
+        non_striker: MA Jones
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.2:
+        non_striker: MA Jones
+        bowler: TJ Draca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 3.3:
+        non_striker: MA Jones
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 3.4:
+        non_striker: MA Jones
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 3.5:
+        non_striker: MA Jones
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 3.6:
+        non_striker: MA Jones
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 3.7:
+        non_striker: MA Jones
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 4.1:
+        non_striker: HG Munsey
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 4.2:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 4.3:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 4.4:
+        non_striker: HG Munsey
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 4.5:
+        non_striker: MA Jones
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 4.6:
+        non_striker: HG Munsey
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 5.1:
+        non_striker: HG Munsey
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 5.2:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 5.3:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 5.4:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 5.5:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 5.6:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 6.1:
+        non_striker: MA Jones
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 6.2:
+        non_striker: HG Munsey
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Jones
+    - 6.3:
+        non_striker: HG Munsey
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 6.4:
+        non_striker: HG Munsey
+        bowler: JT Smuts
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Jones
+    - 6.5:
+        non_striker: HG Munsey
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MA Jones
+    - 6.6:
+        non_striker: MA Jones
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 6.7:
+        non_striker: MA Jones
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 7.1:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 7.2:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 7.3:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 7.4:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 7.5:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 7.6:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 7.7:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 8.1:
+        non_striker: HG Munsey
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 8.2:
+        non_striker: HG Munsey
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 8.3:
+        non_striker: HG Munsey
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 8.4:
+        non_striker: MA Jones
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 8.5:
+        non_striker: MA Jones
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 8.6:
+        non_striker: HG Munsey
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 9.1:
+        non_striker: MA Jones
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 9.2:
+        non_striker: MA Jones
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 9.3:
+        non_striker: MA Jones
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 9.4:
+        non_striker: HG Munsey
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Jones
+    - 9.5:
+        non_striker: HG Munsey
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Jones
+    - 9.6:
+        non_striker: HG Munsey
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 9.7:
+        non_striker: MA Jones
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 10.1:
+        non_striker: HG Munsey
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 10.2:
+        non_striker: MA Jones
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 10.3:
+        non_striker: HG Munsey
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 10.4:
+        non_striker: MA Jones
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 10.5:
+        non_striker: HG Munsey
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 10.6:
+        non_striker: MA Jones
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 11.1:
+        non_striker: HG Munsey
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 11.2:
+        non_striker: HG Munsey
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 11.3:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 11.4:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 11.5:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 11.6:
+        non_striker: MA Jones
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 12.1:
+        non_striker: HG Munsey
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 12.2:
+        non_striker: MA Jones
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 12.3:
+        non_striker: MA Jones
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 12.4:
+        non_striker: MA Jones
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 12.5:
+        non_striker: HG Munsey
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 12.6:
+        non_striker: MA Jones
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 12.7:
+        non_striker: MA Jones
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 13.1:
+        non_striker: HG Munsey
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Jones
+    - 13.2:
+        non_striker: HG Munsey
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 13.3:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 13.4:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 13.5:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 13.6:
+        non_striker: MA Jones
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 14.1:
+        non_striker: MA Jones
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 14.2:
+        non_striker: MA Jones
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 14.3:
+        non_striker: MA Jones
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ McMullen
+    - 14.4:
+        non_striker: MA Jones
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 14.5:
+        non_striker: BJ McMullen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+        wicket:
+          player_out: MA Jones
+          fielders:
+          - HJ Manenti
+          kind: caught
+    - 14.6:
+        non_striker: BJ McMullen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 15.1:
+        non_striker: RD Berrington
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 15.2:
+        non_striker: BJ McMullen
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 15.3:
+        non_striker: RD Berrington
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 15.4:
+        non_striker: RD Berrington
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ McMullen
+    - 15.5:
+        non_striker: RD Berrington
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ McMullen
+    - 15.6:
+        non_striker: RD Berrington
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 16.1:
+        non_striker: RD Berrington
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 16.2:
+        non_striker: BJ McMullen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 16.3:
+        non_striker: RD Berrington
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 16.4:
+        non_striker: BJ McMullen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 16.5:
+        non_striker: BJ McMullen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 16.6:
+        non_striker: BJ McMullen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 17.1:
+        non_striker: RD Berrington
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 17.2:
+        non_striker: RD Berrington
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ McMullen
+    - 17.3:
+        non_striker: RD Berrington
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McMullen
+    - 17.4:
+        non_striker: RD Berrington
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McMullen
+    - 17.5:
+        non_striker: RD Berrington
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 17.6:
+        non_striker: BJ McMullen
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 17.7:
+        non_striker: RD Berrington
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 17.8:
+        non_striker: BJ McMullen
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 18.1:
+        non_striker: RD Berrington
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 18.2:
+        non_striker: RD Berrington
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 18.3:
+        non_striker: BJ McMullen
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 18.4:
+        non_striker: BJ McMullen
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 18.5:
+        non_striker: BJ McMullen
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+        wicket:
+          player_out: RD Berrington
+          fielders:
+          - GP Meade
+          kind: caught
+    - 18.6:
+        non_striker: BJ McMullen
+        bowler: Ali Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 19.1:
+        non_striker: BJ McMullen
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          fielders:
+          - J Mosca
+          kind: caught
+    - 19.2:
+        non_striker: BJ McMullen
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 19.3:
+        non_striker: BJ McMullen
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Leask
+    - 19.4:
+        non_striker: BJ McMullen
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 19.5:
+        non_striker: BJ McMullen
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Leask
+    - 19.6:
+        non_striker: BJ McMullen
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Leask
+- 2nd innings:
+    team: Italy
+    absent_hurt:
+    - WL Madsen
+    deliveries:
+    - 0.1:
+        non_striker: AJ Mosca
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+        wicket:
+          player_out: J Mosca
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 0.2:
+        non_striker: AJ Mosca
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.3:
+        non_striker: AJ Mosca
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.4:
+        non_striker: AJ Mosca
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.5:
+        non_striker: AJ Mosca
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.6:
+        non_striker: AJ Mosca
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 1.1:
+        non_striker: JT Smuts
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.2:
+        non_striker: JT Smuts
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Mosca
+    - 1.3:
+        non_striker: AJ Mosca
+        bowler: BJ Currie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JT Smuts
+    - 1.4:
+        non_striker: AJ Mosca
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 1.5:
+        non_striker: JT Smuts
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 1.6:
+        non_striker: JT Smuts
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Mosca
+    - 1.7:
+        non_striker: JT Smuts
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 2.1:
+        non_striker: AJ Mosca
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 2.2:
+        non_striker: AJ Mosca
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 2.3:
+        non_striker: AJ Mosca
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 2.4:
+        non_striker: AJ Mosca
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 2.5:
+        non_striker: JT Smuts
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 2.6:
+        non_striker: JT Smuts
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Mosca
+    - 3.1:
+        non_striker: AJ Mosca
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - RD Berrington
+          kind: caught
+    - 3.2:
+        non_striker: AJ Mosca
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 3.3:
+        non_striker: AJ Mosca
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 3.4:
+        non_striker: AJ Mosca
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 3.5:
+        non_striker: HJ Manenti
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Mosca
+    - 3.6:
+        non_striker: HJ Manenti
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 4.1:
+        non_striker: AJ Mosca
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 4.2:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 4.3:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+    - 4.4:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Mosca
+        wicket:
+          player_out: AJ Mosca
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 4.5:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 4.6:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 5.1:
+        non_striker: HJ Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BAD Manenti
+    - 5.2:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 5.3:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 5.4:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Manenti
+    - 5.5:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 5.6:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Manenti
+    - 6.1:
+        non_striker: HJ Manenti
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 6.2:
+        non_striker: BAD Manenti
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 6.3:
+        non_striker: HJ Manenti
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 6.4:
+        non_striker: BAD Manenti
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 6.5:
+        non_striker: BAD Manenti
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 6.6:
+        non_striker: HJ Manenti
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 7.1:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 7.2:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 7.3:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 7.4:
+        non_striker: BAD Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.5:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 7.6:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 8.1:
+        non_striker: HJ Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 8.2:
+        non_striker: BAD Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 8.3:
+        non_striker: HJ Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 8.4:
+        non_striker: HJ Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 8.5:
+        non_striker: BAD Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 8.6:
+        non_striker: BAD Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 9.1:
+        non_striker: HJ Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 9.2:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.3:
+        non_striker: HJ Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 9.4:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Manenti
+    - 9.5:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Manenti
+    - 9.6:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.7:
+        non_striker: HJ Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 10.1:
+        non_striker: HJ Manenti
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 10.2:
+        non_striker: BAD Manenti
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 10.3:
+        non_striker: HJ Manenti
+        bowler: BJ McMullen
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: BAD Manenti
+    - 10.4:
+        non_striker: BAD Manenti
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HJ Manenti
+    - 10.5:
+        non_striker: BAD Manenti
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 10.6:
+        non_striker: BAD Manenti
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 10.7:
+        non_striker: HJ Manenti
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAD Manenti
+    - 11.1:
+        non_striker: BAD Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 11.2:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 11.3:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 11.4:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAD Manenti
+    - 11.5:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAD Manenti
+    - 11.6:
+        non_striker: HJ Manenti
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+    - 12.1:
+        non_striker: BAD Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 12.2:
+        non_striker: BAD Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 12.3:
+        non_striker: BAD Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 12.4:
+        non_striker: BAD Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+    - 12.5:
+        non_striker: BAD Manenti
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 12.6:
+        non_striker: G Stewart
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 13.1:
+        non_striker: G Stewart
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAD Manenti
+    - 13.2:
+        non_striker: G Stewart
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 13.3:
+        non_striker: BAD Manenti
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Stewart
+    - 13.4:
+        non_striker: G Stewart
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAD Manenti
+    - 13.5:
+        non_striker: G Stewart
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAD Manenti
+    - 13.6:
+        non_striker: G Stewart
+        bowler: O Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+        wicket:
+          player_out: BAD Manenti
+          fielders:
+          - MA Jones
+          kind: caught
+    - 14.1:
+        non_striker: GP Meade
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Stewart
+        wicket:
+          player_out: G Stewart
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 14.2:
+        non_striker: GP Meade
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 14.3:
+        non_striker: CJPF Kalugamage
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+    - 14.4:
+        non_striker: CJPF Kalugamage
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Meade
+        wicket:
+          player_out: GP Meade
+          fielders:
+          - BJ McMullen
+          kind: caught
+    - 14.5:
+        non_striker: CJPF Kalugamage
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Draca
+    - 14.6:
+        non_striker: TJ Draca
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJPF Kalugamage
+    - 15.1:
+        non_striker: CJPF Kalugamage
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Draca
+    - 15.2:
+        non_striker: CJPF Kalugamage
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Draca
+    - 15.3:
+        non_striker: CJPF Kalugamage
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Draca
+    - 15.4:
+        non_striker: TJ Draca
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJPF Kalugamage
+    - 15.5:
+        non_striker: TJ Draca
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 15.6:
+        non_striker: CJPF Kalugamage
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Draca
+        wicket:
+          player_out: TJ Draca
+          fielders:
+          - BJ McMullen
+          kind: caught
+    - 16.1:
+        non_striker: Ali Hasan
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJPF Kalugamage
+    - 16.2:
+        non_striker: Ali Hasan
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJPF Kalugamage
+    - 16.3:
+        non_striker: CJPF Kalugamage
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Hasan
+    - 16.4:
+        non_striker: CJPF Kalugamage
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Hasan
+        wicket:
+          player_out: Ali Hasan
+          fielders:
+          - RD Berrington
+          kind: caught

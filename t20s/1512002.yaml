@@ -1,0 +1,1642 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2025-11-30'
+  gender: male
+  match_type: T20
+  match_type_number: 3597
+  outcome:
+    winner: Bahrain
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Asif Javed
+  players:
+    Thailand:
+    - S Desungnoen
+    - Y Saranonnakkun
+    - N Nuntarach
+    - C Chatphaisan
+    - P Suanchuai
+    - N Senamontree
+    - C Pengkumta
+    - P Thongsa
+    - K Senamontree
+    - W Ngowhuad
+    - T Yotharat
+    Bahrain:
+    - Asif Ali
+    - Naveena Shetty
+    - Junaid Aziz
+    - P Kurup
+    - Fiaz Ahmed
+    - Imran Anwar
+    - Ahmer Bin Nisar
+    - Abdul Majid Abbasi
+    - Muhammad Salman
+    - Asif Javed
+    - Imran Khan
+  registry:
+    people:
+      Abdul Majid Abbasi: 0cfb42b5
+      Ahmer Bin Nisar: afbc53ba
+      Asif Ali: 0a4736eb
+      Asif Javed: 6e397f37
+      C Chatphaisan: 85c56be8
+      C Pengkumta: b3540b2a
+      D Sevakumaran: b235cb97
+      Fiaz Ahmed: df1f2f29
+      Imran Anwar: a9a18e3e
+      Imran Khan: da3b91fd
+      Junaid Aziz: c39ee9e0
+      K Senamontree: e553e27f
+      L Poobalan: 93cc9718
+      Muhammad Salman: 460fc0ba
+      N Nuntarach: 9e3575ce
+      N Senamontree: 44e00a4c
+      Naveena Shetty: dd968a7b
+      P Kurup: 50ceaef6
+      P Suanchuai: e6948355
+      P Thongsa: '62318525'
+      Ramesh Menon: 4ed80d22
+      Rudy Ismandy: '84682045'
+      S Desungnoen: 3eb26dc4
+      T Yotharat: 1f74f675
+      W Ngowhuad: b8cd9955
+      Y Saranonnakkun: 9c93c0a3
+  teams:
+  - Thailand
+  - Bahrain
+  toss:
+    winner: Bahrain
+    decision: field
+  umpires:
+  - D Sevakumaran
+  - L Poobalan
+  venue: Bayuemas Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Y Saranonnakkun
+        batsman: S Desungnoen
+    - 0.2:
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Y Saranonnakkun
+        batsman: S Desungnoen
+    - 0.3:
+        non_striker: S Desungnoen
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 0.4:
+        non_striker: S Desungnoen
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 0.5:
+        non_striker: S Desungnoen
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 0.6:
+        non_striker: S Desungnoen
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Y Saranonnakkun
+    - 1.1:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.2:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Desungnoen
+    - 1.3:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Desungnoen
+    - 1.4:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.5:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          kind: bowled
+    - 1.6:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Nuntarach
+    - 2.1:
+        non_striker: N Nuntarach
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 2.2:
+        non_striker: N Nuntarach
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 2.3:
+        non_striker: N Nuntarach
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 2.4:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 2.5:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 2.6:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 3.1:
+        non_striker: N Nuntarach
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 3.2:
+        non_striker: N Nuntarach
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 3.3:
+        non_striker: N Nuntarach
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Saranonnakkun
+    - 3.4:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 3.5:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 3.6:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 4.1:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 4.2:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 4.3:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          kind: bowled
+    - 4.4:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatphaisan
+    - 4.5:
+        non_striker: C Chatphaisan
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 4.6:
+        non_striker: C Chatphaisan
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 5.1:
+        non_striker: N Nuntarach
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 5.2:
+        non_striker: N Nuntarach
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 5.3:
+        non_striker: N Nuntarach
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 5.4:
+        non_striker: N Nuntarach
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 5.5:
+        non_striker: N Nuntarach
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 5.6:
+        non_striker: N Nuntarach
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 6.1:
+        non_striker: C Chatphaisan
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 6.2:
+        non_striker: C Chatphaisan
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 6.3:
+        non_striker: C Chatphaisan
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 6.4:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 6.5:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - Ahmer Bin Nisar
+          kind: caught
+    - 6.6:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 7.1:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Nuntarach
+    - 7.2:
+        non_striker: N Nuntarach
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 7.3:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+        wicket:
+          player_out: N Nuntarach
+          fielders:
+          - Junaid Aziz
+          kind: caught
+    - 7.4:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 7.5:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 7.6:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Senamontree
+    - 8.1:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 8.2:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 8.3:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 8.4:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 8.5:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Suanchuai
+    - 8.6:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 9.1:
+        non_striker: N Senamontree
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 9.2:
+        non_striker: N Senamontree
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 9.3:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Senamontree
+    - 9.4:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 9.5:
+        non_striker: N Senamontree
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 9.6:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 10.1:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 10.2:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 10.3:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 10.4:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 10.5:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 10.6:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 11.1:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 11.2:
+        non_striker: P Suanchuai
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 11.3:
+        non_striker: N Senamontree
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 11.4:
+        non_striker: N Senamontree
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: P Suanchuai
+    - 11.5:
+        non_striker: N Senamontree
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+        wicket:
+          player_out: P Suanchuai
+          kind: bowled
+    - 11.6:
+        non_striker: N Senamontree
+        bowler: Abdul Majid Abbasi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 12.1:
+        non_striker: C Pengkumta
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 12.2:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 12.3:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 12.4:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+        wicket:
+          player_out: C Pengkumta
+          fielders:
+          - Asif Javed
+          kind: caught
+    - 12.5:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 12.6:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 13.1:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 13.2:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 13.3:
+        non_striker: N Senamontree
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 13.4:
+        non_striker: N Senamontree
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 13.5:
+        non_striker: N Senamontree
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 13.6:
+        non_striker: N Senamontree
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 14.1:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 14.2:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 14.3:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 14.4:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 14.5:
+        non_striker: N Senamontree
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 14.6:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 15.1:
+        non_striker: N Senamontree
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 15.2:
+        non_striker: N Senamontree
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 15.3:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+    - 15.4:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 15.5:
+        non_striker: N Senamontree
+        bowler: Asif Javed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Thongsa
+    - 15.6:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Senamontree
+        wicket:
+          player_out: N Senamontree
+          kind: lbw
+    - 16.1:
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Senamontree
+        batsman: P Thongsa
+    - 16.2:
+        non_striker: P Thongsa
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 16.3:
+        non_striker: K Senamontree
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 16.4:
+        non_striker: P Thongsa
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 16.5:
+        non_striker: P Thongsa
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 16.6:
+        non_striker: P Thongsa
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 17.1:
+        non_striker: K Senamontree
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 17.2:
+        non_striker: P Thongsa
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Senamontree
+    - 17.3:
+        non_striker: P Thongsa
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Senamontree
+    - 17.4:
+        non_striker: P Thongsa
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Senamontree
+    - 17.5:
+        non_striker: P Thongsa
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 17.6:
+        non_striker: K Senamontree
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 18.1:
+        non_striker: P Thongsa
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 18.2:
+        non_striker: K Senamontree
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 18.3:
+        non_striker: K Senamontree
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Thongsa
+    - 18.4:
+        non_striker: K Senamontree
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Thongsa
+    - 18.5:
+        non_striker: K Senamontree
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 18.6:
+        non_striker: P Thongsa
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Senamontree
+    - 19.1:
+        non_striker: K Senamontree
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 19.2:
+        non_striker: P Thongsa
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 19.3:
+        non_striker: K Senamontree
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 19.4:
+        non_striker: P Thongsa
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Senamontree
+    - 19.5:
+        non_striker: K Senamontree
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Thongsa
+    - 19.6:
+        non_striker: K Senamontree
+        bowler: Imran Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+        wicket:
+          player_out: K Senamontree
+          fielders:
+          - Ahmer Bin Nisar
+          - Imran Khan
+          kind: run out
+- 2nd innings:
+    team: Bahrain
+    deliveries:
+    - 0.1:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Naveena Shetty
+        batsman: Asif Ali
+    - 0.2:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Naveena Shetty
+        batsman: Asif Ali
+    - 0.3:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Naveena Shetty
+        batsman: Asif Ali
+    - 0.4:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Naveena Shetty
+        batsman: Asif Ali
+    - 0.5:
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Naveena Shetty
+        batsman: Asif Ali
+    - 0.6:
+        non_striker: Naveena Shetty
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 1.1:
+        non_striker: Asif Ali
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naveena Shetty
+        wicket:
+          player_out: Naveena Shetty
+          fielders:
+          - C Pengkumta
+          kind: caught
+    - 1.2:
+        non_striker: Asif Ali
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 1.3:
+        non_striker: Asif Ali
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 1.4:
+        non_striker: Junaid Aziz
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 1.5:
+        non_striker: Junaid Aziz
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 1.6:
+        non_striker: Asif Ali
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 2.1:
+        non_striker: Junaid Aziz
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Ali
+    - 2.2:
+        non_striker: Junaid Aziz
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Ali
+    - 2.3:
+        non_striker: Junaid Aziz
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 2.4:
+        non_striker: Junaid Aziz
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 2.5:
+        non_striker: Junaid Aziz
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Ali
+    - 2.6:
+        non_striker: Junaid Aziz
+        bowler: W Ngowhuad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Asif Ali
+    - 3.1:
+        non_striker: Asif Ali
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 3.2:
+        non_striker: Asif Ali
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 3.3:
+        non_striker: Junaid Aziz
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 3.4:
+        non_striker: Junaid Aziz
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 3.5:
+        non_striker: Junaid Aziz
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Asif Ali
+    - 3.6:
+        non_striker: Junaid Aziz
+        bowler: K Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Asif Ali
+    - 4.1:
+        non_striker: Junaid Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 4.2:
+        non_striker: Junaid Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 4.3:
+        non_striker: Junaid Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Asif Ali
+    - 4.4:
+        non_striker: Junaid Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 4.5:
+        non_striker: Junaid Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+    - 4.6:
+        non_striker: Junaid Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Ali
+        wicket:
+          player_out: Asif Ali
+          fielders:
+          - P Thongsa
+          kind: caught
+    - 5.1:
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Kurup
+        batsman: Junaid Aziz
+    - 5.2:
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: P Kurup
+        batsman: Junaid Aziz
+    - 5.3:
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Kurup
+        batsman: Junaid Aziz
+    - 5.4:
+        non_striker: Junaid Aziz
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 5.5:
+        non_striker: Junaid Aziz
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 5.6:
+        non_striker: Junaid Aziz
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 6.1:
+        non_striker: P Kurup
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 6.2:
+        non_striker: P Kurup
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 6.3:
+        non_striker: Junaid Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 6.4:
+        non_striker: P Kurup
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 6.5:
+        non_striker: P Kurup
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Aziz
+    - 6.6:
+        non_striker: Junaid Aziz
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 7.1:
+        non_striker: P Kurup
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 7.2:
+        non_striker: P Kurup
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+    - 7.3:
+        non_striker: P Kurup
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Aziz
+        wicket:
+          player_out: Junaid Aziz
+          fielders:
+          - K Senamontree
+          kind: caught
+    - 7.4:
+        non_striker: P Kurup
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 7.5:
+        non_striker: Fiaz Ahmed
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 7.6:
+        non_striker: Fiaz Ahmed
+        bowler: T Yotharat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 8.1:
+        non_striker: P Kurup
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 8.2:
+        non_striker: P Kurup
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 8.3:
+        non_striker: P Kurup
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fiaz Ahmed
+    - 8.4:
+        non_striker: P Kurup
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 8.5:
+        non_striker: Fiaz Ahmed
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 8.6:
+        non_striker: Fiaz Ahmed
+        bowler: N Senamontree
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 9.1:
+        non_striker: P Kurup
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 9.2:
+        non_striker: Fiaz Ahmed
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 9.3:
+        non_striker: Fiaz Ahmed
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 9.4:
+        non_striker: P Kurup
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 9.5:
+        non_striker: P Kurup
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 9.6:
+        non_striker: P Kurup
+        bowler: P Thongsa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 10.1:
+        non_striker: Fiaz Ahmed
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 10.2:
+        non_striker: P Kurup
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fiaz Ahmed
+    - 10.3:
+        non_striker: P Kurup
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fiaz Ahmed
+    - 10.4:
+        non_striker: Fiaz Ahmed
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Kurup
+    - 10.5:
+        non_striker: Fiaz Ahmed
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Kurup
+    - 10.6:
+        non_striker: P Kurup
+        bowler: S Desungnoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fiaz Ahmed
+    - 11.1:
+        non_striker: Fiaz Ahmed
+        bowler: P Thongsa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Kurup

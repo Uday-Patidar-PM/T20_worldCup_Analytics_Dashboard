@@ -1,0 +1,1995 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-02-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Lahore
+  dates:
+  - '2026-02-01'
+  gender: male
+  match_type: T20
+  match_type_number: 3681
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 111
+  overs: 20
+  player_of_match:
+  - Mohammad Nawaz
+  players:
+    Pakistan:
+    - Fakhar Zaman
+    - Saim Ayub
+    - Agha Salman
+    - Babar Azam
+    - Khawaja Nafay
+    - Shadab Khan
+    - Mohammad Nawaz
+    - Faheem Ashraf
+    - Shaheen Shah Afridi
+    - Naseem Shah
+    - Abrar Ahmed
+    Australia:
+    - MR Marsh
+    - MW Short
+    - C Green
+    - MT Renshaw
+    - MP Stoinis
+    - JR Philippe
+    - MJ Owen
+    - C Connolly
+    - BJ Dwarshuis
+    - MP Kuhnemann
+    - A Zampa
+  registry:
+    people:
+      A Zampa: 14f96089
+      Abrar Ahmed: abb7c76c
+      Agha Salman: 89c16049
+      Ali Naqvi: 3c89fc88
+      BJ Dwarshuis: e1b9f3a9
+      Babar Azam: 8a75e999
+      C Connolly: fe366f34
+      C Green: eaa76d3c
+      Faheem Ashraf: bd4ea627
+      Fakhar Zaman: 1777c020
+      JR Philippe: '39086549'
+      Khawaja Nafay: 3cf54e77
+      MJ Owen: f2c936d7
+      MP Kuhnemann: 7b953689
+      MP Stoinis: d9273ee7
+      MR Marsh: 3d8feaf8
+      MT Renshaw: 218d4d78
+      MW Short: a90e53ec
+      Mohammad Nawaz: 3086f7a4
+      Naseem Shah: 9c9af282
+      Nasir Hussain: 5b2fe85b
+      Rashid Riaz: fb82725e
+      Sahibzada Farhan: 1aba45cd
+      Saim Ayub: 33609a8c
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      Tariq Rasheed: 1008518c
+      Zulfiqar Jan: 006de9ca
+  teams:
+  - Pakistan
+  - Australia
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - Nasir Hussain
+  - Rashid Riaz
+  venue: Gaddafi Stadium, Lahore
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 0.2:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 0.3:
+        non_striker: Fakhar Zaman
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 0.4:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Fakhar Zaman
+    - 0.5:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 0.6:
+        non_striker: Fakhar Zaman
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 0.7:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 1.1:
+        non_striker: Fakhar Zaman
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.2:
+        non_striker: Fakhar Zaman
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 1.3:
+        non_striker: Fakhar Zaman
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 1.4:
+        non_striker: Saim Ayub
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 1.5:
+        non_striker: Saim Ayub
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Fakhar Zaman
+          fielders:
+          - C Green
+          kind: caught
+    - 1.6:
+        non_striker: Saim Ayub
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 2.1:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 2.2:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 2.3:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 2.4:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 2.5:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 2.6:
+        non_striker: Agha Salman
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 3.1:
+        non_striker: Agha Salman
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 3.2:
+        non_striker: Saim Ayub
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 3.3:
+        non_striker: Agha Salman
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 3.4:
+        non_striker: Saim Ayub
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - C Green
+          kind: caught
+    - 3.5:
+        non_striker: Saim Ayub
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 3.6:
+        non_striker: Saim Ayub
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.1:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.2:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 4.3:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.4:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 4.5:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.6:
+        non_striker: Saim Ayub
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 5.1:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 5.2:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 5.3:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 5.4:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 5.5:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 5.6:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 6.1:
+        non_striker: Saim Ayub
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.2:
+        non_striker: Babar Azam
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saim Ayub
+    - 6.3:
+        non_striker: Babar Azam
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 6.4:
+        non_striker: Saim Ayub
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.5:
+        non_striker: Saim Ayub
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 6.6:
+        non_striker: Saim Ayub
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Azam
+    - 7.1:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 7.2:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 7.3:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saim Ayub
+    - 7.4:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 7.5:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 7.6:
+        non_striker: Saim Ayub
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 8.1:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 8.2:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 8.3:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.4:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saim Ayub
+    - 8.5:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 8.6:
+        non_striker: Saim Ayub
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 9.1:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 9.2:
+        non_striker: Saim Ayub
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 9.3:
+        non_striker: Saim Ayub
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.4:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 9.5:
+        non_striker: Saim Ayub
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 9.6:
+        non_striker: Saim Ayub
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.1:
+        non_striker: Saim Ayub
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.2:
+        non_striker: Babar Azam
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 10.3:
+        non_striker: Saim Ayub
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 10.4:
+        non_striker: Saim Ayub
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.5:
+        non_striker: Babar Azam
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 10.6:
+        non_striker: Babar Azam
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saim Ayub
+    - 11.1:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          fielders:
+          - MT Renshaw
+          kind: caught
+    - 11.2:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawaja Nafay
+    - 11.3:
+        non_striker: Khawaja Nafay
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 11.4:
+        non_striker: Khawaja Nafay
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 11.5:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 11.6:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 12.1:
+        non_striker: Khawaja Nafay
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 12.2:
+        non_striker: Khawaja Nafay
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.3:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khawaja Nafay
+    - 12.4:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khawaja Nafay
+    - 12.5:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 12.6:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawaja Nafay
+    - 13.1:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khawaja Nafay
+    - 13.2:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khawaja Nafay
+    - 13.3:
+        non_striker: Khawaja Nafay
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.4:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+    - 13.5:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Khawaja Nafay
+    - 13.6:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khawaja Nafay
+        wicket:
+          player_out: Khawaja Nafay
+          fielders:
+          - MW Short
+          kind: caught
+    - 14.1:
+        non_striker: Shadab Khan
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 14.2:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 14.3:
+        non_striker: Shadab Khan
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 14.4:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 14.5:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 14.6:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 15.1:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 15.2:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 15.3:
+        non_striker: Shadab Khan
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 15.4:
+        non_striker: Shadab Khan
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 15.5:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 15.6:
+        non_striker: Babar Azam
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 16.1:
+        non_striker: Shadab Khan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 16.2:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 16.3:
+        non_striker: Shadab Khan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 16.4:
+        non_striker: Shadab Khan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 16.5:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 16.6:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 17.1:
+        non_striker: Shadab Khan
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 17.2:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 17.3:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 17.4:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 17.5:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 17.6:
+        non_striker: Babar Azam
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 18.1:
+        non_striker: Shadab Khan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 18.2:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 18.3:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shadab Khan
+    - 18.4:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 18.5:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+    - 18.6:
+        non_striker: Babar Azam
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 19.1:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nawaz
+    - 19.2:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nawaz
+    - 19.3:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+        wicket:
+          player_out: Mohammad Nawaz
+          fielders:
+          - MW Short
+          kind: caught
+    - 19.4:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+    - 19.5:
+        non_striker: Faheem Ashraf
+        bowler: C Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 19.6:
+        non_striker: Faheem Ashraf
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 19.7:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Faheem Ashraf
+    - 19.8:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Faheem Ashraf
+    - 19.9:
+        non_striker: Babar Azam
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faheem Ashraf
+- 2nd innings:
+    team: Australia
+    absent_hurt:
+    - A Zampa
+    deliveries:
+    - 0.1:
+        non_striker: MW Short
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.2:
+        non_striker: MW Short
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 0.3:
+        non_striker: MR Marsh
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 0.4:
+        non_striker: MW Short
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          kind: bowled
+    - 0.5:
+        non_striker: MW Short
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 0.6:
+        non_striker: MW Short
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 1.1:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.2:
+        non_striker: MW Short
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 1.3:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.4:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 1.5:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 1.6:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 2.1:
+        non_striker: C Green
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 2.2:
+        non_striker: C Green
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: MT Renshaw
+    - 2.3:
+        non_striker: C Green
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MT Renshaw
+    - 2.4:
+        non_striker: MT Renshaw
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: C Green
+    - 2.5:
+        non_striker: MT Renshaw
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 2.6:
+        non_striker: C Green
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          kind: bowled
+    - 2.7:
+        non_striker: C Green
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 3.1:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 3.2:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 3.3:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 3.4:
+        non_striker: MP Stoinis
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 3.5:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 3.6:
+        non_striker: C Green
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 4.1:
+        non_striker: MP Stoinis
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 4.2:
+        non_striker: MP Stoinis
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 4.3:
+        non_striker: C Green
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 4.4:
+        non_striker: C Green
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 4.5:
+        non_striker: C Green
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 4.6:
+        non_striker: C Green
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 5.1:
+        non_striker: MP Stoinis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 5.2:
+        non_striker: C Green
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 5.3:
+        non_striker: MP Stoinis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 5.4:
+        non_striker: MP Stoinis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 5.5:
+        non_striker: MP Stoinis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 5.6:
+        non_striker: C Green
+        bowler: Naseem Shah
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MP Stoinis
+    - 5.7:
+        non_striker: MP Stoinis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 6.1:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 6.2:
+        non_striker: MP Stoinis
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 6.3:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.4:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 6.5:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 6.6:
+        non_striker: MP Stoinis
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 7.1:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 7.2:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.3:
+        non_striker: MP Stoinis
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 7.4:
+        non_striker: MP Stoinis
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 7.5:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.6:
+        non_striker: MP Stoinis
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 8.1:
+        non_striker: MP Stoinis
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 8.2:
+        non_striker: MP Stoinis
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 8.3:
+        non_striker: MP Stoinis
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 8.4:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.5:
+        non_striker: C Green
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.6:
+        non_striker: MP Stoinis
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 9.1:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          kind: bowled
+    - 9.2:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 9.3:
+        non_striker: C Green
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 9.4:
+        non_striker: JR Philippe
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 9.5:
+        non_striker: JR Philippe
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 9.6:
+        non_striker: JR Philippe
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+        wicket:
+          player_out: C Green
+          kind: bowled
+    - 10.1:
+        non_striker: MJ Owen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 10.2:
+        non_striker: JR Philippe
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 10.3:
+        non_striker: JR Philippe
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 10.4:
+        non_striker: MJ Owen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 10.5:
+        non_striker: JR Philippe
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 10.6:
+        non_striker: MJ Owen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 11.1:
+        non_striker: MJ Owen
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 11.2:
+        non_striker: MJ Owen
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 11.3:
+        non_striker: MJ Owen
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 11.4:
+        non_striker: JR Philippe
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Owen
+    - 11.5:
+        non_striker: JR Philippe
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 11.6:
+        non_striker: JR Philippe
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 12.1:
+        non_striker: MJ Owen
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 12.2:
+        non_striker: MJ Owen
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 12.3:
+        non_striker: MJ Owen
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 12.4:
+        non_striker: JR Philippe
+        bowler: Abrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Owen
+    - 12.5:
+        non_striker: MJ Owen
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 12.6:
+        non_striker: MJ Owen
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 13.1:
+        non_striker: JR Philippe
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 13.2:
+        non_striker: MJ Owen
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 13.3:
+        non_striker: MJ Owen
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          fielders:
+          - Sahibzada Farhan (sub)
+          kind: caught
+    - 13.4:
+        non_striker: MJ Owen
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 13.5:
+        non_striker: MJ Owen
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          fielders:
+          - Khawaja Nafay
+          kind: stumped
+    - 13.6:
+        non_striker: MJ Owen
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 14.1:
+        non_striker: MJ Owen
+        bowler: Abrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BJ Dwarshuis
+    - 14.2:
+        non_striker: BJ Dwarshuis
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 14.3:
+        non_striker: MJ Owen
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 14.4:
+        non_striker: BJ Dwarshuis
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+        wicket:
+          player_out: MJ Owen
+          kind: lbw
+    - 14.5:
+        non_striker: BJ Dwarshuis
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 14.6:
+        non_striker: BJ Dwarshuis
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 15.1:
+        non_striker: BJ Dwarshuis
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 15.2:
+        non_striker: MP Kuhnemann
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 15.3:
+        non_striker: BJ Dwarshuis
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Kuhnemann
+    - 15.4:
+        non_striker: BJ Dwarshuis
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 15.5:
+        non_striker: BJ Dwarshuis
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 15.6:
+        non_striker: MP Kuhnemann
+        bowler: Faheem Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 16.1:
+        non_striker: MP Kuhnemann
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Dwarshuis
+    - 16.2:
+        non_striker: MP Kuhnemann
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+    - 16.3:
+        non_striker: MP Kuhnemann
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Dwarshuis
+    - 16.4:
+        non_striker: BJ Dwarshuis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 16.5:
+        non_striker: BJ Dwarshuis
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+        wicket:
+          player_out: MP Kuhnemann
+          fielders:
+          - Fakhar Zaman
+          kind: caught

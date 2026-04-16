@@ -1,0 +1,2140 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Abuja
+  dates:
+  - '2025-12-04'
+  gender: male
+  match_type: T20
+  match_type_number: 3602
+  outcome:
+    winner: Nigeria
+    by:
+      runs: 19
+  overs: 20
+  player_of_match:
+  - P Useni
+  players:
+    Nigeria:
+    - Sulaimon Runsewe
+    - Selim Salau
+    - D Ajekun
+    - I Danladi
+    - SA Okpe
+    - VD Adewoye
+    - P Useni
+    - IO Okpe
+    - E Ndubudem
+    - O Isiyaku
+    - Joshua Asia
+    Zambia:
+    - Shahnawaz Patel
+    - Mohammad Bhaidu
+    - Jakir Patel
+    - JV Chand
+    - Mohmedazim Abbasbhai
+    - Muhammad Asim
+    - L Mutale
+    - Ayaz Dadabhai
+    - Javid Patel
+    - Soyeb Pendi
+    - Aslam Bera
+  registry:
+    people:
+      A Modupe: c2e27b71
+      Aslam Bera: bf50e8de
+      Ayaz Dadabhai: 5c658441
+      D Ajekun: 2494ff9e
+      E Ndubudem: f3e65a4b
+      Habib Enesi: fb35ab1f
+      I Danladi: c156cc1f
+      IO Okpe: 1c5c3dce
+      JV Chand: 59bff8c7
+      Jakir Patel: 82b1e99f
+      Javid Patel: '06989091'
+      Joshua Asia: c4ecc42c
+      Kehinde Olanbiwonnu: e7e9f2cd
+      L Mutale: 754b6bd9
+      Mohammad Bhaidu: 6d1c88a4
+      Mohmedazim Abbasbhai: 175d3d9f
+      Muhammad Asim: 8ba04532
+      O Isiyaku: 4a0a532f
+      P Useni: 71fa64d6
+      SA Okpe: 681f522f
+      Selim Salau: d18d3a0f
+      Shahnawaz Patel: aa86d9d4
+      Soyeb Pendi: 8d646b49
+      Sulaimon Runsewe: c25d26dc
+      Tonye Timinadi: 5cc0fccb
+      VD Adewoye: 45a34a2d
+  teams:
+  - Nigeria
+  - Zambia
+  toss:
+    winner: Zambia
+    decision: field
+  umpires:
+  - A Modupe
+  - Kehinde Olanbiwonnu
+  venue: Nigeria Cricket Federation Oval 1, Abuja
+innings:
+- 1st innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Selim Salau
+        batsman: Sulaimon Runsewe
+    - 0.2:
+        non_striker: Sulaimon Runsewe
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Selim Salau
+    - 0.3:
+        non_striker: Selim Salau
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 0.4:
+        non_striker: Sulaimon Runsewe
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Selim Salau
+    - 0.5:
+        non_striker: Selim Salau
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 0.6:
+        non_striker: Selim Salau
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+        wicket:
+          player_out: Sulaimon Runsewe
+          kind: lbw
+    - 1.1:
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Ajekun
+        batsman: Selim Salau
+    - 1.2:
+        non_striker: Selim Salau
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 1.3:
+        non_striker: Selim Salau
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ajekun
+    - 1.4:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+    - 1.5:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Selim Salau
+    - 1.6:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+    - 2.1:
+        non_striker: Selim Salau
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Ajekun
+    - 2.2:
+        non_striker: Selim Salau
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ajekun
+    - 2.3:
+        non_striker: D Ajekun
+        bowler: Soyeb Pendi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Selim Salau
+    - 2.4:
+        non_striker: D Ajekun
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+    - 2.5:
+        non_striker: D Ajekun
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Selim Salau
+    - 2.6:
+        non_striker: D Ajekun
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+    - 2.7:
+        non_striker: D Ajekun
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Selim Salau
+    - 3.1:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Selim Salau
+    - 3.2:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Selim Salau
+    - 3.3:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+    - 3.4:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Selim Salau
+        wicket:
+          player_out: Selim Salau
+          fielders:
+          - JV Chand
+          kind: caught
+    - 3.5:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 3.6:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 4.1:
+        non_striker: D Ajekun
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Danladi
+    - 4.2:
+        non_striker: D Ajekun
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 4.3:
+        non_striker: I Danladi
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 4.4:
+        non_striker: I Danladi
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+    - 4.5:
+        non_striker: I Danladi
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ajekun
+    - 4.6:
+        non_striker: D Ajekun
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 5.1:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Danladi
+    - 5.2:
+        non_striker: D Ajekun
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 5.3:
+        non_striker: I Danladi
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ajekun
+        wicket:
+          player_out: D Ajekun
+          fielders:
+          - Mohammad Bhaidu
+          kind: caught
+    - 5.4:
+        non_striker: I Danladi
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 5.5:
+        non_striker: I Danladi
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Okpe
+    - 5.6:
+        non_striker: I Danladi
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 6.1:
+        non_striker: SA Okpe
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 6.2:
+        non_striker: I Danladi
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 6.3:
+        non_striker: SA Okpe
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 6.4:
+        non_striker: I Danladi
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 6.5:
+        non_striker: SA Okpe
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Danladi
+    - 6.6:
+        non_striker: SA Okpe
+        bowler: Ayaz Dadabhai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 7.1:
+        non_striker: I Danladi
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Okpe
+    - 7.2:
+        non_striker: I Danladi
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 7.3:
+        non_striker: I Danladi
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 7.4:
+        non_striker: SA Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Danladi
+    - 7.5:
+        non_striker: SA Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 7.6:
+        non_striker: I Danladi
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 8.1:
+        non_striker: I Danladi
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 8.2:
+        non_striker: I Danladi
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Okpe
+    - 8.3:
+        non_striker: I Danladi
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 8.4:
+        non_striker: I Danladi
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Okpe
+    - 8.5:
+        non_striker: I Danladi
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 8.6:
+        non_striker: SA Okpe
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 9.1:
+        non_striker: I Danladi
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 9.2:
+        non_striker: SA Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Danladi
+    - 9.3:
+        non_striker: SA Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 9.4:
+        non_striker: I Danladi
+        bowler: Javid Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Okpe
+    - 9.5:
+        non_striker: I Danladi
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Okpe
+    - 9.6:
+        non_striker: I Danladi
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 9.7:
+        non_striker: I Danladi
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 10.1:
+        non_striker: I Danladi
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 10.2:
+        non_striker: I Danladi
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 10.3:
+        non_striker: SA Okpe
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Danladi
+    - 10.4:
+        non_striker: SA Okpe
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 10.5:
+        non_striker: SA Okpe
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 10.6:
+        non_striker: I Danladi
+        bowler: JV Chand
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 11.1:
+        non_striker: SA Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Danladi
+    - 11.2:
+        non_striker: SA Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+        wicket:
+          player_out: I Danladi
+          fielders:
+          - Aslam Bera
+          kind: caught
+    - 11.3:
+        non_striker: SA Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 11.4:
+        non_striker: SA Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 11.5:
+        non_striker: SA Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VD Adewoye
+    - 11.6:
+        non_striker: VD Adewoye
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 12.1:
+        non_striker: SA Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 12.2:
+        non_striker: SA Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 12.3:
+        non_striker: SA Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VD Adewoye
+    - 12.4:
+        non_striker: SA Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VD Adewoye
+    - 12.5:
+        non_striker: VD Adewoye
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 12.6:
+        non_striker: SA Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VD Adewoye
+    - 13.1:
+        non_striker: SA Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VD Adewoye
+    - 13.2:
+        non_striker: SA Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+        wicket:
+          player_out: VD Adewoye
+          fielders:
+          - Soyeb Pendi
+          kind: caught
+    - 13.3:
+        non_striker: SA Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 13.4:
+        non_striker: P Useni
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+        wicket:
+          player_out: SA Okpe
+          fielders:
+          - Ayaz Dadabhai
+          kind: caught
+    - 13.5:
+        non_striker: P Useni
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 13.6:
+        non_striker: IO Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Useni
+    - 14.1:
+        non_striker: IO Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+    - 14.2:
+        non_striker: IO Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Useni
+    - 14.3:
+        non_striker: IO Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+    - 14.4:
+        non_striker: IO Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Useni
+    - 14.5:
+        non_striker: IO Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Useni
+        wicket:
+          player_out: P Useni
+          kind: bowled
+    - 14.6:
+        non_striker: IO Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ndubudem
+    - 14.7:
+        non_striker: IO Okpe
+        bowler: Javid Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ndubudem
+    - 15.1:
+        non_striker: E Ndubudem
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 15.2:
+        non_striker: E Ndubudem
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 15.3:
+        non_striker: IO Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ndubudem
+    - 15.4:
+        non_striker: IO Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Ndubudem
+    - 15.5:
+        non_striker: IO Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Ndubudem
+    - 15.6:
+        non_striker: IO Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ndubudem
+    - 16.1:
+        non_striker: E Ndubudem
+        bowler: Soyeb Pendi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IO Okpe
+    - 16.2:
+        non_striker: E Ndubudem
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 16.3:
+        non_striker: IO Okpe
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Ndubudem
+        wicket:
+          player_out: E Ndubudem
+          fielders:
+          - Mohammad Bhaidu
+          kind: caught
+    - 16.4:
+        non_striker: IO Okpe
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 16.5:
+        non_striker: IO Okpe
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 16.6:
+        non_striker: IO Okpe
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 16.7:
+        non_striker: IO Okpe
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Isiyaku
+    - 17.1:
+        non_striker: IO Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Isiyaku
+    - 17.2:
+        non_striker: O Isiyaku
+        bowler: Muhammad Asim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IO Okpe
+    - 17.3:
+        non_striker: O Isiyaku
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IO Okpe
+    - 17.4:
+        non_striker: O Isiyaku
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IO Okpe
+    - 17.5:
+        non_striker: O Isiyaku
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 17.6:
+        non_striker: O Isiyaku
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 17.7:
+        non_striker: IO Okpe
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Isiyaku
+    - 18.1:
+        non_striker: O Isiyaku
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 18.2:
+        non_striker: O Isiyaku
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 18.3:
+        non_striker: O Isiyaku
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 18.4:
+        non_striker: O Isiyaku
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IO Okpe
+    - 18.5:
+        non_striker: O Isiyaku
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 18.6:
+        non_striker: IO Okpe
+        bowler: Soyeb Pendi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Isiyaku
+    - 19.1:
+        non_striker: O Isiyaku
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IO Okpe
+    - 19.2:
+        non_striker: O Isiyaku
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 19.3:
+        non_striker: O Isiyaku
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IO Okpe
+    - 19.4:
+        non_striker: O Isiyaku
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IO Okpe
+    - 19.5:
+        non_striker: O Isiyaku
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IO Okpe
+    - 19.6:
+        non_striker: O Isiyaku
+        bowler: Aslam Bera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IO Okpe
+- 2nd innings:
+    team: Zambia
+    deliveries:
+    - 0.1:
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohammad Bhaidu
+        batsman: Shahnawaz Patel
+    - 0.2:
+        non_striker: Shahnawaz Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Bhaidu
+    - 0.3:
+        non_striker: Shahnawaz Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Bhaidu
+        wicket:
+          player_out: Mohammad Bhaidu
+          kind: bowled
+    - 0.4:
+        non_striker: Shahnawaz Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 0.5:
+        non_striker: Shahnawaz Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 0.6:
+        non_striker: Jakir Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahnawaz Patel
+        wicket:
+          player_out: Shahnawaz Patel
+          kind: bowled
+    - 1.1:
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JV Chand
+        batsman: Jakir Patel
+    - 1.2:
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JV Chand
+        batsman: Jakir Patel
+    - 1.3:
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JV Chand
+        batsman: Jakir Patel
+    - 1.4:
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JV Chand
+        batsman: Jakir Patel
+    - 1.5:
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JV Chand
+        batsman: Jakir Patel
+    - 1.6:
+        non_striker: JV Chand
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 2.1:
+        non_striker: Jakir Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 2.2:
+        non_striker: Jakir Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JV Chand
+    - 2.3:
+        non_striker: Jakir Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 2.4:
+        non_striker: Jakir Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 2.5:
+        non_striker: Jakir Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 2.6:
+        non_striker: Jakir Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 3.1:
+        non_striker: JV Chand
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jakir Patel
+    - 3.2:
+        non_striker: JV Chand
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jakir Patel
+    - 3.3:
+        non_striker: Jakir Patel
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 3.4:
+        non_striker: Jakir Patel
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JV Chand
+    - 3.5:
+        non_striker: Jakir Patel
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 3.6:
+        non_striker: JV Chand
+        bowler: E Ndubudem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jakir Patel
+    - 4.1:
+        non_striker: Jakir Patel
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 4.2:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+    - 4.3:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jakir Patel
+        wicket:
+          player_out: Jakir Patel
+          fielders:
+          - Joshua Asia
+          kind: caught
+    - 4.4:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohmedazim Abbasbhai
+    - 4.5:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohmedazim Abbasbhai
+    - 4.6:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohmedazim Abbasbhai
+    - 5.1:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohmedazim Abbasbhai
+    - 5.2:
+        non_striker: Mohmedazim Abbasbhai
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 5.3:
+        non_striker: Mohmedazim Abbasbhai
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 5.4:
+        non_striker: Mohmedazim Abbasbhai
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JV Chand
+    - 5.5:
+        non_striker: Mohmedazim Abbasbhai
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JV Chand
+    - 5.6:
+        non_striker: Mohmedazim Abbasbhai
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 6.1:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohmedazim Abbasbhai
+    - 6.2:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohmedazim Abbasbhai
+    - 6.3:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohmedazim Abbasbhai
+    - 6.4:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohmedazim Abbasbhai
+    - 6.5:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohmedazim Abbasbhai
+    - 6.6:
+        non_striker: Mohmedazim Abbasbhai
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 7.1:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohmedazim Abbasbhai
+    - 7.2:
+        non_striker: Mohmedazim Abbasbhai
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 7.3:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohmedazim Abbasbhai
+    - 7.4:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohmedazim Abbasbhai
+    - 7.5:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohmedazim Abbasbhai
+    - 7.6:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohmedazim Abbasbhai
+    - 8.1:
+        non_striker: Mohmedazim Abbasbhai
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 8.2:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohmedazim Abbasbhai
+    - 8.3:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohmedazim Abbasbhai
+        wicket:
+          player_out: Mohmedazim Abbasbhai
+          fielders:
+          - Sulaimon Runsewe
+          kind: caught
+    - 8.4:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+        wicket:
+          player_out: Muhammad Asim
+          kind: bowled
+    - 8.5:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Mutale
+    - 8.6:
+        non_striker: L Mutale
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 8.7:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mutale
+        wicket:
+          player_out: L Mutale
+          fielders:
+          - IO Okpe
+          kind: caught
+    - 9.1:
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayaz Dadabhai
+        batsman: JV Chand
+    - 9.2:
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayaz Dadabhai
+        batsman: JV Chand
+    - 9.3:
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ayaz Dadabhai
+        batsman: JV Chand
+    - 9.4:
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ayaz Dadabhai
+        batsman: JV Chand
+    - 9.5:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 9.6:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 10.1:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayaz Dadabhai
+    - 10.2:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 10.3:
+        non_striker: Ayaz Dadabhai
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JV Chand
+    - 10.4:
+        non_striker: Ayaz Dadabhai
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 10.5:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 10.6:
+        non_striker: Ayaz Dadabhai
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 10.7:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 11.1:
+        non_striker: Ayaz Dadabhai
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 11.2:
+        non_striker: Ayaz Dadabhai
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 11.3:
+        non_striker: Ayaz Dadabhai
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 11.4:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 11.5:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 11.6:
+        non_striker: JV Chand
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 12.1:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 12.2:
+        non_striker: Ayaz Dadabhai
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 12.3:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 12.4:
+        non_striker: Ayaz Dadabhai
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 12.5:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 12.6:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 13.1:
+        non_striker: JV Chand
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 13.2:
+        non_striker: JV Chand
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 13.3:
+        non_striker: Ayaz Dadabhai
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 13.4:
+        non_striker: JV Chand
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 13.5:
+        non_striker: Ayaz Dadabhai
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 13.6:
+        non_striker: JV Chand
+        bowler: Joshua Asia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ayaz Dadabhai
+    - 14.1:
+        non_striker: Ayaz Dadabhai
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 14.2:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayaz Dadabhai
+    - 14.3:
+        non_striker: Ayaz Dadabhai
+        bowler: VD Adewoye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JV Chand
+    - 14.4:
+        non_striker: Ayaz Dadabhai
+        bowler: VD Adewoye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JV Chand
+    - 14.5:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayaz Dadabhai
+    - 14.6:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+    - 14.7:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayaz Dadabhai
+    - 14.8:
+        non_striker: JV Chand
+        bowler: VD Adewoye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayaz Dadabhai
+        wicket:
+          player_out: Ayaz Dadabhai
+          fielders:
+          - Joshua Asia
+          kind: caught
+    - 15.1:
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Javid Patel
+        batsman: JV Chand
+    - 15.2:
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Javid Patel
+        batsman: JV Chand
+    - 15.3:
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Javid Patel
+        batsman: JV Chand
+    - 15.4:
+        non_striker: JV Chand
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javid Patel
+    - 15.5:
+        non_striker: Javid Patel
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JV Chand
+    - 15.6:
+        non_striker: Javid Patel
+        bowler: O Isiyaku
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 16.1:
+        non_striker: Javid Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+    - 16.2:
+        non_striker: Javid Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JV Chand
+    - 16.3:
+        non_striker: Javid Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 16.4:
+        non_striker: JV Chand
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javid Patel
+    - 16.5:
+        non_striker: Javid Patel
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 16.6:
+        non_striker: JV Chand
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javid Patel
+    - 17.1:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javid Patel
+    - 17.2:
+        non_striker: Javid Patel
+        bowler: IO Okpe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JV Chand
+    - 17.3:
+        non_striker: Javid Patel
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JV Chand
+    - 17.4:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javid Patel
+        wicket:
+          player_out: Javid Patel
+          fielders:
+          - Sulaimon Runsewe
+          kind: caught
+    - 17.5:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soyeb Pendi
+    - 17.6:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Soyeb Pendi
+    - 17.7:
+        non_striker: JV Chand
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soyeb Pendi
+    - 18.1:
+        non_striker: Soyeb Pendi
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JV Chand
+        wicket:
+          player_out: JV Chand
+          kind: bowled
+    - 18.2:
+        non_striker: Soyeb Pendi
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Bera
+    - 18.3:
+        non_striker: Soyeb Pendi
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aslam Bera
+    - 18.4:
+        non_striker: Aslam Bera
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soyeb Pendi
+    - 18.5:
+        non_striker: Soyeb Pendi
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Bera
+    - 18.6:
+        non_striker: Soyeb Pendi
+        bowler: P Useni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aslam Bera
+        wicket:
+          player_out: Aslam Bera
+          kind: lbw
