@@ -21,7 +21,7 @@ st.markdown("""
     /* Hide Streamlit Default Menu and Footer */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
-    header {visibility: hidden;}
+    /* header {visibility: hidden;} */
 
     /* Keyframe Animations */
     @keyframes fadeInSlide {
